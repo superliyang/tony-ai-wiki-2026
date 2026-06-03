@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Methodology"
+  short_description: "Turn domains into layered Obsidian study systems"
+  default_prompt: "Use $obsidian-learning-methodology to turn a domain into a layered Obsidian learning system with maps, progress memory, and ongoing maintenance."

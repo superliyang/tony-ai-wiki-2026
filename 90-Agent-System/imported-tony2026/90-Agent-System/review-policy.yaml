@@ -1,0 +1,30 @@
+version: 1
+
+review_ranking:
+  importance_multiplier: 10
+  action_weights:
+    merge-plan: 35
+    study: 25
+    review: 0
+    ignore: -30
+  topic_weights:
+    AI-Engineering: 5
+    Security: 5
+    AI-Open-Source: 4
+    Big-Data: 3
+    Cloud-Native: 2
+    Skills-Gaming: 2
+    English-Learning: 1
+    Others: 0
+  source_weights:
+    CISA Known Exploited Vulnerabilities: 7
+    GitHub Trending AI: 4
+    arXiv AI Agents: 4
+    AWS Security Blog: 4
+    OpenAI Blog: 3
+  decision_stability:
+    confirmation_runs: 2
+    observation_window: 3
+    protected_actions:
+      - study
+      - merge-plan

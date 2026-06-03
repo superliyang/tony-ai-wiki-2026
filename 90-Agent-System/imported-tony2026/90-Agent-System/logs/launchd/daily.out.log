@@ -1,0 +1,468 @@
+[daily] date=2026-05-23 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] items=7 warnings=0 output=90-Agent-System/logs/source-items-2026-05-23.json
+[classify] items=7 output=90-Agent-System/logs/classified-items-2026-05-23.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed: langgraph-sdk==0.3.15
+[semantic] analyzed: langgraph-checkpoint==4.1.1
+[semantic] analyzed: v1.15.9
+[semantic] analyzed=6 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-23.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-23.md
+[candidates] skip existing URL: https://www.anthropic.com/news
+[candidates] skip existing URL: https://api-docs.deepseek.com/updates
+[candidates] skip existing URL: https://flink.apache.org/posts/
+[candidates] skip existing URL: https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.3.15
+[candidates] skip existing URL: https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.1.1
+[candidates] skip existing URL: https://github.com/anomalyco/opencode/releases/tag/v1.15.9
+[candidates] created=0
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-23.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-23.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-23.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-23.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-23.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-23.md', 'candidates': 0, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-23.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-23.md', 'notified': True}
+[daily] date=2026-05-24 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=15 warnings=0 output=90-Agent-System/logs/source-items-2026-05-24.json
+[classify] items=15 output=90-Agent-System/logs/classified-items-2026-05-24.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: mukul975/Anthropic-Cybersecurity-Skills
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed: v1.87.0-rc.1
+[semantic] analyzed: v1.86.0
+[semantic] analyzed=6 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-24.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-24.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-mukul975-anthropic-cybersecurity-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=2 refreshed=4
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-24.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-24.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-24.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-24.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-24.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-24.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-24.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-24.md', 'candidates': 2, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-24.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-24.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-24.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-24.md', 'notified': True}
+[daily] date=2026-05-25 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=13 warnings=1 output=90-Agent-System/logs/source-items-2026-05-25.json
+WARNING: openai-blog: RSS fetch failed: HTTPSConnectionPool(host='openai.com', port=443): Read timed out.
+[classify] items=13 output=90-Agent-System/logs/classified-items-2026-05-25.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: mukul975/Anthropic-Cybersecurity-Skills
+[semantic] analyzed: microsoft/agent-governance-toolkit
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed=5 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-25.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-25.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-mukul975-anthropic-cybersecurity-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=1 refreshed=4
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-25.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-25.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-25.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-25.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-25.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-25.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-25.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-25.md', 'candidates': 1, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-25.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-25.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-25.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-25.md', 'notified': True}
+[daily] date=2026-05-26 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=17 warnings=0 output=90-Agent-System/logs/source-items-2026-05-26.json
+[classify] items=17 output=90-Agent-System/logs/classified-items-2026-05-26.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: mukul975/Anthropic-Cybersecurity-Skills
+[semantic] analyzed: microsoft/agent-governance-toolkit
+[semantic] analyzed: shareAI-lab/learn-claude-code
+[semantic] analyzed: dograh-hq/dograh
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed: DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking
+[semantic] analyzed=8 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-26.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-26.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-mukul975-anthropic-cybersecurity-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-25-microsoft-agent-governance-toolkit.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=6 refreshed=5
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-26.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-26.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-26.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-26.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-26.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-26.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-26.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-26.md', 'candidates': 6, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-26.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-26.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-26.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-26.md', 'notified': True}
+[daily] date=2026-05-27 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=22 warnings=2 output=90-Agent-System/logs/source-items-2026-05-27.json
+WARNING: github-opencode-releases: GitHub releases fetch failed: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/sst/opencode/releases
+WARNING: cisa-kev: CISA KEV fetch failed: HTTPSConnectionPool(host='www.cisa.gov', port=443): Max retries exceeded with url: /sites/default/files/feeds/known_exploited_vulnerabilities.json (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[classify] items=22 output=90-Agent-System/logs/classified-items-2026-05-27.json
+[semantic] analyzed: Building self-improving tax agents with Codex
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: mukul975/Anthropic-Cybersecurity-Skills
+[semantic] analyzed: dograh-hq/dograh
+[semantic] analyzed: agentscope-ai/agentscope
+[semantic] analyzed: Welcoming the AWS Customer Incident Response Team
+[semantic] analyzed: Well-architected best practices for software supply chain security
+[semantic] analyzed=8 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-27.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-27.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-mukul975-anthropic-cybersecurity-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-26-dograh-hq-dograh.md
+[candidates] skip existing URL: https://flink.apache.org/posts/
+[candidates] created=10 refreshed=4
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-27.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-27.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-27.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-27.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-27.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-27.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-27.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-27.md', 'candidates': 10, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-27.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-27.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-27.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-27.md', 'notified': True}
+[main 83c6fa0] chore: sync daily knowledge automation
+ Committer: tony <tony@tonylideMacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 37 files changed, 3839 insertions(+), 23 deletions(-)
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-26-automated-benchmark-auditing-for-ai-agents-and-large-language-models.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-26-causalab-a-scalable-environment-for-interactive-causal-discovery-toward-ai-scien.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-26-discoverphysics-benchmarking-llms-for-out-of-the-box-scientific-thinking.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-26-dograh-hq-dograh.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-26-shareai-lab-learn-claude-code.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-27-agentscope-ai-agentscope.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-27-building-self-improving-tax-agents-with-codex.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-27-finharness-an-inline-lifecycle-safety-harness-for-finance-llm-agents.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-27-genesis-harnessing-ai-agents-for-autonomous-6g-ran-synthesis-research-and-testin.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memory-management-and-eva.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-26-v1-86-1.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-27-langgraph-1-2-2.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-27-v1-85-2.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-27-v1-87-0-rc-2.md
+ create mode 100644 00-Agent-Inbox/Candidates/Cloud-Native/2026-05-27-welcoming-the-aws-customer-incident-response-team.md
+ create mode 100644 00-Agent-Inbox/Candidates/Security/2026-05-27-well-architected-best-practices-for-software-supply-chain-security.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-26.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-27.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-26.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-27.md
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-26.json
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-27.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-26.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-27.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-26.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-27.json
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-26.md
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-27.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-26.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-27.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-26.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-27.md
+[git-sync] pushed automated checkpoint to origin/main.
+[daily] date=2026-05-28 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=18 warnings=2 output=90-Agent-System/logs/source-items-2026-05-28.json
+WARNING: github-langgraph-releases: GitHub releases fetch failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/langchain-ai/langgraph/releases (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+WARNING: github-opencode-releases: GitHub releases fetch failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/sst/opencode/releases (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[classify] items=18 output=90-Agent-System/logs/classified-items-2026-05-28.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: OpenMOSS/MOSS-TTS
+[semantic] analyzed: anthropics/skills
+[semantic] analyzed: anthropics/claude-code
+[semantic] analyzed: mukul975/Anthropic-Cybersecurity-Skills
+[semantic] analyzed: How we built Cloudflare's data platform and an AI agent on top of it
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed=8 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-28.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-28.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-mukul975-anthropic-cybersecurity-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=7 refreshed=4
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-28.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-28.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-28.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-28.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-28.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-28.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-28.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-28.md', 'candidates': 7, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-28.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-28.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-28.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-28.md', 'notified': True}
+[daily] date=2026-05-29 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=15 warnings=4 output=90-Agent-System/logs/source-items-2026-05-29.json
+WARNING: openai-blog: RSS fetch failed: HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=20)
+WARNING: aws-security-blog: RSS fetch failed: HTTPSConnectionPool(host='aws.amazon.com', port=443): Max retries exceeded with url: /blogs/security/feed/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+WARNING: github-opencode-releases: GitHub releases fetch failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/sst/opencode/releases (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+WARNING: cisa-alerts: RSS fetch failed: HTTPSConnectionPool(host='www.cisa.gov', port=443): Max retries exceeded with url: /news.xml (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[classify] items=15 output=90-Agent-System/logs/classified-items-2026-05-29.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: anthropics/claude-code
+[semantic] analyzed: galilai-group/stable-worldmodel
+[semantic] analyzed: anthropics/skills
+[semantic] analyzed: zakirkun/deep-eye
+[semantic] analyzed: GH05TCREW/pentestagent
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed=8 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-29.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-29.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-claude-code.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=5 refreshed=5
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-29.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-29.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-29.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-29.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-29.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-29.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-29.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-29.md', 'candidates': 5, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-29.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-29.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-29.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-29.md', 'notified': True}
+[daily] date=2026-05-30 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=14 warnings=1 output=90-Agent-System/logs/source-items-2026-05-30.json
+WARNING: arxiv-ai-agents: RSS fetch failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)
+[classify] items=14 output=90-Agent-System/logs/classified-items-2026-05-30.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: anthropics/claude-code
+[semantic] analyzed: galilai-group/stable-worldmodel
+[semantic] analyzed: OpenMOSS/MOSS-TTS
+[semantic] analyzed: anthropics/skills
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed=7 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-30.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-30.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-claude-code.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-29-galilai-group-stable-worldmodel.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-28-openmoss-moss-tts.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=0 refreshed=7
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-30.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-30.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-30.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-30.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-30.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-30.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-30.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-30.md', 'candidates': 0, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-30.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-30.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-30.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-30.md', 'notified': True}
+[main a80a741] chore: sync daily knowledge automation
+ Committer: tony <tony@tonylideMacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 40 files changed, 4379 insertions(+), 29 deletions(-)
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-claude-code.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-skills.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-how-we-built-cloudflare-s-data-platform-and-an-ai-agent-on-top-of-it.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-rethinking-memory-as-continuously-evolving-connectivity.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-swarmharness-skill-based-task-routing-via-decentralized-incentive-aligned-ai-age.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-29-galilai-group-stable-worldmodel.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-29-gh05tcrew-pentestagent.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-29-v1-88-0-dev-1.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-29-zakirkun-deep-eye.md
+ create mode 100644 00-Agent-Inbox/Candidates/Big-Data/2026-05-28-openmoss-moss-tts.md
+ create mode 100644 00-Agent-Inbox/Candidates/Security/2026-05-28-personal-visual-memory-from-explicit-and-implicit-evidence.md
+ create mode 100644 00-Agent-Inbox/Candidates/Security/2026-05-29-cve-2026-0257-palo-alto-networks-pan-os.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-28.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-29.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-30.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-28.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-29.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-30.md
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-28.json
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-29.json
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-30.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-28.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-29.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-30.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-28.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-29.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-30.json
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-28.md
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-29.md
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-30.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-28.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-29.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-30.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-28.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-29.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-30.md
+[git-sync] pushed automated checkpoint to origin/main.
+[daily] date=2026-05-31 days=1 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=16 warnings=0 output=90-Agent-System/logs/source-items-2026-05-31.json
+[classify] items=16 output=90-Agent-System/logs/classified-items-2026-05-31.json
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: nesquena/hermes-webui
+[semantic] analyzed: anthropics/claude-code
+[semantic] analyzed: galilai-group/stable-worldmodel
+[semantic] analyzed: Flink Blog | Apache Flink
+[semantic] analyzed: v1.88.0-rc.1
+[semantic] analyzed: v1.84.4
+[semantic] analyzed=8 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-05-31.json
+[digest] mode=daily output=00-Agent-Inbox/Daily-Digests/2026-05-31.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-28-anthropics-claude-code.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-29-galilai-group-stable-worldmodel.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Big-Data/2026-05-23-flink-blog-apache-flink.md
+[candidates] created=4 refreshed=5
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-31.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-05-31.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-05-31.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-31.md broken=0
+[notify:feishu] sent
+[daily] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-05-31.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-05-31.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-05-31.json', 'digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Daily-Digests/2026-05-31.md', 'candidates': 4, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-31.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-05-31.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-05-31.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-31.md', 'notified': True}
+[main 0e826d6] chore: sync daily knowledge automation
+ Committer: tony <tony@tonylideMacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 17 files changed, 1504 insertions(+), 41 deletions(-)
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-31-nesquena-hermes-webui.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-31-v1-84-4.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-31-v1-88-0-rc-1.md
+ create mode 100644 00-Agent-Inbox/Candidates/Cloud-Native/2026-05-31-v1-15-13.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-31.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-31.md
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-31.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-31.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-31.json
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-31.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-31.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-31.md
+[git-sync] pushed automated checkpoint to origin/main.

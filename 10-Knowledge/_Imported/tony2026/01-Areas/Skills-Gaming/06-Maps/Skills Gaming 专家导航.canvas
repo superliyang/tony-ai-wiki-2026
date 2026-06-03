@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "text",
+      "text": "# Skills Gaming 专家导航\n- [[专题总览]]\n- [[Skills Gaming 专家导航.base|Skills Gaming 专家导航（Base）]]\n- 先理解赛道，再理解玩法，再理解信任与前沿技术\n- 最终回到 Hackathon Game 项目包",
+      "x": 360,
+      "y": -520,
+      "width": 560,
+      "height": 240,
+      "color": "6"
+    },
+    {
+      "id": "market",
+      "type": "text",
+      "text": "# 赛道\n- [[../01-Market/欧美 Skills Gaming 市场与竞品格局|欧美 Skills Gaming 市场与竞品格局]]\n- [[../05-Topics/Skills Gaming 的商业模型与关键指标|商业模型与关键指标]]\n- [[../02-Companies/公司索引|公司索引]]",
+      "x": -700,
+      "y": -80,
+      "width": 360,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "design",
+      "type": "text",
+      "text": "# 玩法与体验\n- [[../05-Topics/适合 Skills Gaming 的玩法原型|玩法原型]]\n- [[../05-Topics/Game Feel、Onboarding 与 First Match Design|Game Feel、Onboarding 与 First Match Design]]\n- [[../05-Topics/Session Pacing、Replayability 与 Skill Expression|Session Pacing、Replayability 与 Skill Expression]]",
+      "x": -160,
+      "y": -80,
+      "width": 420,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "trust",
+      "type": "text",
+      "text": "# 信任与系统\n- [[../04-Systems/Tournament、Matchmaking 与 Fairness|Tournament、Matchmaking 与 Fairness]]\n- [[../04-Systems/Score Submission、Fairness Validation 与 Replayability|Score Submission、Fairness Validation 与 Replayability]]\n- [[../05-Topics/Skills Gaming 的失败模式、争议与 Anti-Cheat 复盘|失败模式、争议与 Anti-Cheat 复盘]]",
+      "x": 420,
+      "y": -80,
+      "width": 460,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "frontier",
+      "type": "text",
+      "text": "# 前沿技术\n- [[../05-Topics/前沿游戏技术全景：AI、LiveOps、Realtime 与创作者工具|前沿游戏技术全景]]\n- [[../04-Systems/Unity Gaming Services（UGS）|UGS]]\n- [[../04-Systems/PlayFab|PlayFab]]\n- [[../04-Systems/Photon Fusion 与 Realtime|Photon Fusion 与 Realtime]]\n- [[../06-Maps/AI 原生游戏制作技术图|AI 原生游戏制作技术图]]",
+      "x": 1020,
+      "y": -80,
+      "width": 440,
+      "height": 280,
+      "color": "3"
+    },
+    {
+      "id": "expert",
+      "type": "text",
+      "text": "# 专家成长\n- [[../05-Topics/成为 Skills Gaming 专家的能力闭环|专家能力闭环]]\n- [[../08-Playbooks/从知识框架到 Skills Gaming 专家的 90 天路径|90 天路径]]\n- [[Skills Gaming 专家成长与前沿技术图]]",
+      "x": 120,
+      "y": 280,
+      "width": 420,
+      "height": 220,
+      "color": "1"
+    },
+    {
+      "id": "project",
+      "type": "text",
+      "text": "# 项目落地\n- [[../10-Projects/Hackathon Game/项目总览|Hackathon Game 项目总览]]\n- [[../10-Projects/Hackathon Game/推荐方向：Word Sprint Duel V1|Word Sprint Duel V1]]\n- [[../10-Projects/Hackathon Game/多工具协作节奏与交接约定|多工具协作节奏与交接约定]]",
+      "x": 700,
+      "y": 280,
+      "width": 480,
+      "height": 230,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "market",
+      "toSide": "top",
+      "label": "先懂赛道"
+    },
+    {
+      "id": "e2",
+      "fromNode": "market",
+      "fromSide": "right",
+      "toNode": "design",
+      "toSide": "left",
+      "label": "再懂玩法"
+    },
+    {
+      "id": "e3",
+      "fromNode": "design",
+      "fromSide": "right",
+      "toNode": "trust",
+      "toSide": "left",
+      "label": "再懂公平与信任"
+    },
+    {
+      "id": "e4",
+      "fromNode": "trust",
+      "fromSide": "right",
+      "toNode": "frontier",
+      "toSide": "left",
+      "label": "再懂技术取舍"
+    },
+    {
+      "id": "e5",
+      "fromNode": "frontier",
+      "fromSide": "bottom",
+      "toNode": "project",
+      "toSide": "top",
+      "label": "落到项目"
+    },
+    {
+      "id": "e6",
+      "fromNode": "design",
+      "fromSide": "bottom",
+      "toNode": "expert",
+      "toSide": "top",
+      "label": "形成判断力"
+    },
+    {
+      "id": "e7",
+      "fromNode": "expert",
+      "fromSide": "right",
+      "toNode": "project",
+      "toSide": "left",
+      "label": "把知识变成作品"
+    }
+  ]
+}

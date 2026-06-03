@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: 子域总览
+    filters:
+      and:
+        - file.hasTag("ai/topic")
+        - any:
+            - file.name == "提示词工程"
+            - file.name == "上下文工程"
+            - file.name == "Agent 动作面：Tools、CLI、MCP、Browser 与 Apps"
+            - file.name == "Agent 扩展面：Skills、Plugins、Hooks 与 Automations"
+            - file.name == "从提示词到 Harness：Agent 能力的渐进式主线"
+            - file.name == "Harness Engineering"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC

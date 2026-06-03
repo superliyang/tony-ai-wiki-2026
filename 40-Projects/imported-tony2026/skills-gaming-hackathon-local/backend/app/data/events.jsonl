@@ -1,0 +1,101 @@
+{"event_name": "smoke_test", "player_id": "smoke", "match_id": "match-smoke-1774696606", "emitted_at": "2026-03-28T11:16:46Z", "payload": {"source": "smoke_script"}}
+{"event_name": "smoke_test", "player_id": "smoke", "match_id": "match-smoke-1774698412", "emitted_at": "2026-03-28T11:46:52Z", "payload": {"source": "smoke_script"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T11:52:31.702000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T11:52:33.305000Z", "payload": {}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774698753312", "emitted_at": "2026-03-28T11:52:33.312000Z", "payload": {"duration_seconds": 45}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774698753312", "emitted_at": "2026-03-28T11:53:18.315000Z", "payload": {"correct": 5, "errors": 0, "streak_bonus": 10}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774698753312", "emitted_at": "2026-03-28T11:53:18.325000Z", "payload": {"total_score": 60}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774698753312", "emitted_at": "2026-03-28T11:53:18.330000Z", "payload": {"outcome": "win", "total_score": 60}}
+{"event_name": "rematch_clicked", "player_id": "local-player", "match_id": "match-1774698753312", "emitted_at": "2026-03-28T11:53:21.972000Z", "payload": {}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774698801979", "emitted_at": "2026-03-28T11:53:21.979000Z", "payload": {"duration_seconds": 45}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774698801979", "emitted_at": "2026-03-28T11:54:06.981000Z", "payload": {"correct": 0, "errors": 0, "streak_bonus": 0}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774698801979", "emitted_at": "2026-03-28T11:54:06.994000Z", "payload": {"total_score": 0}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774698801979", "emitted_at": "2026-03-28T11:54:07.002000Z", "payload": {"outcome": "loss", "total_score": 0}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:13:09.285000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:13:10.197000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774699990205", "emitted_at": "2026-03-28T12:13:10.206000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774699990205", "emitted_at": "2026-03-28T12:13:10.207000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "selection_miss", "player_id": "local-player", "match_id": "match-1774699990205", "emitted_at": "2026-03-28T12:13:19.045000Z", "payload": {"board_id": "alpha", "attempted_word": "SWIF", "error_count": 1}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774699990205", "emitted_at": "2026-03-28T12:14:10.209000Z", "payload": {"words_found": 0, "errors": 1, "streak_bonus": 0, "best_streak": 0}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774699990205", "emitted_at": "2026-03-28T12:14:10.217000Z", "payload": {"total_score": -2}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774699990205", "emitted_at": "2026-03-28T12:14:10.225000Z", "payload": {"outcome": "loss", "total_score": -2}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:26:05.832000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:26:06.636000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774700766643", "emitted_at": "2026-03-28T12:26:06.644000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774700766643", "emitted_at": "2026-03-28T12:26:06.645000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "selection_miss", "player_id": "local-player", "match_id": "match-1774700766643", "emitted_at": "2026-03-28T12:26:18.816000Z", "payload": {"board_id": "alpha", "attempted_word": "SWIF", "error_count": 1}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774700766643", "emitted_at": "2026-03-28T12:27:08.026000Z", "payload": {"words_found": 0, "errors": 1, "streak_bonus": 0, "best_streak": 0}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774700766643", "emitted_at": "2026-03-28T12:27:08.047000Z", "payload": {"total_score": -2}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774700766643", "emitted_at": "2026-03-28T12:27:08.071000Z", "payload": {"outcome": "loss", "total_score": -2}}
+{"event_name": "smoke_test", "player_id": "smoke", "match_id": "match-smoke-1774701069", "emitted_at": "2026-03-28T12:31:09Z", "payload": {"source": "smoke_script"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:37:36.511000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:37:37.417000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774701457422", "emitted_at": "2026-03-28T12:37:37.423000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774701457422", "emitted_at": "2026-03-28T12:37:37.423000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "selection_miss", "player_id": "local-player", "match_id": "match-1774701457422", "emitted_at": "2026-03-28T12:37:41.071000Z", "payload": {"board_id": "alpha", "attempted_word": "SWIF", "error_count": 1}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774701457422", "emitted_at": "2026-03-28T12:38:37.424000Z", "payload": {"words_found": 0, "errors": 1, "streak_bonus": 0, "best_streak": 0}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774701457422", "emitted_at": "2026-03-28T12:38:37.435000Z", "payload": {"total_score": -2}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774701457422", "emitted_at": "2026-03-28T12:38:37.441000Z", "payload": {"outcome": "loss", "total_score": -2}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:43:09.594000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:43:09.617000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774701789623", "emitted_at": "2026-03-28T12:43:09.624000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774701789623", "emitted_at": "2026-03-28T12:43:09.624000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "word_found", "player_id": "local-player", "match_id": "match-1774701789623", "emitted_at": "2026-03-28T12:43:10Z", "payload": {"board_id": "alpha", "word": "SWIFT", "streak": 1, "words_found_total": 1}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:43:31.488000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:43:31.511000Z", "payload": {}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774701811515", "emitted_at": "2026-03-28T12:43:31.516000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774701811515", "emitted_at": "2026-03-28T12:43:31.516000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "word_found", "player_id": "local-player", "match_id": "match-1774701811515", "emitted_at": "2026-03-28T12:43:31.891000Z", "payload": {"board_id": "alpha", "word": "SWIFT", "streak": 1, "words_found_total": 1}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:49:34.028000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:49:34.075000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774702174080", "emitted_at": "2026-03-28T12:49:34.080000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774702174080", "emitted_at": "2026-03-28T12:49:34.080000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "word_found", "player_id": "local-player", "match_id": "match-1774702174080", "emitted_at": "2026-03-28T12:49:34.456000Z", "payload": {"board_id": "alpha", "word": "SWIFT", "streak": 1, "words_found_total": 1}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:50:36.391000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:50:36.421000Z", "payload": {}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774702236431", "emitted_at": "2026-03-28T12:50:36.431000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774702236431", "emitted_at": "2026-03-28T12:50:36.431000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "word_found", "player_id": "local-player", "match_id": "match-1774702236431", "emitted_at": "2026-03-28T12:50:36.806000Z", "payload": {"board_id": "alpha", "word": "SWIFT", "streak": 1, "words_found_total": 1}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774702236431", "emitted_at": "2026-03-28T12:50:39.434000Z", "payload": {"words_found": 1, "errors": 0, "streak_bonus": 0, "best_streak": 1}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774702236431", "emitted_at": "2026-03-28T12:50:39.442000Z", "payload": {"total_score": 10}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774702236431", "emitted_at": "2026-03-28T12:50:39.445000Z", "payload": {"outcome": "loss", "total_score": 10}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:53:49.760000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T12:53:49.779000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774702429786", "emitted_at": "2026-03-28T12:53:49.786000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774702429786", "emitted_at": "2026-03-28T12:53:49.786000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "word_found", "player_id": "local-player", "match_id": "match-1774702429786", "emitted_at": "2026-03-28T12:53:50.162000Z", "payload": {"board_id": "alpha", "word": "SWIFT", "streak": 1, "words_found_total": 1}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774702429786", "emitted_at": "2026-03-28T12:53:52.789000Z", "payload": {"words_found": 1, "errors": 0, "streak_bonus": 0, "best_streak": 1}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774702429786", "emitted_at": "2026-03-28T12:53:52.795000Z", "payload": {"total_score": 10}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774702429786", "emitted_at": "2026-03-28T12:53:52.799000Z", "payload": {"outcome": "loss", "total_score": 10}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T13:42:51.831000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T13:42:53.059000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774705373066", "emitted_at": "2026-03-28T13:42:53.068000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774705373066", "emitted_at": "2026-03-28T13:42:53.068000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T13:59:03.950000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T13:59:05.007000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774706345015", "emitted_at": "2026-03-28T13:59:05.016000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774706345015", "emitted_at": "2026-03-28T13:59:05.017000Z", "payload": {"duration_seconds": 60, "mode": "word_search_duel"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:17:27.851000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:17:27.895000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774707447902", "emitted_at": "2026-03-28T14:17:27.902000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774707447902", "emitted_at": "2026-03-28T14:17:27.903000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:18:26.300000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:18:26.345000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774707506352", "emitted_at": "2026-03-28T14:18:26.352000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774707506352", "emitted_at": "2026-03-28T14:18:26.352000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:19:21.329000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:19:21.361000Z", "payload": {}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774707561369", "emitted_at": "2026-03-28T14:19:21.369000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774707561369", "emitted_at": "2026-03-28T14:19:21.369000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:21:23.816000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:21:23.836000Z", "payload": {}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774707683843", "emitted_at": "2026-03-28T14:21:23.844000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774707683843", "emitted_at": "2026-03-28T14:21:23.843000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "tutorial_start", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:22:06.799000Z", "payload": {}}
+{"event_name": "tutorial_complete", "player_id": "local-player", "match_id": null, "emitted_at": "2026-03-28T14:22:06.819000Z", "payload": {}}
+{"event_name": "match_start", "player_id": "local-player", "match_id": "match-1774707726826", "emitted_at": "2026-03-28T14:22:06.827000Z", "payload": {"duration_seconds": 3, "mode": "word_search_duel"}}
+{"event_name": "board_loaded", "player_id": "local-player", "match_id": "match-1774707726826", "emitted_at": "2026-03-28T14:22:06.827000Z", "payload": {"board_id": "alpha", "board_name": "Board Alpha"}}
+{"event_name": "word_found", "player_id": "local-player", "match_id": "match-1774707726826", "emitted_at": "2026-03-28T14:22:08.834000Z", "payload": {"board_id": "alpha", "word": "SWIFT", "streak": 1, "words_found_total": 1}}
+{"event_name": "match_end", "player_id": "local-player", "match_id": "match-1774707726826", "emitted_at": "2026-03-28T14:22:11.355000Z", "payload": {"words_found": 1, "errors": 0, "streak_bonus": 0, "best_streak": 1}}
+{"event_name": "score_submitted", "player_id": "local-player", "match_id": "match-1774707726826", "emitted_at": "2026-03-28T14:22:11.363000Z", "payload": {"total_score": 10}}
+{"event_name": "result_received", "player_id": "local-player", "match_id": "match-1774707726826", "emitted_at": "2026-03-28T14:22:11.366000Z", "payload": {"outcome": "loss", "total_score": 10}}

@@ -1,0 +1,1142 @@
+{
+  "generated_at": "2026-05-25T21:50:49+00:00",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "input": "90-Agent-System/logs/classified-items-2026-W22.json",
+  "analyzed_items": 8,
+  "warnings": [],
+  "items": [
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "raw_text": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 8
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Codex, Agent, Coding Agent",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Enterprise AI Coding Agents",
+        "learning_value": "值得学习 Gartner 对 AI coding agent 的企业级评估标准，以及 OpenAI Codex 在创新和规模化部署方面的优势，可帮助理解行业趋势和竞争格局。",
+        "vault_relationship": "{'topic': 'AI-Engineering', 'relation': '补充现有专题'}",
+        "suggested_action": "review",
+        "reason": "与 AI-Engineering 主线直接相关，但内容偏向市场分析而非技术细节，需要人工判断是否值得深入研读或仅作为背景信号。",
+        "confidence": 0.8
+      },
+      "ai_learning_value": "值得学习 Gartner 对 AI coding agent 的企业级评估标准，以及 OpenAI Codex 在创新和规模化部署方面的优势，可帮助理解行业趋势和竞争格局。",
+      "ai_vault_relationship": "{'topic': 'AI-Engineering', 'relation': '补充现有专题'}",
+      "ai_suggested_action": "review",
+      "ai_reason": "与 AI-Engineering 主线直接相关，但内容偏向市场分析而非技术细节，需要人工判断是否值得深入研读或仅作为背景信号。"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "published_at": "2026-05-22T00:00:00+00:00",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "raw_text": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 3
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Codex",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Codex 在航空业移动端交付中的工程实践",
+        "learning_value": "值得学习的是如何利用 Codex 在固定截止日期下实现高单元测试覆盖率和零 P1 缺陷，这是一种可复用的 AI 辅助工程交付模式。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 AI 辅助开发实践",
+        "suggested_action": "study",
+        "reason": "该案例展示了 Codex 在真实工程交付中的具体效果，包含可复用的模式（高测试覆盖率、零缺陷），对 AI-Engineering 主线有明确学习价值，且非普通新闻或营销内容。",
+        "confidence": 0.85
+      },
+      "ai_learning_value": "值得学习的是如何利用 Codex 在固定截止日期下实现高单元测试覆盖率和零 P1 缺陷，这是一种可复用的 AI 辅助工程交付模式。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 AI 辅助开发实践",
+      "ai_suggested_action": "study",
+      "ai_reason": "该案例展示了 Codex 在真实工程交付中的具体效果，包含可复用的模式（高测试覆盖率、零缺陷），对 AI-Engineering 主线有明确学习价值，且非普通新闻或营销内容。"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "published_at": "2026-05-21T12:00:00+00:00",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "raw_text": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 2,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "raw_text": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 2,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "raw_text": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 2,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "raw_text": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 3
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Codex",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI-Engineering / Code Review Automation",
+        "learning_value": "值得学习 Ramp 如何利用 Codex 和 GPT-5.5 将代码审查反馈时间从小时级缩短到分钟级，这是一种可复用的 AI 辅助工程实践，能显著提升开发效率。",
+        "vault_relationship": "补充现有专题：AI-Engineering 下的 AI 辅助开发实践，可作为可复用 Playbook 的候选。",
+        "suggested_action": "review",
+        "reason": "与 AI-Engineering 主线直接相关，提供了具体的工程实践案例，但需要人工判断其通用性和可迁移性，以及是否值得进入 Study Queue。",
+        "confidence": 0.85
+      },
+      "ai_learning_value": "值得学习 Ramp 如何利用 Codex 和 GPT-5.5 将代码审查反馈时间从小时级缩短到分钟级，这是一种可复用的 AI 辅助工程实践，能显著提升开发效率。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 下的 AI 辅助开发实践，可作为可复用 Playbook 的候选。",
+      "ai_suggested_action": "review",
+      "ai_reason": "与 AI-Engineering 主线直接相关，提供了具体的工程实践案例，但需要人工判断其通用性和可迁移性，以及是否值得进入 Study Queue。"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published_at": "2026-05-19T20:30:00+00:00",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "raw_text": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 2,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "openai-blog",
+      "source_name": "OpenAI Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "published_at": "2026-05-19T10:45:00+00:00",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "raw_text": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "fetched_at": "2026-05-25T16:45:53+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 2,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "anthropic-news",
+      "source_name": "Anthropic News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Newsroom \\ Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "published_at": "",
+      "summary": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, A...",
+      "raw_text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title May 22, 2026 Announcements Project Glasswing: An initial update May 19, 2026 Announcements Widening the conversation on frontier AI May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance May 18, 2026 Announcements Anthropic acquires Stainless May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent en...",
+      "fetched_at": "2026-05-25T16:45:54+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Anthropic Claude Opus 4.7 发布与 Claude Design 产品",
+        "learning_value": "值得关注 Claude Opus 4.7 在 coding、agents、vision 和 multi-step tasks 上的性能提升，以及 Claude Design 作为新协作设计工具的能力，这些可能代表 AI-Engineering 领域的新能力与产品路线。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 和模型能力评估",
+        "suggested_action": "review",
+        "reason": "信息来自官方新闻，涉及模型升级和新产品，与 AI-Engineering 主线直接相关，但具体学习价值需人工判断是否值得深入研究和纳入知识库。",
+        "confidence": 0.8
+      },
+      "ai_learning_value": "值得关注 Claude Opus 4.7 在 coding、agents、vision 和 multi-step tasks 上的性能提升，以及 Claude Design 作为新协作设计工具的能力，这些可能代表 AI-Engineering 领域的新能力与产品路线。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 和模型能力评估",
+      "ai_suggested_action": "review",
+      "ai_reason": "信息来自官方新闻，涉及模型升级和新产品，与 AI-Engineering 主线直接相关，但具体学习价值需人工判断是否值得深入研究和纳入知识库。"
+    },
+    {
+      "source_id": "deepseek-news",
+      "source_name": "DeepSeek News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Change Log | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates",
+      "published_at": "",
+      "summary": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round...",
+      "raw_text": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 â DeepSeek-V4 â The DeepSeek API now supports V4-Pro and V4-Flash, available via both the OpenAI ChatCompletions interface and the Anthropic interface. To access the new models, the base_url remains unchanged, and the model parameter should be set to deepseek-v4-pro or deepseek-v4-flash . The two legacy API model names, deepseek-chat and deepseek-reasoner , will be discontinued in three months (2026-07-24). During the current period, these two model names point to the non-thinking mode and thinking mode of deepseek-v4-flash , respectively. For more details, please refer to this documentation . Date: 2025-12-01 â DeepSeek-V3.2 â Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2. deepseek-chat corresponds to DeepSeek-V3.2's non-thinking mode deepseek-reasoner corresponds to DeepSeek-V3.2's thinking mode DeepSeek-V3.2-Speciale â DeepSeek-V3.2-Speciale is served via a temporary endpoint: base_url=\" https://api.deepseek.com/v3.2_spec...",
+      "fetched_at": "2026-05-25T16:45:55+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 27,
+        "Security": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent, DeepSeek；Security: 命中 bot",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "DeepSeek API 更新与 Agent 集成",
+        "learning_value": "值得学习 DeepSeek API 的最新变更，特别是 Agent 集成和 Thinking Mode 等新能力，这些对 AI-Engineering 实践有直接参考价值。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 实践和 API 使用指南。",
+        "suggested_action": "review",
+        "reason": "信息来自官方文档，涉及 API 更新和 Agent 集成，与 AI-Engineering 主线高度相关，但摘要不完整，需要人工判断具体变更内容的学习价值。",
+        "confidence": 0.8
+      },
+      "ai_learning_value": "值得学习 DeepSeek API 的最新变更，特别是 Agent 集成和 Thinking Mode 等新能力，这些对 AI-Engineering 实践有直接参考价值。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 实践和 API 使用指南。",
+      "ai_suggested_action": "review",
+      "ai_reason": "信息来自官方文档，涉及 API 更新和 Agent 集成，与 AI-Engineering 主线高度相关，但摘要不完整，需要人工判断具体变更内容的学习价值。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Trending signal: 1,448 stars today.",
+      "raw_text": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Python 14,979 1,827 Built by 1,448 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 4
+      },
+      "importance_score": 2,
+      "classification_reason": "AI-Open-Source: 命中 open source, repository",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "Learn it. Build it. Ship it for others. Trending signal: 3,167 stars today.",
+      "raw_text": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others. Python 18,078 3,094 Built by 3,167 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 Trending signal: 999 stars today.",
+      "raw_text": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 Python 8,995 1,115 Built by 999 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 12,
+        "AI-Open-Source": 2,
+        "Security": 6,
+        "Big-Data": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Claude Code, Codex, Agent, Gemini CLI, Copilot；AI-Open-Source: 命中 GitHub；Security: 命中 security；Big-Data: 命中 Apache",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI-Agent-Cybersecurity-Skills",
+        "learning_value": "学习如何将AI agent能力映射到MITRE ATT&CK、NIST CSF等主流安全框架，形成可复用的agent技能标准化方法，对构建安全AI工程实践有直接参考价值。",
+        "vault_relationship": "补充现有专题：AI-Engineering与Security交叉领域，可作为AI agent安全能力评估的参考标准。",
+        "suggested_action": "study",
+        "reason": "该项目提供了结构化、框架对齐的AI agent安全技能集，代表了AI工程与安全融合的新模式，学习价值明确，适合进入Study Queue。",
+        "confidence": 0.9
+      },
+      "ai_learning_value": "学习如何将AI agent能力映射到MITRE ATT&CK、NIST CSF等主流安全框架，形成可复用的agent技能标准化方法，对构建安全AI工程实践有直接参考价值。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering与Security交叉领域，可作为AI agent安全能力评估的参考标准。",
+      "ai_suggested_action": "study",
+      "ai_reason": "该项目提供了结构化、框架对齐的AI agent安全技能集，代表了AI工程与安全融合的新模式，学习价值明确，适合进入Study Queue。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. Trending signal: 345 stars today.",
+      "raw_text": "Sponsor Star Fincept-Corporation / FinceptTerminal FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. Python 23,768 3,272 Built by 345 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents Trending signal: 151 stars today.",
+      "raw_text": "Star paperless-ngx / paperless-ngx A community-supported supercharged document management system: scan, index and archive all your documents Python 41,219 2,739 Built by 151 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets Trending signal: 243 stars today.",
+      "raw_text": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets Python 25,972 4,514 Built by 243 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. Trending signal: 198 stars today.",
+      "raw_text": "Star microsoft / agent-governance-toolkit AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. Python 2,174 384 Built by 198 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 10,
+        "Security": 2
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent, Sandbox；Security: 命中 OWASP",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI Agent Governance Toolkit",
+        "learning_value": "值得学习微软提出的AI Agent治理框架，包括策略执行、零信任身份、执行沙箱和可靠性工程，以及如何覆盖OWASP Agentic Top 10风险。",
+        "vault_relationship": "补充现有专题：AI-Engineering中的Agent安全与治理，Security中的OWASP风险覆盖。",
+        "suggested_action": "study",
+        "reason": "该工具直接命中AI-Engineering和Security主线，提供了可复用的治理模式，且覆盖OWASP Top 10，学习价值明确。",
+        "confidence": 0.9
+      },
+      "ai_learning_value": "值得学习微软提出的AI Agent治理框架，包括策略执行、零信任身份、执行沙箱和可靠性工程，以及如何覆盖OWASP Agentic Top 10风险。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering中的Agent安全与治理，Security中的OWASP风险覆盖。",
+      "ai_suggested_action": "study",
+      "ai_reason": "该工具直接命中AI-Engineering和Security主线，提供了可复用的治理模式，且覆盖OWASP Top 10，学习价值明确。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "st-tech/ppf-contact-solver",
+      "url": "https://github.com/st-tech/ppf-contact-solver",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods. Trending signal: 505 stars today.",
+      "raw_text": "Star st-tech / ppf-contact-solver A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods. Python 3,134 222 Built by 505 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 Trending signal: 136 stars today.",
+      "raw_text": "Star sansan0 / TrendRadar ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 Python 58,249 24,409 Built by 136 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2
+      },
+      "importance_score": 2,
+      "classification_reason": "AI-Engineering: 命中 MCP",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "published_at": "2026-05-25T16:45:57+00:00",
+      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 Trending signal: 589 stars today.",
+      "raw_text": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 Python 62,484 9,755 Built by 589 stars today",
+      "fetched_at": "2026-05-25T16:45:57+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "aws-security-blog",
+      "source_name": "AWS Security Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "AWS KY3P report now available for third-party supplier due diligence",
+      "url": "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/",
+      "published_at": "2026-05-21T19:58:03+00:00",
+      "summary": "We’re excited to announce that Amazon Web Services (AWS) has completed the S&P Global Know Your Third Party (KY3P) assessment of its security posture. This assessment demonstrates our continued commitment to meet the heightened expectations of cloud service providers. Customers can now use the AWS KY3P assessment to reduce their supplier due diligence burden. KY3P, […]",
+      "raw_text": "We’re excited to announce that Amazon Web Services (AWS) has completed the S&P Global Know Your Third Party (KY3P) assessment of its security posture. This assessment demonstrates our continued commitment to meet the heightened expectations of cloud service providers. Customers can now use the AWS KY3P assessment to reduce their supplier due diligence burden. KY3P, […]",
+      "fetched_at": "2026-05-25T16:45:59+00:00",
+      "topic": "Cloud-Native",
+      "topic_scores": {
+        "Security": 2,
+        "Cloud-Native": 5
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 security；Cloud-Native: 命中 AWS",
+      "classified_at": "2026-05-25T18:22:45+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AWS KY3P 第三方供应商尽职调查报告",
+        "learning_value": "学习 AWS 如何通过第三方认证（KY3P）降低客户供应商尽职调查负担，这是一种可复用的安全合规模式，适用于云原生环境下的供应商风险管理。",
+        "vault_relationship": "补充现有专题：Security 中的供应商风险管理与合规审计实践",
+        "suggested_action": "study",
+        "reason": "该信息涉及 AWS 安全合规的新能力（KY3P 报告），对 Security 和 Cloud-Native 主线有明确学习价值，且代表一种可复用的供应商尽职调查模式，值得进入 Study Queue。",
+        "confidence": 0.85
+      },
+      "ai_learning_value": "学习 AWS 如何通过第三方认证（KY3P）降低客户供应商尽职调查负担，这是一种可复用的安全合规模式，适用于云原生环境下的供应商风险管理。",
+      "ai_vault_relationship": "补充现有专题：Security 中的供应商风险管理与合规审计实践",
+      "ai_suggested_action": "study",
+      "ai_reason": "该信息涉及 AWS 安全合规的新能力（KY3P 报告），对 Security 和 Cloud-Native 主线有明确学习价值，且代表一种可复用的供应商尽职调查模式，值得进入 Study Queue。"
+    },
+    {
+      "source_id": "aws-security-blog",
+      "source_name": "AWS Security Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "Automating identity lifecycle and security with AWS Directory Service APIs",
+      "url": "https://aws.amazon.com/blogs/security/automating-identity-lifecycle-and-security-with-aws-directory-service-apis/",
+      "published_at": "2026-05-21T16:00:59+00:00",
+      "summary": "Managing identities and access across complex environments has become more critical than ever. AWS Directory Service for Managed Microsoft Active Directory, also known as AWS Managed Microsoft AD, has added new capabilities to manage users and groups. Now, you can perform create, read, update, and delete (CRUD) operations on users and groups directly through AWS […]",
+      "raw_text": "Managing identities and access across complex environments has become more critical than ever. AWS Directory Service for Managed Microsoft Active Directory, also known as AWS Managed Microsoft AD, has added new capabilities to manage users and groups. Now, you can perform create, read, update, and delete (CRUD) operations on users and groups directly through AWS […]",
+      "fetched_at": "2026-05-25T16:45:59+00:00",
+      "topic": "Cloud-Native",
+      "topic_scores": {
+        "Security": 1,
+        "Cloud-Native": 7
+      },
+      "importance_score": 5,
+      "classification_reason": "Security: 命中 security；Cloud-Native: 命中 AWS",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "aws-security-blog",
+      "source_name": "AWS Security Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
+      "url": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/",
+      "published_at": "2026-05-20T20:56:03+00:00",
+      "summary": "Agents have agency: they adapt and find multiple ways to solve problems. This autonomy creates a fundamental security challenge: the large language model (LLM) at the heart of the agent is non-deterministic, and its decisions can’t be predicted or guaranteed in advance. It can hallucinate harmful actions with complete confidence. It’s vulnerable to prompt injection […]",
+      "raw_text": "Agents have agency: they adapt and find multiple ways to solve problems. This autonomy creates a fundamental security challenge: the large language model (LLM) at the heart of the agent is non-deterministic, and its decisions can’t be predicted or guaranteed in advance. It can hallucinate harmful actions with complete confidence. It’s vulnerable to prompt injection […]",
+      "fetched_at": "2026-05-25T16:45:59+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 6,
+        "Security": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent；Security: 命中 security",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "aws-security-blog",
+      "source_name": "AWS Security Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "AWS Security Hub Extended: Why enterprise security products should sell themselves",
+      "url": "https://aws.amazon.com/blogs/security/aws-security-hub-extended-why-enterprise-security-products-should-sell-themselves/",
+      "published_at": "2026-05-20T17:32:58+00:00",
+      "summary": "Our largest security services customers started the same way every customer does – with a click. They enabled Amazon GuardDuty, Amazon Inspector, AWS WAF, and AWS Security Hub, experienced the benefits in real time, and evaluated with transparent pay-as-you-go pricing. No RFP. No six-month evaluation. No multi-year commitment up front. Our field teams played a […]",
+      "raw_text": "Our largest security services customers started the same way every customer does – with a click. They enabled Amazon GuardDuty, Amazon Inspector, AWS WAF, and AWS Security Hub, experienced the benefits in real time, and evaluated with transparent pay-as-you-go pricing. No RFP. No six-month evaluation. No multi-year commitment up front. Our field teams played a […]",
+      "fetched_at": "2026-05-25T16:45:59+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "AI-Engineering": 6,
+        "Security": 8,
+        "Cloud-Native": 5
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Eval, Evaluation；Security: 命中 security, WAF；Cloud-Native: 命中 AWS",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "aws-security-blog",
+      "source_name": "AWS Security Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
+      "url": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/",
+      "published_at": "2026-05-19T21:34:25+00:00",
+      "summary": "The AWS Customer Incident Response Team works with customers to help them recover from active security incidents. As part of this work, the team often uncovers new or trending tactics used by various threat actors that take advantage of specific customer configurations and designs. Understanding these tactics can help inform your architecture decisions, improve your […]",
+      "raw_text": "The AWS Customer Incident Response Team works with customers to help them recover from active security incidents. As part of this work, the team often uncovers new or trending tactics used by various threat actors that take advantage of specific customer configurations and designs. Understanding these tactics can help inform your architecture decisions, improve your […]",
+      "fetched_at": "2026-05-25T16:45:59+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 4,
+        "Cloud-Native": 3
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 security, threat；Cloud-Native: 命中 AWS",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "aws-security-blog",
+      "source_name": "AWS Security Blog",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "Governing infrastructure as code using pattern-based policy as code",
+      "url": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/",
+      "published_at": "2026-05-19T16:15:31+00:00",
+      "summary": "Organizations often struggle to enforce security and compliance requirements consistently across their cloud infrastructure. In one environment, a workload might be deployed in an AWS Region that was never approved for that class of data. In another, a security group might allow broader access than intended. Required tags might be missing. Encryption might be assumed […]",
+      "raw_text": "Organizations often struggle to enforce security and compliance requirements consistently across their cloud infrastructure. In one environment, a workload might be deployed in an AWS Region that was never approved for that class of data. In another, a security group might allow broader access than intended. Required tags might be missing. Encryption might be assumed […]",
+      "fetched_at": "2026-05-25T16:45:59+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 4,
+        "Cloud-Native": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 security；Cloud-Native: 命中 AWS",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cloudflare-blog",
+      "source_name": "Cloudflare Blog",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "Announcing Claude Compliance API support with Cloudflare CASB",
+      "url": "https://blog.cloudflare.com/casb-anthropic-integration/",
+      "published_at": "2026-05-21T17:00:00+00:00",
+      "summary": "Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.",
+      "raw_text": "Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.",
+      "fetched_at": "2026-05-25T16:46:01+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 security",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cloudflare-blog",
+      "source_name": "Cloudflare Blog",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "Announcing Claude Managed Agents on Cloudflare",
+      "url": "https://blog.cloudflare.com/claude-managed-agents/",
+      "published_at": "2026-05-19T13:00:00+00:00",
+      "summary": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to private backends and easily customizing their agent’s tools and runtimes.",
+      "raw_text": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to private backends and easily customizing their agent’s tools and runtimes.",
+      "fetched_at": "2026-05-25T16:46:01+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 7
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "apache-flink",
+      "source_name": "Apache Flink Blog",
+      "source_type": "url",
+      "source_priority": "medium",
+      "title": "Flink Blog | Apache Flink",
+      "url": "https://flink.apache.org/posts/",
+      "published_at": "",
+      "summary": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink St...",
+      "raw_text": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink Stateful Functions Documentation Flink 2.2 (stable) Flink 1.20 (LTS) Flink Master (snapshot) Kubernetes Operator 1.14 (latest) Kubernetes Operator Main (snapshot) CDC 3.6 (stable) CDC Master (snapshot) Agents 0.2 (latest) Agents Main (snapshot) ML 2.3 (stable) ML Master (snapshot) Stateful Functions 3.3 (stable) Stateful Functions Master (snapshot) How to Contribute Overview Contribute Code Review Pull Requests Code Style and Quality Guide Contribute Documentation Documentation Style Guide Contribute to the Website Getting Help Flink Blog Downloads Apache Flink 2.2.1 Release Announcement May 15, 2026 - Sergey Nuyanzin The Apache Flink Community is pleased to announce the first bug fix release of the Flink 2.2 series. This release includes 44 bug fixes, vulnerability fixes, and minor improvements for Flink 2.2. Below you will find a list of all bug fixes and improvements (excluding improvements to the build infrastructure and build stability). For a complete list of all changes see: JIRA. We highly recommend all users upgrade to Flink 2. ... Continue reading Â» Apache Flink 2.0.2 Release Announcement May 11, 2026 - Sergey Nuyanzin The Apache Flink Community is pleased to announce the...",
+      "fetched_at": "2026-05-25T16:46:02+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "AI-Engineering": 4,
+        "AI-Open-Source": 5,
+        "Security": 3,
+        "Big-Data": 54,
+        "Cloud-Native": 4
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 release, pull request；Security: 命中 security, vulnerability；Big-Data: 命中 Flink, CDC, Apache；Cloud-Native: 命中 Kubernetes",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-langgraph-releases",
+      "source_name": "LangGraph Releases",
+      "source_type": "github_releases",
+      "source_priority": "high",
+      "title": "langgraph-sdk==0.3.15",
+      "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.3.15",
+      "published_at": "2026-05-22T16:54:42Z",
+      "summary": "Changes since sdk==0.3.14 * release(checkpoint): 4.1.1 (#7890) * release(sdk-py): 0.3.15 (#7891) * fix(sdk-py): percent-encode caller-supplied identifiers in URL paths (#7893) * release(langgraph): 1.2.1 (#7883) * chore(deps): bump idna from 3.11 to 3.15 in /libs/sdk-py (#7863) * chore(deps): bump urllib3 from 2.6.3 to 2.7.0 in /libs/sdk-py (#7764) * chore(deps): bump langsmith from 0.7.31 to 0.8.0 in /libs/sdk-py (#7789) * release: bump alpha packages to official versions (#7775) * chore(langgraph): bump langchain-core to 1.4.0 (#7767) * feat(sdk-py): support metadata filter for crons search/count (#7737) * chore(deps): bump ty from 0.0.23 to 0.0.33 in /libs/sdk-py (#7666)",
+      "raw_text": "Changes since sdk==0.3.14 * release(checkpoint): 4.1.1 (#7890) * release(sdk-py): 0.3.15 (#7891) * fix(sdk-py): percent-encode caller-supplied identifiers in URL paths (#7893) * release(langgraph): 1.2.1 (#7883) * chore(deps): bump idna from 3.11 to 3.15 in /libs/sdk-py (#7863) * chore(deps): bump urllib3 from 2.6.3 to 2.7.0 in /libs/sdk-py (#7764) * chore(deps): bump langsmith from 0.7.31 to 0.8.0 in /libs/sdk-py (#7789) * release: bump alpha packages to official versions (#7775) * chore(langgraph): bump langchain-core to 1.4.0 (#7767) * feat(sdk-py): support metadata filter for crons search/count (#7737) * chore(deps): bump ty from 0.0.23 to 0.0.33 in /libs/sdk-py (#7666)",
+      "fetched_at": "2026-05-23T23:51:55+00:00",
+      "cache_fallback": true,
+      "cache_source_log": "90-Agent-System/logs/source-items-2026-W21.json",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 13
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Open-Source: 命中 LangGraph, release",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-langgraph-releases",
+      "source_name": "LangGraph Releases",
+      "source_type": "github_releases",
+      "source_priority": "high",
+      "title": "langgraph-checkpoint==4.1.1",
+      "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.1.1",
+      "published_at": "2026-05-22T16:57:50Z",
+      "summary": "Changes since checkpoint==4.1.0 * release(checkpoint): 4.1.1 (#7890) * fix(checkpoint): restrict lc:2 envelope revival to default constructor (#7892) * chore(deps): bump idna from 3.11 to 3.15 in /libs/checkpoint (#7860) * chore(deps): bump langsmith from 0.7.31 to 0.8.0 in /libs/checkpoint (#7784)",
+      "raw_text": "Changes since checkpoint==4.1.0 * release(checkpoint): 4.1.1 (#7890) * fix(checkpoint): restrict lc:2 envelope revival to default constructor (#7892) * chore(deps): bump idna from 3.11 to 3.15 in /libs/checkpoint (#7860) * chore(deps): bump langsmith from 0.7.31 to 0.8.0 in /libs/checkpoint (#7784)",
+      "fetched_at": "2026-05-23T23:51:55+00:00",
+      "cache_fallback": true,
+      "cache_source_log": "90-Agent-System/logs/source-items-2026-W21.json",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 3
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Open-Source: 命中 LangGraph, release",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-langgraph-releases",
+      "source_name": "LangGraph Releases",
+      "source_type": "github_releases",
+      "source_priority": "high",
+      "title": "langgraph==1.2.1",
+      "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.1",
+      "published_at": "2026-05-21T18:33:24Z",
+      "summary": "Changes since 1.2.0 * release(langgraph): 1.2.1 (#7883) * feat(langgraph): add `before_builtins` opt-in for stream transformers (#7882) * chore(deps): bump idna from 3.11 to 3.15 in /libs/langgraph (#7866) * fix(langgraph): keep tool results out of v3 messages (#7838) * chore(deps): bump langsmith from 0.7.31 to 0.8.0 in /libs/langgraph (#7788)",
+      "raw_text": "Changes since 1.2.0 * release(langgraph): 1.2.1 (#7883) * feat(langgraph): add `before_builtins` opt-in for stream transformers (#7882) * chore(deps): bump idna from 3.11 to 3.15 in /libs/langgraph (#7866) * fix(langgraph): keep tool results out of v3 messages (#7838) * chore(deps): bump langsmith from 0.7.31 to 0.8.0 in /libs/langgraph (#7788)",
+      "fetched_at": "2026-05-23T23:51:55+00:00",
+      "cache_fallback": true,
+      "cache_source_log": "90-Agent-System/logs/source-items-2026-W21.json",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 13
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Open-Source: 命中 LangGraph, release",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-litellm-releases",
+      "source_name": "LiteLLM Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.87.0-rc.1",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.87.0-rc.1",
+      "published_at": "2026-05-24T01:20:17Z",
+      "summary": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.87.0-rc.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but reli...",
+      "raw_text": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.87.0-rc.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on tag protection rules: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/v1.87.0-rc.1/cosign.pub \\ ghcr.io/berriai/litellm:v1.87.0-rc.1 ``` Expected output: ``` The following checks were performed on each of these signatures: - The cosign claims were validated - The signatures were verified against the specified public key ``` --- ## What's Changed * feat(gemini): add gemini-3.1-flash-lite model cost map by @Sameerlite in https://github.com/BerriAI/litellm/pull/28320 * fix(spend_counter): seed Redis counter via SET NX to prevent cross-pod double-seed by @milan-berri in https://github.com/BerriAI/litellm/pull/27854 * fix(proxy): normalize batch file IDs before ManagedObjectTable write by @Sameerlite in https://github.com/BerriAI/litellm/pull/28339 * fix(router): use forwarded model_id for native Azure container IDs by @Sameerlite in https://github.com/BerriAI/litellm/pull/27921 * fix(ui): restore log filter loading indicator by @ryan-crabbe-berri in https://github.com/BerriAI/litellm/pull/28282 * test(e2e): migrate runner to uv, add All Proxy Models key test by @ryan-crabbe-berri in https://github.com/BerriAI/litellm/pull/28313 * feat(ui): team pas...",
+      "fetched_at": "2026-05-25T18:22:41+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 33,
+        "Cloud-Native": 1
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Open-Source: 命中 GitHub, LiteLLM, release, repository；Cloud-Native: 命中 container",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-litellm-releases",
+      "source_name": "LiteLLM Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.85.1",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.85.1",
+      "published_at": "2026-05-21T02:51:31Z",
+      "summary": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.85.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on...",
+      "raw_text": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.85.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on tag protection rules: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/v1.85.1/cosign.pub \\ ghcr.io/berriai/litellm:v1.85.1 ``` Expected output: ``` The following checks were performed on each of these signatures: - The cosign claims were validated - The signatures were verified against the specified public key ``` --- **Full Changelog**: https://github.com/BerriAI/litellm/compare/v1.85.0...v1.85.1",
+      "fetched_at": "2026-05-25T18:22:41+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 24
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Open-Source: 命中 GitHub, LiteLLM, release, changelog, repository",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-litellm-releases",
+      "source_name": "LiteLLM Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.84.1",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.84.1",
+      "published_at": "2026-05-21T02:27:28Z",
+      "summary": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.84.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on...",
+      "raw_text": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.84.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on tag protection rules: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/v1.84.1/cosign.pub \\ ghcr.io/berriai/litellm:v1.84.1 ``` Expected output: ``` The following checks were performed on each of these signatures: - The cosign claims were validated - The signatures were verified against the specified public key ``` --- **Full Changelog**: https://github.com/BerriAI/litellm/compare/v1.84.0...v1.84.1",
+      "fetched_at": "2026-05-25T18:22:41+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 24
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Open-Source: 命中 GitHub, LiteLLM, release, changelog, repository",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-litellm-releases",
+      "source_name": "LiteLLM Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.87.0-dev.1",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.87.0-dev.1",
+      "published_at": "2026-05-20T00:22:00Z",
+      "summary": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.87.0-dev.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but rel...",
+      "raw_text": "## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.87.0-dev.1 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on tag protection rules: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/v1.87.0-dev.1/cosign.pub \\ ghcr.io/berriai/litellm:v1.87.0-dev.1 ``` Expected output: ``` The following checks were performed on each of these signatures: - The cosign claims were validated - The signatures were verified against the specified public key ``` --- ## What's Changed * fix(proxy): gate team allowed_passthrough_routes to proxy admins by @ryan-crabbe-berri in https://github.com/BerriAI/litellm/pull/28097 * fix(tests): stabilize image-edit VCR cassettes to stop live gpt-image-1 spend by @mateo-berri in https://github.com/BerriAI/litellm/pull/28110 * fix(bedrock/cohere): send embedding_types as JSON array, not string by @ishaan-berri in https://github.com/BerriAI/litellm/pull/28172 * fix(tests): migrate realtime + rerank tests off shut-down upstream models by @yuneng-berri in https://github.com/BerriAI/litellm/pull/28191 * fix(caching): replay openai/responses bridge cache hits as chat streams by @Sameerlite in https://github.com/BerriAI/litellm/pull/28158 * Litellm oss staging by @Sameerlite in https://github.com/BerriAI/litellm/pull/28161 * feat(prometheus): add us...",
+      "fetched_at": "2026-05-25T18:22:41+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 34,
+        "Cloud-Native": 1
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Open-Source: 命中 GitHub, LiteLLM, release, repository；Cloud-Native: 命中 Prometheus",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-litellm-releases",
+      "source_name": "LiteLLM Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.86.0",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.86.0",
+      "published_at": "2026-05-24T04:59:28Z",
+      "summary": "> [!NOTE] > Two things to be aware of about the non-root image in this release: > > - **Dockerfile build patch.** The non-root Dockerfile failed to build at the v1.86.0 tag, and a patch was applied to produce [`ghcr.io/berriai/litellm-non_root:v1.86.0`](https://github.com/BerriAI/litellm/pkgs/container/litellm-non_root/887714818?tag=v1.86.0). The non-root image was built from commit [`a13cd212c82f00d73456a375dd0d89cef85244a8`](https://github.com/BerriAI/litellm/commit/a13cd212c82f00d73456a375dd0d89cef85244a8). > - **No cosign attestation.** The non-root image was published without a cosign signature. If you run `cosign verify` on images before deploying, this image will not pass verification and you will not be able to upgrade to it. > > The `ghcr.io/berriai/litellm:v1.86.0` and `ghcr.i...",
+      "raw_text": "> [!NOTE] > Two things to be aware of about the non-root image in this release: > > - **Dockerfile build patch.** The non-root Dockerfile failed to build at the v1.86.0 tag, and a patch was applied to produce [`ghcr.io/berriai/litellm-non_root:v1.86.0`](https://github.com/BerriAI/litellm/pkgs/container/litellm-non_root/887714818?tag=v1.86.0). The non-root image was built from commit [`a13cd212c82f00d73456a375dd0d89cef85244a8`](https://github.com/BerriAI/litellm/commit/a13cd212c82f00d73456a375dd0d89cef85244a8). > - **No cosign attestation.** The non-root image was published without a cosign signature. If you run `cosign verify` on images before deploying, this image will not pass verification and you will not be able to upgrade to it. > > The `ghcr.io/berriai/litellm:v1.86.0` and `ghcr.io/berriai/litellm-database:v1.86.0` images are signed normally. **v1.86.1** ships early next week with signed builds of all three images. --- ## Verify Docker Image Signature All LiteLLM Docker images are signed with [cosign](https://docs.sigstore.dev/cosign/overview/). Every release is signed with the same key introduced in [commit `0112e53`](https://github.com/BerriAI/litellm/commit/0112e53046018d726492c814b3644b7d376029d0). **Verify using the pinned commit hash (recommended):** A commit hash is cryptographically immutable, so this is the strongest way to ensure you are using the original signing key: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/0112e53046018d726492c814b3644b7d376029d0/cosign.pub \\ ghcr.io/berriai/litellm:v1.86.0 ``` **Verify using the release tag (convenience):** Tags are protected in this repository and resolve to the same key. This option is easier to read but relies on tag protection rules: ```bash cosign verify \\ --key https://raw.githubusercontent.com/BerriAI/litellm/v1.86.0/cosign.pub \\ ghcr.io/berriai/litellm:v1.86.0 ``` Expected output: ``` The following checks were performed on each of these signatures: - The cosign cl...",
+      "fetched_at": "2026-05-25T18:22:41+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 29,
+        "Cloud-Native": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Open-Source: 命中 GitHub, LiteLLM, release, repository；Cloud-Native: 命中 container",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.15.10",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.10",
+      "published_at": "2026-05-23T01:04:24Z",
+      "summary": "## Desktop ### Bugfixes - Restored the legacy production desktop flows for opening projects and starting sessions.",
+      "raw_text": "## Desktop ### Bugfixes - Restored the legacy production desktop flows for opening projects and starting sessions.",
+      "fetched_at": "2026-05-25T18:22:43+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.15.9",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.9",
+      "published_at": "2026-05-22T21:18:52Z",
+      "summary": "## Core ### Improvements - Redesigned the diff viewer with a file tree and refreshed layout. ### Bugfixes - Return to the previous screen when closing the diff viewer. - Show clearer errors when a default model is invalid or unavailable. - Surface missing PTY session errors instead of failing generically. - Improve diff viewer empty states and context handling. - Show clearer errors when a skill invocation fails as expected. - Show clearer errors when an installation upgrade fails. - Show clearer project not found errors from the HTTP API. - Return PTY error bodies from the HTTP API. - Enable the diff viewer by default. - Return MCP server not found errors from the HTTP API. - Let MCP OAuth configs set a callback port and include configured scopes in client metadata. (@sebin) - Use work...",
+      "raw_text": "## Core ### Improvements - Redesigned the diff viewer with a file tree and refreshed layout. ### Bugfixes - Return to the previous screen when closing the diff viewer. - Show clearer errors when a default model is invalid or unavailable. - Surface missing PTY session errors instead of failing generically. - Improve diff viewer empty states and context handling. - Show clearer errors when a skill invocation fails as expected. - Show clearer errors when an installation upgrade fails. - Show clearer project not found errors from the HTTP API. - Return PTY error bodies from the HTTP API. - Enable the diff viewer by default. - Return MCP server not found errors from the HTTP API. - Let MCP OAuth configs set a callback port and include configured scopes in client metadata. (@sebin) - Use working Vertex Anthropic endpoints for `us` and `eu` multi-region setups. (@JPFrancoia) - Return session busy error bodies from the HTTP API. - Preserve native reasoning continuation metadata across turns. ## TUI ### Improvements - Copy the current worktree path from the command palette. ### Bugfixes - Refine diff viewer keyboard shortcuts. - Restore question prompt key handling. - Keep the spinner color aligned with the active agent. (@OpeOginni) ## Desktop ### Improvements - Move tab navigation into the title bar and tighten session tab shortcuts. - Show session status in the title bar. ### Bugfixes - Extract user codes correctly from callback URLs that contain multiple colons. (@OpeOginni) - Debounce VCS refreshes to reduce session page churn. **Thank you to 4 community contributors:** - @vglafirov: - chore(deps): bump gitlab-ai-provider to 6.7.0 (#28218) - @OpeOginni: - fix(opencode): update spinner color logic (#28032) - fix(desktop): correct user code extraction when URL contains colons (#28837) - @JPFrancoia: - fix(vertex): Vertex (Antropic) provider: use .rep.googleapis.com for continental multi-region endpoints (us, eu) (#28347) - @sebin: - fix(mcp): include scope in clientMet...",
+      "fetched_at": "2026-05-25T18:22:43+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 6,
+        "AI-Open-Source": 1
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Agent, MCP；AI-Open-Source: 命中 OpenCode",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.15.7",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.7",
+      "published_at": "2026-05-21T15:51:28Z",
+      "summary": "## Core ### Improvements - Added Grok OAuth sign-in, including device-code login. (@Jaaneek) ### Bugfixes - V2 session APIs now return safe `UnknownError` responses with log reference IDs when stored messages are corrupt. - Generic API 500s no longer expose config details from server errors. - Unknown API errors now include reference IDs so you can match responses to server logs. - V2 session APIs now return `503 ServiceUnavailableError` for mutations that are not available yet. - V2 session APIs now return `SessionNotFoundError` for missing sessions. - Deduped concurrent Codex OAuth refreshes to avoid repeated refresh failures. (@cooper-oai) - Restored native OpenAI OAuth requests. - Tool schema failures now surface as friendly tool errors. - Added PDF attachment support for Grok. - Re...",
+      "raw_text": "## Core ### Improvements - Added Grok OAuth sign-in, including device-code login. (@Jaaneek) ### Bugfixes - V2 session APIs now return safe `UnknownError` responses with log reference IDs when stored messages are corrupt. - Generic API 500s no longer expose config details from server errors. - Unknown API errors now include reference IDs so you can match responses to server logs. - V2 session APIs now return `503 ServiceUnavailableError` for mutations that are not available yet. - V2 session APIs now return `SessionNotFoundError` for missing sessions. - Deduped concurrent Codex OAuth refreshes to avoid repeated refresh failures. (@cooper-oai) - Restored native OpenAI OAuth requests. - Tool schema failures now surface as friendly tool errors. - Added PDF attachment support for Grok. - Restored OpenAI reasoning streams. ## TUI ### Bugfixes - Collapsed thinking labels now use clearer punctuation. - New sessions now default to the local project. - Single-select question checkmarks no longer run into option labels. ## Desktop ### Improvements - Added a pinch zoom setting for the desktop app. - Added a new desktop home view, session entry flow, and titlebar. - Refined the new desktop UI and moved app update actions into the titlebar. - Added desktop log export. ## SDK ### Bugfixes - V2 global event streams now include account add, remove, and switch events. **Thank you to 3 community contributors:** - @cooper-oai: - fix(opencode): dedupe concurrent Codex OAuth refreshes (#28236) - @Jaaneek: - feat(opencode): add xAI Grok OAuth (SuperGrok) + device-code login (#28557) - @kagura-agent: - fix(ui): preserve target attribute in DOMPurify config for markdown links (#28598)",
+      "fetched_at": "2026-05-25T18:22:43+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 4,
+        "AI-Open-Source": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Codex, Agent；AI-Open-Source: 命中 OpenCode",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.15.6",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.6",
+      "published_at": "2026-05-20T21:44:11Z",
+      "summary": "## Core ### Improvements - Added a diff viewer in the TUI for reviewing changes. - Collapsed single-child directories in the diff viewer file tree. - Added shell mode to the `run` prompt. - Replaced subagent tabs with an on-demand picker in `run`. - Plugin file load errors no longer break the rest of plugin loading. - Anthropic API-key models now use the native runtime. - The v2 HTTP API now exposes structured public error schemas. ### Bugfixes - Zed editor context now only activates inside Zed terminals. - The v2 HTTP API now exposes catalog errors. - The v2 HTTP API now exposes request errors. - The v2 OpenAPI spec now preserves endpoint error responses. - `opencode login` now defaults to `https://console.opencode.ai`. - Agent and command names now resolve correctly from relative conf...",
+      "raw_text": "## Core ### Improvements - Added a diff viewer in the TUI for reviewing changes. - Collapsed single-child directories in the diff viewer file tree. - Added shell mode to the `run` prompt. - Replaced subagent tabs with an on-demand picker in `run`. - Plugin file load errors no longer break the rest of plugin loading. - Anthropic API-key models now use the native runtime. - The v2 HTTP API now exposes structured public error schemas. ### Bugfixes - Zed editor context now only activates inside Zed terminals. - The v2 HTTP API now exposes catalog errors. - The v2 HTTP API now exposes request errors. - The v2 OpenAPI spec now preserves endpoint error responses. - `opencode login` now defaults to `https://console.opencode.ai`. - Agent and command names now resolve correctly from relative config paths. - Invalid `OPENCODE_PERMISSION` JSON no longer crashes startup. - Plugin tools with missing `args` no longer break tool loading. - Restored legacy `PgUp` and `PgDn` TUI keybind aliases. - Native runtime now prefers the console provider token for OpenCode models. ## TUI ### Improvements - The diff viewer now focuses the first file automatically. ### Bugfixes - Imported sessions now refresh their directory and relative path fields correctly. (@OpeOginni) ## Desktop ### Improvements - Added initial desktop tabs support. - Added a native app menu on Windows. - Added Ukrainian locale support. (@MYMDO) ### Bugfixes - Custom providers now appear immediately after config updates. (@tianxiaoliang) ## SDK - Updated `opentui` dependencies to `0.2.15`. **Thank you to 4 community contributors:** - @MYMDO: - feat(i18n): add Ukrainian (uk) locale support (#28061) - @StarpTech: - chore(team): add starptech to the team members list (#28320) - chore(docs): remove beta zen go (#28317) - chore(triage): add 'starptech' to core and inference teams (#28376) - @tianxiaoliang: - fix(app): invalidate provider queries after config update to show custom providers immediately (#28313) - @OpeOginni: -...",
+      "fetched_at": "2026-05-25T18:22:43+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Engineering": 4,
+        "AI-Open-Source": 6
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 OpenCode",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.15.5",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.5",
+      "published_at": "2026-05-18T20:57:16Z",
+      "summary": "## Core ### Improvements - Preview the native OpenAI runtime path behind an experimental flag - Add `--replay` and `--replay-limit` to show recent history when resuming interactive runs ### Bugfixes - Fix plugin tools using `ask` so tool calls complete correctly - Reduce missed `/event` updates caused by a subscription race - Sort the v2 session list by most recently updated ## TUI ### Improvements - Refresh the prompt layout after pasting content ### Bugfixes - Keep file references scoped to the current workspace - Preserve pasted prompt content when copying - Collapse very long tool output lines to keep the layout readable - Use a higher-contrast paste summary badge color in some themes (@kagura-agent) ## Desktop ### Improvements - Allow desktop notifications from the renderer - Show...",
+      "raw_text": "## Core ### Improvements - Preview the native OpenAI runtime path behind an experimental flag - Add `--replay` and `--replay-limit` to show recent history when resuming interactive runs ### Bugfixes - Fix plugin tools using `ask` so tool calls complete correctly - Reduce missed `/event` updates caused by a subscription race - Sort the v2 session list by most recently updated ## TUI ### Improvements - Refresh the prompt layout after pasting content ### Bugfixes - Keep file references scoped to the current workspace - Preserve pasted prompt content when copying - Collapse very long tool output lines to keep the layout readable - Use a higher-contrast paste summary badge color in some themes (@kagura-agent) ## Desktop ### Improvements - Allow desktop notifications from the renderer - Show free-limit and usage-exceeded dialogs in Desktop - Speed up large session timelines ### Bugfixes - Fix question dock overflow and message layout clipping - Hide the prompt placeholder when the input only contains whitespace (@ShrootBuck) - Sync the PWA status bar color with the active theme (@heimoshuiyu) - Install the newest available desktop update instead of reusing a stale download **Thank you to 4 community contributors:** - @heimoshuiyu: - fix: sync PWA status bar theme-color with app color scheme (#28006) - @ShrootBuck: - fix(app): hide prompt placeholder for whitespace input (#28101) - @kagura-agent: - fix(tui): use contrast-aware foreground for paste summary badge (#27969) - @SpiritChen51: - fix(ui): fallback to execCommand for clipboard copy when navigator.clipboard fails (#27993)",
+      "fetched_at": "2026-05-25T18:22:43+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 3
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-alerts",
+      "source_name": "CISA Alerts",
+      "source_type": "rss",
+      "source_priority": "high",
+      "title": "CISA Enhances Known Exploited Vulnerabilities Catalog to Include New Nomination Form",
+      "url": "https://www.cisa.gov/news-events/news/cisa-enhances-known-exploited-vulnerabilities-catalog-include-new-nomination-form",
+      "published_at": "2026-05-21T12:00:00+00:00",
+      "summary": "",
+      "raw_text": "",
+      "fetched_at": "2026-05-25T18:22:44+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 2
+      },
+      "importance_score": 3,
+      "classification_reason": "Security: 命中 CISA, exploit",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2026-9082 - Drupal Core",
+      "url": "https://www.drupal.org/sa-core-2026-004 ; https://nvd.nist.gov/vuln/detail/CVE-2026-9082",
+      "published_at": "2026-05-22",
+      "summary": "Drupal Core SQL Injection Vulnerability Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Drupal Core SQL Injection Vulnerability Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 7
+      },
+      "importance_score": 5,
+      "classification_reason": "Security: 命中 vulnerability, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2025-34291 - Langflow Langflow",
+      "url": "This vulnerability could affect an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://github.com/langflow-ai/langflow ; https://github.com/langflow-ai/langflow/releases/tag/v1.9.3; https://github.com/langflow-ai/langflow/issues/11465#event-25774545848 ; https://nvd.nist.gov/vuln/detail/CVE-2025-34291",
+      "published_at": "2026-05-21",
+      "summary": "Langflow Origin Validation Error Vulnerability Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Langflow Origin Validation Error Vulnerability Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2026-34926 - Trend Micro Apex One",
+      "url": "https://success.trendmicro.com/en-US/solution/KA-0023430 ; https://nvd.nist.gov/vuln/detail/CVE-2026-34926",
+      "published_at": "2026-05-21",
+      "summary": "Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "AI-Engineering": 2,
+        "Security": 9
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent；Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2008-4250 - Microsoft Windows",
+      "url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-067 ; https://nvd.nist.gov/vuln/detail/CVE-2008-4250",
+      "published_at": "2026-05-20",
+      "summary": "Microsoft Windows Buffer Overflow Vulnerability Microsoft Windows contains a buffer overflow vulnerability in the Windows Server Service that allows remote attackers to execute arbitrary code via a crafted RPC request that triggers an overflow during path canonicalization. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Microsoft Windows Buffer Overflow Vulnerability Microsoft Windows contains a buffer overflow vulnerability in the Windows Server Service that allows remote attackers to execute arbitrary code via a crafted RPC request that triggers an overflow during path canonicalization. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2009-1537 - Microsoft DirectX",
+      "url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-028 ; https://nvd.nist.gov/vuln/detail/CVE-2009-1537",
+      "published_at": "2026-05-20",
+      "summary": "Microsoft DirectX NULL Byte Overwrite Vulnerability Microsoft DirectX contains a NULL byte overwrite vulnerability in the QuickTime Movie Parser Filter in quartz.dll in DirectShow which could allow remote attackers to execute arbitrary code via a crafted QuickTime media file. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Microsoft DirectX NULL Byte Overwrite Vulnerability Microsoft DirectX contains a NULL byte overwrite vulnerability in the QuickTime Movie Parser Filter in quartz.dll in DirectShow which could allow remote attackers to execute arbitrary code via a crafted QuickTime media file. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2009-3459 - Adobe Acrobat and Reader",
+      "url": "https://www.cisa.gov/news-events/alerts/2009/10/13/adobe-reader-and-acrobat-vulnerabilities ; https://web.archive.org/web/20120324170253/http://www.adobe.com/support/security/bulletins/apsb09-15.html#:~:text=CVE%2D2009%2D3459).-,NOTE%3A,-There%20are%20reports ; https://nvd.nist.gov/vuln/detail/CVE-2009-3459",
+      "published_at": "2026-05-20",
+      "summary": "Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability Adobe Acrobat and Reader contain a heap-based buffer overflow vulnerability which could allow remote attackers to execute arbitrary code via a crafted PDF file that triggers memory corruption. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability Adobe Acrobat and Reader contain a heap-based buffer overflow vulnerability which could allow remote attackers to execute arbitrary code via a crafted PDF file that triggers memory corruption. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2010-0249 - Microsoft Internet Explorer",
+      "url": "https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2010/979352 ; https://nvd.nist.gov/vuln/detail/CVE-2010-0249",
+      "published_at": "2026-05-20",
+      "summary": "Microsoft Internet Explorer Use-After-Free Vulnerability Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code by accessing a pointer associated with a deleted object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Microsoft Internet Explorer Use-After-Free Vulnerability Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code by accessing a pointer associated with a deleted object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2010-0806 - Microsoft Internet Explorer",
+      "url": "https://learn.microsoft.com/en-us/security-updates/securityadvisories/2010/981374 ; https://nvd.nist.gov/vuln/detail/CVE-2010-0806",
+      "published_at": "2026-05-20",
+      "summary": "Microsoft Internet Explorer Use-After-Free Vulnerability Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code via vectors involving access to an invalid pointer after the deletion of an object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Microsoft Internet Explorer Use-After-Free Vulnerability Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code via vectors involving access to an invalid pointer after the deletion of an object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2026-41091 - Microsoft Defender",
+      "url": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-41091 ; https://nvd.nist.gov/vuln/detail/CVE-2026-41091",
+      "published_at": "2026-05-20",
+      "summary": "Microsoft Defender Link Following Vulnerability Microsoft Defender contains a link following vulnerability that allows an authorized attacker to elevate privileges locally. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Microsoft Defender Link Following Vulnerability Microsoft Defender contains a link following vulnerability that allows an authorized attacker to elevate privileges locally. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 9
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, attack, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    },
+    {
+      "source_id": "cisa-kev",
+      "source_name": "CISA Known Exploited Vulnerabilities",
+      "source_type": "cisa_kev",
+      "source_priority": "high",
+      "title": "CVE-2026-45498 - Microsoft Defender",
+      "url": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-45498 ; https://nvd.nist.gov/vuln/detail/CVE-2026-45498",
+      "published_at": "2026-05-20",
+      "summary": "Microsoft Defender Denial of Service Vulnerability Microsoft Defender contains an unspecified vulnerability that allows for denial of service. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "raw_text": "Microsoft Defender Denial of Service Vulnerability Microsoft Defender contains an unspecified vulnerability that allows for denial of service. Required action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Known ransomware use: Unknown",
+      "fetched_at": "2026-05-25T18:22:45+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "Security": 7
+      },
+      "importance_score": 4,
+      "classification_reason": "Security: 命中 vulnerability, CVE, ransomware",
+      "classified_at": "2026-05-25T18:22:45+00:00"
+    }
+  ]
+}

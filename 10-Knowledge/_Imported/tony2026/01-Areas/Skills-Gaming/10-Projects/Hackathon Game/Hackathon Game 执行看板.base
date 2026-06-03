@@ -1,0 +1,47 @@
+filters:
+  or:
+    - file.inFolder("01-Areas/Skills-Gaming/10-Projects/Hackathon Game")
+formulas:
+  note_link: link(file.path, file.name)
+properties:
+  formula.note_link:
+    displayName: 笔记
+  file.path:
+    displayName: 路径
+  file.mtime:
+    displayName: 最近更新
+views:
+  - type: table
+    name: 核心交付
+    filters:
+      or:
+        - file.name == "项目总览"
+        - file.name == "推荐方向：Word Sprint Duel V1"
+        - file.name == "Word Sprint Duel V1 实现蓝图"
+        - file.name == "Word Sprint Duel V1 7 天交付计划"
+        - file.name == "Word Sprint Duel V1 首轮试玩计划"
+        - file.name == "Word Sprint Duel V1 首轮试玩复盘"
+    order:
+      - file.path
+  - type: table
+    name: 工程任务包
+    filters:
+      or:
+        - file.name == "Cursor Unity 客户端 Prompt 包"
+        - file.name == "Claude Code 后端与事件链路任务包"
+        - file.name == "Codex 异步并行任务包"
+        - file.name == "Google AI Studio 内容与素材生产包"
+        - file.name == "AI Coding Tools 选型与协作分工"
+        - file.name == "多工具协作节奏与交接约定"
+    order:
+      - file.path
+  - type: table
+    name: 调优与复盘
+    filters:
+      or:
+        - file.name == "Word Sprint Duel V1 埋点、结果解释与公平性最小方案"
+        - file.name == "Word Sprint Duel V1 参数、词库与节奏调优表"
+        - file.name == "Word Sprint Duel V1 首轮试玩计划"
+        - file.name == "Word Sprint Duel V1 首轮试玩复盘"
+    order:
+      - file.path

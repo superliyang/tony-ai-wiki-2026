@@ -1,0 +1,4 @@
+PyYAML
+feedparser
+requests
+lark-oapi

@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "text",
+      "text": "# Harness Engineering 深度学习导航\n- [[Harness Engineering]]\n- [[Harness Engineering 深度学习导航.base|Harness Engineering 深度学习导航（Base）]]\n- 先理解 harness 的抽象结构，再看动作面、扩展面、自动化面\n- 然后进入 OpenClaw、Codex、Claude Code、Gemini CLI、Grok、Kimi 这些具体系统",
+      "x": 320,
+      "y": -500,
+      "width": 620,
+      "height": 260,
+      "color": "6"
+    },
+    {
+      "id": "core",
+      "type": "text",
+      "text": "# 抽象骨架\n- [[../07-Topics/Harness Engineering|Harness Engineering]]\n- [[../07-Topics/MCP 与 CLI 模式|MCP 与 CLI 模式]]\n- [[../07-Topics/Computer Use Runtime and Safety|Computer Use Runtime and Safety]]\n- [[../07-Topics/App Server 与 Rich Agent Protocols|App Server 与 Rich Agent Protocols]]",
+      "x": -640,
+      "y": -60,
+      "width": 420,
+      "height": 280,
+      "color": "2"
+    },
+    {
+      "id": "ext",
+      "type": "text",
+      "text": "# 扩展与自动化\n- [[../07-Topics/技能、插件、应用与自动化：Harness 的扩展面|技能、插件、应用与自动化：Harness 的扩展面]]\n- [[../07-Topics/Hooks、Cron、CI 与 Background Agents：Harness 自动化闭环|Hooks、Cron、CI 与 Background Agents：Harness 自动化闭环]]\n- [[../07-Topics/Eval Harness 与 Regression Suites|Eval Harness 与 Regression Suites]]\n- [[Harness Engineering 与 Agent 扩展生态图]]\n- [[Harness 工作流与自动化模式图]]",
+      "x": -80,
+      "y": -60,
+      "width": 500,
+      "height": 300,
+      "color": "3"
+    },
+    {
+      "id": "systems",
+      "type": "text",
+      "text": "# 系统样本\n- [[../../AI-Learning/09-Systems/OpenClaw|OpenClaw]]\n- [[../../AI-Learning/09-Systems/OpenClaw 的技能、插件、应用与自动化生态|OpenClaw 的技能、插件、应用与自动化生态]]\n- [[../../AI-Learning/09-Systems/Claude Code|Claude Code]]\n- [[../../AI-Learning/09-Systems/Codex|Codex]]\n- [[../../AI-Learning/09-Systems/Gemini CLI|Gemini CLI]]\n- [[../../AI-Learning/09-Systems/Grok Agent Tools API|Grok Agent Tools API]]\n- [[../../AI-Learning/09-Systems/Kimi|Kimi]]\n- [[../../AI-Learning/09-Systems/Agent 能力扩展对比：OpenClaw、Codex、Claude Code、Gemini CLI、Grok、Kimi|Agent 能力扩展对比：OpenClaw、Codex、Claude Code、Gemini CLI、Grok、Kimi]]",
+      "x": 540,
+      "y": -40,
+      "width": 620,
+      "height": 360,
+      "color": "4"
+    },
+    {
+      "id": "workflow",
+      "type": "text",
+      "text": "# 工作流与案例\n- [[../07-Topics/Harness 工作流模式：Terminal、Desktop、Cloud 与 Channel|Harness 工作流模式：Terminal、Desktop、Cloud 与 Channel]]\n- [[../07-Topics/Harness 工程案例：Codex、Claude Code、OpenClaw、Gemini CLI|Harness 工程案例：Codex、Claude Code、OpenClaw、Gemini CLI]]\n- [[../07-Topics/Harness 真实工作流对照：Repo、Browser、Recurring Ops 与 Channel|Harness 真实工作流对照：Repo、Browser、Recurring Ops 与 Channel]]\n- 比较入口模式、自动化模式和治理边界，而不只是比较模型能力",
+      "x": -680,
+      "y": 360,
+      "width": 470,
+      "height": 230,
+      "color": "5"
+    },
+    {
+      "id": "practice",
+      "type": "text",
+      "text": "# 实践入口\n- [[../06-Projects/Harness Lab/项目总览|Harness Lab]]\n- [[../06-Projects/Harness Lab/最小 Harness Lab：从 CLI 到 Browser 的学习计划|最小 Harness Lab：从 CLI 到 Browser 的学习计划]]\n- [[../06-Projects/Harness Lab/多厂商 Harness 对照实验|多厂商 Harness 对照实验]]\n- [[../06-Projects/Harness Lab/Harness Lab 第一轮：Repo 修复、Browser 操作与 Daily Ops|Harness Lab 第一轮：Repo 修复、Browser 操作与 Daily Ops]]",
+      "x": 40,
+      "y": 360,
+      "width": 500,
+      "height": 220,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "hub",
+      "toNode": "core"
+    },
+    {
+      "id": "e2",
+      "fromNode": "hub",
+      "toNode": "ext"
+    },
+    {
+      "id": "e3",
+      "fromNode": "hub",
+      "toNode": "systems"
+    },
+    {
+      "id": "e4",
+      "fromNode": "hub",
+      "toNode": "workflow"
+    },
+    {
+      "id": "e5",
+      "fromNode": "hub",
+      "toNode": "practice"
+    },
+    {
+      "id": "e6",
+      "fromNode": "core",
+      "toNode": "ext"
+    },
+    {
+      "id": "e7",
+      "fromNode": "ext",
+      "toNode": "systems"
+    },
+    {
+      "id": "e8",
+      "fromNode": "workflow",
+      "toNode": "practice"
+    }
+  ]
+}

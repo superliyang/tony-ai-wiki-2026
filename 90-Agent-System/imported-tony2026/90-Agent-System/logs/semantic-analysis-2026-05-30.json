@@ -1,0 +1,366 @@
+{
+  "generated_at": "2026-05-30T23:21:51+00:00",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "input": "90-Agent-System/logs/classified-items-2026-05-30.json",
+  "analyzed_items": 7,
+  "warnings": [],
+  "items": [
+    {
+      "source_id": "anthropic-news",
+      "source_name": "Anthropic News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Newsroom \\ Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "published_at": "",
+      "summary": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic...",
+      "raw_text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title May 28, 2026 Announcements Anthropic raises $65B in Series H funding at $965B post-money valuation May 28, 2026 Product Introducing Claude Opus 4.8 May 27, 2026 Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers May 26, 2026 Announcements Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening May 25, 2026 Announcements Anthropic co-found...",
+      "fetched_at": "2026-05-30T16:19:23+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Anthropic Claude Opus 4.8 发布与 Claude Design 产品",
+        "learning_value": "值得关注 Claude Opus 4.8 在编码和 agentic 任务上的性能提升，以及 Claude Design 作为视觉协作工具的新能力，可能代表 AI 工程中 agent 能力与多模态交互的新模式。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 能力演进，以及 AI-Open-Source 中闭源模型竞争格局。",
+        "suggested_action": "review",
+        "reason": "与 AI-Engineering 主线直接相关，涉及 agent 能力提升和产品创新，但具体学习价值需人工判断是否值得深入 study。",
+        "confidence": 0.8
+      },
+      "ai_learning_value": "值得关注 Claude Opus 4.8 在编码和 agentic 任务上的性能提升，以及 Claude Design 作为视觉协作工具的新能力，可能代表 AI 工程中 agent 能力与多模态交互的新模式。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 能力演进，以及 AI-Open-Source 中闭源模型竞争格局。",
+      "ai_suggested_action": "review",
+      "ai_reason": "与 AI-Engineering 主线直接相关，涉及 agent 能力提升和产品创新，但具体学习价值需人工判断是否值得深入 study。"
+    },
+    {
+      "source_id": "deepseek-news",
+      "source_name": "DeepSeek News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Change Log | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates",
+      "published_at": "",
+      "summary": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round...",
+      "raw_text": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 â DeepSeek-V4 â The DeepSeek API now supports V4-Pro and V4-Flash, available via both the OpenAI ChatCompletions interface and the Anthropic interface. To access the new models, the base_url remains unchanged, and the model parameter should be set to deepseek-v4-pro or deepseek-v4-flash . The two legacy API model names, deepseek-chat and deepseek-reasoner , will be discontinued in three months (2026-07-24). During the current period, these two model names point to the non-thinking mode and thinking mode of deepseek-v4-flash , respectively. For more details, please refer to this documentation . Date: 2025-12-01 â DeepSeek-V3.2 â Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2. deepseek-chat corresponds to DeepSeek-V3.2's non-thinking mode deepseek-reasoner corresponds to DeepSeek-V3.2's thinking mode DeepSeek-V3.2-Speciale â DeepSeek-V3.2-Speciale is served via a temporary endpoint: base_url=\" https://api.deepseek.com/v3.2_spec...",
+      "fetched_at": "2026-05-30T16:19:23+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 27,
+        "Security": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent, DeepSeek；Security: 命中 bot",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "DeepSeek API 更新与 Agent 集成",
+        "learning_value": "了解 DeepSeek API 的最新变更，特别是 Agent 集成和 Thinking Mode 等新功能，有助于掌握前沿 AI 工程实践和模型能力边界。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 LLM API 实践与 Agent 开发模式",
+        "suggested_action": "study",
+        "reason": "DeepSeek 是当前重要的开源/闭源模型提供商，其 API 更新直接关联 AI-Engineering 主线的 Agent 集成、模型调用等实践，学习价值明确。",
+        "confidence": 0.85
+      },
+      "ai_learning_value": "了解 DeepSeek API 的最新变更，特别是 Agent 集成和 Thinking Mode 等新功能，有助于掌握前沿 AI 工程实践和模型能力边界。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 LLM API 实践与 Agent 开发模式",
+      "ai_suggested_action": "study",
+      "ai_reason": "DeepSeek 是当前重要的开源/闭源模型提供商，其 API 更新直接关联 AI-Engineering 主线的 Agent 集成、模型调用等实践，学习价值明确。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "Python tool for converting files and office documents to Markdown. Trending signal: 2,473 stars today.",
+      "raw_text": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown. Python 131,574 9,013 Built by 2,473 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. Trending signal: 2,775 stars today.",
+      "raw_text": "Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. Python 71,559 10,272 Built by 2,775 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. Trending signal: 595 stars today.",
+      "raw_text": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. Python 128,266 20,936 Built by 595 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 6
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Claude Code, Agent, Agentic Coding",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Agentic Coding Tool",
+        "learning_value": "值得学习 Claude Code 如何通过终端代理理解代码库、执行日常任务和解释复杂代码，其 agentic 模式可能代表 AI 辅助编程的新范式，可复用至其他工程场景。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agentic Coding 实践，与现有 AI 辅助开发工具链形成对比和扩展。",
+        "suggested_action": "study",
+        "reason": "该工具直接命中 AI-Engineering 主线，代表 agentic coding 的新能力，具有明确学习价值，且 trending 信号强，值得进入 Study Queue。",
+        "confidence": 0.85
+      },
+      "ai_learning_value": "值得学习 Claude Code 如何通过终端代理理解代码库、执行日常任务和解释复杂代码，其 agentic 模式可能代表 AI 辅助编程的新范式，可复用至其他工程场景。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agentic Coding 实践，与现有 AI 辅助开发工具链形成对比和扩展。",
+      "ai_suggested_action": "study",
+      "ai_reason": "该工具直接命中 AI-Engineering 主线，代表 agentic coding 的新能力，具有明确学习价值，且 trending 信号强，值得进入 Study Queue。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning Trending signal: 658 stars today.",
+      "raw_text": "Star OpenBMB / VoxCPM VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning Python 22,625 2,660 Built by 658 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "A platform for reproducible world model research and evaluation Trending signal: 319 stars today.",
+      "raw_text": "Star galilai-group / stable-worldmodel A platform for reproducible world model research and evaluation Python 1,399 163 Built by 319 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 4
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Eval, Evaluation",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI-Engineering: World Model Evaluation",
+        "learning_value": "该平台提供了可复现的世界模型评估方法，值得学习其评估框架和基准设计，以提升AI工程中模型评估的标准化能力。",
+        "vault_relationship": "补充现有专题：AI-Engineering 下的 Evaluation 子专题，可作为评估工具链的候选参考。",
+        "suggested_action": "review",
+        "reason": "与AI-Engineering主线相关，涉及世界模型评估这一新兴方向，但学习价值需人工判断是否纳入正式研究。",
+        "confidence": 0.7
+      },
+      "ai_learning_value": "该平台提供了可复现的世界模型评估方法，值得学习其评估框架和基准设计，以提升AI工程中模型评估的标准化能力。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 下的 Evaluation 子专题，可作为评估工具链的候选参考。",
+      "ai_suggested_action": "review",
+      "ai_reason": "与AI-Engineering主线相关，涉及世界模型评估这一新兴方向，但学习价值需人工判断是否纳入正式研究。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS. Trending signal: 88 stars today.",
+      "raw_text": "Star OpenMOSS / MOSS-TTS MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS. Python 2,553 234 Built by 88 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "Big-Data": 2
+      },
+      "importance_score": 3,
+      "classification_reason": "Big-Data: 命中 Streaming",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Open-Source TTS Model Family",
+        "learning_value": "值得学习其多说话人对话、实时流式TTS和声音设计能力，这些是构建语音交互系统的新模式。",
+        "vault_relationship": "补充现有专题：AI-Open-Source 和 AI-Engineering，特别是语音生成与流式处理方向。",
+        "suggested_action": "review",
+        "reason": "与AI-Open-Source和AI-Engineering主线相关，但学习价值需人工判断是否纳入Study Queue。",
+        "confidence": 0.7
+      },
+      "ai_learning_value": "值得学习其多说话人对话、实时流式TTS和声音设计能力，这些是构建语音交互系统的新模式。",
+      "ai_vault_relationship": "补充现有专题：AI-Open-Source 和 AI-Engineering，特别是语音生成与流式处理方向。",
+      "ai_suggested_action": "review",
+      "ai_reason": "与AI-Open-Source和AI-Engineering主线相关，但学习价值需人工判断是否纳入Study Queue。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "dreammis/social-auto-upload",
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili Trending signal: 106 stars today.",
+      "raw_text": "Star dreammis / social-auto-upload 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili Python 11,700 2,082 Built by 106 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "Public repository for Agent Skills Trending signal: 471 stars today.",
+      "raw_text": "Star anthropics / skills Public repository for Agent Skills Python 143,936 16,963 Built by 471 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2,
+        "AI-Open-Source": 2
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 repository",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI-Engineering / AI-Open-Source",
+        "learning_value": "该仓库展示了 Anthropic 在 Agent Skills 方面的公开实践，值得学习其 Agent 能力设计、评估方法和可复用模式，可能成为构建 Agent 的参考 playbook。",
+        "vault_relationship": "补充现有专题：AI-Engineering 和 AI-Open-Source 下的 Agent 实践，可作为 Agent 能力评估与实现的参考。",
+        "suggested_action": "study",
+        "reason": "高星趋势表明社区关注，且直接命中 Agent 技能这一关键主线，学习价值明确，适合进入 Study Queue。",
+        "confidence": 0.85
+      },
+      "ai_learning_value": "该仓库展示了 Anthropic 在 Agent Skills 方面的公开实践，值得学习其 Agent 能力设计、评估方法和可复用模式，可能成为构建 Agent 的参考 playbook。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 和 AI-Open-Source 下的 Agent 实践，可作为 Agent 能力评估与实现的参考。",
+      "ai_suggested_action": "study",
+      "ai_reason": "高星趋势表明社区关注，且直接命中 Agent 技能这一关键主线，学习价值明确，适合进入 Study Queue。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "NVlabs/Eagle",
+      "url": "https://github.com/NVlabs/Eagle",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "Eagle: Frontier Vision-Language Models with Data-Centric Strategies Trending signal: 124 stars today.",
+      "raw_text": "Star NVlabs / Eagle Eagle: Frontier Vision-Language Models with Data-Centric Strategies Python 1,557 112 Built by 124 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "published_at": "2026-05-30T16:19:26+00:00",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows Trending signal: 13 stars today.",
+      "raw_text": "Star apache / airflow Apache Airflow - A platform to programmatically author, schedule, and monitor workflows Python 45,602 17,138 Built by 13 stars today",
+      "fetched_at": "2026-05-30T16:19:26+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "Big-Data": 4
+      },
+      "importance_score": 2,
+      "classification_reason": "Big-Data: 命中 Apache",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    },
+    {
+      "source_id": "apache-flink",
+      "source_name": "Apache Flink Blog",
+      "source_type": "url",
+      "source_priority": "medium",
+      "title": "Flink Blog | Apache Flink",
+      "url": "https://flink.apache.org/posts/",
+      "published_at": "",
+      "summary": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink St...",
+      "raw_text": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink Stateful Functions Documentation Flink 2.2 (stable) Flink 1.20 (LTS) Flink Master (snapshot) Kubernetes Operator 1.15 (latest) Kubernetes Operator Main (snapshot) CDC 3.6 (stable) CDC Master (snapshot) Agents 0.2 (latest) Agents Main (snapshot) ML 2.3 (stable) ML Master (snapshot) Stateful Functions 3.3 (stable) Stateful Functions Master (snapshot) How to Contribute Overview Contribute Code Review Pull Requests Code Style and Quality Guide Contribute Documentation Documentation Style Guide Contribute to the Website Getting Help Flink Blog Downloads Apache Flink Kubernetes Operator 1.15.0 Release Announcement May 26, 2026 - Gyula Fora The Apache Flink community is excited to announce the release of Flink Kubernetes Operator 1.15.0! This release brings Kubernetes-native Conditions to FlinkDeployment, Logback logging support, bundled metric reporters, Flink 2.2 compatibility, and a number of important reliability fixes across session jobs, savepoints, and the mutating webhook. We encourage you to download the release and share your experience with the community through the Flink mailing lists or JIRA! We’re looking forward to your feedback! ... Continue reading Â» Apache Flink 2.2.1 Rel...",
+      "fetched_at": "2026-05-30T17:03:47+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "AI-Engineering": 4,
+        "AI-Open-Source": 5,
+        "Security": 2,
+        "Big-Data": 53,
+        "Cloud-Native": 7
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 release, pull request；Security: 命中 security；Big-Data: 命中 Flink, CDC, Apache；Cloud-Native: 命中 Kubernetes",
+      "classified_at": "2026-05-30T19:18:09+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Apache Flink 官方博客更新",
+        "learning_value": "Flink 官方博客持续发布关于 Flink CDC、Flink Agents、Flink ML 等新特性的技术文章，值得学习其流处理与 AI 结合的最新工程实践。",
+        "vault_relationship": "补充现有专题：Big-Data 主线中的 Flink 专题，可获取官方最新实践和架构演进。",
+        "suggested_action": "study",
+        "reason": "Flink 是 Big-Data 核心组件，官方博客包含新能力（如 Flink Agents、Flink ML）和可复用模式，学习价值明确。",
+        "confidence": 0.9
+      },
+      "ai_learning_value": "Flink 官方博客持续发布关于 Flink CDC、Flink Agents、Flink ML 等新特性的技术文章，值得学习其流处理与 AI 结合的最新工程实践。",
+      "ai_vault_relationship": "补充现有专题：Big-Data 主线中的 Flink 专题，可获取官方最新实践和架构演进。",
+      "ai_suggested_action": "study",
+      "ai_reason": "Flink 是 Big-Data 核心组件，官方博客包含新能力（如 Flink Agents、Flink ML）和可复用模式，学习价值明确。"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "PR #29948 screenshots",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/pr-29948-screenshots",
+      "published_at": "2026-05-30T01:10:17Z",
+      "summary": "Image assets for PR #29948.",
+      "raw_text": "Image assets for PR #29948.",
+      "fetched_at": "2026-05-30T19:18:08+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-30T19:18:09+00:00"
+    }
+  ]
+}

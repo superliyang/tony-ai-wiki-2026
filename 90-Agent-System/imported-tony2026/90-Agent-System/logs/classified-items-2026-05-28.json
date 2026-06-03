@@ -1,0 +1,360 @@
+{
+  "generated_at": "2026-05-28T18:21:26+00:00",
+  "input": "90-Agent-System/logs/source-items-2026-05-28.json",
+  "items": [
+    {
+      "source_id": "anthropic-news",
+      "source_name": "Anthropic News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Newsroom \\ Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "published_at": "",
+      "summary": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, A...",
+      "raw_text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title May 27, 2026 Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers May 26, 2026 Announcements Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening May 25, 2026 Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" May 22, 2026 Announcements Project Glasswing: An initial update M...",
+      "fetched_at": "2026-05-28T16:10:03+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "deepseek-news",
+      "source_name": "DeepSeek News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Change Log | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates",
+      "published_at": "",
+      "summary": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round...",
+      "raw_text": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 â DeepSeek-V4 â The DeepSeek API now supports V4-Pro and V4-Flash, available via both the OpenAI ChatCompletions interface and the Anthropic interface. To access the new models, the base_url remains unchanged, and the model parameter should be set to deepseek-v4-pro or deepseek-v4-flash . The two legacy API model names, deepseek-chat and deepseek-reasoner , will be discontinued in three months (2026-07-24). During the current period, these two model names point to the non-thinking mode and thinking mode of deepseek-v4-flash , respectively. For more details, please refer to this documentation . Date: 2025-12-01 â DeepSeek-V3.2 â Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2. deepseek-chat corresponds to DeepSeek-V3.2's non-thinking mode deepseek-reasoner corresponds to DeepSeek-V3.2's thinking mode DeepSeek-V3.2-Speciale â DeepSeek-V3.2-Speciale is served via a temporary endpoint: base_url=\" https://api.deepseek.com/v3.2_spec...",
+      "fetched_at": "2026-05-28T16:10:03+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 27,
+        "Security": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent, DeepSeek；Security: 命中 bot",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. Trending signal: 4,685 stars today.",
+      "raw_text": "Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. Python 65,631 9,515 Built by 4,685 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "Python tool for converting files and office documents to Markdown. Trending signal: 1,263 stars today.",
+      "raw_text": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown. Python 127,189 8,699 Built by 1,263 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN Trending signal: 253 stars today.",
+      "raw_text": "Sponsor Star unclecode / crawl4ai 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN Python 66,805 6,845 Built by 253 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS. Trending signal: 53 stars today.",
+      "raw_text": "Star OpenMOSS / MOSS-TTS MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS. Python 2,111 207 Built by 53 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "Big-Data": 2
+      },
+      "importance_score": 3,
+      "classification_reason": "Big-Data: 命中 Streaming",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "Public repository for Agent Skills Trending signal: 791 stars today.",
+      "raw_text": "Star anthropics / skills Public repository for Agent Skills Python 142,573 16,833 Built by 791 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2,
+        "AI-Open-Source": 2
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 repository",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "Fully automatic censorship removal for language models Trending signal: 416 stars today.",
+      "raw_text": "Star p-e-w / heretic Fully automatic censorship removal for language models Python 22,247 2,364 Built by 416 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. Trending signal: 323 stars today.",
+      "raw_text": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. Python 127,269 20,856 Built by 323 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 6
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Claude Code, Agent, Agentic Coding",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets Trending signal: 395 stars today.",
+      "raw_text": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets Python 27,101 4,683 Built by 395 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 Trending signal: 818 stars today.",
+      "raw_text": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 Python 11,431 1,293 Built by 818 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 12,
+        "AI-Open-Source": 2,
+        "Security": 6,
+        "Big-Data": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Claude Code, Codex, Agent, Gemini CLI, Copilot；AI-Open-Source: 命中 GitHub；Security: 命中 security；Big-Data: 命中 Apache",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "published_at": "2026-05-28T16:10:06+00:00",
+      "summary": "Machine Learning Systems Trending signal: 75 stars today.",
+      "raw_text": "Star harvard-edge / cs249r_book Machine Learning Systems Python 24,507 2,938 Built by 75 stars today",
+      "fetched_at": "2026-05-28T16:10:06+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "cloudflare-blog",
+      "source_name": "Cloudflare Blog",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "How we built Cloudflare's data platform and an AI agent on top of it",
+      "url": "https://blog.cloudflare.com/our-unified-data-platform/",
+      "published_at": "2026-05-28T13:00:00+00:00",
+      "summary": "Here’s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
+      "raw_text": "Here’s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
+      "fetched_at": "2026-05-28T16:10:12+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 3,
+        "Big-Data": 1
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent；Big-Data: 命中 Data Platform",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "cloudflare-blog",
+      "source_name": "Cloudflare Blog",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "Iran's Internet is partially restored, Cloudflare Radar data shows",
+      "url": "https://blog.cloudflare.com/iran-internet-partially-restored-may-2026/",
+      "published_at": "2026-05-27T17:25:00+00:00",
+      "summary": "Cloudflare Radar data confirms early indications of a partial Internet restoration in Iran, nearly three months after the shutdown began. Traffic spikes and DNS queries have risen, but network activity is currently just 40% of pre-shutdown levels.",
+      "raw_text": "Cloudflare Radar data confirms early indications of a partial Internet restoration in Iran, nearly three months after the shutdown began. Traffic spikes and DNS queries have risen, but network activity is currently just 40% of pre-shutdown levels.",
+      "fetched_at": "2026-05-28T16:10:12+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "apache-flink",
+      "source_name": "Apache Flink Blog",
+      "source_type": "url",
+      "source_priority": "medium",
+      "title": "Flink Blog | Apache Flink",
+      "url": "https://flink.apache.org/posts/",
+      "published_at": "",
+      "summary": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink St...",
+      "raw_text": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink Stateful Functions Documentation Flink 2.2 (stable) Flink 1.20 (LTS) Flink Master (snapshot) Kubernetes Operator 1.15 (latest) Kubernetes Operator Main (snapshot) CDC 3.6 (stable) CDC Master (snapshot) Agents 0.2 (latest) Agents Main (snapshot) ML 2.3 (stable) ML Master (snapshot) Stateful Functions 3.3 (stable) Stateful Functions Master (snapshot) How to Contribute Overview Contribute Code Review Pull Requests Code Style and Quality Guide Contribute Documentation Documentation Style Guide Contribute to the Website Getting Help Flink Blog Downloads Apache Flink Kubernetes Operator 1.15.0 Release Announcement May 26, 2026 - Gyula Fora The Apache Flink community is excited to announce the release of Flink Kubernetes Operator 1.15.0! This release brings Kubernetes-native Conditions to FlinkDeployment, Logback logging support, bundled metric reporters, Flink 2.2 compatibility, and a number of important reliability fixes across session jobs, savepoints, and the mutating webhook. We encourage you to download the release and share your experience with the community through the Flink mailing lists or JIRA! We’re looking forward to your feedback! ... Continue reading Â» Apache Flink 2.2.1 Rel...",
+      "fetched_at": "2026-05-28T16:27:05+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "AI-Engineering": 4,
+        "AI-Open-Source": 5,
+        "Security": 2,
+        "Big-Data": 53,
+        "Cloud-Native": 7
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 release, pull request；Security: 命中 security；Big-Data: 命中 Flink, CDC, Apache；Cloud-Native: 命中 Kubernetes",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "arxiv-ai-agents",
+      "source_name": "arXiv AI Agents",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "Personal Visual Memory from Explicit and Implicit Evidence",
+      "url": "https://arxiv.org/abs/2605.28806v1",
+      "published_at": "2026-05-27T17:56:11Z",
+      "summary": "Long-term memory is increasingly important for personalized AI agents, yet existing benchmarks and methods remain largely text-centric. Even when images are included, the user-specific information needed for later questions is typically recoverable from text alone, and most memory systems reduce image turns to generic captions. Yet images often carry personal information that text rarely states -- both explicit evidence, such as recurring user-associated entities, and implicit evidence, such as latent user facts inferred from visual or multimodal cues. We introduce a benchmark for personal visual memory that targets both forms of evidence, and propose VisualMem, a hybrid visual--text architecture that augments a text-memory backend with a structured personal visual memory module. Rather...",
+      "raw_text": "Long-term memory is increasingly important for personalized AI agents, yet existing benchmarks and methods remain largely text-centric. Even when images are included, the user-specific information needed for later questions is typically recoverable from text alone, and most memory systems reduce image turns to generic captions. Yet images often carry personal information that text rarely states -- both explicit evidence, such as recurring user-associated entities, and implicit evidence, such as latent user facts inferred from visual or multimodal cues. We introduce a benchmark for personal visual memory that targets both forms of evidence, and propose VisualMem, a hybrid visual--text architecture that augments a text-memory backend with a structured personal visual memory module. Rather than collapsing images into captions, VisualMem uses conversational context to resolve identity, ownership, and durable user facts. Experiments show that VisualMem substantially outperforms prior memory systems on our benchmark while remaining competitive on standard text-memory benchmarks, indicating that personal visual memory is a distinct and important component of long-term memory for personalized AI agents.",
+      "fetched_at": "2026-05-28T16:27:06+00:00",
+      "topic": "Security",
+      "topic_scores": {
+        "AI-Engineering": 3,
+        "Security": 4
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Agent；Security: 命中 bot",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "arxiv-ai-agents",
+      "source_name": "arXiv AI Agents",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "Rethinking Memory as Continuously Evolving Connectivity",
+      "url": "https://arxiv.org/abs/2605.28773v1",
+      "published_at": "2026-05-27T17:35:34Z",
+      "summary": "Existing memory-augmented LLM agents often treat memory as a static repository with pre-defined representations and fixed retrieval pipelines, which is brittle in dynamic agentic environments where feedback, task variation, and heterogeneous signals continuously reshape what should be remembered and how it should be connected. To address this, we propose FluxMem, a connectivity-evolving memory framework that models memory as a heterogeneous graph and progressively refines its topology through three stages: initial connection formation, feedback-driven refinement, and long-term consolidation. During execution, FluxMem repairs missing links, prunes interference, aligns abstraction granularity, and distills recurrent successful trajectories into reusable procedural circuits, guided by one...",
+      "raw_text": "Existing memory-augmented LLM agents often treat memory as a static repository with pre-defined representations and fixed retrieval pipelines, which is brittle in dynamic agentic environments where feedback, task variation, and heterogeneous signals continuously reshape what should be remembered and how it should be connected. To address this, we propose FluxMem, a connectivity-evolving memory framework that models memory as a heterogeneous graph and progressively refines its topology through three stages: initial connection formation, feedback-driven refinement, and long-term consolidation. During execution, FluxMem repairs missing links, prunes interference, aligns abstraction granularity, and distills recurrent successful trajectories into reusable procedural circuits, guided by one metric for memory generalizability and evolutionary maturity. Across three fundamentally distinct benchmarks including LoCoMo, Mind2Web, and GAIA, FluxMem achieves consistent state-of-the-art performance, demonstrating strong adaptation and generalization in complex agentic environments. The code will be open-sourced in https://github.com/zjunlp/LightMem.",
+      "fetched_at": "2026-05-28T16:27:06+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 7,
+        "AI-Open-Source": 3
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent, Eval；AI-Open-Source: 命中 GitHub, repository",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    },
+    {
+      "source_id": "arxiv-ai-agents",
+      "source_name": "arXiv AI Agents",
+      "source_type": "rss",
+      "source_priority": "medium",
+      "title": "SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks",
+      "url": "https://arxiv.org/abs/2605.28764v1",
+      "published_at": "2026-05-27T17:23:00Z",
+      "summary": "Vast quantities of compute (GPU cycles on personal workstations, idle inference servers, and edge devices between jobs) go unused because no incentive-aligned protocol exists for their owners to share them safely and profitably. Existing approaches either require a trusted central coordinator (cloud marketplaces), demand heavy blockchain infrastructure (Golem, BrokerChain), or lack an incentive layer entirely (BOINC, Petals). We propose SwarmHarness, a decentralised protocol in which HarnessAPI skill nodes self-organise into a compute swarm without any central authority. SwarmHarness has three interlocking components: a SwarmRegistry built on a Distributed Hash Table (DHT) for peer discovery and capability advertisement; a SwarmRouter that dispatches tasks to nodes using a utility funct...",
+      "raw_text": "Vast quantities of compute (GPU cycles on personal workstations, idle inference servers, and edge devices between jobs) go unused because no incentive-aligned protocol exists for their owners to share them safely and profitably. Existing approaches either require a trusted central coordinator (cloud marketplaces), demand heavy blockchain infrastructure (Golem, BrokerChain), or lack an incentive layer entirely (BOINC, Petals). We propose SwarmHarness, a decentralised protocol in which HarnessAPI skill nodes self-organise into a compute swarm without any central authority. SwarmHarness has three interlocking components: a SwarmRegistry built on a Distributed Hash Table (DHT) for peer discovery and capability advertisement; a SwarmRouter that dispatches tasks to nodes using a utility function over capability, load, latency, and trust; and SwarmCredit, an incentive mechanism that attributes compute-credit rewards to contributing nodes via a Shapley-value approximation. Nodes earn credits by serving tasks and spend credits to submit them; idle nodes that never contribute drain credits and lose routing priority, creating a self-regulating participation economy. As nodes specialise toward high-reward skills and routing signals act as digital pheromones, the network exhibits emergent collective intelligence analogous to biological swarms. Beyond compute sharing, SwarmHarness is a foundational primitive for autonomous distributed AI agent networks in which agents hire compute, route subtasks, and settle credits without human intermediation.",
+      "fetched_at": "2026-05-28T16:27:06+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 3
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-28T18:21:26+00:00"
+    }
+  ]
+}

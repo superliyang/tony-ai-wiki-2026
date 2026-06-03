@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Agent Learning"
+  short_description: "Build layered AI agent knowledge systems"
+  default_prompt: "Use $ai-agent-learning-system to research AI agent systems, engineering patterns, and application cases in a layered Obsidian learning vault."

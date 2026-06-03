@@ -1,0 +1,147 @@
+version: 1
+
+sources:
+  - id: openai-blog
+    name: OpenAI Blog
+    type: rss
+    url: https://openai.com/news/rss.xml
+    domains:
+      - AI-Engineering
+      - AI-Applications
+    enabled: true
+    priority: high
+
+  - id: anthropic-news
+    name: Anthropic News
+    type: url
+    url: https://www.anthropic.com/news
+    domains:
+      - AI-Engineering
+      - AI-Applications
+    enabled: true
+    priority: high
+
+  - id: deepseek-news
+    name: DeepSeek News
+    type: url
+    url: https://api-docs.deepseek.com/updates
+    domains:
+      - AI-Engineering
+    enabled: true
+    priority: high
+
+  - id: github-trending-ai
+    name: GitHub Trending AI
+    type: github_trending
+    language: python
+    since: daily
+    domains:
+      - AI-Open-Source
+      - AI-Engineering
+    enabled: true
+    priority: medium
+    limit: 10
+
+  - id: manual-url-inbox
+    name: Manual URL Inbox
+    type: manual_urls
+    path: 00-Agent-Inbox/Manual-URLs/inbox.md
+    domains:
+      - AI-Engineering
+      - Security
+      - Big-Data
+      - AI-Open-Source
+    enabled: true
+    priority: high
+    limit: 20
+
+  - id: aws-security-blog
+    name: AWS Security Blog
+    type: rss
+    url: https://aws.amazon.com/blogs/security/feed/
+    domains:
+      - Security
+      - Cloud-Native
+    enabled: true
+    priority: high
+
+  - id: cloudflare-blog
+    name: Cloudflare Blog
+    type: rss
+    url: https://blog.cloudflare.com/rss/
+    domains:
+      - Security
+      - Cloud-Native
+    enabled: true
+    priority: medium
+
+  - id: apache-flink
+    name: Apache Flink Blog
+    type: url
+    url: https://flink.apache.org/posts/
+    domains:
+      - Big-Data
+    enabled: true
+    priority: medium
+
+  - id: arxiv-ai-agents
+    name: arXiv AI Agents
+    type: rss
+    url: "https://export.arxiv.org/api/query?search_query=all:%22LLM%20agent%22%20OR%20all:%22AI%20agent%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    domains:
+      - AI-Engineering
+      - AI-Learning
+    enabled: true
+    priority: medium
+
+  - id: github-langgraph-releases
+    name: LangGraph Releases
+    type: github_releases
+    repo: langchain-ai/langgraph
+    domains:
+      - AI-Open-Source
+      - AI-Engineering
+    enabled: true
+    priority: high
+    limit: 8
+
+  - id: github-litellm-releases
+    name: LiteLLM Releases
+    type: github_releases
+    repo: BerriAI/litellm
+    domains:
+      - AI-Open-Source
+      - AI-Engineering
+    enabled: true
+    priority: medium
+    limit: 8
+
+  - id: github-opencode-releases
+    name: OpenCode Releases
+    type: github_releases
+    repo: sst/opencode
+    domains:
+      - AI-Open-Source
+      - AI-Engineering
+    enabled: true
+    priority: medium
+    limit: 8
+
+  - id: cisa-alerts
+    name: CISA Alerts
+    type: rss
+    url: https://www.cisa.gov/news.xml
+    domains:
+      - Security
+    enabled: true
+    priority: high
+
+  - id: cisa-kev
+    name: CISA Known Exploited Vulnerabilities
+    type: cisa_kev
+    url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
+    domains:
+      - Security
+    enabled: true
+    priority: high
+    limit: 50

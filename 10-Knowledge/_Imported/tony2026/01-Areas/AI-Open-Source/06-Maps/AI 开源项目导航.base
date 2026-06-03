@@ -1,0 +1,47 @@
+filters:
+  file.inFolder("01-Areas/AI-Open-Source")
+formulas:
+  note_link: link(file.path, file.name)
+  section: if(file.inFolder("01-Areas/AI-Open-Source/01-Categories"), "分类", if(file.inFolder("01-Areas/AI-Open-Source/02-Organizations"), "组织", if(file.inFolder("01-Areas/AI-Open-Source/03-Projects"), "项目", if(file.inFolder("01-Areas/AI-Open-Source/04-Patterns"), "模式", if(file.inFolder("01-Areas/AI-Open-Source/05-Case-Studies"), "案例", if(file.inFolder("01-Areas/AI-Open-Source/08-Workflows"), "工作流", if(file.inFolder("01-Areas/AI-Open-Source/09-Watchlist"), "Watchlist", "控制塔")))))))
+properties:
+  formula.note_link:
+    displayName: 笔记
+  formula.section:
+    displayName: 分层
+  file.path:
+    displayName: 路径
+  file.mtime:
+    displayName: 最近更新
+views:
+  - type: table
+    name: 控制塔
+    filters:
+      or:
+        - file.name == "专题总览"
+        - file.name == "学习进度"
+        - file.name == "恢复笔记"
+        - file.name == "分类索引"
+        - file.name == "组织索引"
+        - file.name == "项目索引"
+        - file.name == "模式索引"
+        - file.name == "地图索引"
+        - file.name == "工作流索引"
+        - file.name == "Watchlist 索引"
+    order:
+      - formula.section
+      - file.path
+  - type: table
+    name: 代表项目
+    filters:
+      file.inFolder("01-Areas/AI-Open-Source/03-Projects")
+    order:
+      - file.name
+  - type: table
+    name: 模式与工作流
+    filters:
+      or:
+        - file.inFolder("01-Areas/AI-Open-Source/04-Patterns")
+        - file.inFolder("01-Areas/AI-Open-Source/08-Workflows")
+    order:
+      - formula.section
+      - file.name

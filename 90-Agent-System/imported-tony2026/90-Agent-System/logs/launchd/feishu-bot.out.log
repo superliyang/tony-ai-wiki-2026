@@ -1,0 +1,727 @@
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 05:40:07,129] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 05:40:07,396] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643066113798327266&access_key=cf148f38053fe95927f0879cc4ff0e2d&service_id=33554678&ticket=3f9f5d25-3e31-4506-b402-f2be52354937 [conn_id=7643066113798327266]
+[Lark] [2026-05-23 06:05:28,131] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643066113798327266]
+[Lark] [2026-05-23 06:05:28,132] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643066113798327266&access_key=cf148f38053fe95927f0879cc4ff0e2d&service_id=33554678&ticket=3f9f5d25-3e31-4506-b402-f2be52354937 [conn_id=7643066113798327266]
+[Lark] [2026-05-23 06:05:38,853] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 06:05:39,377] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643072689373285320&access_key=9591c7c782974661a86bae790673993d&service_id=33554678&ticket=91d7cae3-bd48-47c7-8522-729b4a61603d [conn_id=7643072689373285320]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 06:12:10,562] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 06:12:10,861] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643074365194423240&access_key=e776ed5746c5435531cc71e3b8ca9572&service_id=33554678&ticket=c09af8e1-60d9-4951-98f6-a626b6c885dd [conn_id=7643074365194423240]
+[Lark] [2026-05-23 07:10:56,848] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643074365194423240]
+[Lark] [2026-05-23 07:10:56,849] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643074365194423240&access_key=e776ed5746c5435531cc71e3b8ca9572&service_id=33554678&ticket=c09af8e1-60d9-4951-98f6-a626b6c885dd [conn_id=7643074365194423240]
+[Lark] [2026-05-23 07:11:13,307] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 07:11:13,562] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643089586813488094&access_key=7b6f07ce707efece12444047d56f71db&service_id=33554678&ticket=5ba129a8-cae2-4cde-a2a6-d3bce83de307 [conn_id=7643089586813488094]
+[Lark] [2026-05-23 07:57:08,622] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643089586813488094]
+[Lark] [2026-05-23 07:57:08,623] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643089586813488094&access_key=7b6f07ce707efece12444047d56f71db&service_id=33554678&ticket=5ba129a8-cae2-4cde-a2a6-d3bce83de307 [conn_id=7643089586813488094]
+[Lark] [2026-05-23 07:57:29,954] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 07:57:30,204] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643101513398143945&access_key=6ea8895c07a5f46d99e28ae24acac809&service_id=33554678&ticket=c564644a-5a19-49d6-af65-654eeccd1f8e [conn_id=7643101513398143945]
+[Lark] [2026-05-23 08:04:00,372] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643101513398143945]
+[Lark] [2026-05-23 08:04:00,372] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643101513398143945&access_key=6ea8895c07a5f46d99e28ae24acac809&service_id=33554678&ticket=c564644a-5a19-49d6-af65-654eeccd1f8e [conn_id=7643101513398143945]
+[Lark] [2026-05-23 08:04:23,106] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 08:04:23,403] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643103295375969223&access_key=7da56a2a3b10adf6d890b60a82b90cee&service_id=33554678&ticket=1edfec42-f760-47ec-b2cf-e8486692774e [conn_id=7643103295375969223]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 08:40:20,175] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 08:40:20,488] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643112517829872575&access_key=a1c77ed3de95153dfc0aaae28c1803a4&service_id=33554678&ticket=b985a8ee-e860-431a-b7b5-19747cdaa636 [conn_id=7643112517829872575]
+[Lark] [2026-05-23 10:03:35,406] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643112517829872575]
+[Lark] [2026-05-23 10:03:35,407] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643112517829872575&access_key=a1c77ed3de95153dfc0aaae28c1803a4&service_id=33554678&ticket=b985a8ee-e860-431a-b7b5-19747cdaa636 [conn_id=7643112517829872575]
+[Lark] [2026-05-23 10:03:59,335] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 10:03:59,588] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643134099657935818&access_key=34e968b3525ba64008ecf0ad1f0dd0d5&service_id=33554678&ticket=f8e721b2-2b9f-46ed-833b-6b3f655f79ab [conn_id=7643134099657935818]
+[Lark] [2026-05-23 10:19:51,548] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643134099657935818]
+[Lark] [2026-05-23 10:19:51,548] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643134099657935818&access_key=34e968b3525ba64008ecf0ad1f0dd0d5&service_id=33554678&ticket=f8e721b2-2b9f-46ed-833b-6b3f655f79ab [conn_id=7643134099657935818]
+[Lark] [2026-05-23 10:20:00,492] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 10:20:00,751] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643138216682441660&access_key=b655537921061dce0e7d298d4bab5bdb&service_id=33554678&ticket=e4def3e6-8589-4dbe-8a39-f73cf6045425 [conn_id=7643138216682441660]
+[Lark] [2026-05-23 10:38:11,368] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643138216682441660]
+[Lark] [2026-05-23 10:38:11,369] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643138216682441660&access_key=b655537921061dce0e7d298d4bab5bdb&service_id=33554678&ticket=e4def3e6-8589-4dbe-8a39-f73cf6045425 [conn_id=7643138216682441660]
+[Lark] [2026-05-23 10:38:21,204] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 10:38:21,486] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643142964021578711&access_key=44b33d49bc2cd639013d1af8c39784eb&service_id=33554678&ticket=cc3902ee-04ac-4cb8-931e-64cec88a6c7c [conn_id=7643142964021578711]
+[Lark] [2026-05-23 10:53:58,809] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643142964021578711]
+[Lark] [2026-05-23 10:53:58,809] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643142964021578711&access_key=44b33d49bc2cd639013d1af8c39784eb&service_id=33554678&ticket=cc3902ee-04ac-4cb8-931e-64cec88a6c7c [conn_id=7643142964021578711]
+[Lark] [2026-05-23 11:10:22,832] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 11:10:23,192] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643151214758300604&access_key=a79fc354845109a6d98e5ee2db95fc1e&service_id=33554678&ticket=b92fe63b-1538-4bf2-8e95-7d8c738f4adc [conn_id=7643151214758300604]
+[Lark] [2026-05-23 11:23:42,333] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643151214758300604]
+[Lark] [2026-05-23 11:23:42,334] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643151214758300604&access_key=a79fc354845109a6d98e5ee2db95fc1e&service_id=33554678&ticket=b92fe63b-1538-4bf2-8e95-7d8c738f4adc [conn_id=7643151214758300604]
+[Lark] [2026-05-23 11:23:42,673] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 11:23:43,296] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643154641107274718&access_key=a01bf30e7b6edeeebbd50a03774b2a5b&service_id=33554678&ticket=53f0b5bf-2f04-42d3-988b-2d49810e1f9b [conn_id=7643154641107274718]
+[Lark] [2026-05-23 11:40:13,422] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643154641107274718]
+[Lark] [2026-05-23 11:40:13,423] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643154641107274718&access_key=a01bf30e7b6edeeebbd50a03774b2a5b&service_id=33554678&ticket=53f0b5bf-2f04-42d3-988b-2d49810e1f9b [conn_id=7643154641107274718]
+[Lark] [2026-05-23 11:40:18,622] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 11:40:18,832] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643158926930414533&access_key=1f44adcb6fb07b2f582cb9935fd0f1e7&service_id=33554678&ticket=533949b0-d668-483c-b07c-04e861aa4b7e [conn_id=7643158926930414533]
+[Lark] [2026-05-23 11:52:15,521] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643158926930414533]
+[Lark] [2026-05-23 11:52:15,522] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643158926930414533&access_key=1f44adcb6fb07b2f582cb9935fd0f1e7&service_id=33554678&ticket=533949b0-d668-483c-b07c-04e861aa4b7e [conn_id=7643158926930414533]
+[Lark] [2026-05-23 11:52:25,206] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 11:52:25,545] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643162034985880536&access_key=21d14fbfd6d4597ebd01875c91c9b808&service_id=33554678&ticket=91a39b97-2505-4613-a61b-0b778ddb6217 [conn_id=7643162034985880536]
+[Lark] [2026-05-23 12:09:56,509] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643162034985880536]
+[Lark] [2026-05-23 12:09:56,510] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643162034985880536&access_key=21d14fbfd6d4597ebd01875c91c9b808&service_id=33554678&ticket=91a39b97-2505-4613-a61b-0b778ddb6217 [conn_id=7643162034985880536]
+[Lark] [2026-05-23 12:10:16,731] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 12:10:17,047] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643166624519211963&access_key=fa8fb202ed8f06d0b59295ecf39a3375&service_id=33554678&ticket=6df1f2c8-ded0-4da1-83cd-568524645768 [conn_id=7643166624519211963]
+[Lark] [2026-05-23 12:24:49,642] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643166624519211963]
+[Lark] [2026-05-23 12:24:49,643] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643166624519211963&access_key=fa8fb202ed8f06d0b59295ecf39a3375&service_id=33554678&ticket=6df1f2c8-ded0-4da1-83cd-568524645768 [conn_id=7643166624519211963]
+[Lark] [2026-05-23 12:40:19,845] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 12:40:20,161] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643174395787529150&access_key=7abac23a1ea922678f0e0a34cb981f6a&service_id=33554678&ticket=e9b33d3b-75fd-4409-8e40-ad4e4dca815a [conn_id=7643174395787529150]
+[Lark] [2026-05-23 13:13:42,863] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643174395787529150]
+[Lark] [2026-05-23 13:13:42,864] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643174395787529150&access_key=7abac23a1ea922678f0e0a34cb981f6a&service_id=33554678&ticket=e9b33d3b-75fd-4409-8e40-ad4e4dca815a [conn_id=7643174395787529150]
+[Lark] [2026-05-23 13:13:56,362] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 13:13:56,652] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643183039607180254&access_key=dac1713242ec336d85acf6f37a465607&service_id=33554678&ticket=aad90293-7b8b-48ca-841c-67cdc3ad931b [conn_id=7643183039607180254]
+[Lark] [2026-05-23 13:25:57,645] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643183039607180254]
+[Lark] [2026-05-23 13:25:57,646] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643183039607180254&access_key=dac1713242ec336d85acf6f37a465607&service_id=33554678&ticket=aad90293-7b8b-48ca-841c-67cdc3ad931b [conn_id=7643183039607180254]
+[Lark] [2026-05-23 13:26:15,194] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 13:26:15,489] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643186219825269694&access_key=48d629afbded24e8d7449e2656f312af&service_id=33554678&ticket=12c32f00-fb17-4813-b79d-d5f0560da2df [conn_id=7643186219825269694]
+[Lark] [2026-05-23 13:42:06,672] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643186219825269694]
+[Lark] [2026-05-23 13:42:06,673] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643186219825269694&access_key=48d629afbded24e8d7449e2656f312af&service_id=33554678&ticket=12c32f00-fb17-4813-b79d-d5f0560da2df [conn_id=7643186219825269694]
+[Lark] [2026-05-23 13:42:18,680] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 13:42:18,927] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643190379138960353&access_key=09b5cc45ca95cfe29c45cf810bdf507d&service_id=33554678&ticket=2b8c7b0f-3d7d-4e11-8f4e-46a9ae34bd44 [conn_id=7643190379138960353]
+[Lark] [2026-05-23 13:59:53,999] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643190379138960353]
+[Lark] [2026-05-23 13:59:54,000] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643190379138960353&access_key=09b5cc45ca95cfe29c45cf810bdf507d&service_id=33554678&ticket=2b8c7b0f-3d7d-4e11-8f4e-46a9ae34bd44 [conn_id=7643190379138960353]
+[Lark] [2026-05-23 14:15:49,639] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 14:15:49,954] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643199006143187935&access_key=d09e24b4f5cf3d66636f5f13e525b772&service_id=33554678&ticket=8698f1a6-186e-4f66-808c-4ce33d4a7302 [conn_id=7643199006143187935]
+[Lark] [2026-05-23 14:43:23,953] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643199006143187935]
+[Lark] [2026-05-23 14:43:23,956] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643199006143187935&access_key=d09e24b4f5cf3d66636f5f13e525b772&service_id=33554678&ticket=8698f1a6-186e-4f66-808c-4ce33d4a7302 [conn_id=7643199006143187935]
+[Lark] [2026-05-23 14:43:40,338] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 14:43:40,553] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643206169780243390&access_key=876b0ba2573c8aea0ed2c86e475e0fd5&service_id=33554678&ticket=5a850d97-11a0-4977-af61-f8b3fe181d25 [conn_id=7643206169780243390]
+[Lark] [2026-05-23 14:59:41,915] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643206169780243390]
+[Lark] [2026-05-23 14:59:41,916] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643206169780243390&access_key=876b0ba2573c8aea0ed2c86e475e0fd5&service_id=33554678&ticket=5a850d97-11a0-4977-af61-f8b3fe181d25 [conn_id=7643206169780243390]
+[Lark] [2026-05-23 14:59:43,838] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 14:59:44,203] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643210315136306135&access_key=c9005decddf48429b96e2b77fb987ebe&service_id=33554678&ticket=5f0eef1c-79c6-47c3-b4c5-24346f53cc8d [conn_id=7643210315136306135]
+[Lark] [2026-05-23 15:16:41,564] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643210315136306135]
+[Lark] [2026-05-23 15:16:41,564] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643210315136306135&access_key=c9005decddf48429b96e2b77fb987ebe&service_id=33554678&ticket=5f0eef1c-79c6-47c3-b4c5-24346f53cc8d [conn_id=7643210315136306135]
+[Lark] [2026-05-23 15:16:41,751] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 15:16:42,097] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643214680245717966&access_key=dd03368bd21a3d698eeb00f2957bf146&service_id=33554678&ticket=b704f22c-b3a7-4e34-baa9-4c1fa5e2fef7 [conn_id=7643214680245717966]
+[Lark] [2026-05-23 15:28:05,030] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643214680245717966]
+[Lark] [2026-05-23 15:28:05,031] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643214680245717966&access_key=dd03368bd21a3d698eeb00f2957bf146&service_id=33554678&ticket=b704f22c-b3a7-4e34-baa9-4c1fa5e2fef7 [conn_id=7643214680245717966]
+[Lark] [2026-05-23 15:43:36,087] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 15:43:36,102] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-05-23 16:01:34,583] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-05-23 16:01:34,858] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643226258276748258&access_key=69b1c7a4938e6927bdd8216588cd83dd&service_id=33554678&ticket=4b174458-068b-4b66-9489-bf36d9d61355 [conn_id=7643226258276748258]
+[Lark] [2026-05-23 16:07:31,576] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643226258276748258]
+[Lark] [2026-05-23 16:07:31,577] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643226258276748258&access_key=69b1c7a4938e6927bdd8216588cd83dd&service_id=33554678&ticket=4b174458-068b-4b66-9489-bf36d9d61355 [conn_id=7643226258276748258]
+[Lark] [2026-05-23 16:07:44,975] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 16:07:45,465] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643227855769586625&access_key=7ff04771f6409abc20afb83092201248&service_id=33554678&ticket=48e3d8ff-d4ea-478f-8545-bc32d01b0770 [conn_id=7643227855769586625]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 16:11:02,076] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 16:11:02,416] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643228687178206142&access_key=f612e70d3fb3d38b792d34a56cbe543e&service_id=33554678&ticket=640bed65-3017-4b93-83eb-8f7e96a84278 [conn_id=7643228687178206142]
+[Lark] [2026-05-23 16:49:03,430] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643228687178206142]
+[Lark] [2026-05-23 16:49:03,430] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643228687178206142&access_key=f612e70d3fb3d38b792d34a56cbe543e&service_id=33554678&ticket=640bed65-3017-4b93-83eb-8f7e96a84278 [conn_id=7643228687178206142]
+[Lark] [2026-05-23 16:49:17,778] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 16:49:18,018] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643238530986855361&access_key=ac56c799f8b2ceeab396ac9bd43a247a&service_id=33554678&ticket=8e833408-2eda-4199-a998-4cc2c31f0b47 [conn_id=7643238530986855361]
+[Lark] [2026-05-23 17:36:20,506] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643238530986855361]
+[Lark] [2026-05-23 17:36:20,507] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643238530986855361&access_key=ac56c799f8b2ceeab396ac9bd43a247a&service_id=33554678&ticket=8e833408-2eda-4199-a998-4cc2c31f0b47 [conn_id=7643238530986855361]
+[Lark] [2026-05-23 17:36:44,804] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 17:36:45,083] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643250783945804756&access_key=04eeae4739b0d5c8e07b79c254bba545&service_id=33554678&ticket=29641b56-6c5f-462a-aeed-aeb8d533897d [conn_id=7643250783945804756]
+[Lark] [2026-05-23 17:53:40,282] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643250783945804756]
+[Lark] [2026-05-23 17:53:40,283] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643250783945804756&access_key=04eeae4739b0d5c8e07b79c254bba545&service_id=33554678&ticket=29641b56-6c5f-462a-aeed-aeb8d533897d [conn_id=7643250783945804756]
+[Lark] [2026-05-23 18:09:21,367] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 18:09:21,745] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643259184515271615&access_key=4e6bb405a38c315202b083525acd7f21&service_id=33554678&ticket=8cf4be5d-06a1-4cba-b5bb-2951fa0e253e [conn_id=7643259184515271615]
+[Lark] [2026-05-23 18:27:35,718] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643259184515271615]
+[Lark] [2026-05-23 18:27:35,718] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643259184515271615&access_key=4e6bb405a38c315202b083525acd7f21&service_id=33554678&ticket=8cf4be5d-06a1-4cba-b5bb-2951fa0e253e [conn_id=7643259184515271615]
+[Lark] [2026-05-23 18:32:00,634] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 18:32:00,979] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643265029169204167&access_key=58266ad1aeaaa56e47bb7c300e58c6c5&service_id=33554678&ticket=76d69a50-0edb-488a-af50-71881ac73139 [conn_id=7643265029169204167]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 18:37:49,776] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 18:37:50,155] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643266524626750405&access_key=df2dffbc11547ab90acc72b9639e1b14&service_id=33554678&ticket=f72d441f-f188-44c4-8f0f-1d3ce8f2b275 [conn_id=7643266524626750405]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 18:53:08,798] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 18:53:09,062] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643270469970791377&access_key=36074638e68baec186ad41b19b658b1b&service_id=33554678&ticket=1f33bc99-349f-4b20-a09c-65efd97a621f [conn_id=7643270469970791377]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-23 18:55:48,337] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-23 18:55:48,638] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643271161526340568&access_key=2d2c64e67aa77ff0183b577c224c0479&service_id=33554678&ticket=30497076-fdbe-45aa-89f5-d3f3285cc6c3 [conn_id=7643271161526340568]
+[Lark] [2026-05-23 19:17:23,633] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643271161526340568]
+[Lark] [2026-05-23 19:17:23,633] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643271161526340568&access_key=2d2c64e67aa77ff0183b577c224c0479&service_id=33554678&ticket=30497076-fdbe-45aa-89f5-d3f3285cc6c3 [conn_id=7643271161526340568]
+[Lark] [2026-05-23 19:43:04,066] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 19:43:04,390] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643283316171836347&access_key=bf21dec789b8a0ed26fd52b48e862d74&service_id=33554678&ticket=71751a1e-a893-4332-89f9-47986091b4e3 [conn_id=7643283316171836347]
+[Lark] [2026-05-23 20:04:51,801] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643283316171836347]
+[Lark] [2026-05-23 20:04:51,802] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643283316171836347&access_key=bf21dec789b8a0ed26fd52b48e862d74&service_id=33554678&ticket=71751a1e-a893-4332-89f9-47986091b4e3 [conn_id=7643283316171836347]
+[Lark] [2026-05-23 20:04:52,905] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 20:04:54,020] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643288954565823445&access_key=ba80e004df035f78d062fa188f40a14b&service_id=33554678&ticket=8c7eb40c-97fa-4ae6-95d8-9588aa00bb67 [conn_id=7643288954565823445]
+[Lark] [2026-05-23 20:54:28,492] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643288954565823445]
+[Lark] [2026-05-23 20:54:28,493] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643288954565823445&access_key=ba80e004df035f78d062fa188f40a14b&service_id=33554678&ticket=8c7eb40c-97fa-4ae6-95d8-9588aa00bb67 [conn_id=7643288954565823445]
+[Lark] [2026-05-23 21:09:24,782] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 21:09:25,117] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643305581705071586&access_key=0084f50b63f0769a94779ea692b5e5d2&service_id=33554678&ticket=14dd8fa6-ca75-4272-9482-dc112713e739 [conn_id=7643305581705071586]
+[Lark] [2026-05-23 22:01:12,957] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643305581705071586]
+[Lark] [2026-05-23 22:01:12,957] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643305581705071586&access_key=0084f50b63f0769a94779ea692b5e5d2&service_id=33554678&ticket=14dd8fa6-ca75-4272-9482-dc112713e739 [conn_id=7643305581705071586]
+[Lark] [2026-05-23 22:10:22,312] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-23 22:10:22,633] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643321274916490180&access_key=cb8951542a08c06516340e677515bfc7&service_id=33554678&ticket=2ec94dd0-08f5-42a3-9a8f-7e02052ee20e [conn_id=7643321274916490180]
+[Lark] [2026-05-23 23:11:42,216] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643321274916490180]
+[Lark] [2026-05-23 23:11:42,216] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643321274916490180&access_key=cb8951542a08c06516340e677515bfc7&service_id=33554678&ticket=2ec94dd0-08f5-42a3-9a8f-7e02052ee20e [conn_id=7643321274916490180]
+[Lark] [2026-05-24 00:12:18,640] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 00:12:19,678] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643352703471209436&access_key=48a6197dccc20a750872054b799f9e78&service_id=33554678&ticket=12c8590f-cdba-40a6-b650-9a10530d3a04 [conn_id=7643352703471209436]
+[Lark] [2026-05-24 00:51:46,530] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643352703471209436]
+[Lark] [2026-05-24 00:51:46,531] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643352703471209436&access_key=48a6197dccc20a750872054b799f9e78&service_id=33554678&ticket=12c8590f-cdba-40a6-b650-9a10530d3a04 [conn_id=7643352703471209436]
+[Lark] [2026-05-24 01:13:23,794] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 01:13:24,099] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643368442459032524&access_key=656432917b70efc26aafafb403ad2087&service_id=33554678&ticket=f55b42e9-9ef0-45e3-9451-7692421f1195 [conn_id=7643368442459032524]
+[Lark] [2026-05-24 02:14:39,724] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643368442459032524]
+[Lark] [2026-05-24 02:14:39,725] [WARNING] ping failed, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643368442459032524]
+[Lark] [2026-05-24 02:14:39,725] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643368442459032524&access_key=656432917b70efc26aafafb403ad2087&service_id=33554678&ticket=f55b42e9-9ef0-45e3-9451-7692421f1195 [conn_id=7643368442459032524]
+[Lark] [2026-05-24 02:32:06,870] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 02:32:07,505] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643388732180499393&access_key=c46bfee5c0d4b0b929144fab784564f0&service_id=33554678&ticket=f0eea0f5-8978-406f-bb37-d29b90d7852b [conn_id=7643388732180499393]
+[Lark] [2026-05-24 03:15:38,906] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643388732180499393]
+[Lark] [2026-05-24 03:15:38,907] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643388732180499393&access_key=c46bfee5c0d4b0b929144fab784564f0&service_id=33554678&ticket=f0eea0f5-8978-406f-bb37-d29b90d7852b [conn_id=7643388732180499393]
+[Lark] [2026-05-24 03:32:46,177] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 03:32:47,035] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643404367051541446&access_key=16f0863946a424262b0a4504bcb63275&service_id=33554678&ticket=56ec0c97-967e-4579-ad2b-bd34c0e8a9df [conn_id=7643404367051541446]
+[Lark] [2026-05-24 04:17:54,795] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643404367051541446]
+[Lark] [2026-05-24 04:17:54,796] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643404367051541446&access_key=16f0863946a424262b0a4504bcb63275&service_id=33554678&ticket=56ec0c97-967e-4579-ad2b-bd34c0e8a9df [conn_id=7643404367051541446]
+[Lark] [2026-05-24 04:35:01,153] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 04:35:01,522] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643420424497187793&access_key=6bcc99099ade783f804339b908999a62&service_id=33554678&ticket=f60d83a4-3c08-463f-b2ea-1318a129a0c8 [conn_id=7643420424497187793]
+[Lark] [2026-05-24 05:17:18,757] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643420424497187793]
+[Lark] [2026-05-24 05:17:18,758] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643420424497187793&access_key=6bcc99099ade783f804339b908999a62&service_id=33554678&ticket=f60d83a4-3c08-463f-b2ea-1318a129a0c8 [conn_id=7643420424497187793]
+[Lark] [2026-05-24 05:17:19,389] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 05:17:19,754] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643431312964209620&access_key=ea61a8865a1e974c530b551be008424e&service_id=33554678&ticket=b25a3c80-62b5-4a8e-a036-10c8614e7e1f [conn_id=7643431312964209620]
+[Lark] [2026-05-24 06:08:16,996] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643431312964209620]
+[Lark] [2026-05-24 06:08:16,996] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643431312964209620&access_key=ea61a8865a1e974c530b551be008424e&service_id=33554678&ticket=b25a3c80-62b5-4a8e-a036-10c8614e7e1f [conn_id=7643431312964209620]
+[Lark] [2026-05-24 06:18:26,281] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 06:18:26,566] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643447052433869793&access_key=daea82ed4856017070248e9bd41be03c&service_id=33554678&ticket=e0df89ab-5b91-445b-b7ab-d20672584001 [conn_id=7643447052433869793]
+[Lark] [2026-05-24 07:37:24,693] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643447052433869793]
+[Lark] [2026-05-24 07:37:24,693] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643447052433869793&access_key=daea82ed4856017070248e9bd41be03c&service_id=33554678&ticket=e0df89ab-5b91-445b-b7ab-d20672584001 [conn_id=7643447052433869793]
+[Lark] [2026-05-24 07:37:28,013] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 07:37:28,373] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643467413179501502&access_key=7529d0af2cc58e78671dc42273e53abf&service_id=33554678&ticket=22550d27-49a9-42ba-a5ae-dd3fecc2ed7e [conn_id=7643467413179501502]
+[Lark] [2026-05-24 08:37:42,261] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643467413179501502]
+[Lark] [2026-05-24 08:37:42,262] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643467413179501502&access_key=7529d0af2cc58e78671dc42273e53abf&service_id=33554678&ticket=22550d27-49a9-42ba-a5ae-dd3fecc2ed7e [conn_id=7643467413179501502]
+[Lark] [2026-05-24 08:37:53,781] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 08:37:54,074] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643482997262306256&access_key=23cf786df0ddc937ae14e6e8f963a7d5&service_id=33554678&ticket=5dd02800-29c3-4eb0-818c-6664856094e8 [conn_id=7643482997262306256]
+[Lark] [2026-05-24 09:21:20,249] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643482997262306256]
+[Lark] [2026-05-24 09:21:20,249] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643482997262306256&access_key=23cf786df0ddc937ae14e6e8f963a7d5&service_id=33554678&ticket=5dd02800-29c3-4eb0-818c-6664856094e8 [conn_id=7643482997262306256]
+[Lark] [2026-05-24 09:21:26,720] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 09:21:27,005] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643494218211888068&access_key=04a6cc33a2a3edb78fcb96a87d8a7091&service_id=33554678&ticket=23342c37-0e2d-4c25-a0b1-d8fc157d2fb1 [conn_id=7643494218211888068]
+[Lark] [2026-05-24 09:56:35,677] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643494218211888068]
+[Lark] [2026-05-24 09:56:35,677] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643494218211888068&access_key=04a6cc33a2a3edb78fcb96a87d8a7091&service_id=33554678&ticket=23342c37-0e2d-4c25-a0b1-d8fc157d2fb1 [conn_id=7643494218211888068]
+[Lark] [2026-05-24 10:22:31,986] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 10:22:32,305] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643509972907363268&access_key=8ed2920a32f2be0819a2d09b4d97dda8&service_id=33554678&ticket=7e1d61f0-0a2b-4495-8e64-63b4d30f12f5 [conn_id=7643509972907363268]
+[Lark] [2026-05-24 11:23:36,819] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643509972907363268]
+[Lark] [2026-05-24 11:23:36,819] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643509972907363268&access_key=8ed2920a32f2be0819a2d09b4d97dda8&service_id=33554678&ticket=7e1d61f0-0a2b-4495-8e64-63b4d30f12f5 [conn_id=7643509972907363268]
+[Lark] [2026-05-24 11:41:07,447] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 11:41:07,737] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643530206029286364&access_key=4c2a4f45aae23a1f442738b4412e1d55&service_id=33554678&ticket=c1170663-9696-4ede-bbf7-0c4db5a6385d [conn_id=7643530206029286364]
+[Lark] [2026-05-24 12:47:49,545] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643530206029286364]
+[Lark] [2026-05-24 12:47:49,546] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643530206029286364&access_key=4c2a4f45aae23a1f442738b4412e1d55&service_id=33554678&ticket=c1170663-9696-4ede-bbf7-0c4db5a6385d [conn_id=7643530206029286364]
+[Lark] [2026-05-24 12:47:57,245] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 12:47:57,514] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643547437198085092&access_key=fe0d3974b46bbe908620d79dba105c75&service_id=33554678&ticket=e7fb5649-4f1b-456b-bb2a-25ef6f17ce8c [conn_id=7643547437198085092]
+[Lark] [2026-05-24 13:22:01,050] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643547437198085092]
+[Lark] [2026-05-24 13:22:01,051] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643547437198085092&access_key=fe0d3974b46bbe908620d79dba105c75&service_id=33554678&ticket=e7fb5649-4f1b-456b-bb2a-25ef6f17ce8c [conn_id=7643547437198085092]
+[Lark] [2026-05-24 13:22:03,780] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 13:22:04,022] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643556231005522874&access_key=d38edc5d4bc497e299e5423afc43040e&service_id=33554678&ticket=c217da13-6961-45f6-945f-62e50d332046 [conn_id=7643556231005522874]
+[Lark] [2026-05-24 14:13:20,895] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643556231005522874]
+[Lark] [2026-05-24 14:13:20,896] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643556231005522874&access_key=d38edc5d4bc497e299e5423afc43040e&service_id=33554678&ticket=c217da13-6961-45f6-945f-62e50d332046 [conn_id=7643556231005522874]
+[Lark] [2026-05-24 14:26:29,720] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 14:26:30,107] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643572851575966684&access_key=f769eb7625a35af2d7726a02247254c3&service_id=33554678&ticket=423bb111-efaf-46da-b63e-2acfacb789a8 [conn_id=7643572851575966684]
+[Lark] [2026-05-24 15:16:57,293] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643572851575966684]
+[Lark] [2026-05-24 15:16:57,293] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643572851575966684&access_key=f769eb7625a35af2d7726a02247254c3&service_id=33554678&ticket=423bb111-efaf-46da-b63e-2acfacb789a8 [conn_id=7643572851575966684]
+[Lark] [2026-05-24 15:16:59,975] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 15:17:00,248] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643585859941583809&access_key=77161393f99354f74646c734ecf50d91&service_id=33554678&ticket=1c68cf01-76c4-4f8f-9bf7-29489fb018f0 [conn_id=7643585859941583809]
+[Lark] [2026-05-24 16:02:14,461] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643585859941583809]
+[Lark] [2026-05-24 16:02:14,461] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643585859941583809&access_key=77161393f99354f74646c734ecf50d91&service_id=33554678&ticket=1c68cf01-76c4-4f8f-9bf7-29489fb018f0 [conn_id=7643585859941583809]
+[Lark] [2026-05-24 16:19:43,349] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 16:19:43,598] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643602001863658426&access_key=77e9d56bac906d909c4f43b69c160cb0&service_id=33554678&ticket=0e3a2454-73ef-4337-885e-701e8e127177 [conn_id=7643602001863658426]
+[Lark] [2026-05-24 16:43:51,384] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643602001863658426]
+[Lark] [2026-05-24 16:43:51,384] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643602001863658426&access_key=77e9d56bac906d909c4f43b69c160cb0&service_id=33554678&ticket=0e3a2454-73ef-4337-885e-701e8e127177 [conn_id=7643602001863658426]
+[Lark] [2026-05-24 17:00:02,147] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 17:00:02,378] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643612418673200095&access_key=378a199517477bf790c89b559a67ed44&service_id=33554678&ticket=2920b04d-00ba-4a7c-96bc-e346af83c7f6 [conn_id=7643612418673200095]
+[Lark] [2026-05-24 17:47:01,357] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643612418673200095]
+[Lark] [2026-05-24 17:47:01,357] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643612418673200095&access_key=378a199517477bf790c89b559a67ed44&service_id=33554678&ticket=2920b04d-00ba-4a7c-96bc-e346af83c7f6 [conn_id=7643612418673200095]
+[Lark] [2026-05-24 18:03:15,137] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 18:20:09,751] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643633050900106200&access_key=488be335757a068a30fd7a8b61efe873&service_id=33554678&ticket=e9493ef0-97bf-4dd3-9991-148c13a75e74 [conn_id=7643633050900106200]
+[Lark] [2026-05-24 19:25:50,443] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643633050900106200]
+[Lark] [2026-05-24 19:25:50,444] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643633050900106200&access_key=488be335757a068a30fd7a8b61efe873&service_id=33554678&ticket=e9493ef0-97bf-4dd3-9991-148c13a75e74 [conn_id=7643633050900106200]
+[Lark] [2026-05-24 19:31:33,508] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 19:31:33,837] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643651440708094908&access_key=61de071f695ce8a0fe5dfaf4d63bf7a8&service_id=33554678&ticket=b8f6291e-da37-443a-8d94-23dcf9658610 [conn_id=7643651440708094908]
+[Lark] [2026-05-24 20:22:11,513] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643651440708094908]
+[Lark] [2026-05-24 20:22:11,514] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643651440708094908&access_key=61de071f695ce8a0fe5dfaf4d63bf7a8&service_id=33554678&ticket=b8f6291e-da37-443a-8d94-23dcf9658610 [conn_id=7643651440708094908]
+[Lark] [2026-05-24 20:22:11,593] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 20:22:12,301] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643664504840948694&access_key=36602c9fd7b40d62200428248e752977&service_id=33554678&ticket=38aff91f-59b2-4cfb-93c9-24a75b74cb37 [conn_id=7643664504840948694]
+[Lark] [2026-05-24 21:00:31,713] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643664504840948694]
+[Lark] [2026-05-24 21:00:31,714] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643664504840948694&access_key=36602c9fd7b40d62200428248e752977&service_id=33554678&ticket=38aff91f-59b2-4cfb-93c9-24a75b74cb37 [conn_id=7643664504840948694]
+[Lark] [2026-05-24 21:16:57,791] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 21:16:58,705] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643678607697808329&access_key=8faf9188995eb8f2bf58dbd8e08781b9&service_id=33554678&ticket=f96adb88-05f8-4115-a690-411f8d1266c5 [conn_id=7643678607697808329]
+[Lark] [2026-05-24 21:49:14,295] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643678607697808329]
+[Lark] [2026-05-24 21:49:14,296] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643678607697808329&access_key=8faf9188995eb8f2bf58dbd8e08781b9&service_id=33554678&ticket=f96adb88-05f8-4115-a690-411f8d1266c5 [conn_id=7643678607697808329]
+[Lark] [2026-05-24 21:49:31,354] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 21:49:31,740] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643686992052194271&access_key=42c2c0a98ddbe7e40a1aacaff6a4e806&service_id=33554678&ticket=c3400a19-9919-49f9-ad64-3d8b848674bb [conn_id=7643686992052194271]
+[Lark] [2026-05-24 22:34:31,176] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643686992052194271]
+[Lark] [2026-05-24 22:34:31,176] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643686992052194271&access_key=42c2c0a98ddbe7e40a1aacaff6a4e806&service_id=33554678&ticket=c3400a19-9919-49f9-ad64-3d8b848674bb [conn_id=7643686992052194271]
+[Lark] [2026-05-24 22:34:39,281] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-24 22:34:39,568] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643698626677902295&access_key=c0eb4727e42a964ceca8ccd1f097d55e&service_id=33554678&ticket=c38a65bb-f680-4e61-818b-225ab62b8e35 [conn_id=7643698626677902295]
+[Lark] [2026-05-24 23:25:33,585] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643698626677902295]
+[Lark] [2026-05-24 23:25:33,586] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643698626677902295&access_key=c0eb4727e42a964ceca8ccd1f097d55e&service_id=33554678&ticket=c38a65bb-f680-4e61-818b-225ab62b8e35 [conn_id=7643698626677902295]
+[Lark] [2026-05-25 00:10:21,111] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 00:10:23,105] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643723279862090722&access_key=0f106bced4263883fed31b7c150bdbf5&service_id=33554678&ticket=1b42f62e-1fbb-4d18-bf2e-0edc2c461650 [conn_id=7643723279862090722]
+[Lark] [2026-05-25 00:54:32,125] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643723279862090722]
+[Lark] [2026-05-25 00:54:32,126] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643723279862090722&access_key=0f106bced4263883fed31b7c150bdbf5&service_id=33554678&ticket=1b42f62e-1fbb-4d18-bf2e-0edc2c461650 [conn_id=7643723279862090722]
+[Lark] [2026-05-25 01:29:07,106] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 01:29:07,435] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643743576304077760&access_key=bfd929c0aac3af2007b5e69b87423c67&service_id=33554678&ticket=cdefe952-4627-4abf-b4db-e908dcfedaeb [conn_id=7643743576304077760]
+[Lark] [2026-05-25 02:26:34,564] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643743576304077760]
+[Lark] [2026-05-25 02:26:34,565] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643743576304077760&access_key=bfd929c0aac3af2007b5e69b87423c67&service_id=33554678&ticket=cdefe952-4627-4abf-b4db-e908dcfedaeb [conn_id=7643743576304077760]
+[Lark] [2026-05-25 02:38:35,894] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 02:38:36,358] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643761508388309945&access_key=373bd5d4aa30b02d5676d158ad9246b9&service_id=33554678&ticket=9b22c35d-4e14-4234-b729-83829a992fb6 [conn_id=7643761508388309945]
+[Lark] [2026-05-25 03:11:51,847] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643761508388309945]
+[Lark] [2026-05-25 03:11:51,848] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643761508388309945&access_key=373bd5d4aa30b02d5676d158ad9246b9&service_id=33554678&ticket=9b22c35d-4e14-4234-b729-83829a992fb6 [conn_id=7643761508388309945]
+[Lark] [2026-05-25 03:39:41,661] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 03:39:41,972] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643777234717477848&access_key=7dfdf9f3012b3f39cfce5d84fe44d588&service_id=33554678&ticket=bd52170b-6166-4e17-a86c-01d790e3f10b [conn_id=7643777234717477848]
+[Lark] [2026-05-25 04:56:54,901] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643777234717477848]
+[Lark] [2026-05-25 04:56:54,901] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643777234717477848&access_key=7dfdf9f3012b3f39cfce5d84fe44d588&service_id=33554678&ticket=bd52170b-6166-4e17-a86c-01d790e3f10b [conn_id=7643777234717477848]
+[Lark] [2026-05-25 05:13:56,796] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 05:13:58,502] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643801527317253076&access_key=216b72d875c290d79ae0467cd4458cc6&service_id=33554678&ticket=fd324795-6262-468d-b5f5-b48a36084c19 [conn_id=7643801527317253076]
+[Lark] [2026-05-25 06:42:52,832] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643801527317253076]
+[Lark] [2026-05-25 06:42:52,833] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643801527317253076&access_key=216b72d875c290d79ae0467cd4458cc6&service_id=33554678&ticket=fd324795-6262-468d-b5f5-b48a36084c19 [conn_id=7643801527317253076]
+[Lark] [2026-05-25 06:59:08,388] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 06:59:08,669] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643828629286652902&access_key=fb7c3fc4caa23b608337ab93f63c70e6&service_id=33554678&ticket=d1bf63f8-01d3-4e17-ade6-6c9a068f0a47 [conn_id=7643828629286652902]
+[Lark] [2026-05-25 07:43:46,051] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643828629286652902]
+[Lark] [2026-05-25 07:43:46,052] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643828629286652902&access_key=fb7c3fc4caa23b608337ab93f63c70e6&service_id=33554678&ticket=d1bf63f8-01d3-4e17-ade6-6c9a068f0a47 [conn_id=7643828629286652902]
+[Lark] [2026-05-25 07:43:51,135] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 07:43:51,411] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643840151001664471&access_key=865108edd3edc14528910512cf555c2c&service_id=33554678&ticket=05d3dfd2-268d-49a9-81d4-1a019c8edfd1 [conn_id=7643840151001664471]
+[Lark] [2026-05-25 09:02:00,013] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643840151001664471]
+[Lark] [2026-05-25 09:02:00,013] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643840151001664471&access_key=865108edd3edc14528910512cf555c2c&service_id=33554678&ticket=05d3dfd2-268d-49a9-81d4-1a019c8edfd1 [conn_id=7643840151001664471]
+[Lark] [2026-05-25 09:45:49,641] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 09:45:49,899] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643871597442386886&access_key=f221d676f9d7ba53b9826dad1fb42a78&service_id=33554678&ticket=ffe8d74e-e856-4929-9288-aad59f802682 [conn_id=7643871597442386886]
+[Lark] [2026-05-25 10:38:11,894] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643871597442386886]
+[Lark] [2026-05-25 10:38:11,894] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643871597442386886&access_key=f221d676f9d7ba53b9826dad1fb42a78&service_id=33554678&ticket=ffe8d74e-e856-4929-9288-aad59f802682 [conn_id=7643871597442386886]
+[Lark] [2026-05-25 10:46:42,775] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 10:46:43,586] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643887279052819387&access_key=2283d80390ea4ff5dbb14b681461ec16&service_id=33554678&ticket=15eb18bd-27d7-4af0-9fad-f22244643656 [conn_id=7643887279052819387]
+[Lark] [2026-05-25 11:22:43,175] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7643887279052819387]
+[Lark] [2026-05-25 11:22:43,175] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643887279052819387&access_key=2283d80390ea4ff5dbb14b681461ec16&service_id=33554678&ticket=15eb18bd-27d7-4af0-9fad-f22244643656 [conn_id=7643887279052819387]
+[Lark] [2026-05-25 11:47:51,850] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 11:47:52,168] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643903042102397884&access_key=f0687b45996b4154509f83add70f5ad5&service_id=33554678&ticket=ef79fd00-33d3-4be0-a75b-35afc7f553e7 [conn_id=7643903042102397884]
+[Lark] [2026-05-25 12:48:42,873] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643903042102397884]
+[Lark] [2026-05-25 12:48:42,873] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643903042102397884&access_key=f0687b45996b4154509f83add70f5ad5&service_id=33554678&ticket=ef79fd00-33d3-4be0-a75b-35afc7f553e7 [conn_id=7643903042102397884]
+[Lark] [2026-05-25 12:48:47,977] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 12:48:48,239] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643918757206887390&access_key=3471753f542769346211e5dc2588e467&service_id=33554678&ticket=58297ff5-4de7-4ec2-9314-7c0c79de0b98 [conn_id=7643918757206887390]
+[Lark] [2026-05-25 13:27:11,376] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643918757206887390]
+[Lark] [2026-05-25 13:27:11,376] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643918757206887390&access_key=3471753f542769346211e5dc2588e467&service_id=33554678&ticket=58297ff5-4de7-4ec2-9314-7c0c79de0b98 [conn_id=7643918757206887390]
+[Lark] [2026-05-25 13:27:15,877] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 13:27:16,194] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643928662396308422&access_key=807ece2302fc8d8d3d5d020e542568e1&service_id=33554678&ticket=ec7b9fa3-a7f0-4c9c-bf58-ed09a770e0c1 [conn_id=7643928662396308422]
+[Lark] [2026-05-25 14:07:42,779] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643928662396308422]
+[Lark] [2026-05-25 14:07:42,780] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643928662396308422&access_key=807ece2302fc8d8d3d5d020e542568e1&service_id=33554678&ticket=ec7b9fa3-a7f0-4c9c-bf58-ed09a770e0c1 [conn_id=7643928662396308422]
+[Lark] [2026-05-25 14:25:34,465] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 14:25:34,688] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643943689454488524&access_key=f47b1e90432dec9df8c6ea2497dd1df2&service_id=33554678&ticket=0a6ff3e5-b277-45a0-b7d9-6f067d0756d6 [conn_id=7643943689454488524]
+[Lark] [2026-05-25 15:06:08,819] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643943689454488524]
+[Lark] [2026-05-25 15:06:08,820] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643943689454488524&access_key=f47b1e90432dec9df8c6ea2497dd1df2&service_id=33554678&ticket=0a6ff3e5-b277-45a0-b7d9-6f067d0756d6 [conn_id=7643943689454488524]
+[Lark] [2026-05-25 15:51:47,286] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 15:51:47,596] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643965909590248380&access_key=4b0d232271eaefc5c7745cdcd52e1dd5&service_id=33554678&ticket=431ec189-35e2-4887-8a08-38e108725ff6 [conn_id=7643965909590248380]
+[Lark] [2026-05-25 16:52:44,211] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643965909590248380]
+[Lark] [2026-05-25 16:52:44,212] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643965909590248380&access_key=4b0d232271eaefc5c7745cdcd52e1dd5&service_id=33554678&ticket=431ec189-35e2-4887-8a08-38e108725ff6 [conn_id=7643965909590248380]
+[Lark] [2026-05-25 16:52:53,980] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 16:52:54,232] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643981659919141860&access_key=276cd6afd53b7ec75237bc707400ad35&service_id=33554678&ticket=3c9ee14c-8240-4e24-b278-bb7fc83f10af [conn_id=7643981659919141860]
+[Lark] [2026-05-25 17:54:06,709] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643981659919141860]
+[Lark] [2026-05-25 17:54:06,709] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643981659919141860&access_key=276cd6afd53b7ec75237bc707400ad35&service_id=33554678&ticket=3c9ee14c-8240-4e24-b278-bb7fc83f10af [conn_id=7643981659919141860]
+[Lark] [2026-05-25 17:54:19,982] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 17:54:20,206] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643997474738686920&access_key=7ab940bcaec972049fb093b96b7b5e1f&service_id=33554678&ticket=86eb4bad-7f94-45ef-a57b-44ead8931b5e [conn_id=7643997474738686920]
+[Lark] [2026-05-25 19:58:46,048] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7643997474738686920]
+[Lark] [2026-05-25 19:58:46,048] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7643997474738686920&access_key=7ab940bcaec972049fb093b96b7b5e1f&service_id=33554678&ticket=86eb4bad-7f94-45ef-a57b-44ead8931b5e [conn_id=7643997474738686920]
+[Lark] [2026-05-25 20:15:04,019] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 20:15:04,297] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644033750573779902&access_key=e90f32e7cbee60c54384ea490ab1c31b&service_id=33554678&ticket=728c2a93-1742-4fa8-8634-7b87dd0ad6da [conn_id=7644033750573779902]
+[Lark] [2026-05-25 21:22:59,321] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644033750573779902]
+[Lark] [2026-05-25 21:22:59,322] [WARNING] ping failed, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644033750573779902]
+[Lark] [2026-05-25 21:22:59,322] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644033750573779902&access_key=e90f32e7cbee60c54384ea490ab1c31b&service_id=33554678&ticket=728c2a93-1742-4fa8-8634-7b87dd0ad6da [conn_id=7644033750573779902]
+[Lark] [2026-05-25 21:44:55,240] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 21:44:56,028] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644056908996021205&access_key=7b7dcb51228d119ecb77a049e2560ee2&service_id=33554678&ticket=ec2f785e-13cf-415d-9e47-7a5bd039b432 [conn_id=7644056908996021205]
+[Lark] [2026-05-25 22:02:03,317] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644056908996021205]
+[Lark] [2026-05-25 22:02:03,317] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644056908996021205&access_key=7b7dcb51228d119ecb77a049e2560ee2&service_id=33554678&ticket=ec2f785e-13cf-415d-9e47-7a5bd039b432 [conn_id=7644056908996021205]
+[Lark] [2026-05-25 22:19:01,259] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 22:34:02,195] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644069539199011777&access_key=1347845ce1a8f9945a3ffc26983a3862&service_id=33554678&ticket=8b88a52c-8ee0-4e00-bf10-e116426cc6e4 [conn_id=7644069539199011777]
+[Lark] [2026-05-25 23:41:35,401] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644069539199011777]
+[Lark] [2026-05-25 23:41:35,404] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644069539199011777&access_key=1347845ce1a8f9945a3ffc26983a3862&service_id=33554678&ticket=8b88a52c-8ee0-4e00-bf10-e116426cc6e4 [conn_id=7644069539199011777]
+[Lark] [2026-05-25 23:45:55,664] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-25 23:45:56,058] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644088072783383501&access_key=6fb9b8806ff1192f4044d9eb86e85453&service_id=33554678&ticket=65a8b85d-1d27-487b-bbfb-0584ac5d463e [conn_id=7644088072783383501]
+[Lark] [2026-05-26 00:37:11,311] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644088072783383501]
+[Lark] [2026-05-26 00:37:11,311] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644088072783383501&access_key=6fb9b8806ff1192f4044d9eb86e85453&service_id=33554678&ticket=65a8b85d-1d27-487b-bbfb-0584ac5d463e [conn_id=7644088072783383501]
+[Lark] [2026-05-26 01:03:12,514] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 01:03:13,029] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644108007210585033&access_key=b01efc2db3b3e0faed40b4514d20c4d8&service_id=33554678&ticket=b59cd03e-c236-4b41-b2c2-f130c98f5096 [conn_id=7644108007210585033]
+[Lark] [2026-05-26 02:04:13,231] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644108007210585033]
+[Lark] [2026-05-26 02:04:13,232] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644108007210585033&access_key=b01efc2db3b3e0faed40b4514d20c4d8&service_id=33554678&ticket=b59cd03e-c236-4b41-b2c2-f130c98f5096 [conn_id=7644108007210585033]
+[Lark] [2026-05-26 02:39:15,641] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 02:39:15,972] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644132760994548692&access_key=eb26b9bedc169a9bd3ecd59b7d7bab56&service_id=33554678&ticket=41e80b3e-5890-485d-8412-2fd9331ebddd [conn_id=7644132760994548692]
+[Lark] [2026-05-26 03:49:57,412] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644132760994548692]
+[Lark] [2026-05-26 03:49:57,412] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644132760994548692&access_key=eb26b9bedc169a9bd3ecd59b7d7bab56&service_id=33554678&ticket=41e80b3e-5890-485d-8412-2fd9331ebddd [conn_id=7644132760994548692]
+[Lark] [2026-05-26 03:49:58,358] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 03:49:58,686] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644150970995166146&access_key=16563f5a215bd2dd6e6f98a66ff801af&service_id=33554678&ticket=1adac5e3-7a17-44d4-8385-3b31217cd24d [conn_id=7644150970995166146]
+[Lark] [2026-05-26 04:06:11,915] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644150970995166146]
+[Lark] [2026-05-26 04:06:11,916] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644150970995166146&access_key=16563f5a215bd2dd6e6f98a66ff801af&service_id=33554678&ticket=1adac5e3-7a17-44d4-8385-3b31217cd24d [conn_id=7644150970995166146]
+[Lark] [2026-05-26 04:23:50,220] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 04:39:49,628] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644163796932660193&access_key=d6d762c221a3886cd3d833d762e57555&service_id=33554678&ticket=5472ce1e-626b-4c71-bf66-0d0cb6c3e95e [conn_id=7644163796932660193]
+[Lark] [2026-05-26 05:35:57,804] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644163796932660193]
+[Lark] [2026-05-26 05:35:57,805] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644163796932660193&access_key=d6d762c221a3886cd3d833d762e57555&service_id=33554678&ticket=5472ce1e-626b-4c71-bf66-0d0cb6c3e95e [conn_id=7644163796932660193]
+[Lark] [2026-05-26 05:52:00,835] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 05:52:01,158] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644182414709836770&access_key=86c17b69f0ac65b2b70824077e6ca983&service_id=33554678&ticket=1ab07df3-fd50-451e-9def-6c02df2cf4ed [conn_id=7644182414709836770]
+[Lark] [2026-05-26 06:43:29,930] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644182414709836770]
+[Lark] [2026-05-26 06:43:29,930] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644182414709836770&access_key=86c17b69f0ac65b2b70824077e6ca983&service_id=33554678&ticket=1ab07df3-fd50-451e-9def-6c02df2cf4ed [conn_id=7644182414709836770]
+[Lark] [2026-05-26 06:53:04,669] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 06:53:05,009] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644198149569612761&access_key=b7ab00b9ded2925fe12e3bf8be46d7fa&service_id=33554678&ticket=62648656-174e-4751-8e4c-4cdcfe07d302 [conn_id=7644198149569612761]
+[Lark] [2026-05-26 08:10:55,664] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644198149569612761]
+[Lark] [2026-05-26 08:10:55,665] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644198149569612761&access_key=b7ab00b9ded2925fe12e3bf8be46d7fa&service_id=33554678&ticket=62648656-174e-4751-8e4c-4cdcfe07d302 [conn_id=7644198149569612761]
+[Lark] [2026-05-26 08:27:22,699] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 08:27:23,797] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644222461396093909&access_key=1535331ac34dea80c90653bdb231d343&service_id=33554678&ticket=75a0ae21-c602-46e7-80c4-14108a1276e2 [conn_id=7644222461396093909]
+[Lark] [2026-05-26 08:55:18,468] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644222461396093909]
+[Lark] [2026-05-26 08:55:18,469] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644222461396093909&access_key=1535331ac34dea80c90653bdb231d343&service_id=33554678&ticket=75a0ae21-c602-46e7-80c4-14108a1276e2 [conn_id=7644222461396093909]
+[Lark] [2026-05-26 08:55:23,286] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 08:55:24,641] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644229661711961046&access_key=ddc43b0ae636f1092682229af6d4184e&service_id=33554678&ticket=71e955bd-f5a5-4030-a633-da5a3d3137d4 [conn_id=7644229661711961046]
+[Lark] [2026-05-26 09:42:55,060] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644229661711961046]
+[Lark] [2026-05-26 09:42:55,061] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644229661711961046&access_key=ddc43b0ae636f1092682229af6d4184e&service_id=33554678&ticket=71e955bd-f5a5-4030-a633-da5a3d3137d4 [conn_id=7644229661711961046]
+[Lark] [2026-05-26 09:56:08,136] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 09:56:08,423] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644245338391595977&access_key=b6b9ec326fa344da915f6bd46d2da068&service_id=33554678&ticket=7bd41d8a-d987-4082-842c-96fcfb6d8690 [conn_id=7644245338391595977]
+[Lark] [2026-05-26 10:30:27,914] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644245338391595977]
+[Lark] [2026-05-26 10:30:27,915] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644245338391595977&access_key=b6b9ec326fa344da915f6bd46d2da068&service_id=33554678&ticket=7bd41d8a-d987-4082-842c-96fcfb6d8690 [conn_id=7644245338391595977]
+[Lark] [2026-05-26 10:30:30,339] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 10:30:30,607] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644254183735086018&access_key=69b488e89d83841e15fbac7f6aed666c&service_id=33554678&ticket=18b6345e-8b8d-40be-944f-fd4242f21e87 [conn_id=7644254183735086018]
+[Lark] [2026-05-26 12:08:12,085] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644254183735086018]
+[Lark] [2026-05-26 12:08:12,085] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644254183735086018&access_key=69b488e89d83841e15fbac7f6aed666c&service_id=33554678&ticket=18b6345e-8b8d-40be-944f-fd4242f21e87 [conn_id=7644254183735086018]
+[Lark] [2026-05-26 12:59:28,611] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 12:59:28,883] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644292583459867605&access_key=26b0ed43971c9eb5a5008c11df9da29d&service_id=33554678&ticket=45fae63c-051b-4dc7-b2bf-c3ddedea0c87 [conn_id=7644292583459867605]
+[Lark] [2026-05-26 13:47:06,824] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644292583459867605]
+[Lark] [2026-05-26 13:47:06,824] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644292583459867605&access_key=26b0ed43971c9eb5a5008c11df9da29d&service_id=33554678&ticket=45fae63c-051b-4dc7-b2bf-c3ddedea0c87 [conn_id=7644292583459867605]
+[Lark] [2026-05-26 13:47:10,229] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 13:47:10,915] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644304882555587531&access_key=85d0a2905937174fba321fe9b7bc4a7a&service_id=33554678&ticket=65c1b9a1-e9b0-4a64-8c0d-39818e8e377f [conn_id=7644304882555587531]
+[Lark] [2026-05-26 14:35:51,965] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644304882555587531]
+[Lark] [2026-05-26 14:35:51,966] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644304882555587531&access_key=85d0a2905937174fba321fe9b7bc4a7a&service_id=33554678&ticket=65c1b9a1-e9b0-4a64-8c0d-39818e8e377f [conn_id=7644304882555587531]
+[Lark] [2026-05-26 14:36:02,863] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 14:36:03,217] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644317467720207292&access_key=6732fefd329c6e6645b523099ad790d5&service_id=33554678&ticket=f19b3dd0-777c-444f-b799-b04b536613aa [conn_id=7644317467720207292]
+[Lark] [2026-05-26 15:24:10,352] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644317467720207292]
+[Lark] [2026-05-26 15:24:10,353] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644317467720207292&access_key=6732fefd329c6e6645b523099ad790d5&service_id=33554678&ticket=f19b3dd0-777c-444f-b799-b04b536613aa [conn_id=7644317467720207292]
+[Lark] [2026-05-26 15:48:16,852] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 15:48:17,200] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644336086885665724&access_key=38394b50c144e546399d8130269c7bdb&service_id=33554678&ticket=c79250cc-b217-4099-b216-b6916aa53f39 [conn_id=7644336086885665724]
+[Lark] [2026-05-26 16:49:06,174] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644336086885665724]
+[Lark] [2026-05-26 16:49:06,175] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644336086885665724&access_key=38394b50c144e546399d8130269c7bdb&service_id=33554678&ticket=c79250cc-b217-4099-b216-b6916aa53f39 [conn_id=7644336086885665724]
+[Lark] [2026-05-26 16:49:14,549] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 16:49:14,875] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644351788930567120&access_key=659207a9384ac9dfb1df2bbacb21125e&service_id=33554678&ticket=a1878430-c1ac-4973-bfed-7cf56f763c20 [conn_id=7644351788930567120]
+[Lark] [2026-05-26 17:50:06,376] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644351788930567120]
+[Lark] [2026-05-26 17:50:06,376] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644351788930567120&access_key=659207a9384ac9dfb1df2bbacb21125e&service_id=33554678&ticket=a1878430-c1ac-4973-bfed-7cf56f763c20 [conn_id=7644351788930567120]
+[Lark] [2026-05-26 18:07:16,998] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 18:07:17,333] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644371895673424860&access_key=45e026588eb02d38c1619c4e5c181c17&service_id=33554678&ticket=87253910-e890-4dad-b25f-8c3a10725cde [conn_id=7644371895673424860]
+[Lark] [2026-05-26 19:08:17,243] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644371895673424860]
+[Lark] [2026-05-26 19:08:17,244] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644371895673424860&access_key=45e026588eb02d38c1619c4e5c181c17&service_id=33554678&ticket=87253910-e890-4dad-b25f-8c3a10725cde [conn_id=7644371895673424860]
+[Lark] [2026-05-26 19:25:11,838] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 19:25:12,151] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644391968299371463&access_key=36124d960008c9d516594001cd6582a1&service_id=33554678&ticket=a1fd0a6a-411c-4dae-ae39-493402e8841d [conn_id=7644391968299371463]
+[Lark] [2026-05-26 19:58:45,957] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644391968299371463]
+[Lark] [2026-05-26 19:58:45,958] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644391968299371463&access_key=36124d960008c9d516594001cd6582a1&service_id=33554678&ticket=a1fd0a6a-411c-4dae-ae39-493402e8841d [conn_id=7644391968299371463]
+[Lark] [2026-05-26 19:58:56,889] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 19:58:57,236] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644400671463164868&access_key=7e4bbb638ccb60a33e23fcdef1795eaf&service_id=33554678&ticket=f52f6edc-140d-4a40-b839-e3039c9d9089 [conn_id=7644400671463164868]
+[Lark] [2026-05-26 21:03:51,305] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644400671463164868]
+[Lark] [2026-05-26 21:03:51,305] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644400671463164868&access_key=7e4bbb638ccb60a33e23fcdef1795eaf&service_id=33554678&ticket=f52f6edc-140d-4a40-b839-e3039c9d9089 [conn_id=7644400671463164868]
+[Lark] [2026-05-26 21:19:35,029] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 21:19:35,530] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644421459026070494&access_key=9cded918e012dae97d431f94680e5f3f&service_id=33554678&ticket=658c1a31-fd22-41f6-864b-8ed8cb660ea4 [conn_id=7644421459026070494]
+[Lark] [2026-05-26 22:18:52,506] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644421459026070494]
+[Lark] [2026-05-26 22:18:52,506] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644421459026070494&access_key=9cded918e012dae97d431f94680e5f3f&service_id=33554678&ticket=658c1a31-fd22-41f6-864b-8ed8cb660ea4 [conn_id=7644421459026070494]
+[Lark] [2026-05-26 22:41:49,601] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-26 22:41:51,503] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644442673444670408&access_key=7915348d27a6d5406be647fd19c2d9fe&service_id=33554678&ticket=e2649e70-5c50-44b5-bc32-450888fe12c3 [conn_id=7644442673444670408]
+[Lark] [2026-05-26 23:47:51,166] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644442673444670408]
+[Lark] [2026-05-26 23:47:51,166] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644442673444670408&access_key=7915348d27a6d5406be647fd19c2d9fe&service_id=33554678&ticket=e2649e70-5c50-44b5-bc32-450888fe12c3 [conn_id=7644442673444670408]
+[Lark] [2026-05-27 00:05:10,555] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 00:05:10,916] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644464128136776632&access_key=edd434529f8640d66871bc7c47637f10&service_id=33554678&ticket=a8d4fac1-f137-487e-a419-6afd1a983cbd [conn_id=7644464128136776632]
+[Lark] [2026-05-27 00:43:15,224] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644464128136776632]
+[Lark] [2026-05-27 00:43:15,225] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644464128136776632&access_key=edd434529f8640d66871bc7c47637f10&service_id=33554678&ticket=a8d4fac1-f137-487e-a419-6afd1a983cbd [conn_id=7644464128136776632]
+[Lark] [2026-05-27 01:32:24,417] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 01:32:24,699] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644486596256091081&access_key=50eb8c51942fcde36a9d1bf180a4e57d&service_id=33554678&ticket=368ee530-4a06-47a5-8fe8-dec9e0973f56 [conn_id=7644486596256091081]
+[Lark] [2026-05-27 02:56:58,462] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644486596256091081]
+[Lark] [2026-05-27 02:56:58,463] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644486596256091081&access_key=50eb8c51942fcde36a9d1bf180a4e57d&service_id=33554678&ticket=368ee530-4a06-47a5-8fe8-dec9e0973f56 [conn_id=7644486596256091081]
+[Lark] [2026-05-27 03:48:55,340] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 03:48:55,650] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644521781219920862&access_key=32b9a4140fc8483a53d69a7c44d161ed&service_id=33554678&ticket=572dff98-138c-48bb-b06d-fd90d4442bc0 [conn_id=7644521781219920862]
+[Lark] [2026-05-27 05:10:12,696] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644521781219920862]
+[Lark] [2026-05-27 05:10:12,697] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644521781219920862&access_key=32b9a4140fc8483a53d69a7c44d161ed&service_id=33554678&ticket=572dff98-138c-48bb-b06d-fd90d4442bc0 [conn_id=7644521781219920862]
+[Lark] [2026-05-27 05:27:39,478] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 05:27:39,819] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644547237275814840&access_key=fefef27c5b2a8c6dc986a0a182c83f40&service_id=33554678&ticket=f685abc6-3477-40c9-88d9-72e9e9ba43ff [conn_id=7644547237275814840]
+[Lark] [2026-05-27 06:31:28,532] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644547237275814840]
+[Lark] [2026-05-27 06:31:28,532] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644547237275814840&access_key=fefef27c5b2a8c6dc986a0a182c83f40&service_id=33554678&ticket=f685abc6-3477-40c9-88d9-72e9e9ba43ff [conn_id=7644547237275814840]
+[Lark] [2026-05-27 06:53:08,171] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 07:09:36,918] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[Lark] [2026-05-27 08:39:18,767] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-05-27 08:39:19,146] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644596601157176267&access_key=f9bc2c451cd0bf9bbeb50dd41ef16dfc&service_id=33554678&ticket=58c96d18-19de-43ed-9a84-99c94f149ea9 [conn_id=7644596601157176267]
+[Lark] [2026-05-27 09:29:07,261] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644596601157176267]
+[Lark] [2026-05-27 09:29:07,262] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644596601157176267&access_key=f9bc2c451cd0bf9bbeb50dd41ef16dfc&service_id=33554678&ticket=58c96d18-19de-43ed-9a84-99c94f149ea9 [conn_id=7644596601157176267]
+[Lark] [2026-05-27 09:29:10,399] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 09:29:10,731] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644609473269566418&access_key=5905c56fd77dbc3d5a7184956fe55501&service_id=33554678&ticket=72186921-d97e-414d-8a41-21685cce7d35 [conn_id=7644609473269566418]
+[Lark] [2026-05-27 10:15:50,335] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644609473269566418]
+[Lark] [2026-05-27 10:15:50,335] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644609473269566418&access_key=5905c56fd77dbc3d5a7184956fe55501&service_id=33554678&ticket=72186921-d97e-414d-8a41-21685cce7d35 [conn_id=7644609473269566418]
+[Lark] [2026-05-27 11:05:27,711] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 11:05:28,068] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644634282292906958&access_key=bcdff7abecc12f7c0f0b6c4462a6761d&service_id=33554678&ticket=7138b64d-d60f-4dc1-beab-0960c51bd9ae [conn_id=7644634282292906958]
+[Lark] [2026-05-27 11:25:50,127] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644634282292906958]
+[Lark] [2026-05-27 11:25:50,127] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644634282292906958&access_key=bcdff7abecc12f7c0f0b6c4462a6761d&service_id=33554678&ticket=7138b64d-d60f-4dc1-beab-0960c51bd9ae [conn_id=7644634282292906958]
+[Lark] [2026-05-27 11:57:03,316] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 11:57:04,501] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644647594014018532&access_key=bb8f3d9ef8c6b55e14b10cce0ab42ee7&service_id=33554678&ticket=dcb40367-febe-41dc-b49f-bbfcddd3e8e2 [conn_id=7644647594014018532]
+[Lark] [2026-05-27 13:21:38,707] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644647594014018532]
+[Lark] [2026-05-27 13:21:38,708] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644647594014018532&access_key=bb8f3d9ef8c6b55e14b10cce0ab42ee7&service_id=33554678&ticket=dcb40367-febe-41dc-b49f-bbfcddd3e8e2 [conn_id=7644647594014018532]
+[Lark] [2026-05-27 13:34:14,485] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 13:34:14,781] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644672637062466509&access_key=9e75e8ae754bb40800b382d69d4e545d&service_id=33554678&ticket=92f0b730-4bcd-45b2-8f5d-cb29558c8baa [conn_id=7644672637062466509]
+[Lark] [2026-05-27 14:21:54,535] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644672637062466509]
+[Lark] [2026-05-27 14:21:54,535] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644672637062466509&access_key=9e75e8ae754bb40800b382d69d4e545d&service_id=33554678&ticket=92f0b730-4bcd-45b2-8f5d-cb29558c8baa [conn_id=7644672637062466509]
+[Lark] [2026-05-27 14:28:04,334] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 14:28:04,671] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644686497883409352&access_key=e252eea02ff532dcdabd3934812d2c57&service_id=33554678&ticket=ba961161-16de-4c5d-ac38-a58e8ff682cb [conn_id=7644686497883409352]
+[Lark] [2026-05-27 15:34:43,957] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644686497883409352]
+[Lark] [2026-05-27 15:34:43,958] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644686497883409352&access_key=e252eea02ff532dcdabd3934812d2c57&service_id=33554678&ticket=ba961161-16de-4c5d-ac38-a58e8ff682cb [conn_id=7644686497883409352]
+[Lark] [2026-05-27 16:24:52,958] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 16:24:53,288] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644716593691986914&access_key=848c1567e261217ac7fc012759c8d97e&service_id=33554678&ticket=bdaac97b-539c-4a8f-b299-84257aa31ed9 [conn_id=7644716593691986914]
+[Lark] [2026-05-27 16:51:11,206] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644716593691986914]
+[Lark] [2026-05-27 16:51:11,207] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644716593691986914&access_key=848c1567e261217ac7fc012759c8d97e&service_id=33554678&ticket=bdaac97b-539c-4a8f-b299-84257aa31ed9 [conn_id=7644716593691986914]
+[Lark] [2026-05-27 17:25:42,545] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 17:25:42,877] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644732279230974929&access_key=14ade4b07c1205a01c101254f6c892fe&service_id=33554678&ticket=d45f78e5-54f0-466b-a909-a7abca550334 [conn_id=7644732279230974929]
+[Lark] [2026-05-27 18:16:39,071] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644732279230974929]
+[Lark] [2026-05-27 18:16:39,071] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644732279230974929&access_key=14ade4b07c1205a01c101254f6c892fe&service_id=33554678&ticket=d45f78e5-54f0-466b-a909-a7abca550334 [conn_id=7644732279230974929]
+[Lark] [2026-05-27 18:49:06,870] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 18:49:07,188] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644753774212385752&access_key=d49e3379d2fb1f9bf9e6ef6aec7a8ebf&service_id=33554678&ticket=2be89929-37df-4da7-a8fa-b49b7a12ae9b [conn_id=7644753774212385752]
+[Lark] [2026-05-27 19:39:48,765] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644753774212385752]
+[Lark] [2026-05-27 19:39:48,765] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644753774212385752&access_key=d49e3379d2fb1f9bf9e6ef6aec7a8ebf&service_id=33554678&ticket=2be89929-37df-4da7-a8fa-b49b7a12ae9b [conn_id=7644753774212385752]
+[Lark] [2026-05-27 20:27:19,275] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 20:27:19,720] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644779070483663803&access_key=b8e564d902b404a77fc24c08b5e92c8f&service_id=33554678&ticket=62b9fb7e-c5f0-4bfc-9cf4-99eff7cc1646 [conn_id=7644779070483663803]
+[Lark] [2026-05-27 21:32:10,552] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644779070483663803]
+[Lark] [2026-05-27 21:32:10,553] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644779070483663803&access_key=b8e564d902b404a77fc24c08b5e92c8f&service_id=33554678&ticket=62b9fb7e-c5f0-4bfc-9cf4-99eff7cc1646 [conn_id=7644779070483663803]
+[Lark] [2026-05-27 22:19:26,566] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 22:19:26,979] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644807969956613080&access_key=6624600139307e8d36090c0ef32a2d6b&service_id=33554678&ticket=459bc8df-b7a5-47fd-b58d-f72d779cb0c4 [conn_id=7644807969956613080]
+[Lark] [2026-05-27 22:58:42,404] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644807969956613080]
+[Lark] [2026-05-27 22:58:42,404] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644807969956613080&access_key=6624600139307e8d36090c0ef32a2d6b&service_id=33554678&ticket=459bc8df-b7a5-47fd-b58d-f72d779cb0c4 [conn_id=7644807969956613080]
+[Lark] [2026-05-27 22:58:44,525] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-27 22:58:44,868] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644818102185839562&access_key=d495a87624cfbce7ba0500abc81cd3f3&service_id=33554678&ticket=44bc3f94-0a6a-4688-8926-7ff694a4c8b2 [conn_id=7644818102185839562]
+[Lark] [2026-05-28 00:14:41,944] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644818102185839562]
+[Lark] [2026-05-28 00:14:41,945] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644818102185839562&access_key=d495a87624cfbce7ba0500abc81cd3f3&service_id=33554678&ticket=44bc3f94-0a6a-4688-8926-7ff694a4c8b2 [conn_id=7644818102185839562]
+[Lark] [2026-05-28 00:47:25,498] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 00:47:26,529] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644846086113414094&access_key=6014c792a6a32f89f5906dae99084b88&service_id=33554678&ticket=2f90a98d-5bc5-4eae-b169-0b51ef1ecb03 [conn_id=7644846086113414094]
+[Lark] [2026-05-28 01:20:47,423] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644846086113414094]
+[Lark] [2026-05-28 01:20:47,423] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644846086113414094&access_key=6014c792a6a32f89f5906dae99084b88&service_id=33554678&ticket=2f90a98d-5bc5-4eae-b169-0b51ef1ecb03 [conn_id=7644846086113414094]
+[Lark] [2026-05-28 02:09:05,798] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 02:09:06,165] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644867144941407169&access_key=5ac5cf65659c60bf8b760e8a3d113dd2&service_id=33554678&ticket=4c697b23-904b-4924-9012-65ee69fea8aa [conn_id=7644867144941407169]
+[Lark] [2026-05-28 02:32:15,496] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644867144941407169]
+[Lark] [2026-05-28 02:32:15,497] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644867144941407169&access_key=5ac5cf65659c60bf8b760e8a3d113dd2&service_id=33554678&ticket=4c697b23-904b-4924-9012-65ee69fea8aa [conn_id=7644867144941407169]
+[Lark] [2026-05-28 02:49:37,396] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 02:49:37,748] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644877595634125764&access_key=d71cf72621e3b8bde3c6f4c7b2446490&service_id=33554678&ticket=5bf03c37-bd8f-4dc6-b5c7-5aa22432087f [conn_id=7644877595634125764]
+[Lark] [2026-05-28 03:43:31,273] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644877595634125764]
+[Lark] [2026-05-28 03:43:31,273] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644877595634125764&access_key=d71cf72621e3b8bde3c6f4c7b2446490&service_id=33554678&ticket=5bf03c37-bd8f-4dc6-b5c7-5aa22432087f [conn_id=7644877595634125764]
+[Lark] [2026-05-28 04:33:53,636] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 04:33:53,915] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644904465908354008&access_key=b832c9ff9d040c4e2fd799dc99b53472&service_id=33554678&ticket=4dda76ba-5895-4139-9ecf-16b599b20ce0 [conn_id=7644904465908354008]
+[Lark] [2026-05-28 05:24:18,758] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644904465908354008]
+[Lark] [2026-05-28 05:24:18,759] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644904465908354008&access_key=b832c9ff9d040c4e2fd799dc99b53472&service_id=33554678&ticket=4dda76ba-5895-4139-9ecf-16b599b20ce0 [conn_id=7644904465908354008]
+[Lark] [2026-05-28 05:39:58,074] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 05:39:58,400] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644921483911842785&access_key=21285c83712b754baf33da4ee4cac3fc&service_id=33554678&ticket=296fa4e6-08ab-45c4-8cfe-c4f644877fae [conn_id=7644921483911842785]
+[Lark] [2026-05-28 06:08:09,719] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644921483911842785]
+[Lark] [2026-05-28 06:08:09,720] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644921483911842785&access_key=21285c83712b754baf33da4ee4cac3fc&service_id=33554678&ticket=296fa4e6-08ab-45c4-8cfe-c4f644877fae [conn_id=7644921483911842785]
+[Lark] [2026-05-28 06:54:02,542] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 06:54:02,911] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644940568473619430&access_key=b03fa806b20a18e5b7d77fd5449e29b1&service_id=33554678&ticket=f2904340-d18c-4f9a-bdfb-50127ae5bc6f [conn_id=7644940568473619430]
+[Lark] [2026-05-28 07:10:19,960] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644940568473619430]
+[Lark] [2026-05-28 07:10:19,961] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644940568473619430&access_key=b03fa806b20a18e5b7d77fd5449e29b1&service_id=33554678&ticket=f2904340-d18c-4f9a-bdfb-50127ae5bc6f [conn_id=7644940568473619430]
+[Lark] [2026-05-28 07:10:22,196] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 07:10:22,818] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644944772805970896&access_key=4aa078c322b48e57fb7edbebbb262f8f&service_id=33554678&ticket=24908a04-d970-4612-818c-280fa997667d [conn_id=7644944772805970896]
+[Lark] [2026-05-28 08:39:10,683] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7644944772805970896]
+[Lark] [2026-05-28 08:39:10,684] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644944772805970896&access_key=4aa078c322b48e57fb7edbebbb262f8f&service_id=33554678&ticket=24908a04-d970-4612-818c-280fa997667d [conn_id=7644944772805970896]
+[Lark] [2026-05-28 09:09:53,942] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 09:09:54,325] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644975582187555812&access_key=bfe3bc467b0a13991fd030045195ba68&service_id=33554678&ticket=5ee4bae9-618a-49b7-807d-68a91778d919 [conn_id=7644975582187555812]
+[Lark] [2026-05-28 09:43:21,054] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7644975582187555812]
+[Lark] [2026-05-28 09:43:21,055] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7644975582187555812&access_key=bfe3bc467b0a13991fd030045195ba68&service_id=33554678&ticket=5ee4bae9-618a-49b7-807d-68a91778d919 [conn_id=7644975582187555812]
+[Lark] [2026-05-28 10:48:04,643] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 10:48:04,903] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645000889220484060&access_key=180db562763f4637baff4b2f164de8d6&service_id=33554678&ticket=03097c26-cecf-4ab4-8a8c-84ffc2a5dfc0 [conn_id=7645000889220484060]
+[Lark] [2026-05-28 11:39:16,291] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645000889220484060]
+[Lark] [2026-05-28 11:39:16,292] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645000889220484060&access_key=180db562763f4637baff4b2f164de8d6&service_id=33554678&ticket=03097c26-cecf-4ab4-8a8c-84ffc2a5dfc0 [conn_id=7645000889220484060]
+[Lark] [2026-05-28 11:57:13,032] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 11:57:13,900] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645018721417890769&access_key=682b4608b09a9067e7ffe856dcf863b5&service_id=33554678&ticket=9123dd08-ab21-4b55-bb2b-ef3c1bd66799 [conn_id=7645018721417890769]
+[Lark] [2026-05-28 12:29:24,132] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645018721417890769]
+[Lark] [2026-05-28 12:29:24,132] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645018721417890769&access_key=682b4608b09a9067e7ffe856dcf863b5&service_id=33554678&ticket=9123dd08-ab21-4b55-bb2b-ef3c1bd66799 [conn_id=7645018721417890769]
+[Lark] [2026-05-28 12:45:54,400] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 12:45:54,726] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645031239309822945&access_key=c95550ebf3b2b0da5741b43e71d3d9f5&service_id=33554678&ticket=13f5d6c6-4592-4913-9e2b-33f00b2f9221 [conn_id=7645031239309822945]
+[Lark] [2026-05-28 13:20:44,341] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645031239309822945]
+[Lark] [2026-05-28 13:20:44,341] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645031239309822945&access_key=c95550ebf3b2b0da5741b43e71d3d9f5&service_id=33554678&ticket=13f5d6c6-4592-4913-9e2b-33f00b2f9221 [conn_id=7645031239309822945]
+[Lark] [2026-05-28 14:44:27,380] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 14:44:27,665] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645061791554931662&access_key=84634d4d526c6fced73228325789537f&service_id=33554678&ticket=b956c826-ae4c-4bcd-8382-0b052227781b [conn_id=7645061791554931662]
+[Lark] [2026-05-28 15:07:23,012] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645061791554931662]
+[Lark] [2026-05-28 15:07:23,012] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645061791554931662&access_key=84634d4d526c6fced73228325789537f&service_id=33554678&ticket=b956c826-ae4c-4bcd-8382-0b052227781b [conn_id=7645061791554931662]
+[Lark] [2026-05-28 15:07:28,500] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 15:07:28,780] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645067742168894412&access_key=b80127219eff7a20109fec90b211d493&service_id=33554678&ticket=9dee733c-31b7-4009-8d5e-cea67ee11279 [conn_id=7645067742168894412]
+[Lark] [2026-05-28 16:23:00,134] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645067742168894412]
+[Lark] [2026-05-28 16:23:00,135] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645067742168894412&access_key=b80127219eff7a20109fec90b211d493&service_id=33554678&ticket=9dee733c-31b7-4009-8d5e-cea67ee11279 [conn_id=7645067742168894412]
+[Lark] [2026-05-28 17:14:32,083] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 17:14:33,536] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645100455161727928&access_key=7107702a9af1ab5e7c1ed9f7c0f12fc4&service_id=33554678&ticket=bd5bad86-4e42-4593-98ff-6c2c40e78b70 [conn_id=7645100455161727928]
+[Lark] [2026-05-28 17:48:52,508] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645100455161727928]
+[Lark] [2026-05-28 17:48:52,508] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645100455161727928&access_key=7107702a9af1ab5e7c1ed9f7c0f12fc4&service_id=33554678&ticket=bd5bad86-4e42-4593-98ff-6c2c40e78b70 [conn_id=7645100455161727928]
+[Lark] [2026-05-28 18:23:25,712] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 18:23:26,021] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645118242944142286&access_key=6e22a52fe9a7fa72751899cf49f61db8&service_id=33554678&ticket=5fcf71a9-822e-472d-a048-5b0b13509df7 [conn_id=7645118242944142286]
+[Lark] [2026-05-28 19:42:26,926] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645118242944142286]
+[Lark] [2026-05-28 19:42:26,927] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645118242944142286&access_key=6e22a52fe9a7fa72751899cf49f61db8&service_id=33554678&ticket=5fcf71a9-822e-472d-a048-5b0b13509df7 [conn_id=7645118242944142286]
+[Lark] [2026-05-28 20:31:48,228] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 20:31:48,596] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645151302658788321&access_key=ad185a811af3fed01a1cc0bf25b29c39&service_id=33554678&ticket=4772f8da-5c9b-4e14-b534-820df8836730 [conn_id=7645151302658788321]
+[Lark] [2026-05-28 22:11:33,855] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645151302658788321]
+[Lark] [2026-05-28 22:11:33,855] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645151302658788321&access_key=ad185a811af3fed01a1cc0bf25b29c39&service_id=33554678&ticket=4772f8da-5c9b-4e14-b534-820df8836730 [conn_id=7645151302658788321]
+[Lark] [2026-05-28 23:19:59,663] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-28 23:20:00,563] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645194657354009546&access_key=f8d8200d2af00edc54174d8364d4c5e8&service_id=33554678&ticket=19ec86a2-3288-4e53-9431-9ce635bd420e [conn_id=7645194657354009546]
+[Lark] [2026-05-29 00:03:56,473] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645194657354009546]
+[Lark] [2026-05-29 00:03:56,474] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645194657354009546&access_key=f8d8200d2af00edc54174d8364d4c5e8&service_id=33554678&ticket=19ec86a2-3288-4e53-9431-9ce635bd420e [conn_id=7645194657354009546]
+[Lark] [2026-05-29 00:49:42,136] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 00:49:42,609] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645217751048883152&access_key=3521fcb96ded138bbf8c09525268a1a1&service_id=33554678&ticket=f68e8fc9-58f3-4abe-bd27-581427e88a6f [conn_id=7645217751048883152]
+[Lark] [2026-05-29 01:49:15,504] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645217751048883152]
+[Lark] [2026-05-29 01:49:15,504] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645217751048883152&access_key=3521fcb96ded138bbf8c09525268a1a1&service_id=33554678&ticket=f68e8fc9-58f3-4abe-bd27-581427e88a6f [conn_id=7645217751048883152]
+[Lark] [2026-05-29 01:49:18,008] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 01:49:18,586] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645233123484306381&access_key=1b489d6c82a3138cf9fa2ac132e6b34f&service_id=33554678&ticket=80316664-91f7-494b-a0e4-c578d82c4673 [conn_id=7645233123484306381]
+[Lark] [2026-05-29 03:12:26,167] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645233123484306381]
+[Lark] [2026-05-29 03:12:26,167] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645233123484306381&access_key=1b489d6c82a3138cf9fa2ac132e6b34f&service_id=33554678&ticket=80316664-91f7-494b-a0e4-c578d82c4673 [conn_id=7645233123484306381]
+[Lark] [2026-05-29 04:00:54,975] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 04:00:55,270] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645267066521471929&access_key=d587ae9328f020c16dc515ebc3993b56&service_id=33554678&ticket=6ed5bbd4-4450-4b86-b577-5fa797ea04bd [conn_id=7645267066521471929]
+[Lark] [2026-05-29 05:07:18,444] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645267066521471929]
+[Lark] [2026-05-29 05:07:18,444] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645267066521471929&access_key=d587ae9328f020c16dc515ebc3993b56&service_id=33554678&ticket=6ed5bbd4-4450-4b86-b577-5fa797ea04bd [conn_id=7645267066521471929]
+[Lark] [2026-05-29 05:07:21,285] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 05:40:56,457] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[Lark] [2026-05-29 08:32:37,890] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-05-29 08:32:38,270] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645337066994420665&access_key=19ec02229fdd3d2f0a433e3589f9537c&service_id=33554678&ticket=2f59512b-85ab-41c5-9b9f-087eff6fa65a [conn_id=7645337066994420665]
+[Lark] [2026-05-29 08:59:23,604] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645337066994420665]
+[Lark] [2026-05-29 08:59:23,605] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645337066994420665&access_key=19ec02229fdd3d2f0a433e3589f9537c&service_id=33554678&ticket=2f59512b-85ab-41c5-9b9f-087eff6fa65a [conn_id=7645337066994420665]
+[Lark] [2026-05-29 08:59:26,464] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 09:43:56,059] [ERROR] connect failed, err: timed out during opening handshake
+[Lark] [2026-05-29 12:44:55,151] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-05-29 13:01:24,169] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645406322352507863&access_key=27629ae2cc8a47a29e5f9d85fdd42b06&service_id=33554678&ticket=62c828b5-d598-4095-b4e8-d642f7948434 [conn_id=7645406322352507863]
+[Lark] [2026-05-29 13:39:10,452] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645406322352507863]
+[Lark] [2026-05-29 13:39:10,452] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645406322352507863&access_key=27629ae2cc8a47a29e5f9d85fdd42b06&service_id=33554678&ticket=62c828b5-d598-4095-b4e8-d642f7948434 [conn_id=7645406322352507863]
+[Lark] [2026-05-29 13:56:28,855] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 13:56:29,191] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645420527646002111&access_key=c557ee996f78d098f9ea5d7e79a1ccbd&service_id=33554678&ticket=b561369f-4377-40ee-84f0-095a25b0e20a [conn_id=7645420527646002111]
+[Lark] [2026-05-29 15:02:22,100] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645420527646002111]
+[Lark] [2026-05-29 15:02:22,100] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645420527646002111&access_key=c557ee996f78d098f9ea5d7e79a1ccbd&service_id=33554678&ticket=b561369f-4377-40ee-84f0-095a25b0e20a [conn_id=7645420527646002111]
+[Lark] [2026-05-29 15:02:24,550] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 15:02:24,790] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645437520075836360&access_key=4459e9dd0aad2cfcd84b19b5213959e7&service_id=33554678&ticket=27dcc94c-c7d1-44a9-8021-0a16cb7a25d4 [conn_id=7645437520075836360]
+[Lark] [2026-05-29 15:39:55,958] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645437520075836360]
+[Lark] [2026-05-29 15:39:55,959] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645437520075836360&access_key=4459e9dd0aad2cfcd84b19b5213959e7&service_id=33554678&ticket=27dcc94c-c7d1-44a9-8021-0a16cb7a25d4 [conn_id=7645437520075836360]
+[Lark] [2026-05-29 15:46:09,491] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 15:46:09,878] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645448799800773579&access_key=b48679e6ef9ff2868bd52ab44b10d7f9&service_id=33554678&ticket=429a6795-6a91-4277-95f8-facf16c2449b [conn_id=7645448799800773579]
+[Lark] [2026-05-29 17:25:36,631] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645448799800773579]
+[Lark] [2026-05-29 17:25:36,632] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645448799800773579&access_key=b48679e6ef9ff2868bd52ab44b10d7f9&service_id=33554678&ticket=429a6795-6a91-4277-95f8-facf16c2449b [conn_id=7645448799800773579]
+[Lark] [2026-05-29 17:41:51,500] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 17:41:52,422] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645478603065428964&access_key=625dc044fb2fbf0bc6b6be57cc3f3dcf&service_id=33554678&ticket=913e4a2c-24e1-4e32-b1a2-807e08a1a342 [conn_id=7645478603065428964]
+[Lark] [2026-05-29 19:19:22,843] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645478603065428964]
+[Lark] [2026-05-29 19:19:22,843] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645478603065428964&access_key=625dc044fb2fbf0bc6b6be57cc3f3dcf&service_id=33554678&ticket=913e4a2c-24e1-4e32-b1a2-807e08a1a342 [conn_id=7645478603065428964]
+[Lark] [2026-05-29 19:52:47,593] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 19:52:47,943] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645512354096581581&access_key=5da35a0816f5297fcbe4eaa259f59fe9&service_id=33554678&ticket=6bd141b9-3216-4b30-8129-ea965cf8569c [conn_id=7645512354096581581]
+[Lark] [2026-05-29 20:59:51,722] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645512354096581581]
+[Lark] [2026-05-29 20:59:51,722] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645512354096581581&access_key=5da35a0816f5297fcbe4eaa259f59fe9&service_id=33554678&ticket=6bd141b9-3216-4b30-8129-ea965cf8569c [conn_id=7645512354096581581]
+[Lark] [2026-05-29 22:21:03,839] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 22:21:04,515] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645550544073264060&access_key=e6f40138364372390c1bd25dc89d8cb0&service_id=33554678&ticket=22102b5d-3fec-487c-87fe-b99b9b20b546 [conn_id=7645550544073264060]
+[Lark] [2026-05-29 23:37:17,630] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645550544073264060]
+[Lark] [2026-05-29 23:37:17,630] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645550544073264060&access_key=e6f40138364372390c1bd25dc89d8cb0&service_id=33554678&ticket=22102b5d-3fec-487c-87fe-b99b9b20b546 [conn_id=7645550544073264060]
+[Lark] [2026-05-29 23:52:46,125] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-29 23:52:46,475] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645574195568675789&access_key=42dda7db6bddf98d0db6420da16c4c39&service_id=33554678&ticket=499c9552-af61-41de-abeb-258d95e660d9 [conn_id=7645574195568675789]
+[Lark] [2026-05-30 00:14:57,583] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645574195568675789]
+[Lark] [2026-05-30 00:14:57,586] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645574195568675789&access_key=42dda7db6bddf98d0db6420da16c4c39&service_id=33554678&ticket=499c9552-af61-41de-abeb-258d95e660d9 [conn_id=7645574195568675789]
+[Lark] [2026-05-30 01:36:39,011] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 01:36:39,305] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645600936548027320&access_key=c159ac6ef4dd75021630022c90abc786&service_id=33554678&ticket=af5dff95-113c-4093-aa8b-891064c95f67 [conn_id=7645600936548027320]
+[Lark] [2026-05-30 02:39:26,882] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645600936548027320]
+[Lark] [2026-05-30 02:39:26,882] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645600936548027320&access_key=c159ac6ef4dd75021630022c90abc786&service_id=33554678&ticket=af5dff95-113c-4093-aa8b-891064c95f67 [conn_id=7645600936548027320]
+[Lark] [2026-05-30 03:23:27,792] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 03:23:28,128] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645628480793775035&access_key=3c5a2b0effcffd4d24342656e68d6ccb&service_id=33554678&ticket=a83bafe3-a6b7-4c96-8dc7-79fd58ba7c24 [conn_id=7645628480793775035]
+[Lark] [2026-05-30 04:13:08,764] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645628480793775035]
+[Lark] [2026-05-30 04:13:08,764] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645628480793775035&access_key=3c5a2b0effcffd4d24342656e68d6ccb&service_id=33554678&ticket=a83bafe3-a6b7-4c96-8dc7-79fd58ba7c24 [conn_id=7645628480793775035]
+[Lark] [2026-05-30 04:24:26,670] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 04:24:27,021] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645644209797598137&access_key=9664edc2979c51491256abd24cfaf9e1&service_id=33554678&ticket=40f398f3-3ff6-4a27-a93e-fc956f2be0c0 [conn_id=7645644209797598137]
+[Lark] [2026-05-30 05:25:20,053] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645644209797598137]
+[Lark] [2026-05-30 05:25:20,054] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645644209797598137&access_key=9664edc2979c51491256abd24cfaf9e1&service_id=33554678&ticket=40f398f3-3ff6-4a27-a93e-fc956f2be0c0 [conn_id=7645644209797598137]
+[Lark] [2026-05-30 05:58:39,311] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 05:58:40,072] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645668481366854598&access_key=376d5bd49e29d7d6a05cd7ae8fad9392&service_id=33554678&ticket=2995a983-e7b6-4eed-b54f-bd804c5035bf [conn_id=7645668481366854598]
+[Lark] [2026-05-30 07:00:24,107] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645668481366854598]
+[Lark] [2026-05-30 07:00:24,107] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645668481366854598&access_key=376d5bd49e29d7d6a05cd7ae8fad9392&service_id=33554678&ticket=2995a983-e7b6-4eed-b54f-bd804c5035bf [conn_id=7645668481366854598]
+[Lark] [2026-05-30 07:15:27,524] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 07:15:28,019] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645688273252502490&access_key=c07c3f52e5a7a21d02b6ead9ac872f3c&service_id=33554678&ticket=b52f06db-2628-4a91-9244-48d78445f40e [conn_id=7645688273252502490]
+[Lark] [2026-05-30 07:43:50,572] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645688273252502490]
+[Lark] [2026-05-30 07:43:50,572] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645688273252502490&access_key=c07c3f52e5a7a21d02b6ead9ac872f3c&service_id=33554678&ticket=b52f06db-2628-4a91-9244-48d78445f40e [conn_id=7645688273252502490]
+[Lark] [2026-05-30 08:12:00,422] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 08:12:00,781] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645702844557724646&access_key=e9285ce2baac4964090d057544f7974a&service_id=33554678&ticket=648ae416-4fca-4d6f-a6cd-e202b2da37d6 [conn_id=7645702844557724646]
+[Lark] [2026-05-30 08:44:25,573] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7645702844557724646]
+[Lark] [2026-05-30 08:44:25,574] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645702844557724646&access_key=e9285ce2baac4964090d057544f7974a&service_id=33554678&ticket=648ae416-4fca-4d6f-a6cd-e202b2da37d6 [conn_id=7645702844557724646]
+[Lark] [2026-05-30 09:01:15,356] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 09:01:17,346] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645715522286341090&access_key=fa5c189e4ab8466a72cf104586f02420&service_id=33554678&ticket=282f095f-06be-46f8-898a-7b39fac0afa0 [conn_id=7645715522286341090]
+[Lark] [2026-05-30 09:46:47,194] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7645715522286341090]
+[Lark] [2026-05-30 09:46:47,194] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645715522286341090&access_key=fa5c189e4ab8466a72cf104586f02420&service_id=33554678&ticket=282f095f-06be-46f8-898a-7b39fac0afa0 [conn_id=7645715522286341090]
+[Lark] [2026-05-30 09:46:48,662] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 09:46:48,895] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645727258670566330&access_key=435bd48893dd0f32cb5d76e007287d28&service_id=33554678&ticket=5b381462-247e-4e03-b60b-1c079f8e833c [conn_id=7645727258670566330]
+[Lark] [2026-05-30 10:21:59,682] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645727258670566330]
+[Lark] [2026-05-30 10:21:59,682] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645727258670566330&access_key=435bd48893dd0f32cb5d76e007287d28&service_id=33554678&ticket=5b381462-247e-4e03-b60b-1c079f8e833c [conn_id=7645727258670566330]
+[Lark] [2026-05-30 10:39:47,173] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 10:39:47,982] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645740930839219146&access_key=4f392154e8b67f55a41689effac9bfaa&service_id=33554678&ticket=c6a51298-588d-4899-b0c7-82788fe13d2e [conn_id=7645740930839219146]
+[Lark] [2026-05-30 11:29:41,076] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645740930839219146]
+[Lark] [2026-05-30 11:29:41,077] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645740930839219146&access_key=4f392154e8b67f55a41689effac9bfaa&service_id=33554678&ticket=c6a51298-588d-4899-b0c7-82788fe13d2e [conn_id=7645740930839219146]
+[Lark] [2026-05-30 11:46:38,194] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 11:46:38,505] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645758162934877140&access_key=eb4a77f923d65a49a98c3f4aea4fa599&service_id=33554678&ticket=36ab2276-514f-47f7-a783-d6958e459bc0 [conn_id=7645758162934877140]
+[Lark] [2026-05-30 12:33:50,543] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645758162934877140]
+[Lark] [2026-05-30 12:33:50,543] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645758162934877140&access_key=eb4a77f923d65a49a98c3f4aea4fa599&service_id=33554678&ticket=36ab2276-514f-47f7-a783-d6958e459bc0 [conn_id=7645758162934877140]
+[Lark] [2026-05-30 12:33:50,846] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 12:33:51,124] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645770309665049549&access_key=560fb350ce24565fcc5fe661789e275e&service_id=33554678&ticket=825db1ec-447c-4239-b381-99828e6926f1 [conn_id=7645770309665049549]
+[Lark] [2026-05-30 13:37:09,599] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645770309665049549]
+[Lark] [2026-05-30 13:37:09,599] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645770309665049549&access_key=560fb350ce24565fcc5fe661789e275e&service_id=33554678&ticket=825db1ec-447c-4239-b381-99828e6926f1 [conn_id=7645770309665049549]
+[Lark] [2026-05-30 13:54:38,894] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 13:54:40,591] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645791130945047500&access_key=8487607ba7c6a4e376bb55893db045e2&service_id=33554678&ticket=953122dd-3a80-494c-a145-0cdb2d86ee9b [conn_id=7645791130945047500]
+[Lark] [2026-05-30 16:21:48,279] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7645791130945047500]
+[Lark] [2026-05-30 16:21:48,279] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645791130945047500&access_key=8487607ba7c6a4e376bb55893db045e2&service_id=33554678&ticket=953122dd-3a80-494c-a145-0cdb2d86ee9b [conn_id=7645791130945047500]
+[Lark] [2026-05-30 16:22:06,597] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 16:22:06,882] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645829135584218062&access_key=0ae1103fab38a2f96e616a5410e73058&service_id=33554678&ticket=fa8021f0-6e82-4f35-b99a-21203fed252d [conn_id=7645829135584218062]
+[Lark] [2026-05-30 16:41:16,600] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645829135584218062]
+[Lark] [2026-05-30 16:41:16,601] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645829135584218062&access_key=0ae1103fab38a2f96e616a5410e73058&service_id=33554678&ticket=fa8021f0-6e82-4f35-b99a-21203fed252d [conn_id=7645829135584218062]
+[Lark] [2026-05-30 17:11:51,606] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 17:11:51,917] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645841972921420729&access_key=a4b5387dd7a078c12ec9cea9b0ff002f&service_id=33554678&ticket=0fe4a4f9-0c19-499a-9cf0-2a9f1445ff15 [conn_id=7645841972921420729]
+[Lark] [2026-05-30 18:13:13,554] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645841972921420729]
+[Lark] [2026-05-30 18:13:13,555] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645841972921420729&access_key=a4b5387dd7a078c12ec9cea9b0ff002f&service_id=33554678&ticket=0fe4a4f9-0c19-499a-9cf0-2a9f1445ff15 [conn_id=7645841972921420729]
+[Lark] [2026-05-30 18:13:16,334] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 18:45:39,207] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[Lark] [2026-05-30 22:19:52,331] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-05-30 22:19:52,586] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645921336447273953&access_key=f897402b56294cc7b936e7b1b9cb7a68&service_id=33554678&ticket=f5726e83-a489-49e7-81ff-b0f1d8d54ab7 [conn_id=7645921336447273953]
+[Lark] [2026-05-30 23:09:28,109] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645921336447273953]
+[Lark] [2026-05-30 23:09:28,110] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645921336447273953&access_key=f897402b56294cc7b936e7b1b9cb7a68&service_id=33554678&ticket=f5726e83-a489-49e7-81ff-b0f1d8d54ab7 [conn_id=7645921336447273953]
+[Lark] [2026-05-30 23:09:44,019] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-30 23:09:44,326] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645934179130035169&access_key=f9e423b71b1872123a659e3d3c054be1&service_id=33554678&ticket=3abab182-5b1e-46a2-8832-fc16d672fa98 [conn_id=7645934179130035169]
+[Lark] [2026-05-30 23:32:01,398] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645934179130035169]
+[Lark] [2026-05-30 23:32:01,399] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645934179130035169&access_key=f9e423b71b1872123a659e3d3c054be1&service_id=33554678&ticket=3abab182-5b1e-46a2-8832-fc16d672fa98 [conn_id=7645934179130035169]
+[Lark] [2026-05-31 00:15:34,794] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 00:15:35,102] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645951142442716122&access_key=1b1e05b8a7791e84f8eecaccddc3718d&service_id=33554678&ticket=05e6ea92-45b7-497d-bfb0-1494a91e97c5 [conn_id=7645951142442716122]
+[Lark] [2026-05-31 00:38:15,155] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645951142442716122]
+[Lark] [2026-05-31 00:38:15,156] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645951142442716122&access_key=1b1e05b8a7791e84f8eecaccddc3718d&service_id=33554678&ticket=05e6ea92-45b7-497d-bfb0-1494a91e97c5 [conn_id=7645951142442716122]
+[Lark] [2026-05-31 00:38:17,972] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 00:38:18,263] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645957004003396536&access_key=67954d0e594c923a07794dc7611b98a9&service_id=33554678&ticket=b74ffd81-8271-42eb-8faf-1ae0f8aa38da [conn_id=7645957004003396536]
+[Lark] [2026-05-31 01:17:03,471] [ERROR] receive message loop exit, err: sent 1011 (internal error) keepalive ping timeout; no close frame received [conn_id=7645957004003396536]
+[Lark] [2026-05-31 01:17:03,471] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645957004003396536&access_key=67954d0e594c923a07794dc7611b98a9&service_id=33554678&ticket=b74ffd81-8271-42eb-8faf-1ae0f8aa38da [conn_id=7645957004003396536]
+[Lark] [2026-05-31 01:33:55,568] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 01:33:55,936] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645971327958895586&access_key=1220f3d0913142b8693ffe2ed7ec5afe&service_id=33554678&ticket=421ba92f-59da-4d24-9bdc-bb1552069c9a [conn_id=7645971327958895586]
+[Lark] [2026-05-31 02:35:19,836] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645971327958895586]
+[Lark] [2026-05-31 02:35:19,836] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645971327958895586&access_key=1220f3d0913142b8693ffe2ed7ec5afe&service_id=33554678&ticket=421ba92f-59da-4d24-9bdc-bb1552069c9a [conn_id=7645971327958895586]
+[Lark] [2026-05-31 03:06:37,262] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 03:06:38,773] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645995241275853788&access_key=38469d9e649fa494a938229712ded733&service_id=33554678&ticket=e6d9eccf-9a8f-448e-a89e-de30e8f68491 [conn_id=7645995241275853788]
+[Lark] [2026-05-31 04:08:10,852] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7645995241275853788]
+[Lark] [2026-05-31 04:08:10,853] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7645995241275853788&access_key=38469d9e649fa494a938229712ded733&service_id=33554678&ticket=e6d9eccf-9a8f-448e-a89e-de30e8f68491 [conn_id=7645995241275853788]
+[Lark] [2026-05-31 04:19:37,733] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 04:19:38,029] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646014039571286971&access_key=89e5490bf2542e9ba83c037cded4e174&service_id=33554678&ticket=d0bbdfa0-c7b2-419b-a653-0030dad6a89d [conn_id=7646014039571286971]
+[Lark] [2026-05-31 05:20:27,428] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646014039571286971]
+[Lark] [2026-05-31 05:20:27,429] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646014039571286971&access_key=89e5490bf2542e9ba83c037cded4e174&service_id=33554678&ticket=d0bbdfa0-c7b2-419b-a653-0030dad6a89d [conn_id=7646014039571286971]
+[Lark] [2026-05-31 05:20:35,743] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 05:20:36,152] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646029735328074692&access_key=8bb73f15238e9088f398391974af99ed&service_id=33554678&ticket=a44390e7-8231-4cb2-a261-fd9cdd6730dd [conn_id=7646029735328074692]
+[Lark] [2026-05-31 06:38:34,674] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646029735328074692]
+[Lark] [2026-05-31 06:38:34,674] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646029735328074692&access_key=8bb73f15238e9088f398391974af99ed&service_id=33554678&ticket=a44390e7-8231-4cb2-a261-fd9cdd6730dd [conn_id=7646029735328074692]
+[Lark] [2026-05-31 06:59:14,603] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 06:59:15,044] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646055157403552728&access_key=c6a6d2958197894624b99ef63595206f&service_id=33554678&ticket=82c27ca5-a489-4d5c-b6f9-36d79f92cab8 [conn_id=7646055157403552728]
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-31 07:21:38,601] [INFO] FeishuChannel: bot identity resolved — open_id=ou_fbeff16aa9899cf76b86a95f310e8df2 name=demo
+[Lark] [2026-05-31 07:21:38,870] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646060940538317790&access_key=b90e44368461d38847b09ccfe6ad6cf9&service_id=33554678&ticket=3fc86973-085b-4764-814d-6ebed6aee50c [conn_id=7646060940538317790]
+[Lark] [2026-05-31 09:46:21,058] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646060940538317790]
+[Lark] [2026-05-31 09:46:21,059] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646060940538317790&access_key=b90e44368461d38847b09ccfe6ad6cf9&service_id=33554678&ticket=3fc86973-085b-4764-814d-6ebed6aee50c [conn_id=7646060940538317790]
+[Lark] [2026-05-31 10:02:27,014] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 10:02:27,712] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646102388500548561&access_key=9c322fb4454d7d655bc6d4c4e3ad2646&service_id=33554678&ticket=63b1bb6f-5172-4edd-a1c2-8075f2e10e03 [conn_id=7646102388500548561]
+[Lark] [2026-05-31 11:16:07,623] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646102388500548561]
+[Lark] [2026-05-31 11:16:07,623] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646102388500548561&access_key=9c322fb4454d7d655bc6d4c4e3ad2646&service_id=33554678&ticket=63b1bb6f-5172-4edd-a1c2-8075f2e10e03 [conn_id=7646102388500548561]
+[Lark] [2026-05-31 11:16:09,101] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 11:16:09,554] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646121381079370718&access_key=4a657136fccdb9569fdd6c61ed1c9152&service_id=33554678&ticket=f4ceee21-a823-4caa-aab1-16fd544bb4f0 [conn_id=7646121381079370718]
+[Lark] [2026-05-31 12:32:49,618] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646121381079370718]
+[Lark] [2026-05-31 12:32:49,619] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646121381079370718&access_key=4a657136fccdb9569fdd6c61ed1c9152&service_id=33554678&ticket=f4ceee21-a823-4caa-aab1-16fd544bb4f0 [conn_id=7646121381079370718]
+[Lark] [2026-05-31 12:32:52,250] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 12:32:52,518] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646141149973941184&access_key=7876c83336e658a73f6a176e0c4f2276&service_id=33554678&ticket=f4d4e1d9-beba-483f-bfff-db795aabee4a [conn_id=7646141149973941184]
+[Lark] [2026-05-31 13:34:23,818] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646141149973941184]
+[Lark] [2026-05-31 13:34:23,818] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646141149973941184&access_key=7876c83336e658a73f6a176e0c4f2276&service_id=33554678&ticket=f4d4e1d9-beba-483f-bfff-db795aabee4a [conn_id=7646141149973941184]
+[Lark] [2026-05-31 14:19:26,688] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 14:19:27,021] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646168617205648331&access_key=de354e0b7227cc0cb510b086943de0be&service_id=33554678&ticket=9fde1282-bd42-4e00-b3ec-9ce557af1e48 [conn_id=7646168617205648331]
+[Lark] [2026-05-31 15:19:46,125] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646168617205648331]
+[Lark] [2026-05-31 15:19:46,125] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646168617205648331&access_key=de354e0b7227cc0cb510b086943de0be&service_id=33554678&ticket=9fde1282-bd42-4e00-b3ec-9ce557af1e48 [conn_id=7646168617205648331]
+[Lark] [2026-05-31 15:35:06,027] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 15:35:06,294] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646188116588055483&access_key=36addbb4caa848b4bdde894c9e021b50&service_id=33554678&ticket=03a34264-c0ea-45e3-9a0f-fb55dfaeae05 [conn_id=7646188116588055483]
+[Lark] [2026-05-31 16:05:22,527] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646188116588055483]
+[Lark] [2026-05-31 16:05:22,528] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646188116588055483&access_key=36addbb4caa848b4bdde894c9e021b50&service_id=33554678&ticket=03a34264-c0ea-45e3-9a0f-fb55dfaeae05 [conn_id=7646188116588055483]
+[Lark] [2026-05-31 16:06:22,454] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 16:06:24,695] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646196176455584700&access_key=cd05cd485224a6a96ce7ec5cad387cd1&service_id=33554678&ticket=25e2540b-5d33-4446-9049-04f8d2ba7c6b [conn_id=7646196176455584700]
+[Lark] [2026-05-31 16:25:55,428] [ERROR] receive message loop exit, err: no close frame received or sent [conn_id=7646196176455584700]
+[Lark] [2026-05-31 16:25:55,428] [INFO] disconnected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646196176455584700&access_key=cd05cd485224a6a96ce7ec5cad387cd1&service_id=33554678&ticket=25e2540b-5d33-4446-9049-04f8d2ba7c6b [conn_id=7646196176455584700]
+[Lark] [2026-05-31 17:04:06,065] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 17:04:06,077] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-05-31 19:01:27,806] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-05-31 19:01:27,812] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-05-31 19:02:57,815] [INFO] trying to reconnect for the 3rd time
+[Lark] [2026-05-31 19:02:57,820] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[feishu-bot] connecting via WebSocket. Press Ctrl+C to stop.
+[Lark] [2026-05-31 19:40:48,578] [WARNING] FeishuChannel: bot identity unresolved on startup — scheduling background retry (group @Bot detection will remain off until resolved)
+[Lark] [2026-05-31 19:40:48,579] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-05-31 20:46:16,796] [INFO] trying to reconnect for the 1st time
+[Lark] [2026-05-31 20:46:16,800] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-06-01 01:02:35,191] [INFO] trying to reconnect for the 2nd time
+[Lark] [2026-06-01 01:02:35,197] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-06-01 04:11:45,443] [INFO] trying to reconnect for the 3rd time
+[Lark] [2026-06-01 04:11:45,449] [ERROR] connect failed, err: HTTPSConnectionPool(host='open.feishu.cn', port=443): Max retries exceeded with url: /callback/ws/endpoint (Caused by NameResolutionError("HTTPSConnection(host='open.feishu.cn', port=443): Failed to resolve 'open.feishu.cn' ([Errno 8] nodename nor servname provided, or not known)"))
+[Lark] [2026-06-01 04:13:43,037] [INFO] trying to reconnect for the 4th time
+[Lark] [2026-06-01 04:13:43,468] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7646383614535666654&access_key=10d411610f6142fbe169f55e3f15549e&service_id=33554678&ticket=f0b682f6-7c13-4229-aa7b-dc752b625bb7 [conn_id=7646383614535666654]

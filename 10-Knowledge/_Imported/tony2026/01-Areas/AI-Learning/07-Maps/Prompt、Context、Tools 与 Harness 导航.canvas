@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "text",
+      "text": "# Prompt -> Context -> Tools -> Harness\n- [[Prompt、Context、Tools 与 Harness 导航.base|Base 导航]]\n- [[Prompt、Context、Tools 与 Harness 渐进图]]\n- 先读抽象层，再进工程层和运行层",
+      "x": 420,
+      "y": -520,
+      "width": 560,
+      "height": 220,
+      "color": "6"
+    },
+    {
+      "id": "prompt",
+      "type": "text",
+      "text": "# 1. Prompt\n- [[../06-Topics/提示词工程|提示词工程]]\n- 任务表达\n- 角色与格式\n- few-shot 与边界",
+      "x": -840,
+      "y": -80,
+      "width": 320,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "context",
+      "type": "text",
+      "text": "# 2. Context\n- [[../06-Topics/上下文工程|上下文工程]]\n- state / files / retrieval / memory\n- 裁剪与排序",
+      "x": -440,
+      "y": -80,
+      "width": 320,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "tools",
+      "type": "text",
+      "text": "# 3. Tools\n- [[../06-Topics/Tool Use|Tool Use]]\n- select / call / parse / retry\n- 从会说到会做",
+      "x": -40,
+      "y": -80,
+      "width": 320,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "surfaces",
+      "type": "text",
+      "text": "# 4. Action Surfaces\n- [[../06-Topics/MCP（Model Context Protocol）|MCP（Model Context Protocol）]]\n- [[../06-Topics/Browser Agents 与 Computer Use|Browser Agents 与 Computer Use]]\n- [[../../AI-Engineering/07-Topics/MCP 与 CLI 模式|MCP 与 CLI 模式]]\n- CLI / MCP / Browser",
+      "x": 360,
+      "y": -100,
+      "width": 360,
+      "height": 260,
+      "color": "3"
+    },
+    {
+      "id": "extensions",
+      "type": "text",
+      "text": "# 5. Extension Surfaces\n- [[../../AI-Engineering/07-Topics/技能、插件、应用与自动化：Harness 的扩展面|技能、插件、应用与自动化：Harness 的扩展面]]\n- skills / plugins / apps / automation\n- 安装、复用、持续执行",
+      "x": 800,
+      "y": -100,
+      "width": 380,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "harness",
+      "type": "text",
+      "text": "# 6. Harness\n- [[../../AI-Engineering/07-Topics/Harness Engineering|Harness Engineering]]\n- [[../../AI-Engineering/07-Topics/Prompt、Context、Tools、CLI、Skills、Plugins 与 Harness 的工程分层|工程分层]]\n- 把环境、动作面、扩展面和反馈回路收起来",
+      "x": 1280,
+      "y": -100,
+      "width": 420,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "runtime",
+      "type": "text",
+      "text": "# 7. Runtime / Governance\n- [[../../AI-Engineering/07-Topics/Agent Runtime Architecture|Agent Runtime Architecture]]\n- [[../../AI-Engineering/07-Topics/Session and Memory Design|Session and Memory Design]]\n- [[../../AI-Engineering/07-Topics/Runtime 发布门槛、灰度与 Blast Radius 控制|Runtime 发布门槛、灰度与 Blast Radius 控制]]",
+      "x": 1760,
+      "y": -100,
+      "width": 420,
+      "height": 280,
+      "color": "4"
+    },
+    {
+      "id": "route",
+      "type": "text",
+      "text": "# 推荐阅读路线\n1. Prompt\n2. Context\n3. Tool Use\n4. Action Surfaces\n5. Extension Surfaces\n6. Harness\n7. Runtime / Governance",
+      "x": 520,
+      "y": 280,
+      "width": 500,
+      "height": 260,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "prompt",
+      "fromSide": "right",
+      "toNode": "context",
+      "toSide": "left",
+      "label": "把话说清楚 -> 给对环境"
+    },
+    {
+      "id": "e2",
+      "fromNode": "context",
+      "fromSide": "right",
+      "toNode": "tools",
+      "toSide": "left",
+      "label": "看到正确世界 -> 开始行动"
+    },
+    {
+      "id": "e3",
+      "fromNode": "tools",
+      "fromSide": "right",
+      "toNode": "surfaces",
+      "toSide": "left",
+      "label": "动作落到具体表面"
+    },
+    {
+      "id": "e4",
+      "fromNode": "surfaces",
+      "fromSide": "right",
+      "toNode": "extensions",
+      "toSide": "left",
+      "label": "动作面 -> 扩展面"
+    },
+    {
+      "id": "e5",
+      "fromNode": "extensions",
+      "fromSide": "right",
+      "toNode": "harness",
+      "toSide": "left",
+      "label": "能力被工作台收拢"
+    },
+    {
+      "id": "e6",
+      "fromNode": "harness",
+      "fromSide": "right",
+      "toNode": "runtime",
+      "toSide": "left",
+      "label": "设计 -> 运营"
+    },
+    {
+      "id": "e7",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "route",
+      "toSide": "top",
+      "label": "学习顺序"
+    }
+  ]
+}

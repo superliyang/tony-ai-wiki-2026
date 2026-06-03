@@ -1,0 +1,128 @@
+version: 1
+
+topics:
+  AI-Engineering:
+    output_dir: "00-Agent-Inbox/Candidates/AI-Engineering"
+    keywords:
+      - Claude Code
+      - Codex
+      - Agent
+      - MCP
+      - LLMOps
+      - Eval
+      - Evaluation
+      - Sandbox
+      - Tool Use
+      - DeepSeek
+      - Gemini CLI
+      - Agent Runtime
+      - AI Gateway
+      - Model Router
+      - Copilot
+      - Coding Agent
+      - SWE agent
+      - Agentic Coding
+
+  AI-Open-Source:
+    output_dir: "00-Agent-Inbox/Candidates/AI-Open-Source"
+    keywords:
+      - open source
+      - GitHub
+      - LangGraph
+      - AutoGen
+      - OpenHands
+      - browser-use
+      - LiteLLM
+      - Langfuse
+      - MCP Servers
+      - A2A
+      - OpenCode
+      - release
+      - changelog
+      - repository
+      - pull request
+      - issue
+
+  Security:
+    output_dir: "00-Agent-Inbox/Candidates/Security"
+    keywords:
+      - security
+      - WAF
+      - bot
+      - credential stuffing
+      - account takeover
+      - JA3
+      - JA4
+      - API security
+      - OWASP
+      - vulnerability
+      - supply chain
+      - threat
+      - attack
+      - risk
+      - abuse
+      - fraud
+      - CISA
+      - CVE
+      - exploit
+      - malware
+      - ransomware
+
+  Big-Data:
+    output_dir: "00-Agent-Inbox/Candidates/Big-Data"
+    keywords:
+      - Kafka
+      - Flink
+      - Spark
+      - Iceberg
+      - Lakehouse
+      - Warehouse
+      - Streaming
+      - Data Platform
+      - Data Governance
+      - ETL
+      - CDC
+      - OLAP
+      - Apache
+      - connector
+      - SQL engine
+      - real-time
+
+  Cloud-Native:
+    output_dir: "00-Agent-Inbox/Candidates/Cloud-Native"
+    keywords:
+      - Kubernetes
+      - AWS
+      - EKS
+      - CloudFront
+      - APISIX
+      - Gateway
+      - Observability
+      - Prometheus
+      - Grafana
+      - container
+      - service mesh
+
+  Skills-Gaming:
+    output_dir: "00-Agent-Inbox/Candidates/Skills-Gaming"
+    keywords:
+      - skill gaming
+      - mobile game
+      - anti-cheat
+      - player matching
+      - game security
+      - payment risk
+      - account security
+      - game economy
+
+  English-Learning:
+    output_dir: "00-Agent-Inbox/Candidates/English-Learning"
+    keywords:
+      - English learning
+      - writing
+      - speaking
+      - vocabulary
+      - expression
+      - grammar
+
+default_topic: Others

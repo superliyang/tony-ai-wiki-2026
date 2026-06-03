@@ -1,0 +1,39 @@
+name: Knowledge Daily Digest
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily knowledge automation
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_SECRET: ${{ secrets.FEISHU_WEBHOOK_SECRET }}
+          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+          BARK_ENDPOINT: ${{ secrets.BARK_ENDPOINT }}
+        run: python scripts/knowledge_daily.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: agent/daily-knowledge-digest
+          title: "Daily knowledge digest"
+          body: "Generated daily knowledge digest, candidates, study queue, and vault health report."
+          commit-message: "chore: generate daily knowledge digest"
+          delete-branch: true

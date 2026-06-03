@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Word Search Duel V1</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <section class="card hero" id="screen-start">
+      <p class="eyebrow">Skills Gaming Demo</p>
+      <h1>Word Search Duel V1</h1>
+      <p class="subtitle">更像欧美 casual skill game 的文字原型：快速扫词、短局对抗、低门槛再来一局。</p>
+      <div class="pill-row">
+        <span class="pill">60 秒短局</span>
+        <span class="pill">扫词连击</span>
+        <span class="pill">低学习成本</span>
+      </div>
+      <section class="hero-dashboard">
+        <div class="mini-stat">
+          <span>最佳分数</span>
+          <strong id="best-score-stat">--</strong>
+        </div>
+        <div class="mini-stat">
+          <span>试玩局数</span>
+          <strong id="games-played-stat">0</strong>
+        </div>
+        <div class="mini-stat">
+          <span>最近结果</span>
+          <strong id="last-outcome-stat">暂无</strong>
+        </div>
+      </section>
+      <section class="recent-panel">
+        <div class="recent-header">
+          <p class="eyebrow">Recent Runs</p>
+          <span id="recent-summary-text">首轮试玩后会在这里留下历史记录。</span>
+        </div>
+        <ul id="recent-matches" class="recent-matches"></ul>
+      </section>
+      <div class="actions">
+        <button id="start-btn">开始对局</button>
+        <button id="sound-toggle-btn" class="secondary-btn">音效：开</button>
+      </div>
+    </section>
+
+    <section class="card hidden" id="screen-tutorial">
+      <p class="eyebrow">First Match</p>
+      <h2>怎么玩</h2>
+      <ol>
+        <li>看右侧目标词列表，在字母盘里找到完整单词。</li>
+        <li>按住起点字母并滑动，连成一条连续直线，松手后会自动提交。</li>
+        <li>找对单词得分，连续找对会有连击加成，误选会扣分。</li>
+      </ol>
+      <div class="actions">
+        <button id="tutorial-btn">开始首局</button>
+      </div>
+    </section>
+
+    <section class="card hidden" id="screen-match">
+      <div class="hud">
+        <div><span>剩余时间</span><strong id="timer">60</strong></div>
+        <div><span>当前分数</span><strong id="score">0</strong></div>
+        <div><span>连击</span><strong id="streak">0</strong></div>
+        <div><span>已找到</span><strong id="words-found">0</strong></div>
+      </div>
+      <div class="combo-banner hidden" id="combo-banner">2x Combo</div>
+      <div class="countdown-overlay hidden" id="countdown-overlay">
+        <span id="countdown-value">3</span>
+        <small>Get Ready</small>
+      </div>
+
+      <div class="round-banner">
+        <div>
+          <p class="eyebrow">当前字母盘</p>
+          <h2 id="board-name">Board Alpha</h2>
+        </div>
+        <div class="round-meta">
+          <p class="round-note">目标：在时间结束前尽量找更多词。完成当前盘后会自动切到下一盘。</p>
+          <strong id="board-progress">1 / 5</strong>
+        </div>
+      </div>
+
+      <div class="match-layout">
+        <section class="board-wrap" id="board-wrap">
+          <div class="selection-strip">
+            <span>当前选择</span>
+            <strong id="selection-word">-</strong>
+          </div>
+          <div class="board-stage">
+            <svg class="selection-overlay" id="selection-overlay" viewBox="0 0 100 100" preserveAspectRatio="none"></svg>
+            <div class="board" id="board"></div>
+          </div>
+          <div class="actions compact-actions">
+            <button type="button" class="secondary-btn" id="clear-selection-btn">清空选择</button>
+          </div>
+          <p class="feedback" id="feedback">先找一个词，尽快建立连击。</p>
+        </section>
+
+        <aside class="target-panel">
+          <p class="eyebrow">目标词</p>
+          <ul id="target-list" class="target-list"></ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="card hidden" id="screen-result">
+      <p class="eyebrow">Result</p>
+      <h2 id="result-title">你赢了</h2>
+      <div class="result-grid">
+        <div><span>你的分数</span><strong id="final-score">0</strong></div>
+        <div><span>对手分数</span><strong id="opponent-score">0</strong></div>
+        <div><span>差值</span><strong id="delta-score">0</strong></div>
+        <div><span>找到单词</span><strong id="final-words-found">0</strong></div>
+        <div><span>误选次数</span><strong id="final-errors">0</strong></div>
+        <div><span>最佳连击</span><strong id="best-streak">0</strong></div>
+      </div>
+      <p class="result-explainer" id="result-explainer"></p>
+      <ul class="breakdown" id="breakdown-list"></ul>
+      <div class="actions">
+        <button id="rematch-btn">再来一局</button>
+        <button id="home-btn" class="secondary-btn">返回首页</button>
+      </div>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

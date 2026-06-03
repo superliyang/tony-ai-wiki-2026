@@ -1,0 +1,275 @@
+{
+  "match-smoke-1774696560": {
+    "total_score": 70,
+    "outcome": "loss",
+    "delta_to_opponent": -1,
+    "opponent_score": 71,
+    "explanation": "More correct answers and fewer mistakes lead to a higher score.",
+    "breakdown": [
+      {
+        "label": "correct",
+        "value": 70
+      },
+      {
+        "label": "streak_bonus",
+        "value": 4
+      },
+      {
+        "label": "error_penalty",
+        "value": -4
+      }
+    ]
+  },
+  "match-smoke-1774696606": {
+    "total_score": 70,
+    "outcome": "loss",
+    "delta_to_opponent": -1,
+    "opponent_score": 71,
+    "explanation": "More correct answers and fewer mistakes lead to a higher score.",
+    "breakdown": [
+      {
+        "label": "correct",
+        "value": 70
+      },
+      {
+        "label": "streak_bonus",
+        "value": 4
+      },
+      {
+        "label": "error_penalty",
+        "value": -4
+      }
+    ]
+  },
+  "match-smoke-1774698412": {
+    "total_score": 70,
+    "outcome": "loss",
+    "delta_to_opponent": -1,
+    "opponent_score": 71,
+    "explanation": "More correct answers and fewer mistakes lead to a higher score.",
+    "breakdown": [
+      {
+        "label": "correct",
+        "value": 70
+      },
+      {
+        "label": "streak_bonus",
+        "value": 4
+      },
+      {
+        "label": "error_penalty",
+        "value": -4
+      }
+    ]
+  },
+  "match-manual-1774698412": {
+    "total_score": 108,
+    "outcome": "win",
+    "delta_to_opponent": 1,
+    "opponent_score": 107,
+    "explanation": "More correct answers and fewer mistakes lead to a higher score.",
+    "breakdown": [
+      {
+        "label": "correct",
+        "value": 100
+      },
+      {
+        "label": "streak_bonus",
+        "value": 8
+      },
+      {
+        "label": "error_penalty",
+        "value": 0
+      }
+    ]
+  },
+  "match-1774698753312": {
+    "total_score": 60,
+    "outcome": "win",
+    "delta_to_opponent": 5,
+    "opponent_score": 55,
+    "explanation": "More correct answers and fewer mistakes lead to a higher score.",
+    "breakdown": [
+      {
+        "label": "correct",
+        "value": 50
+      },
+      {
+        "label": "streak_bonus",
+        "value": 10
+      },
+      {
+        "label": "error_penalty",
+        "value": 0
+      }
+    ]
+  },
+  "match-1774698801979": {
+    "total_score": 0,
+    "outcome": "loss",
+    "delta_to_opponent": -12,
+    "opponent_score": 12,
+    "explanation": "More correct answers and fewer mistakes lead to a higher score.",
+    "breakdown": [
+      {
+        "label": "correct",
+        "value": 0
+      },
+      {
+        "label": "streak_bonus",
+        "value": 0
+      },
+      {
+        "label": "error_penalty",
+        "value": 0
+      }
+    ]
+  },
+  "match-1774699990205": {
+    "total_score": -2,
+    "outcome": "loss",
+    "delta_to_opponent": -20,
+    "opponent_score": 18,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 0
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 0
+      },
+      {
+        "label": "miss_penalty",
+        "value": -2
+      }
+    ]
+  },
+  "match-1774700766643": {
+    "total_score": -2,
+    "outcome": "loss",
+    "delta_to_opponent": -20,
+    "opponent_score": 18,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 0
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 0
+      },
+      {
+        "label": "miss_penalty",
+        "value": -2
+      }
+    ]
+  },
+  "match-smoke-1774701069": {
+    "total_score": 70,
+    "outcome": "loss",
+    "delta_to_opponent": -2,
+    "opponent_score": 72,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 70
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 4
+      },
+      {
+        "label": "miss_penalty",
+        "value": -4
+      }
+    ]
+  },
+  "match-1774701457422": {
+    "total_score": -2,
+    "outcome": "loss",
+    "delta_to_opponent": -20,
+    "opponent_score": 18,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 0
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 0
+      },
+      {
+        "label": "miss_penalty",
+        "value": -2
+      }
+    ]
+  },
+  "match-1774702236431": {
+    "total_score": 10,
+    "outcome": "loss",
+    "delta_to_opponent": -8,
+    "opponent_score": 18,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 10
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 0
+      },
+      {
+        "label": "miss_penalty",
+        "value": 0
+      }
+    ]
+  },
+  "match-1774702429786": {
+    "total_score": 10,
+    "outcome": "loss",
+    "delta_to_opponent": -8,
+    "opponent_score": 18,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 10
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 0
+      },
+      {
+        "label": "miss_penalty",
+        "value": 0
+      }
+    ]
+  },
+  "match-1774707726826": {
+    "total_score": 10,
+    "outcome": "loss",
+    "delta_to_opponent": -8,
+    "opponent_score": 18,
+    "explanation": "Found words score points, scan chains add bonus, and misses reduce your final score.",
+    "breakdown": [
+      {
+        "label": "words_found",
+        "value": 10
+      },
+      {
+        "label": "scan_chain_bonus",
+        "value": 0
+      },
+      {
+        "label": "miss_penalty",
+        "value": 0
+      }
+    ]
+  }
+}

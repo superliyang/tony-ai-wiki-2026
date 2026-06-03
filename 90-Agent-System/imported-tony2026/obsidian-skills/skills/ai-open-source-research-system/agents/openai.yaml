@@ -1,0 +1,4 @@
+interface:
+  display_name: AI Open Source Research
+  short_description: Build and maintain an AI open-source control tower.
+  default_prompt: Build or extend an AI open-source project knowledge graph with categories, projects, patterns, and watchlists.

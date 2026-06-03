@@ -1,0 +1,70 @@
+filters:
+  or:
+    - file.inFolder("01-Areas/AI-Foundations")
+    - file.inFolder("01-Areas/AI-Learning")
+    - file.inFolder("01-Areas/AI-Open-Source")
+    - file.inFolder("01-Areas/AI-Engineering")
+    - file.inFolder("01-Areas/AI-Applications")
+formulas:
+  note_link: link(file.path, file.name)
+  area: if(file.inFolder("01-Areas/AI-Foundations"), "AI-Foundations", if(file.inFolder("01-Areas/AI-Learning"), "AI-Learning", if(file.inFolder("01-Areas/AI-Open-Source"), "AI-Open-Source", if(file.inFolder("01-Areas/AI-Engineering"), "AI-Engineering", "AI-Applications"))))
+properties:
+  formula.note_link:
+    displayName: 笔记
+  formula.area:
+    displayName: 专题
+  file.path:
+    displayName: 路径
+  file.mtime:
+    displayName: 最近更新
+views:
+  - type: table
+    name: 专题控制塔
+    filters:
+      or:
+        - file.name == "专题总览"
+        - file.name == "学习进度"
+        - file.name == "恢复笔记"
+    order:
+      - formula.area
+      - file.name
+      - file.path
+  - type: table
+    name: 索引层
+    filters:
+      or:
+        - file.name == "主题索引"
+        - file.name == "地图索引"
+        - file.name == "系统索引"
+        - file.name == "模型索引"
+        - file.name == "公司索引"
+        - file.name == "人物索引"
+        - file.name == "论文索引"
+        - file.name == "新闻索引"
+        - file.name == "行业索引"
+        - file.name == "产品索引"
+        - file.name == "工作流索引"
+        - file.name == "案例索引"
+        - file.name == "模板索引"
+        - file.name == "评测索引"
+        - file.name == "部署索引"
+        - file.name == "项目索引"
+        - file.name == "分类索引"
+        - file.name == "组织索引"
+        - file.name == "模式索引"
+        - file.name == "Watchlist 索引"
+    order:
+      - formula.area
+      - file.path
+  - type: table
+    name: 地图层
+    filters:
+      or:
+        - file.inFolder("01-Areas/AI-Foundations/06-Maps")
+        - file.inFolder("01-Areas/AI-Learning/07-Maps")
+        - file.inFolder("01-Areas/AI-Open-Source/06-Maps")
+        - file.inFolder("01-Areas/AI-Engineering/08-Maps")
+        - file.inFolder("01-Areas/AI-Applications/06-Maps")
+    order:
+      - formula.area
+      - file.path

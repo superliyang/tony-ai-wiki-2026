@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "提示词工程",
+      "x": 0,
+      "y": 0,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "上下文工程",
+      "x": 320,
+      "y": 0,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "动作面\nTools / CLI / MCP / Browser / Apps",
+      "x": 640,
+      "y": 0,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "扩展面\nSkills / Plugins / Hooks / Automations",
+      "x": 1000,
+      "y": 0,
+      "width": 340,
+      "height": 100
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "Harness Engineering",
+      "x": 1380,
+      "y": 0,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "Runtime / Governance",
+      "x": 1700,
+      "y": 0,
+      "width": 260,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n3",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n4",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    }
+  ]
+}

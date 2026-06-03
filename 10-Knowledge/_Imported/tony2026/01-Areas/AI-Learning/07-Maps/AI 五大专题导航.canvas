@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "text",
+      "text": "# AI 五大专题导航\n- [[AI 五大专题审察与组织]]\n- [[AI 五大专题导航.base|AI 五大专题导航（Base）]]\n- 先看结构，再进各专题总览\n- 推荐顺序：Foundations -> Learning -> Open-Source -> Engineering -> Applications",
+      "x": 520,
+      "y": -560,
+      "width": 620,
+      "height": 260,
+      "color": "6"
+    },
+    {
+      "id": "foundations",
+      "type": "text",
+      "text": "# AI-Foundations\n- [[../../AI-Foundations/专题总览|专题总览]]\n- [[../../AI-Foundations/学习进度|学习进度]]\n- [[../../AI-Foundations/恢复笔记|恢复笔记]]\n- [[../../AI-Foundations/05-Topics/主题索引|主题索引]]\n- [[../../AI-Foundations/06-Maps/地图索引|地图索引]]",
+      "x": -920,
+      "y": -40,
+      "width": 400,
+      "height": 280,
+      "color": "2"
+    },
+    {
+      "id": "learning",
+      "type": "text",
+      "text": "# AI-Learning\n- [[../专题总览|专题总览]]\n- [[../学习进度|学习进度]]\n- [[../恢复笔记|恢复笔记]]\n- [[../06-Topics/AI 主题索引|AI 主题索引]]\n- [[../09-Systems/系统索引|系统索引]]\n- [[地图索引]]",
+      "x": -420,
+      "y": -40,
+      "width": 400,
+      "height": 300,
+      "color": "4"
+    },
+    {
+      "id": "opensource",
+      "type": "text",
+      "text": "# AI-Open-Source\n- [[../../AI-Open-Source/专题总览|专题总览]]\n- [[../../AI-Open-Source/学习进度|学习进度]]\n- [[../../AI-Open-Source/恢复笔记|恢复笔记]]\n- [[../../AI-Open-Source/01-Categories/分类索引|分类索引]]\n- [[../../AI-Open-Source/03-Projects/项目索引|项目索引]]\n- [[../../AI-Open-Source/06-Maps/地图索引|地图索引]]",
+      "x": 80,
+      "y": -40,
+      "width": 420,
+      "height": 320,
+      "color": "1"
+    },
+    {
+      "id": "engineering",
+      "type": "text",
+      "text": "# AI-Engineering\n- [[../../AI-Engineering/专题总览|专题总览]]\n- [[../../AI-Engineering/学习进度|学习进度]]\n- [[../../AI-Engineering/恢复笔记|恢复笔记]]\n- [[../../AI-Engineering/07-Topics/主题索引|主题索引]]\n- [[../../AI-Engineering/08-Maps/地图索引|地图索引]]\n- [[../../AI-Engineering/06-Projects/项目索引|项目索引]]",
+      "x": 620,
+      "y": -40,
+      "width": 420,
+      "height": 320,
+      "color": "5"
+    },
+    {
+      "id": "applications",
+      "type": "text",
+      "text": "# AI-Applications\n- [[../../AI-Applications/专题总览|专题总览]]\n- [[../../AI-Applications/学习进度|学习进度]]\n- [[../../AI-Applications/恢复笔记|恢复笔记]]\n- [[../../AI-Applications/05-Topics/主题索引|主题索引]]\n- [[../../AI-Applications/06-Maps/地图索引|地图索引]]",
+      "x": 1160,
+      "y": -40,
+      "width": 420,
+      "height": 300,
+      "color": "3"
+    },
+    {
+      "id": "routes",
+      "type": "text",
+      "text": "# 跨专题主线\n- 大模型：Foundations -> Learning -> Engineering -> Applications\n- Agent：Learning -> Open-Source -> Engineering -> Applications\n- 开源栈：Learning -> Open-Source -> Engineering\n- Security：Learning -> Open-Source -> Engineering -> Applications",
+      "x": 240,
+      "y": 360,
+      "width": 760,
+      "height": 240,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "routes",
+      "toSide": "top",
+      "label": "阅读主线"
+    },
+    {
+      "id": "e2",
+      "fromNode": "foundations",
+      "fromSide": "right",
+      "toNode": "learning",
+      "toSide": "left",
+      "label": "基础 -> 现代"
+    },
+    {
+      "id": "e3",
+      "fromNode": "learning",
+      "fromSide": "right",
+      "toNode": "opensource",
+      "toSide": "left",
+      "label": "对象 -> 开源栈"
+    },
+    {
+      "id": "e4",
+      "fromNode": "opensource",
+      "fromSide": "right",
+      "toNode": "engineering",
+      "toSide": "left",
+      "label": "项目 -> 工程"
+    },
+    {
+      "id": "e5",
+      "fromNode": "engineering",
+      "fromSide": "right",
+      "toNode": "applications",
+      "toSide": "left",
+      "label": "构建 -> 落地"
+    },
+    {
+      "id": "e6",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "learning",
+      "toSide": "top",
+      "label": "控制塔"
+    },
+    {
+      "id": "e7",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "opensource",
+      "toSide": "top",
+      "label": "开源控制塔"
+    }
+  ]
+}

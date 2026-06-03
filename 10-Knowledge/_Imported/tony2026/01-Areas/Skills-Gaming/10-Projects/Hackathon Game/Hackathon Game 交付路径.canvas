@@ -1,0 +1,96 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "text",
+      "text": "# Hackathon Game 交付路径\n- [[项目总览]]\n- [[Hackathon Game 执行看板.base|Hackathon Game 执行看板（Base）]]\n- 先做可玩版本，再做首轮试玩，再做复盘和调优",
+      "x": 360,
+      "y": -420,
+      "width": 560,
+      "height": 220,
+      "color": "6"
+    },
+    {
+      "id": "blueprint",
+      "type": "text",
+      "text": "# 设计与实现\n- [[推荐方向：Word Sprint Duel V1]]\n- [[Word Sprint Duel V1 实现蓝图]]\n- [[Word Sprint Duel V1 技术选型与主机方案]]\n- [[Word Sprint Duel V1 客户端、服务端与数据任务拆分]]",
+      "x": -460,
+      "y": -40,
+      "width": 420,
+      "height": 250,
+      "color": "2"
+    },
+    {
+      "id": "ai",
+      "type": "text",
+      "text": "# AI 协作\n- [[AI Coding Tools 选型与协作分工]]\n- [[Cursor Unity 客户端 Prompt 包]]\n- [[Claude Code 后端与事件链路任务包]]\n- [[Codex 异步并行任务包]]\n- [[Google AI Studio 内容与素材生产包]]",
+      "x": 120,
+      "y": -40,
+      "width": 440,
+      "height": 280,
+      "color": "4"
+    },
+    {
+      "id": "trust",
+      "type": "text",
+      "text": "# 公平与解释\n- [[Word Sprint Duel V1 埋点、结果解释与公平性最小方案]]\n- [[Word Sprint Duel V1 参数、词库与节奏调优表]]",
+      "x": 760,
+      "y": -40,
+      "width": 420,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "playtest",
+      "type": "text",
+      "text": "# 试玩与复盘\n- [[Word Sprint Duel V1 首轮试玩计划]]\n- [[Word Sprint Duel V1 首轮试玩复盘]]\n- [[../../07-Templates/Game Feel Review 模板|Game Feel Review 模板]]\n- [[../../07-Templates/作弊与争议复盘模板|作弊与争议复盘模板]]",
+      "x": 220,
+      "y": 360,
+      "width": 500,
+      "height": 260,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "blueprint",
+      "toSide": "top",
+      "label": "先做可玩版本"
+    },
+    {
+      "id": "e2",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "ai",
+      "toSide": "top",
+      "label": "并行交付"
+    },
+    {
+      "id": "e3",
+      "fromNode": "blueprint",
+      "fromSide": "right",
+      "toNode": "trust",
+      "toSide": "left",
+      "label": "把结果讲清楚"
+    },
+    {
+      "id": "e4",
+      "fromNode": "ai",
+      "fromSide": "bottom",
+      "toNode": "playtest",
+      "toSide": "top",
+      "label": "做 build 去测试"
+    },
+    {
+      "id": "e5",
+      "fromNode": "trust",
+      "fromSide": "bottom",
+      "toNode": "playtest",
+      "toSide": "top",
+      "label": "复盘公平与节奏"
+    }
+  ]
+}

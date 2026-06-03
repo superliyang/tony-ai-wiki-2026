@@ -1,0 +1,356 @@
+{
+  "generated_at": "2026-05-23T23:20:55+00:00",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "input": "90-Agent-System/logs/classified-items-2026-05-23.json",
+  "analyzed_items": 6,
+  "warnings": [],
+  "items": [
+    {
+      "source_id": "anthropic-news",
+      "source_name": "Anthropic News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Newsroom \\ Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "published_at": "",
+      "summary": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, A...",
+      "raw_text": "Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title May 22, 2026 Announcements Project Glasswing: An initial update May 19, 2026 Announcements Widening the conversation on frontier AI May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance May 18, 2026 Announcements Anthropic acquires Stainless May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent en...",
+      "fetched_at": "2026-05-23T23:20:36+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-23T23:20:43+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Anthropic Claude Opus 4.7 发布与 Claude Design 产品",
+        "learning_value": "值得关注 Claude Opus 4.7 在 coding、agents、vision 和 multi-step tasks 上的性能提升，以及 Claude Design 作为 AI 协作设计工具的新模式，可能代表 AI-Engineering 领域的新能力边界。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 和模型能力评估",
+        "suggested_action": "review",
+        "reason": "信息来自官方新闻，涉及模型能力更新和新产品，与 AI-Engineering 主线相关，但具体学习价值需人工判断是否值得深入 study。",
+        "confidence": 0.8
+      },
+      "ai_learning_value": "值得关注 Claude Opus 4.7 在 coding、agents、vision 和 multi-step tasks 上的性能提升，以及 Claude Design 作为 AI 协作设计工具的新模式，可能代表 AI-Engineering 领域的新能力边界。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 和模型能力评估",
+      "ai_suggested_action": "review",
+      "ai_reason": "信息来自官方新闻，涉及模型能力更新和新产品，与 AI-Engineering 主线相关，但具体学习价值需人工判断是否值得深入 study。"
+    },
+    {
+      "source_id": "deepseek-news",
+      "source_name": "DeepSeek News",
+      "source_type": "url",
+      "source_priority": "high",
+      "title": "Change Log | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates",
+      "published_at": "",
+      "summary": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round...",
+      "raw_text": "Change Log | DeepSeek API Docs !function(){function t(t){document.documentElement.setAttribute(\"data-theme\",t)}var e=function(){try{return new URLSearchParams(window.location.search).get(\"docusaurus-theme\")}catch(t){}}()||function(){try{return localStorage.getItem(\"theme\")}catch(t){}}();t(null!==e?e:\"light\")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith(\"docusaurus-data-\")){var a=t.replace(\"docusaurus-data-\",\"data-\");document.documentElement.setAttribute(a,e)}}catch(t){}}() Skip to main content DeepSeek API Docs English English ä¸­æï¼ä¸­å½ï¼ DeepSeek Platform Quick Start Your First API Call Models & Pricing Token & Token Usage Rate Limit & Isolation Error Codes Agent Integrations API Guides Thinking Mode Multi-round Conversation Chat Prefix Completion (Beta) FIM Completion (Beta) JSON Output Tool Calls Context Caching Anthropic API API Reference News Other Resources FAQ Change Log Change Log On this page Change Log Date: 2026-04-24 â DeepSeek-V4 â The DeepSeek API now supports V4-Pro and V4-Flash, available via both the OpenAI ChatCompletions interface and the Anthropic interface. To access the new models, the base_url remains unchanged, and the model parameter should be set to deepseek-v4-pro or deepseek-v4-flash . The two legacy API model names, deepseek-chat and deepseek-reasoner , will be discontinued in three months (2026-07-24). During the current period, these two model names point to the non-thinking mode and thinking mode of deepseek-v4-flash , respectively. For more details, please refer to this documentation . Date: 2025-12-01 â DeepSeek-V3.2 â Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2. deepseek-chat corresponds to DeepSeek-V3.2's non-thinking mode deepseek-reasoner corresponds to DeepSeek-V3.2's thinking mode DeepSeek-V3.2-Speciale â DeepSeek-V3.2-Speciale is served via a temporary endpoint: base_url=\" https://api.deepseek.com/v3.2_spec...",
+      "fetched_at": "2026-05-23T23:20:36+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 27,
+        "Security": 2
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent, DeepSeek；Security: 命中 bot",
+      "classified_at": "2026-05-23T23:20:43+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "DeepSeek API 更新日志",
+        "learning_value": "值得关注 DeepSeek API 的更新内容，特别是 Agent 集成、Thinking Mode 等新能力，可能对 AI-Engineering 实践有参考价值。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 和 API 实践",
+        "suggested_action": "review",
+        "reason": "信息来自官方文档，与 AI-Engineering 主线相关，但摘要不完整，需要人工判断具体更新内容的学习价值。",
+        "confidence": 0.7
+      },
+      "ai_learning_value": "值得关注 DeepSeek API 的更新内容，特别是 Agent 集成、Thinking Mode 等新能力，可能对 AI-Engineering 实践有参考价值。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 和 API 实践",
+      "ai_suggested_action": "review",
+      "ai_reason": "信息来自官方文档，与 AI-Engineering 主线相关，但摘要不完整，需要人工判断具体更新内容的学习价值。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins. Trending signal: 2,172 stars today.",
+      "raw_text": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins. Python 26,388 2,852 Built by 2,172 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 2
+      },
+      "importance_score": 2,
+      "classification_reason": "AI-Engineering: 命中 Claude Code",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "Learn it. Build it. Ship it for others. Trending signal: 1,523 stars today.",
+      "raw_text": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others. Python 13,686 2,558 Built by 1,523 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. Trending signal: 537 stars today.",
+      "raw_text": "Sponsor Star Fincept-Corporation / FinceptTerminal FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. Python 23,102 3,187 Built by 537 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 Trending signal: 238 stars today.",
+      "raw_text": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 Python 7,365 1,007 Built by 238 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 12,
+        "AI-Open-Source": 2,
+        "Security": 6,
+        "Big-Data": 2
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Claude Code, Codex, Agent, Gemini CLI, Copilot；AI-Open-Source: 命中 GitHub；Security: 命中 security；Big-Data: 命中 Apache",
+      "classified_at": "2026-05-23T23:20:43+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI-Agent-Cybersecurity-Skills",
+        "learning_value": "学习如何将结构化网络安全技能映射到多个框架（MITRE ATT&CK、NIST CSF等），并集成到AI Agent工作流中，提升Agent的安全能力。",
+        "vault_relationship": "补充现有专题：AI-Engineering 和 Security 的交叉领域，提供可复用的技能映射标准。",
+        "suggested_action": "study",
+        "reason": "该项目提供了结构化网络安全技能与AI Agent的集成方案，涉及多个主流框架和平台，具有明确的工程实践价值，且与AI-Engineering和Security主线高度相关。",
+        "confidence": 0.9
+      },
+      "ai_learning_value": "学习如何将结构化网络安全技能映射到多个框架（MITRE ATT&CK、NIST CSF等），并集成到AI Agent工作流中，提升Agent的安全能力。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 和 Security 的交叉领域，提供可复用的技能映射标准。",
+      "ai_suggested_action": "study",
+      "ai_reason": "该项目提供了结构化网络安全技能与AI Agent的集成方案，涉及多个主流框架和平台，具有明确的工程实践价值，且与AI-Engineering和Security主线高度相关。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "Odoo. Open Source Apps To Grow Your Business. Trending signal: 386 stars today.",
+      "raw_text": "Star odoo / odoo Odoo. Open Source Apps To Grow Your Business. Python 51,466 32,529 Built by 386 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "AI-Open-Source",
+      "topic_scores": {
+        "AI-Open-Source": 2
+      },
+      "importance_score": 2,
+      "classification_reason": "AI-Open-Source: 命中 open source",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "NVlabs/LongLive",
+      "url": "https://github.com/NVlabs/LongLive",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "LongLive 2.0: Infra - Long Video Gen Trending signal: 79 stars today.",
+      "raw_text": "Star NVlabs / LongLive LongLive 2.0: Infra - Long Video Gen Python 1,796 168 Built by 79 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "A feature-rich command-line audio/video downloader Trending signal: 745 stars today.",
+      "raw_text": "Star yt-dlp / yt-dlp A feature-rich command-line audio/video downloader Python 164,938 13,857 Built by 745 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "The agent that grows with you Trending signal: 1,334 stars today.",
+      "raw_text": "Star NousResearch / hermes-agent The agent that grows with you Python 164,399 26,995 Built by 1,334 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 4
+      },
+      "importance_score": 3,
+      "classification_reason": "AI-Engineering: 命中 Agent",
+      "classified_at": "2026-05-23T23:20:43+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "AI-Engineering",
+        "learning_value": "值得学习其设计理念：如何构建一个随用户需求增长的AI Agent，可能涉及模块化架构、可扩展性设计或自适应学习机制。",
+        "vault_relationship": "补充现有专题：AI-Engineering 下的 Agent 架构设计，可作为可复用 Playbook 的候选。",
+        "suggested_action": "review",
+        "reason": "项目名称和描述暗示了Agent的成长性设计，与AI-Engineering主线相关，但缺乏具体技术细节，需要人工判断其实际学习价值。",
+        "confidence": 0.7
+      },
+      "ai_learning_value": "值得学习其设计理念：如何构建一个随用户需求增长的AI Agent，可能涉及模块化架构、可扩展性设计或自适应学习机制。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 下的 Agent 架构设计，可作为可复用 Playbook 的候选。",
+      "ai_suggested_action": "review",
+      "ai_reason": "项目名称和描述暗示了Agent的成长性设计，与AI-Engineering主线相关，但缺乏具体技术细节，需要人工判断其实际学习价值。"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) Trending signal: 541 stars today.",
+      "raw_text": "Star Alishahryar1 / free-claude-code Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) Python 28,579 4,282 Built by 541 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    },
+    {
+      "source_id": "github-trending-ai",
+      "source_name": "GitHub Trending AI",
+      "source_type": "github_trending",
+      "source_priority": "medium",
+      "title": "databricks-solutions/ai-dev-kit",
+      "url": "https://github.com/databricks-solutions/ai-dev-kit",
+      "published_at": "2026-05-23T23:20:37+00:00",
+      "summary": "Databricks Toolkit for Coding Agents provided by Field Engineering Trending signal: 12 stars today.",
+      "raw_text": "Star databricks-solutions / ai-dev-kit Databricks Toolkit for Coding Agents provided by Field Engineering Python 1,555 334 Built by 12 stars today",
+      "fetched_at": "2026-05-23T23:20:37+00:00",
+      "topic": "AI-Engineering",
+      "topic_scores": {
+        "AI-Engineering": 4
+      },
+      "importance_score": 4,
+      "classification_reason": "AI-Engineering: 命中 Agent, Coding Agent",
+      "classified_at": "2026-05-23T23:20:43+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Databricks AI Dev Kit for Coding Agents",
+        "learning_value": "值得学习 Databricks 提供的 Coding Agent 工具链，了解其架构设计、集成方式及对 AI-Engineering 工作流的潜在优化。",
+        "vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 实践，可对比 LangChain、AutoGPT 等方案。",
+        "suggested_action": "review",
+        "reason": "与 AI-Engineering 主线相关，但仅 12 stars，成熟度待评估，需人工判断是否值得深入。",
+        "confidence": 0.7
+      },
+      "ai_learning_value": "值得学习 Databricks 提供的 Coding Agent 工具链，了解其架构设计、集成方式及对 AI-Engineering 工作流的潜在优化。",
+      "ai_vault_relationship": "补充现有专题：AI-Engineering 中的 Agent 实践，可对比 LangChain、AutoGPT 等方案。",
+      "ai_suggested_action": "review",
+      "ai_reason": "与 AI-Engineering 主线相关，但仅 12 stars，成熟度待评估，需人工判断是否值得深入。"
+    },
+    {
+      "source_id": "apache-flink",
+      "source_name": "Apache Flink Blog",
+      "source_type": "url",
+      "source_priority": "medium",
+      "title": "Flink Blog | Apache Flink",
+      "url": "https://flink.apache.org/posts/",
+      "published_at": "",
+      "summary": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink St...",
+      "raw_text": "Flink Blog | Apache Flink var _paq = window._paq = window._paq || []; _paq.push(['disableCookies']); _paq.push([\"setDomains\", [\"*.flink.apache.org\",\"*.nightlies.apache.org/flink\"]]); _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u=\"//analytics.apache.org/\"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '1']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); })(); Apache Flink About Architecture Applications Operations Use Cases Powered By Roadmap Community & Project Info Security Special Thanks Getting Started With Flink With Flink Kubernetes Operator With Flink CDC With Flink Agents With Flink ML Training Course With Flink Stateful Functions Documentation Flink 2.2 (stable) Flink 1.20 (LTS) Flink Master (snapshot) Kubernetes Operator 1.14 (latest) Kubernetes Operator Main (snapshot) CDC 3.6 (stable) CDC Master (snapshot) Agents 0.2 (latest) Agents Main (snapshot) ML 2.3 (stable) ML Master (snapshot) Stateful Functions 3.3 (stable) Stateful Functions Master (snapshot) How to Contribute Overview Contribute Code Review Pull Requests Code Style and Quality Guide Contribute Documentation Documentation Style Guide Contribute to the Website Getting Help Flink Blog Downloads Apache Flink 2.2.1 Release Announcement May 15, 2026 - Sergey Nuyanzin The Apache Flink Community is pleased to announce the first bug fix release of the Flink 2.2 series. This release includes 44 bug fixes, vulnerability fixes, and minor improvements for Flink 2.2. Below you will find a list of all bug fixes and improvements (excluding improvements to the build infrastructure and build stability). For a complete list of all changes see: JIRA. We highly recommend all users upgrade to Flink 2. ... Continue reading Â» Apache Flink 2.0.2 Release Announcement May 11, 2026 - Sergey Nuyanzin The Apache Flink Community is pleased to announce the...",
+      "fetched_at": "2026-05-23T23:20:39+00:00",
+      "topic": "Big-Data",
+      "topic_scores": {
+        "AI-Engineering": 4,
+        "AI-Open-Source": 5,
+        "Security": 3,
+        "Big-Data": 54,
+        "Cloud-Native": 4
+      },
+      "importance_score": 5,
+      "classification_reason": "AI-Engineering: 命中 Agent；AI-Open-Source: 命中 release, pull request；Security: 命中 security, vulnerability；Big-Data: 命中 Flink, CDC, Apache；Cloud-Native: 命中 Kubernetes",
+      "classified_at": "2026-05-23T23:20:43+00:00",
+      "semantic_analysis": {
+        "semantic_topic": "Apache Flink 官方博客更新",
+        "learning_value": "Flink 官方博客持续发布关于 Flink CDC、Kubernetes Operator、Flink Agents 等新特性，值得跟踪学习以掌握流处理领域的最新工程实践和架构演进。",
+        "vault_relationship": "补充现有专题：Big-Data 主线中的 Flink 专题，可获取官方发布的新功能、最佳实践和版本更新。",
+        "suggested_action": "study",
+        "reason": "Flink 是 Big-Data 主线的核心组件，官方博客包含高价值技术内容，如 CDC、Kubernetes 集成、Agent 等，与 AI-Engineering 和 Cloud-Native 也相关，学习价值明确。",
+        "confidence": 0.9
+      },
+      "ai_learning_value": "Flink 官方博客持续发布关于 Flink CDC、Kubernetes Operator、Flink Agents 等新特性，值得跟踪学习以掌握流处理领域的最新工程实践和架构演进。",
+      "ai_vault_relationship": "补充现有专题：Big-Data 主线中的 Flink 专题，可获取官方发布的新功能、最佳实践和版本更新。",
+      "ai_suggested_action": "study",
+      "ai_reason": "Flink 是 Big-Data 主线的核心组件，官方博客包含高价值技术内容，如 CDC、Kubernetes 集成、Agent 等，与 AI-Engineering 和 Cloud-Native 也相关，学习价值明确。"
+    },
+    {
+      "source_id": "github-opencode-releases",
+      "source_name": "OpenCode Releases",
+      "source_type": "github_releases",
+      "source_priority": "medium",
+      "title": "v1.15.10",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.10",
+      "published_at": "2026-05-23T01:04:24Z",
+      "summary": "## Desktop ### Bugfixes - Restored the legacy production desktop flows for opening projects and starting sessions.",
+      "raw_text": "## Desktop ### Bugfixes - Restored the legacy production desktop flows for opening projects and starting sessions.",
+      "fetched_at": "2026-05-23T23:20:43+00:00",
+      "topic": "Others",
+      "topic_scores": {
+        "Others": 0
+      },
+      "importance_score": 1,
+      "classification_reason": "未命中专题关键词，进入 Others。",
+      "classified_at": "2026-05-23T23:20:43+00:00"
+    }
+  ]
+}

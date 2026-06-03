@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "id": "hub",
+      "type": "text",
+      "text": "# AI 开源项目控制塔\n- [[../专题总览|专题总览]]\n- [[AI 开源项目导航.base|AI 开源项目导航（Base）]]\n- 先看分类，再看项目，再上升到模式",
+      "x": 340,
+      "y": -520,
+      "width": 520,
+      "height": 220,
+      "color": "6"
+    },
+    {
+      "id": "cat",
+      "type": "text",
+      "text": "# 分类层\n- [[../01-Categories/分类索引|分类索引]]\n- 本地 runtime\n- serving\n- agent runtime\n- memory / eval\n- AI platform",
+      "x": -520,
+      "y": -40,
+      "width": 360,
+      "height": 260,
+      "color": "2"
+    },
+    {
+      "id": "org",
+      "type": "text",
+      "text": "# 组织层\n- [[../02-Organizations/组织索引|组织索引]]\n- 谁在持续做\n- 哪条技术路线更稳定",
+      "x": -80,
+      "y": -40,
+      "width": 360,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "proj",
+      "type": "text",
+      "text": "# 项目层\n- [[../03-Projects/项目索引|项目索引]]\n- 代表项目\n- local_fit / mac_fit\n- 下一步实验",
+      "x": 360,
+      "y": -40,
+      "width": 360,
+      "height": 240,
+      "color": "5"
+    },
+    {
+      "id": "pat",
+      "type": "text",
+      "text": "# 模式层\n- [[../04-Patterns/模式索引|模式索引]]\n- 从 repo 上升到工程抽象",
+      "x": 800,
+      "y": -40,
+      "width": 360,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "ops",
+      "type": "text",
+      "text": "# 运行层\n- [[../08-Workflows/工作流索引|工作流索引]]\n- [[../09-Watchlist/Watchlist 索引|Watchlist 索引]]\n- intake\n- weekly watch\n- skill + plugin 旁路学习",
+      "x": 160,
+      "y": 320,
+      "width": 520,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "group1",
+      "type": "group",
+      "x": -580,
+      "y": -100,
+      "width": 420,
+      "height": 340,
+      "color": "2",
+      "label": "识别层"
+    },
+    {
+      "id": "group2",
+      "type": "group",
+      "x": 300,
+      "y": -100,
+      "width": 900,
+      "height": 340,
+      "color": "5",
+      "label": "判断层"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "cat",
+      "toSide": "top",
+      "label": "先分类"
+    },
+    {
+      "id": "e2",
+      "fromNode": "cat",
+      "fromSide": "right",
+      "toNode": "org",
+      "toSide": "left",
+      "label": "看组织"
+    },
+    {
+      "id": "e3",
+      "fromNode": "org",
+      "fromSide": "right",
+      "toNode": "proj",
+      "toSide": "left",
+      "label": "落到项目"
+    },
+    {
+      "id": "e4",
+      "fromNode": "proj",
+      "fromSide": "right",
+      "toNode": "pat",
+      "toSide": "left",
+      "label": "抽象模式"
+    },
+    {
+      "id": "e5",
+      "fromNode": "hub",
+      "fromSide": "bottom",
+      "toNode": "ops",
+      "toSide": "top",
+      "label": "进入 watch / workflow"
+    }
+  ]
+}

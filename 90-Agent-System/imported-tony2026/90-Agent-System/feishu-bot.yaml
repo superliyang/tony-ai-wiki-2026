@@ -1,0 +1,41 @@
+version: 1
+
+websocket_bot:
+  enabled: true
+  app_id_env: FEISHU_APP_ID
+  app_secret_env: FEISHU_APP_SECRET
+  transport: websocket
+  commands:
+    - /help
+    - /ping
+    - 日报
+    - 周报
+    - 健康
+    - 决策面板
+    - /board
+    - 候选
+    - 收藏 <URL>
+    - /save <URL>
+    - /daily
+    - /weekly
+    - /health
+    - /review
+    - /decide <index> study|ignore|keep|merge
+    - 1 学习
+    - 2 忽略
+    - 3 保留
+    - 4 合入
+    - 合入计划
+    - /merge-plan
+    - 合入预览
+    - /merge-preview
+    - 确认执行合入 <index>
+    - /merge-apply <index> confirm
+    - 巡检
+    - 真实巡检
+    - /ops
+    - /ops real
+    - /run daily
+    - /run weekly
+    - 跑日报
+    - 跑周报

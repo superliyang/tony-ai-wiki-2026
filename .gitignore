@@ -1,0 +1,28 @@
+# Obsidian workspace config (personal settings, not knowledge)
+.obsidian/
+**/.obsidian/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+**/credentials*
+
+# OS files
+.DS_Store
+Thumbs.db
+.DS_Store?
+
+# Node/Python artifacts
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Temporary files
+*.tmp
+*.swp
+*~

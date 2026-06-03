@@ -1,0 +1,13 @@
+[project]
+name = "word-sprint-duel-backend"
+version = "0.1.0"
+description = "Minimal FastAPI backend for Word Sprint Duel V1"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "pydantic>=2.8"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

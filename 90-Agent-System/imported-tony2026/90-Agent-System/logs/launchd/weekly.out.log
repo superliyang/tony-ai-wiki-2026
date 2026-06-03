@@ -1,0 +1,117 @@
+[weekly] week=2026-W22 dry_run=False
+[collect] openai-blog (rss)
+[collect] anthropic-news (url)
+[collect] deepseek-news (url)
+[collect] github-trending-ai (github_trending)
+[collect] manual-url-inbox (manual_urls)
+[collect] aws-security-blog (rss)
+[collect] cloudflare-blog (rss)
+[collect] apache-flink (url)
+[collect] arxiv-ai-agents (rss)
+[collect] github-langgraph-releases (github_releases)
+[collect] github-litellm-releases (github_releases)
+[collect] github-opencode-releases (github_releases)
+[collect] cisa-alerts (rss)
+[collect] cisa-kev (cisa_kev)
+[collect] items=53 warnings=2 output=90-Agent-System/logs/source-items-2026-W22.json
+WARNING: arxiv-ai-agents: RSS fetch failed: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)
+WARNING: github-langgraph-releases: GitHub releases fetch failed, using cached items from previous logs: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/langchain-ai/langgraph/releases (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[classify] items=53 output=90-Agent-System/logs/classified-items-2026-W22.json
+[semantic] analyzed: OpenAI named a Leader in enterprise coding agents by Gartner
+[semantic] analyzed: How Virgin Atlantic ships faster with Codex
+[semantic] analyzed: How Ramp engineers accelerate code review with Codex
+[semantic] analyzed: Newsroom \ Anthropic
+[semantic] analyzed: Change Log | DeepSeek API Docs
+[semantic] analyzed: mukul975/Anthropic-Cybersecurity-Skills
+[semantic] analyzed: microsoft/agent-governance-toolkit
+[semantic] analyzed: AWS KY3P report now available for third-party supplier due diligence
+[semantic] analyzed=8 warnings=0 output=90-Agent-System/logs/semantic-analysis-2026-W22.json
+[ai-triage] analyzed=8 output=00-Agent-Inbox/Review-Queue/AI-Triage/2026-W22.md
+[digest] mode=weekly output=00-Agent-Inbox/Weekly-Digests/2026-W22.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-openai-named-a-leader-in-enterprise-coding-agents-by-gartner.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-how-virgin-atlantic-ships-faster-with-codex.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-how-ramp-engineers-accelerate-code-review-with-codex.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-newsroom-anthropic.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-change-log-deepseek-api-docs.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-23-mukul975-anthropic-cybersecurity-skills.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-25-microsoft-agent-governance-toolkit.md
+[candidates] refreshed AI triage: 00-Agent-Inbox/Candidates/Cloud-Native/2026-05-23-aws-ky3p-report-now-available-for-third-party-supplier-due-diligence.md
+[candidates] skip existing URL: https://aws.amazon.com/blogs/security/automating-identity-lifecycle-and-security-with-aws-directory-service-apis/
+[candidates] skip existing URL: https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/
+[candidates] skip existing URL: https://aws.amazon.com/blogs/security/aws-security-hub-extended-why-enterprise-security-products-should-sell-themselves/
+[candidates] skip existing URL: https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/
+[candidates] skip existing URL: https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/
+[candidates] skip existing URL: https://blog.cloudflare.com/casb-anthropic-integration/
+[candidates] skip existing URL: https://blog.cloudflare.com/claude-managed-agents/
+[candidates] skip existing URL: https://flink.apache.org/posts/
+[candidates] skip existing URL: https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.3.15
+[candidates] skip existing URL: https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.1.1
+[candidates] skip existing URL: https://github.com/langchain-ai/langgraph/releases/tag/1.2.1
+[candidates] skip existing URL: https://github.com/BerriAI/litellm/releases/tag/v1.87.0-rc.1
+[candidates] skip existing URL: https://github.com/BerriAI/litellm/releases/tag/v1.85.1
+[candidates] skip existing URL: https://github.com/BerriAI/litellm/releases/tag/v1.84.1
+[candidates] skip existing URL: https://github.com/BerriAI/litellm/releases/tag/v1.87.0-dev.1
+[candidates] skip existing URL: https://github.com/BerriAI/litellm/releases/tag/v1.86.0
+[candidates] skip existing URL: https://github.com/anomalyco/opencode/releases/tag/v1.15.9
+[candidates] skip existing URL: https://github.com/anomalyco/opencode/releases/tag/v1.15.7
+[candidates] skip existing URL: https://github.com/anomalyco/opencode/releases/tag/v1.15.6
+[candidates] skip existing URL: https://github.com/anomalyco/opencode/releases/tag/v1.15.5
+[candidates] skip existing URL: https://www.cisa.gov/news-events/news/cisa-enhances-known-exploited-vulnerabilities-catalog-include-new-nomination-form
+[candidates] skip existing URL: https://www.drupal.org/sa-core-2026-004 ; https://nvd.nist.gov/vuln/detail/CVE-2026-9082
+[candidates] skip existing URL: This vulnerability could affect an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://github.com/langflow-ai/langflow ; https://github.com/langflow-ai/langflow/releases/tag/v1.9.3; https://github.com/langflow-ai/langflow/issues/11465#event-25774545848 ; https://nvd.nist.gov/vuln/detail/CVE-2025-34291
+[candidates] skip existing URL: https://success.trendmicro.com/en-US/solution/KA-0023430 ; https://nvd.nist.gov/vuln/detail/CVE-2026-34926
+[candidates] skip existing URL: https://learn.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-067 ; https://nvd.nist.gov/vuln/detail/CVE-2008-4250
+[candidates] skip existing URL: https://learn.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-028 ; https://nvd.nist.gov/vuln/detail/CVE-2009-1537
+[candidates] skip existing URL: https://www.cisa.gov/news-events/alerts/2009/10/13/adobe-reader-and-acrobat-vulnerabilities ; https://web.archive.org/web/20120324170253/http://www.adobe.com/support/security/bulletins/apsb09-15.html#:~:text=CVE%2D2009%2D3459).-,NOTE%3A,-There%20are%20reports ; https://nvd.nist.gov/vuln/detail/CVE-2009-3459
+[candidates] skip existing URL: https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2010/979352 ; https://nvd.nist.gov/vuln/detail/CVE-2010-0249
+[candidates] skip existing URL: https://learn.microsoft.com/en-us/security-updates/securityadvisories/2010/981374 ; https://nvd.nist.gov/vuln/detail/CVE-2010-0806
+[candidates] skip existing URL: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-41091 ; https://nvd.nist.gov/vuln/detail/CVE-2026-41091
+[candidates] skip existing URL: https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-45498 ; https://nvd.nist.gov/vuln/detail/CVE-2026-45498
+[candidates] created=0 refreshed=8
+[study-queue] output=00-Agent-Inbox/Study-Queue/2026-05-25.md
+[ops-insights] source_quality=90-Agent-System/reports/source-quality-2026-W22.md topic_opportunities=90-Agent-System/reports/topic-opportunities-2026-W22.md
+[health] output=90-Agent-System/reports/vault-health-2026-05-25.md broken=0
+[notify:feishu] sent
+[weekly] summary={'source_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/source-items-2026-W22.json', 'classified_items': '/Users/tony/Vault/tony2026/90-Agent-System/logs/classified-items-2026-W22.json', 'semantic_analysis': '/Users/tony/Vault/tony2026/90-Agent-System/logs/semantic-analysis-2026-W22.json', 'ai_triage_report': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Review-Queue/AI-Triage/2026-W22.md', 'weekly_digest': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Weekly-Digests/2026-W22.md', 'candidates': 0, 'study_queue': '/Users/tony/Vault/tony2026/00-Agent-Inbox/Study-Queue/2026-05-25.md', 'source_quality': '/Users/tony/Vault/tony2026/90-Agent-System/reports/source-quality-2026-W22.md', 'topic_opportunities': '/Users/tony/Vault/tony2026/90-Agent-System/reports/topic-opportunities-2026-W22.md', 'health_report': '/Users/tony/Vault/tony2026/90-Agent-System/reports/vault-health-2026-05-25.md', 'notified': True}
+[main 27d3d95] chore: sync weekly knowledge automation
+ Committer: tony <tony@tonylideMacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 5559 insertions(+), 45 deletions(-)
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Engineering/2026-05-25-microsoft-agent-governance-toolkit.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-24-v1-86-0.md
+ create mode 100644 00-Agent-Inbox/Candidates/AI-Open-Source/2026-05-24-v1-87-0-rc-1.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-24.md
+ create mode 100644 00-Agent-Inbox/Daily-Digests/2026-05-25.md
+ create mode 100644 00-Agent-Inbox/Review-Queue/AI-Triage/2026-W22.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-24.md
+ create mode 100644 00-Agent-Inbox/Study-Queue/2026-05-25.md
+ create mode 100644 00-Agent-Inbox/Weekly-Digests/2026-W22.md
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-24.json
+ create mode 100644 90-Agent-System/logs/classified-items-2026-05-25.json
+ create mode 100644 90-Agent-System/logs/classified-items-2026-W22.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-24.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-05-25.json
+ create mode 100644 90-Agent-System/logs/semantic-analysis-2026-W22.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-24.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-05-25.json
+ create mode 100644 90-Agent-System/logs/source-items-2026-W22.json
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-24.md
+ create mode 100644 90-Agent-System/reports/source-quality-2026-05-25.md
+ create mode 100644 90-Agent-System/reports/source-quality-2026-W22.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-24.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-05-25.md
+ create mode 100644 90-Agent-System/reports/topic-opportunities-2026-W22.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-24.md
+ create mode 100644 90-Agent-System/reports/vault-health-2026-05-25.md
+[git-sync] pushed automated checkpoint to origin/main.

@@ -1,0 +1,62 @@
+# Learnings Ledger
+
+## 2026-03-29T08:39:04-07:00 | User prefers shadow-reviewed preference capture
+- summary: When recording user preferences, this user prefers a self-improving-memory-lab style flow that captures the preference first and runs a shadow review before any durable promotion.
+- scope: project
+- confidence: 0.66
+- recurring: no
+- verified: yes
+- source: runtime
+- risk: low
+- proposed_action: shadow
+- rollback: Keep the item in .learnings only; if later requests contradict it, delete or demote this entry and do not promote it beyond project scope.
+- tags: user-preference, memory, shadow-review
+- evidence:
+  - User explicitly requested: use self-improving-memory-lab workflow, capture a user preference learning, and run a shadow review on 2026-03-29.
+  - This run is staying project-scoped and does not auto-enable any durable/global memory rule.
+  - The requested plugin is not installed in this session, so the run used the local self-improving-learning-ledger skill as the nearest project-scoped fallback to complete the capture and review flow.
+## 2026-04-03T08:15:05-07:00 | User repeats preference for bounded self-improving-memory-lab capture
+- summary: Across multiple runs, this user prefers repeated learnings to be captured first as bounded project-scoped ledger entries using the self-improving-memory-lab workflow before any broader promotion.
+- scope: project
+- confidence: 0.82
+- recurring: yes
+- verified: yes
+- source: runtime
+- risk: low
+- proposed_action: shadow
+- rollback: Delete or demote this project-scoped entry and stop reusing the pattern if future requests indicate a different preference or a one-off exception.
+- tags: user-preference, memory, bounded-ledger, self-improving-memory-lab, recurrence
+- evidence:
+  - User explicitly requested on 2026-04-03 to capture this repeated learning into a bounded ledger entry via the self-improving-memory-lab plugin workflow.
+  - A prior related entry was recorded on 2026-03-29, providing a second observed instance of the same preference in this project.
+  - This run keeps the learning in .learnings/LEARNINGS.md only and does not promote it to any global rule or auto-enabled skill.
+## 2026-04-07T08:22:18-07:00 | AI knowledge investment should preserve breadth but enforce priority
+- summary: When evolving this AI vault, the working principle is to preserve broad coverage across the knowledge graph, but allocate deep study time by priority rather than spreading effort evenly.
+- scope: project
+- confidence: 0.94
+- recurring: yes
+- verified: yes
+- source: runtime
+- risk: low
+- proposed_action: retain
+- rollback: If future study strategy explicitly changes, revise or remove this project-scoped principle and stop using it to rank learning routes.
+- tags: learning-strategy, prioritization, knowledge-graph, ai-vault
+- evidence:
+  - User explicitly requested on 2026-04-07 that the vault remember this principle: do not neglect edge knowledge, but always keep clear learning priorities.
+  - The current AI vault already has a dedicated priority note, `最近半年最值得重投入学习的 AI 主线（截至 2026-04-07）`, which operationalizes this principle.
+  - This rule is being kept as a project-scoped reference for future vault updates and recall decisions.
+## 2026-04-10T00:00:00-07:00 | Sync git before starting cross-environment vault work
+- summary: Before starting a new round of meaningful work on this knowledge vault, especially when local and cloud Codex use may alternate, first check workspace status and sync from GitHub with `git pull` when appropriate to reduce drift and merge surprises.
+- scope: project
+- confidence: 0.92
+- recurring: yes
+- verified: yes
+- source: runtime
+- risk: low
+- proposed_action: retain
+- rollback: If the workflow later changes to a different sync strategy, revise or remove this entry and stop using `pull-first` as the default preflight rule.
+- tags: git, sync, workflow, cloud-collaboration, vault-maintenance
+- evidence:
+  - User explicitly requested on 2026-04-10 that this be remembered as a working rule when considering cloud Codex plus local vault maintenance.
+  - The current repository is Git-backed and already has both local changes and a GitHub remote, which makes preflight sync checks operationally relevant.
+  - The purpose of the rule is to reduce local/remote drift before a new editing batch rather than to overwrite in-progress local work.

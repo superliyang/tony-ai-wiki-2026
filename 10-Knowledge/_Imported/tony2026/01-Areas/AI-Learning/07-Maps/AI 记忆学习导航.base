@@ -1,0 +1,97 @@
+filters:
+  or:
+    - file.inFolder("01-Areas/AI-Learning/06-Topics")
+    - file.inFolder("01-Areas/AI-Learning/09-Systems")
+    - file.inFolder("01-Areas/AI-Learning/07-Maps")
+    - file.inFolder("01-Areas/AI-Engineering/07-Topics")
+    - file.inFolder("01-Areas/AI-Engineering/08-Maps")
+    - file.inFolder("01-Areas/AI-Engineering/06-Projects/Memory Lab")
+formulas:
+  note_link: link(file.path, file.name)
+  layer: if(file.inFolder("01-Areas/AI-Engineering/06-Projects/Memory Lab"), "项目实践", if(file.inFolder("01-Areas/AI-Engineering/08-Maps"), "工程地图", if(file.inFolder("01-Areas/AI-Engineering/07-Topics"), "工程主题", if(file.inFolder("01-Areas/AI-Learning/09-Systems"), "系统", if(file.inFolder("01-Areas/AI-Learning/07-Maps"), "学习地图", "抽象主题")))))
+properties:
+  formula.note_link:
+    displayName: 笔记
+  formula.layer:
+    displayName: 层级
+  file.path:
+    displayName: 路径
+  file.mtime:
+    displayName: 最近更新
+views:
+  - type: table
+    name: 学习主线
+    filters:
+      or:
+        - file.name == "AI 记忆设计"
+        - file.name == "Agent Memory"
+        - file.name == "大模型记忆、项目记忆与 Chat Memory"
+        - file.name == "自我进化与持续学习的记忆设计"
+        - file.name == "从 Learnings 到 AutoSkill：技能自提炼"
+        - file.name == "记忆污染、Memory Poisoning 与自改进风险"
+        - file.name == "AI 记忆设计图"
+        - file.name == "Self-Improving Memory 风险与治理图"
+    order:
+      - file.path
+  - type: table
+    name: 系统样本
+    filters:
+      or:
+        - file.name == "OpenClaw 的分层记忆设计"
+        - file.name == "OpenClaw"
+        - file.name == "OpenClaw 工作原理与架构"
+        - file.name == "OpenClaw 的准自进化工作流"
+        - file.name == "Self-Improving-Agent（ClawHub Skill）"
+        - file.name == "Claude Code"
+        - file.name == "LangGraph"
+        - file.name == "LangMem"
+        - file.name == "Google Agent Development Kit（ADK）"
+    order:
+      - file.path
+  - type: table
+    name: 工程层
+    filters:
+      or:
+        - file.name == "Session and Memory Design"
+        - file.name == "长期运行 Agent 的记忆系统"
+        - file.name == "记忆架构：State、Memory、Artifact 与 Context"
+        - file.name == "记忆写入、召回、压缩与 Consolidation"
+        - file.name == "记忆评测、污染、遗忘与纠偏"
+        - file.name == "Learnings、Promotion 与 Skill Extraction Pipeline"
+        - file.name == "自改进记忆的 Incident Library、Poisoning 与 Failure Cases"
+        - file.name == "共享记忆边界：用户、项目、多 Agent 与租户隔离"
+        - file.name == "自改进 Skill 的 Eval Gate、Release Gate 与 Rollback"
+        - file.name == "Incident-Fed Evals、Shadow Rollout 与 Promotion Regression"
+        - file.name == "AI Memory Engineering Map"
+    order:
+      - file.path
+  - type: table
+    name: 实践层
+    filters:
+      or:
+        - file.name == "项目总览"
+        - file.name == "Memory 分层与写入策略实验"
+        - file.name == "热路径写入、后台整理与自我进化记忆实验"
+        - file.name == "Self-Improving-Agent 与 AutoSkill 实验"
+        - file.name == "Memory Poisoning、Shared Memory Boundary 与 Release Gates 实验"
+        - file.name == "最小 Self-Improving Skill 设计"
+        - file.name == "Incident-Fed Eval 与 Shadow Rollout 实验"
+        - file.name == "最小 Self-Improving Plugin 设计"
+    order:
+      - file.path
+  - type: table
+    name: 导航层
+    filters:
+      or:
+        - file.name == "AI 记忆学习导航.base"
+        - file.name == "AI 记忆学习导航.canvas"
+        - file.name == "AI 记忆设计图"
+        - file.name == "Self-Improving Memory 风险与治理图"
+        - file.name == "AI Memory Engineering Map"
+        - file.name == "AI 主题索引"
+        - file.name == "系统索引"
+        - file.name == "地图索引"
+        - file.name == "主题索引"
+        - file.name == "项目索引"
+    order:
+      - file.path

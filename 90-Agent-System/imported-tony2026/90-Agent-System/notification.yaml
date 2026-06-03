@@ -1,0 +1,26 @@
+version: 1
+
+feishu:
+  enabled: true
+  webhook_url_env: FEISHU_WEBHOOK_URL
+  secret_env: FEISHU_WEBHOOK_SECRET
+  message_style: markdown
+  max_items: 5
+
+wecom:
+  enabled: false
+  webhook_url_env: WECOM_WEBHOOK_URL
+  message_style: markdown
+  max_items: 5
+
+bark:
+  enabled: false
+  endpoint_env: BARK_ENDPOINT
+
+ntfy:
+  enabled: false
+  endpoint_env: NTFY_ENDPOINT
+
+github:
+  enabled: false
+  create_issue: false

@@ -1,0 +1,70 @@
+filters:
+  or:
+    - file.inFolder("01-Areas/Skills-Gaming")
+formulas:
+  note_link: link(file.path, file.name)
+  layer: if(file.inFolder("01-Areas/Skills-Gaming/01-Market"), "市场", if(file.inFolder("01-Areas/Skills-Gaming/02-Companies"), "公司", if(file.inFolder("01-Areas/Skills-Gaming/03-Functions"), "职能", if(file.inFolder("01-Areas/Skills-Gaming/04-Systems"), "系统", if(file.inFolder("01-Areas/Skills-Gaming/05-Topics"), "主题", if(file.inFolder("01-Areas/Skills-Gaming/06-Maps"), "地图", if(file.inFolder("01-Areas/Skills-Gaming/07-Templates"), "模板", if(file.inFolder("01-Areas/Skills-Gaming/08-Playbooks"), "作战手册", if(file.inFolder("01-Areas/Skills-Gaming/09-Concepts"), "方向", if(file.inFolder("01-Areas/Skills-Gaming/10-Projects"), "项目", "根目录"))))))))))
+properties:
+  formula.note_link:
+    displayName: 笔记
+  formula.layer:
+    displayName: 层级
+  file.path:
+    displayName: 路径
+  file.mtime:
+    displayName: 最近更新
+views:
+  - type: table
+    name: 控制塔
+    filters:
+      or:
+        - file.name == "专题总览"
+        - file.name == "学习进度"
+        - file.name == "恢复笔记"
+        - file.name == "主题索引"
+        - file.name == "系统索引"
+        - file.name == "地图索引"
+        - file.name == "模板索引"
+        - file.name == "作战手册索引"
+        - file.name == "候选方向索引"
+        - file.name == "项目索引"
+    order:
+      - formula.layer
+      - file.path
+  - type: table
+    name: 专家路径
+    filters:
+      or:
+        - file.name == "什么是 Skills Gaming"
+        - file.name == "欧美 Skills Gaming 市场与竞品格局"
+        - file.name == "适合 Skills Gaming 的玩法原型"
+        - file.name == "Game Feel、Onboarding 与 First Match Design"
+        - file.name == "Session Pacing、Replayability 与 Skill Expression"
+        - file.name == "Skills Gaming 的失败模式、争议与 Anti-Cheat 复盘"
+        - file.name == "前沿游戏技术全景：AI、LiveOps、Realtime 与创作者工具"
+        - file.name == "成为 Skills Gaming 专家的能力闭环"
+        - file.name == "从知识框架到 Skills Gaming 专家的 90 天路径"
+    order:
+      - file.path
+  - type: table
+    name: 前沿技术
+    filters:
+      or:
+        - file.name == "Google AI Studio 全家桶"
+        - file.name == "Unity AI 与 AI Gateway"
+        - file.name == "Roblox Studio Assistant 与 MCP"
+        - file.name == "NVIDIA ACE for Games"
+        - file.name == "Inworld Agent Runtime"
+        - file.name == "Convai"
+        - file.name == "Unity Gaming Services（UGS）"
+        - file.name == "PlayFab"
+        - file.name == "Photon Fusion 与 Realtime"
+    order:
+      - file.path
+  - type: table
+    name: 项目落地
+    filters:
+      or:
+        - file.inFolder("01-Areas/Skills-Gaming/10-Projects/Hackathon Game")
+    order:
+      - file.path
