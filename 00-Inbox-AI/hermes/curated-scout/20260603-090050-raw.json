@@ -1,0 +1,175 @@
+{
+  "timestamp": "20260603-090050",
+  "rss_count": 8,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "503",
+      "title": "This Is How Trump Finally Signed the AI Executive Order",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+      "published": "2026-06-03",
+      "categories": "Politics, Sign Here"
+    },
+    {
+      "id": "504",
+      "title": "Greg Bovino Was the Star at a European Remigration Conference",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/greg-bovino-was-the-star-at-a-european-remigration-conference/",
+      "published": "2026-06-03",
+      "categories": "Politics, Politics / Politics News, Inner Loop"
+    },
+    {
+      "id": "498",
+      "title": "Amazon will show AI product images when you search for some reason",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "published": "2026-06-03",
+      "categories": "AI, Apps, Commerce, AI search, Amazon, commerce, retail"
+    },
+    {
+      "id": "499",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "published": "2026-06-03",
+      "categories": "AI, Fundraising, Startups, 4DX Ventures, Africa, Middle East, voice AI"
+    },
+    {
+      "id": "500",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "published": "2026-06-03",
+      "categories": "AI, Media & Entertainment, TC, AI search, Google, media"
+    },
+    {
+      "id": "501",
+      "title": "Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)",
+      "blog": "Stripe Engineering",
+      "url": "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program",
+      "published": "2026-06-03"
+    },
+    {
+      "id": "502",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "published": "2026-06-03",
+      "categories": "AI, Analysis, Microsoft, Microsoft Build, OpenAI, Report, Tech"
+    },
+    {
+      "id": "497",
+      "title": "Building highly available Oracle databases with Amazon FSx for NetApp ONTAP",
+      "blog": "AWS Architecture Blog",
+      "url": "https://aws.amazon.com/blogs/architecture/building-highly-available-oracle-databases-with-amazon-fsx-for-netapp-ontap/",
+      "published": "2026-06-03",
+      "categories": "Advanced (300), Amazon EC2, Amazon EventBridge, Amazon FSx for NetApp ONTAP, Application Integration, Auto Scaling, AWS Backup, AWS Lambda, AWS Systems Manager, Compute, Customer Solutions, Database, Experience-Based Acceleration, Learning Levels, Storage, Technical How-to, database"
+    },
+    {
+      "title": "Give your AI agent long-term memory with MCP (no code) - DEV Community",
+      "url": "https://dev.to/lrdeoliveira/give-your-ai-agent-long-term-memory-with-mcp-no-code-4b4h",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Persistent Agent Memory with Azure AI Foundry: A Complete Developer Guide - DEV Community",
+      "url": "https://dev.to/monuminu/persistent-agent-memory-with-azure-ai-foundry-a-complete-developer-guide-2n14",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "How AI Agent Memory Works: Complete Guide",
+      "url": "https://www.themodernblog.com/how-ai-agent-memory-works/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "RelationalAI beefs up its reasoning capabilities to enhance AI agent decision-making - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/02/relationalai-beefs-reasoning-capabilities-enhance-ai-agent-decision-making/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI | NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Session-Aware Agentic Routing: Continuity-Aware Model Selection for Long-Horizon LLM Agents | vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: 2026-07-28 RC Breaks and Fixes | byteiota",
+      "url": "https://byteiota.com/mcp-stateless-2026-release-candidate/",
+      "published": "2026-06-02",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway | Artificial Intelligence",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
+      "published": "2026-06-01",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Copilot SDK is now generally available - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/",
+      "published": "2026-06-02",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Serving MiniMax-M3 for efficient inference: Unlocking 1M-Token Context and Multimodality Without Regrets",
+      "url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Accelerating vLLM-Omni Inference with AutoRound Quantization | vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-06-02-vllm-omni-autoround",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Scaling multi-node LLM inference with NVIDIA Dynamo-Grove on AKS (Part 4) | AKS Engineering Blog",
+      "url": "https://blog.aks.azure.com/2026/06/02/dynamo-on-aks-part-4",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened",
+      "url": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Cox Automotive Completes Acquisition of Fullpath",
+      "url": "https://www.prnewswire.com/news-releases/cox-automotive-completes-acquisition-of-fullpath-302787385.html",
+      "published": "2026-06-01",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Andreessen Horowitz and Forerunner are betting $55 million on Town's deeply personal AI assistants | Fortune",
+      "url": "https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

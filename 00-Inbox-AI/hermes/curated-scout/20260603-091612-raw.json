@@ -1,0 +1,120 @@
+{
+  "timestamp": "20260603-091612",
+  "rss_count": 1,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "505",
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "published": "2026-06-03",
+      "categories": "AI, Amazon, Apps, News, Tech"
+    },
+    {
+      "title": "What is Memory? - Microsoft Foundry | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-memory",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Redis Agent Memory | Redis",
+      "url": "https://redis.io/agent-memory/",
+      "published": "2026-05-16",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "How to create AI agents with long‑term memory",
+      "url": "https://mem0.ai/blog/how-to-create-ai-agents-with-long-term-memory",
+      "published": "2026-06-01",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI | NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "RelationalAI beefs up its reasoning capabilities to enhance AI agent decision-making - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/02/relationalai-beefs-reasoning-capabilities-enhance-ai-agent-decision-making/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale | NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: 2026-07-28 RC Breaks and Fixes | byteiota",
+      "url": "https://byteiota.com/mcp-stateless-2026-release-candidate/",
+      "published": "2026-06-02",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Azure Functions MCP Extension: What's New at Build 2026 | Microsoft Community Hub",
+      "url": "https://techcommunity.microsoft.com/blog/appsonazureblog/azure-functions-mcp-extension-whats-new-at-build-2026/4524099",
+      "published": "2026-06-02",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway | Artificial Intelligence",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
+      "published": "2026-06-01",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Serving MiniMax-M3 for efficient inference: Unlocking 1M-Token Context and Multimodality Without Regrets",
+      "url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Accelerating vLLM-Omni Inference with AutoRound Quantization | vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-06-02-vllm-omni-autoround",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Scaling multi-node LLM inference with NVIDIA Dynamo-Grove on AKS (Part 4) | AKS Engineering Blog",
+      "url": "https://blog.aks.azure.com/2026/06/02/dynamo-on-aks-part-4",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened",
+      "url": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Andreessen Horowitz and Forerunner are betting $55 million on Town's deeply personal AI assistants | Fortune",
+      "url": "https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Robo.ai Completes Neurovia AI Acquisition To Strengthen AI Software Infrastructure Strategy",
+      "url": "https://pulse2.com/robo-ai-completes-neurovia-ai-acquisition-to-strengthen-ai-software-infrastructure-strategy/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

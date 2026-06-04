@@ -1,0 +1,183 @@
+{
+  "timestamp": "20260603-150019",
+  "rss_count": 9,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "509",
+      "title": "As AI gets better, it reveals an empty promise",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "published": "2026-06-03",
+      "categories": "AI"
+    },
+    {
+      "id": "510",
+      "title": "Kubernetes and retiring at the top with Kelsey Hightower",
+      "blog": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
+      "published": "2026-06-03"
+    },
+    {
+      "id": "511",
+      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+      "published": "2026-06-03",
+      "categories": "Security, Security / Privacy, Security / Security News, Business / Artificial Intelligence, Business / Social Media, Over Exposure"
+    },
+    {
+      "id": "512",
+      "title": "Elon Musk and America’s Far Right Stoke Anger Over Murder of UK Teen",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/elon-musk-and-americas-far-right-stoke-anger-over-murder-of-uk-teen/",
+      "published": "2026-06-03",
+      "categories": "Politics, Politics / Politics News, Rising Tensions"
+    },
+    {
+      "id": "513",
+      "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+      "published": "2026-06-03",
+      "categories": "Business, Business / Big Tech, Public Comments"
+    },
+    {
+      "id": "514",
+      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+      "published": "2026-06-03",
+      "categories": "Business, Business / Artificial Intelligence, AI Lab"
+    },
+    {
+      "id": "507",
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "published": "2026-06-03",
+      "categories": "AI, Enterprise, TC, Alphabet, capital expenditures, Google, IPOs"
+    },
+    {
+      "id": "508",
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "published": "2026-06-03",
+      "categories": "AI, Dreambeans, Google"
+    },
+    {
+      "id": "506",
+      "title": "Align your architecture backlog with Tech Roadmap Prioritization (TRP)",
+      "blog": "AWS Architecture Blog",
+      "url": "https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp/",
+      "published": "2026-06-03",
+      "categories": "Architecture, Best Practices"
+    },
+    {
+      "title": "Build and run agents at scale with Microsoft Foundry at Build 2026 | Microsoft Foundry Blog",
+      "url": "https://devblogs.microsoft.com/foundry/agent-service-build2026/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Persistent Agent Memory with Azure AI Foundry: A Complete Developer Guide - DEV Community",
+      "url": "https://dev.to/monuminu/persistent-agent-memory-with-azure-ai-foundry-a-complete-developer-guide-2n14",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI agent platforms with persistent memory",
+      "url": "https://mem0.ai/blog/ai-agent-platforms-with-persistent-memory",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI | NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale | NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "RelationalAI beefs up its reasoning capabilities to enhance AI agent decision-making - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/02/relationalai-beefs-reasoning-capabilities-enhance-ai-agent-decision-making/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Streamable HTTP Hits 10x Throughput: The Transport Cutover Forcing Enterprise Hands | AgentMarketCap",
+      "url": "https://agentmarketcap.ai/blog/2026/06/07/mcp-v2-1-streamable-http-95-percent-latency-reduction",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: 2026-07-28 RC Breaks and Fixes | byteiota",
+      "url": "https://byteiota.com/mcp-stateless-2026-release-candidate/",
+      "published": "2026-06-02",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Build AI agents faster with GCS (Google Cloud Storage) MCP server | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server",
+      "published": "2026-06-03",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Serving MiniMax-M3 for efficient inference: Unlocking 1M-Token Context and Multimodality Without Regrets",
+      "url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Accelerating vLLM-Omni Inference with AutoRound Quantization | vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-06-02-vllm-omni-autoround",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "vLLM, SGLang, TRT-LLM: LLM Engine Guide | Towards AI",
+      "url": "https://pub.towardsai.net/part-3-implementation-engine-level-choosing-the-runtime-that-gives-you-these-for-free-b0e9081205b0",
+      "published": "2026-06-02",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia snaps up Kumo AI in latest acquisition | Fortune",
+      "url": "https://fortune.com/2026/06/03/nvidia-snaps-up-kumo-ai-in-latest-acquisition/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened",
+      "url": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "DeepSeek lines up its first outside money: a $7bn round at up to $59bn",
+      "url": "https://thenextweb.com/news/deepseek-7-billion-maiden-fundraising",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
