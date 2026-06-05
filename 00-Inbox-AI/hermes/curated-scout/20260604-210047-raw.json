@@ -1,0 +1,142 @@
+{
+  "timestamp": "20260604-210047",
+  "rss_count": 4,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "555",
+      "title": "The future of agentic commerce is here",
+      "blog": "Stripe Engineering",
+      "url": "https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH",
+      "published": "2026-06-04"
+    },
+    {
+      "id": "556",
+      "title": "Rethinking risk in the age of AI",
+      "blog": "Stripe Engineering",
+      "url": "https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH",
+      "published": "2026-06-04"
+    },
+    {
+      "id": "557",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "published": "2026-06-04",
+      "categories": "AI, Anthropic, IPO"
+    },
+    {
+      "id": "558",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "published": "2026-06-04",
+      "categories": "AI, Airbnb, brian chesky, In Brief, sam altman"
+    },
+    {
+      "title": "AI Agent Memory for SaaS: A Builder’s Guide to Context That Does Not Betray Users | by Anna Jey | Jun, 2026 | Towards AI",
+      "url": "https://pub.towardsai.net/ai-agent-memory-for-saas-a-builders-guide-to-context-that-does-not-betray-users-da37e68810f1",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Ushering in the Era of Agent Memory Engineering | by Richmond Alake | Jun, 2026 | Medium",
+      "url": "https://richmondalake.medium.com/ushering-in-the-era-of-agent-memory-engineering-c03cde2e1962",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "I Built Persistent Memory Architectures for AI Agents That Could Remember Conversations for Months | by Maximilian Oliver | T3CH | Jun, 2026 | Medium",
+      "url": "https://medium.com/h7w/i-built-persistent-memory-architectures-for-ai-agents-that-could-remember-conversations-for-months-a75aa0687b44",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Qwen Conference 2026 | Steven Hoi: Qwen 3.7 is a Landmark for the Agent Era",
+      "url": "https://www.youtube.com/watch?v=V1sR1KDXUYk",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Towards reasoning-empowered task-oriented communication for agent networks | npj Wireless Technology",
+      "url": "https://www.nature.com/articles/s44459-026-00028-z",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "The State of MCP: Everything That Changed in H1 2026 - DEV Community",
+      "url": "https://dev.to/james_collins/the-state-of-mcp-everything-that-changed-in-h1-2026-aan",
+      "published": "2026-06-04",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Streamable HTTP Hits 10x Throughput: The Transport Cutover Forcing Enterprise Hands | AgentMarketCap",
+      "url": "https://agentmarketcap.ai/blog/2026/06/07/mcp-v2-1-streamable-http-95-percent-latency-reduction",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Build AI agents faster with GCS (Google Cloud Storage) MCP server | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server",
+      "published": "2026-06-03",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://learn.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm/lesson/15vtp6/conclusion%3A-putting-it-all-together",
+      "published": "2026-06-03",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "The hidden bottleneck in LLM inference and the impact on MLPerf benchmarking - EDN",
+      "url": "https://www.edn.com/the-hidden-bottleneck-in-llm-inference-and-the-impact-on-mlperf-benchmarking/",
+      "published": "2026-06-04",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "TurboQuant in QVAC SDK 0.12.0: KV-cache quantization for production local AI",
+      "url": "https://huggingface.co/blog/qvac/turboquant-in-qvac-sdk-0-12-0",
+      "published": "2026-06-03",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened",
+      "url": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia snaps up Kumo AI, a predictive AI startup known for its extreme accuracy - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "CNTXT AI acquires Actualize to expand Arabic voice agents",
+      "url": "https://www.middleeastainews.com/p/cntxt-ai-acquires-actualize-to-expand",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

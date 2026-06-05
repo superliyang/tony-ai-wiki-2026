@@ -44,6 +44,7 @@ Root-level skills/ and scripts/ contain executable capability assets.
 - [[90-Agent-System/workflows/memory-sync]]
 - [[90-Agent-System/workflows/legacy-vault-migration]]
 - [[90-Agent-System/workflows/knowledge-evolution]]
+- [[90-Agent-System/workflows/hermes-codex-learning-chain]]
 
 ## Fixed Agent Entrances
 
@@ -51,6 +52,11 @@ Root-level skills/ and scripts/ contain executable capability assets.
 - [[90-Agent-System/当前状态]]
 - [[90-Agent-System/命名规范]]
 - [[20-Maps/跨工具协作地图]]
+
+## Active Integrations
+
+- [[90-Agent-System/integrations/Hermes]]
+- [[90-Agent-System/integrations/Hermes-Codex]]
 
 ## Imported Legacy Capability Assets
 

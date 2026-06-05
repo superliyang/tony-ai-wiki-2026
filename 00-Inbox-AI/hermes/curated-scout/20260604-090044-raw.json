@@ -1,0 +1,207 @@
+{
+  "timestamp": "20260604-090044",
+  "rss_count": 12,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "524",
+      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "published": "2026-06-04",
+      "categories": "AI, Business, News, Tech"
+    },
+    {
+      "id": "525",
+      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+      "published": "2026-06-04",
+      "categories": "AI, Business, Decoder, Elon Musk, Podcasts, Science, Space, SpaceX, Tech, xAI"
+    },
+    {
+      "id": "526",
+      "title": "Let us filter AI slop, you cowards",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "published": "2026-06-04",
+      "categories": "AI, Analysis, Creators, Report, Tech"
+    },
+    {
+      "id": "527",
+      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "published": "2026-06-04",
+      "categories": "AI, Health, News, Science"
+    },
+    {
+      "id": "528",
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "published": "2026-06-04",
+      "categories": "AI, Amazon, News, Robot, Tech"
+    },
+    {
+      "id": "519",
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published": "2026-06-04",
+      "categories": "Agentic AI / Generative AI, Developer Tools & Techniques, Top Stories, AI Agent, LLMs, NemoClaw, OpenShell"
+    },
+    {
+      "id": "520",
+      "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+      "blog": "Stratechery",
+      "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+      "published": "2026-06-04",
+      "categories": "Daily Update, Interviews"
+    },
+    {
+      "id": "521",
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "published": "2026-06-04",
+      "categories": "AI, Robotics, Startups, Exclusive, hello robot"
+    },
+    {
+      "id": "522",
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "published": "2026-06-04",
+      "categories": "AI, Apps, Apple, apple store, developers, wwdc"
+    },
+    {
+      "id": "523",
+      "title": "New ways to turn global demand into revenue",
+      "blog": "Stripe Engineering",
+      "url": "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue",
+      "published": "2026-06-04"
+    },
+    {
+      "id": "517",
+      "title": "VoidZero is joining Cloudflare",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "published": "2026-06-04",
+      "categories": "Acquisitions, Developers, Developer Platform, AI, Workers AI, Vite"
+    },
+    {
+      "id": "518",
+      "title": "Enforcing the First AS in BGP AS_PATHs",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/enforce-first-as-bgp/",
+      "published": "2026-06-03",
+      "categories": "BGP, Routing, Routing Security, RPKI, Radar"
+    },
+    {
+      "title": "Build and run agents at scale with Microsoft Foundry at Build 2026 | Microsoft Foundry Blog",
+      "url": "https://devblogs.microsoft.com/foundry/agent-service-build2026/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory for SaaS: A Builder’s Guide to Context That Does Not Betray Users | by Anna Jey | Jun, 2026 | Towards AI",
+      "url": "https://pub.towardsai.net/ai-agent-memory-for-saas-a-builders-guide-to-context-that-does-not-betray-users-da37e68810f1",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "How AI Agent Memory Works: Complete Guide",
+      "url": "https://www.themodernblog.com/how-ai-agent-memory-works/",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Session-Aware Agentic Routing: Continuity-Aware Model Selection for Long-Horizon LLM Agents | vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-06-02-session-aware-agentic-routing",
+      "published": "2026-06-02",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Streamable HTTP Hits 10x Throughput: The Transport Cutover Forcing Enterprise Hands | AgentMarketCap",
+      "url": "https://agentmarketcap.ai/blog/2026/06/07/mcp-v2-1-streamable-http-95-percent-latency-reduction",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Announced at MS Build 2026: Azure Cosmos DB MCP Toolkit, Semantic Reranking, Global Secondary Indexes, and more! - Azure Cosmos DB Blog",
+      "url": "https://devblogs.microsoft.com/cosmosdb/announced-at-ms-build-2026-azure-cosmos-db-mcp-toolkit-semantic-reranking-global-secondary-indexes-and-more/",
+      "published": "2026-06-02",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Build AI agents faster with GCS (Google Cloud Storage) MCP server | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server",
+      "published": "2026-06-03",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "The hidden bottleneck in LLM inference and the impact on MLPerf benchmarking - EDN",
+      "url": "https://www.edn.com/the-hidden-bottleneck-in-llm-inference-and-the-impact-on-mlperf-benchmarking/",
+      "published": "2026-06-04",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://learn.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm/lesson/15vtp6/conclusion%3A-putting-it-all-together",
+      "published": "2026-06-03",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "vLLM Inference Optimizations on Red Hat OpenShift AI: From KV Cache to Distributed Serving",
+      "url": "https://lucaberton.com/blog/vllm-inference-optimizations-red-hat-openshift-ai-tech-day-2026/",
+      "published": "2026-06-03",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened",
+      "url": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia snaps up Kumo AI, a predictive AI startup known for its extreme accuracy - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "DeepSeek lines up its first outside money: a $7bn round at up to $59bn",
+      "url": "https://thenextweb.com/news/deepseek-7-billion-maiden-fundraising",
+      "published": "2026-06-03",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

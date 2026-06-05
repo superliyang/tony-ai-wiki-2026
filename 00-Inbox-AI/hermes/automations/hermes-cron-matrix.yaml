@@ -1,0 +1,153 @@
+version: 1
+workspace: /Users/tony/Vault/tony-ai-wiki-2026
+timezone: America/Los_Angeles
+
+defaults:
+  max_new_tasks_per_run: 1
+  canonical_write_allowed: false
+  duplicate_check_paths:
+    - 00-Inbox-AI/learning-tasks/pending
+    - 00-Inbox-AI/learning-tasks/in-progress
+    - 00-Inbox-AI/learning-tasks/accepted
+  startup_read:
+    - AGENTS.md
+    - 90-Agent-System/仓库地图.md
+    - 90-Agent-System/当前状态.md
+    - 60-Agents/Hermes.md
+    - 90-Agent-System/integrations/Hermes-Codex.md
+
+jobs:
+  - id: hermes-core-radar-morning
+    status: active
+    schedule: "0 8 * * *"
+    purpose: "Curated AI/system radar with high-signal summaries."
+    prompt_ref: 90-Agent-System/prompts/hermes-learning-task-generator.md
+    writes:
+      - 00-Inbox-AI/hermes/curated-scout
+      - 00-Inbox-AI/signals
+      - 00-Inbox-AI/candidates
+    output_cap:
+      digest_items: 12
+      learning_tasks: 3
+
+  - id: hermes-core-radar-afternoon
+    status: active
+    schedule: "0 15 * * *"
+    purpose: "Catch late-breaking deltas and project/repo updates."
+    prompt_ref: 90-Agent-System/prompts/hermes-learning-task-generator.md
+    writes:
+      - 00-Inbox-AI/hermes/curated-scout
+      - 00-Inbox-AI/signals
+      - 00-Inbox-AI/candidates
+    output_cap:
+      digest_items: 8
+      learning_tasks: 1
+
+  - id: hermes-memory-review
+    status: active
+    schedule: "0 8 * * *"
+    purpose: "Review memory consistency and propose memory candidates."
+    prompt_ref: 00-Inbox-AI/MEMORY-PROTOCOL.md
+    writes:
+      - 00-Inbox-AI/hermes/memory-review
+      - 00-Inbox-AI/agent-memory/candidates
+    output_cap:
+      memory_candidates: 3
+
+  - id: hermes-growth-industry
+    status: active
+    schedule: "30 8 * * 1"
+    purpose: "One industry understanding slice."
+    prompt_ref: 90-Agent-System/prompts/hermes-growth-track.md
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    track: industry
+
+  - id: hermes-growth-product
+    status: active
+    schedule: "30 8 * * 2"
+    purpose: "Product thinking growth slice."
+    prompt_ref: 90-Agent-System/prompts/hermes-growth-track.md
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    track: product-thinking
+
+  - id: hermes-growth-management
+    status: active
+    schedule: "30 8 * * 3"
+    purpose: "Management and organizational capability growth slice."
+    prompt_ref: 90-Agent-System/prompts/hermes-growth-track.md
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    track: management
+
+  - id: hermes-growth-eq-communication
+    status: active
+    schedule: "30 8 * * 4"
+    purpose: "EQ, communication, and influence growth slice."
+    prompt_ref: 90-Agent-System/prompts/hermes-growth-track.md
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    track: eq-communication
+
+  - id: hermes-growth-business
+    status: active
+    schedule: "30 8 * * 5"
+    purpose: "Business, strategy, finance, and operations growth slice."
+    prompt_ref: 90-Agent-System/prompts/hermes-growth-track.md
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    track: business-judgment
+
+  - id: hermes-growth-deepdive
+    status: active
+    schedule: "30 8 * * 6"
+    purpose: "Weekend deep-dive: topic exploration, case study, or cross-domain synthesis."
+    prompt_ref: 90-Agent-System/prompts/hermes-growth-track.md
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    track: deepdive
+
+  - id: hermes-learning-task-generator
+    status: active
+    schedule: "0 19 * * *"
+    purpose: "Convert strong candidates into Codex-ready learning tasks."
+    prompt_ref: 90-Agent-System/prompts/hermes-learning-task-generator.md
+    reads:
+      - 00-Inbox-AI/signals
+      - 00-Inbox-AI/candidates
+      - 00-Inbox-AI/hermes/curated-scout
+      - 00-Inbox-AI/review-queue/pending
+    writes:
+      - 00-Inbox-AI/learning-tasks/pending
+    output_cap:
+      learning_tasks: 3
+
+  - id: hermes-follow-up-review
+    status: active
+    schedule: "30 19 * * *"
+    purpose: "Create spaced review reminders for accepted learning packages."
+    prompt_ref: 90-Agent-System/prompts/hermes-follow-up-review.md
+    reads:
+      - 00-Inbox-AI/learning-tasks/accepted
+      - 10-Knowledge
+      - 20-Maps
+    writes:
+      - 00-Inbox-AI/learning-tasks/follow-up
+    output_cap:
+      reminders: 5
+
+  - id: hermes-weekly-synthesis
+    status: active
+    schedule: "0 17 * * 0"
+    purpose: "Weekly synthesis, queue health, and next-week planning."
+    prompt_ref: 90-Agent-System/workflows/hermes-codex-learning-chain.md
+    reads:
+      - 00-Inbox-AI/hermes
+      - 00-Inbox-AI/learning-tasks
+      - 00-Inbox-AI/review-queue
+    writes:
+      - 00-Inbox-AI/reports
+      - 00-Inbox-AI/review-queue/pending
+    output_cap:
+      top_decisions: 5

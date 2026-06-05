@@ -18,6 +18,7 @@ Use Codex for:
 
 - creating and restructuring vault files;
 - promoting accepted candidates into durable knowledge;
+- turning Hermes learning tasks into learning packages;
 - updating maps, playbooks, indexes, and agent memory;
 - implementing scripts, skills, and workflows;
 - validating changes and preserving Git history.
@@ -39,3 +40,12 @@ Codex may write reviewed or explicitly requested changes to:
 ## Boundary
 
 Codex should not own long-running scheduled scouting. Hermes owns that role.
+
+## Hermes Handoff
+
+Codex consumes Hermes-created tasks from:
+
+- [[00-Inbox-AI/learning-tasks/README]]
+- [[90-Agent-System/workflows/hermes-codex-learning-chain]]
+
+Codex may create learning packages and review items, then promote only after Tony review or explicit delegation.
