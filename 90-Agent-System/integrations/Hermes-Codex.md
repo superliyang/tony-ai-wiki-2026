@@ -1,7 +1,7 @@
 ---
 title: "Hermes Codex Integration"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-05
 status: active
 tags:
   - integrations
@@ -19,6 +19,14 @@ This page defines the integration boundary between Hermes and Codex.
 Hermes is the scheduled discovery, reminder, and recall agent. Codex is the deep research, restructuring, and crystallization agent.
 
 Hermes should create tasks. Codex should create packages. Tony should approve canonical promotion.
+
+Short version:
+
+```text
+Hermes = 发现 / 记录 / 提醒 / 建任务
+Codex = 研究 / 拆解 / 入库 / 更新地图 / Git checkpoint
+Tony = 判断 / 审核 / 批准 promote
+```
 
 ## Hermes Writes
 
@@ -79,6 +87,30 @@ After a package is accepted, Hermes reads follow-up proposals and writes reminde
 ```
 
 Hermes may notify Tony, but should not rewrite canonical knowledge.
+
+## If Hermes Wants To Do More
+
+If Hermes has enough material to write a full draft, it should still stay in:
+
+```text
+00-Inbox-AI/hermes/
+```
+
+Then Hermes creates a matching task in:
+
+```text
+00-Inbox-AI/learning-tasks/pending/
+```
+
+Codex is responsible for deciding whether the draft becomes:
+
+- a topic note;
+- a map;
+- a playbook;
+- a case;
+- a runbook;
+- a review item;
+- or discarded/deferred material.
 
 ## Scheduled Task Design
 

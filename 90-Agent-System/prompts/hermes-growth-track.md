@@ -52,6 +52,8 @@ The task must include:
 - 3 core concepts;
 - 1 real case;
 - 1 counterintuitive point;
+- domain structure sense: goal, roles, process, metrics, failure modes;
+- expert question sense: 3 questions Tony could ask to sound like a serious domain learner;
 - connection to Tony's AI/product/management growth;
 - one practice action;
 - whether Codex should go deep;

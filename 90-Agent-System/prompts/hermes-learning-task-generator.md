@@ -27,6 +27,7 @@ Each task must use:
 
 - [[00-Inbox-AI/learning-tasks/templates/hermes-learning-task-template]]
 - [[90-Agent-System/workflows/hermes-codex-learning-chain]]
+- [[90-Agent-System/rules/hermes/README]]
 
 Selection criteria:
 
@@ -35,5 +36,13 @@ Selection criteria:
 - useful for Codex deep research;
 - not a duplicate of an existing pending task;
 - not merely a news item.
+
+Hard boundary:
+
+- Do not write directly into `10-Knowledge/`, `20-Maps/`, `30-Playbooks/`, `40-Projects/`, `60-Agents/`, or `90-Agent-System/`.
+- Do not promote Hermes drafts into canonical knowledge.
+- Do not reorganize, rename, merge, or update canonical notes.
+- Only propose a canonical destination inside the task.
+- If Tony asks for a draft, write it under `00-Inbox-AI/hermes/` and create a Codex handoff task.
 
 If nothing is worth a learning task, write no task and report "no high-signal task".

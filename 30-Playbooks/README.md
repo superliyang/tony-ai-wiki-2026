@@ -17,6 +17,9 @@ Playbooks are not hidden prompts. They should be readable, reviewable, and stabl
 ## Initial Playbooks
 
 - [[知识提升流程]]
+- [[领域专家感学习法]]
+- [[30-Playbooks/Advertising/广告投放一页复习卡]]
+- [[30-Playbooks/Advertising/广告投放新手误区与高手权衡]]
 - [[90-Agent-System/workflows/knowledge-evolution]]
 
 ## Difference From Agent System

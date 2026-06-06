@@ -27,6 +27,22 @@ One page or less.
 |---|---|---|
 |  |  |  |
 
+## Domain Structure Map
+
+- Goal:
+- Roles:
+- Core process:
+- Metrics:
+- Key problems:
+- Solution families:
+- Failure modes:
+
+## Expert Questions
+
+- 
+- 
+- 
+
 ## Research Notes
 
 Summarize sources with links and context.

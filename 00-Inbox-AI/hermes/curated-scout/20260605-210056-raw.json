@@ -1,0 +1,120 @@
+{
+  "timestamp": "20260605-210056",
+  "rss_count": 1,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "598",
+      "title": "Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/gallery/best-running-shoes/",
+      "published": "2026-06-05",
+      "categories": "Gear, Gear / Buying Guides, Step By Step"
+    },
+    {
+      "title": "Long-Term Memory for LLM Agents That Works - DEV Community",
+      "url": "https://dev.to/lrdeoliveira/long-term-memory-for-llm-agents-that-works-4kip",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT | OpenAI",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Systems: A 2026 Engineering Guide (Letta, LangMem, Mem0, Zep)",
+      "url": "https://jobsbyculture.com/blog/ai-agent-memory-systems-guide-2026",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Nemotron 3 Ultra Review: Great for Agents and Complex Tasks",
+      "url": "https://www.theneuron.ai/explainer-articles/nemotron-3-ultra-is-fast-open-and-surprisingly-good-at-weird-instructions/",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "The State of MCP: Everything That Changed in H1 2026 - DEV Community",
+      "url": "https://dev.to/james_collins/the-state-of-mcp-everything-that-changed-in-h1-2026-aan",
+      "published": "2026-06-04",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "The AWS MCP Server now supports cross-account and cross-role access - AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/",
+      "published": "2026-06-01",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "AI Weekly: New PC Chips, Credit Pricing, Stateless MCP",
+      "url": "https://amdatalakehouse.substack.com/p/ai-weekly-new-pc-chips-credit-pricing",
+      "published": "2026-06-04",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Gemma 4 with quantization-aware training",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "published": "2026-06-05",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Huawei Releases KVarN: A Native vLLM Backend for KV-Cache Quantization - Neural Core News",
+      "url": "https://neuralcorenews.com/huawei-releases-kvarn-a-native-vllm-backend-for-kv-cache-quantization/",
+      "published": "2026-06-04",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Google LiteRT-LM Speeds Up Local Inference Up to 2.2x With Gemma 4 Multi-Token Prediction - InfoQ",
+      "url": "https://www.infoq.com/news/2026/06/google-litertlm-gemma4/",
+      "published": "2026-06-01",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "ZAWYA: CNTXT AI acquires Actualize to strengthen Arabic Voice AI for enterprise and government across the GCC — TradingView News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-06-04:newsml_ZawbwHsNq:0-zawya-cntxt-ai-acquires-actualize-to-strengthen-arabic-voice-ai-for-enterprise-and-government-across-the-gcc/",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "CommerceClarity acquires Katalogo.ai - Tech.eu",
+      "url": "https://tech.eu/2026/06/04/commerceclarity-acquires-katalogoai/",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

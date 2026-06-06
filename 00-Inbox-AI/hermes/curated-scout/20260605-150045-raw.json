@@ -1,0 +1,217 @@
+{
+  "timestamp": "20260605-150045",
+  "rss_count": 14,
+  "exa_count": 14,
+  "articles": [
+    {
+      "id": "585",
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "published": "2026-06-05",
+      "categories": "AI, Biotech & Health, Climate, Fintech, Fundraising, Media & Entertainment, Robotics, Startups, TC, Startup Battlefield, TechCrunch Disrupt 2026"
+    },
+    {
+      "id": "586",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "published": "2026-06-05",
+      "categories": "AI, AI compute, Alphabet, Google, SpaceX"
+    },
+    {
+      "id": "587",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "published": "2026-06-05",
+      "categories": "AI, Hardware, Startups, anthropic ipo, board, Brynn Putnam, climate tech vc, cyberdeck, Equity, impulse space, Roundup, slow tech, together tech"
+    },
+    {
+      "id": "588",
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "published": "2026-06-05",
+      "categories": "AI, Hardware, Startups, anthropic ipo, board, Brynn Putnam, climate tech vc, cyberdeck, Equity, Equity podcast, hardware, impulse space, Roundup, slow tech, together tech"
+    },
+    {
+      "id": "589",
+      "title": "This is your laptop… on AI",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "published": "2026-06-05",
+      "categories": "AI, Gadgets, Microsoft, Podcasts, Tech, Vergecast"
+    },
+    {
+      "id": "590",
+      "title": "GroWell Cap Review: I Have Hair for the First Time in 15 Years",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/growell-cap-rave/",
+      "published": "2026-06-05",
+      "categories": "Gear, Gear / Products / Beauty, Hair Apparent"
+    },
+    {
+      "id": "591",
+      "title": "The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/",
+      "published": "2026-06-05",
+      "categories": "Science, Science / Environment, AHHHHHHHHHHH!!!!!"
+    },
+    {
+      "id": "592",
+      "title": "Logitech G512 X 98 Review: A Hybrid Mish-Mash",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/review/logitech-g512-x-98/",
+      "published": "2026-06-05",
+      "categories": "Gear, Gear / Products, Gear / Products / Computers, Gear / Products / Home Office, Gear / Products / Gaming, Hybrid Oddity"
+    },
+    {
+      "id": "593",
+      "title": "How to Spot Greenwashing Claims When You Travel",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel/",
+      "published": "2026-06-05",
+      "categories": "Business, Science, Sustainable Travel"
+    },
+    {
+      "id": "594",
+      "title": "13 Environmentally Conscious Packing Tips for Your Next Vacation",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/environmentally-conscious-packing-tips/",
+      "published": "2026-06-05",
+      "categories": "Science, Gear, Sustainable Travel"
+    },
+    {
+      "id": "595",
+      "title": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+      "published": "2026-06-05",
+      "categories": "Science, Sustainable Travel"
+    },
+    {
+      "id": "596",
+      "title": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
+      "published": "2026-06-05",
+      "categories": "Science, Sustainable Travel"
+    },
+    {
+      "id": "597",
+      "title": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
+      "published": "2026-06-05",
+      "categories": "Science, Sustainable Travel"
+    },
+    {
+      "id": "584",
+      "title": "2026.23: Power Shifts",
+      "blog": "Stratechery",
+      "url": "https://stratechery.com/2026/power-shifts/",
+      "published": "2026-06-05",
+      "categories": "This Week in Stratechery"
+    },
+    {
+      "title": "Persistent Memory for AI Agents With LangChain's Deep Agents",
+      "url": "https://dzone.com/articles/persistent-memory-ai-agents",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Give Your AI Agent Persistent Memory Without Touching Its Internals - DEV Community",
+      "url": "https://dev.to/manoir_yantai_f22f01340f0/give-your-ai-agent-persistent-memory-without-touching-its-internals-4m6g",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Add Long-Term Memory to LLM Applications with Mem0 | CodeCut",
+      "url": "https://codecut.ai/customer-support-bot-memory-mem0/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AIwire - Covering Scientific & Technical AI",
+      "url": "https://www.hpcwire.com/aiwire/2026/06/03/nvidia-industrial-software-leaders-build-secure-autonomous-ai-engineers-with-nvidia-nemoclaw/",
+      "published": "2026-06-03",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "The State of MCP: Everything That Changed in H1 2026 - DEV Community",
+      "url": "https://dev.to/james_collins/the-state-of-mcp-everything-that-changed-in-h1-2026-aan",
+      "published": "2026-06-04",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Streamable HTTP Hits 10x Throughput: The Transport Cutover Forcing Enterprise Hands | AgentMarketCap",
+      "url": "https://agentmarketcap.ai/blog/2026/06/07/mcp-v2-1-streamable-http-95-percent-latency-reduction",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Build AI agents faster with GCS (Google Cloud Storage) MCP server | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-ai-agents-faster-with-gcs-google-cloud-storage-mcp-server",
+      "published": "2026-06-03",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "The hidden bottleneck in LLM inference and the impact on MLPerf benchmarking - EDN",
+      "url": "https://www.edn.com/the-hidden-bottleneck-in-llm-inference-and-the-impact-on-mlperf-benchmarking/",
+      "published": "2026-06-04",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "The LLM Infrastructure Architect’s Guide — Part1 | by Amit Patriwala | Jun, 2026 | Medium",
+      "url": "https://medium.com/@patriwala/the-llm-infrastructure-architects-guide-part1-d725f9ceef23",
+      "published": "2026-06-04",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia snaps up Kumo AI, a predictive AI startup known for its extreme accuracy - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Database startup Supabase raises $500 million $10.5 billion valuation",
+      "url": "https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "AI software platform Perk secures $300m from major lenders - Alternative Credit Investor",
+      "url": "https://alternativecreditinvestor.com/2026/06/04/ai-software-platform-perk-secures-300m-from-major-lenders/",
+      "published": "2026-06-04",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

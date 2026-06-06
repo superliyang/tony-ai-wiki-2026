@@ -45,6 +45,7 @@ Before a note becomes canonical, check:
 - Does it answer a reusable question?
 - Is the source or context traceable?
 - Is it connected to a map or overview?
+- Does it improve domain structure sense or expert question sense?
 - Does it belong in knowledge, playbook, project, or agent system?
 - Would Tony or an Agent know the next action after reading it?
 
@@ -54,3 +55,4 @@ Before a note becomes canonical, check:
 - Meaningful domain changes: update learning path, progress, or resume note.
 - AI behavior changes: update [[90-Agent-System/当前状态]], [[90-Agent-System/命名规范]], rules, or workflows.
 - Migration changes: update [[20-Maps/旧库迁移地图]].
+- Domain learning changes: update [[20-Maps/已有知识图谱专家问题地图]] or the nearest domain master map.
