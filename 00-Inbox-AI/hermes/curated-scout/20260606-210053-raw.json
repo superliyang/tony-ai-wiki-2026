@@ -1,0 +1,112 @@
+{
+  "timestamp": "20260606-210053",
+  "rss_count": 0,
+  "exa_count": 15,
+  "articles": [
+    {
+      "title": "Long-Term Memory for LLM Agents That Works - DEV Community",
+      "url": "https://dev.to/lrdeoliveira/long-term-memory-for-llm-agents-that-works-4kip",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "TheC4pt/Mnemo",
+      "url": "https://github.com/TheC4pt/Mnemo",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Systems: A 2026 Engineering Guide (Letta, LangMem, Mem0, Zep)",
+      "url": "https://jobsbyculture.com/blog/ai-agent-memory-systems-guide-2026",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "HANDOFF: Bridging AI Planning and Robot Control | StartupHub.ai",
+      "url": "https://www.startuphub.ai/ai-news/ai-research/2026/handoff-bridging-ai-planning-and-robot-control",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA’s Nemotron 3 Ultra targets faster, cheaper long-running agents",
+      "url": "https://gadgetbond.com/nvidia-nemotron-3-ultra-550b-open-weight-model-launch/",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Released: An Open Reasoning Model for Long-Running Agents",
+      "url": "https://knightli.com/en/2026/06/06/nvidia-nemotron-3-ultra-long-running-agents/",
+      "published": "2026-06-06",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP 2026-07-28 RC: Stateless Transport - DEV Community",
+      "url": "https://dev.to/pueding/mcp-2026-07-28-rc-stateless-transport-4ma9",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "GoogleCloudPlatform/hcls-mcp-servers",
+      "url": "https://github.com/GoogleCloudPlatform/hcls-mcp-servers",
+      "published": "2026-06-05",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "What the Best MCP Gateways Do in 2026 - Zuplo",
+      "url": "https://zuplo.com/blog/what-the-best-mcp-gateways-do-in-2026",
+      "published": "2026-06-05",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Gemma 4 with quantization-aware training",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "published": "2026-06-05",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Google LiteRT-LM Speeds up Local Inference up to 2.2x with Gemma 4 Multi-Token Prediction - InfoQ",
+      "url": "https://www.infoq.com/news/2026/06/google-litertlm-gemma4/",
+      "published": "2026-06-01",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "KV cache quantization: what FP8/INT8 K and V actually buy you, and where they break - DEV Community",
+      "url": "https://dev.to/tech_nuggets/kv-cache-quantization-what-fp8int8-k-and-v-actually-buy-you-and-where-they-break-4fnl",
+      "published": "2026-06-06",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia acquires prediction AI startup Kumo AI for over $400 million | PANews",
+      "url": "https://www.panewslab.com/en/articles/019e9caa-1285-77b8-9548-93f2e5196f3c",
+      "published": "2026-06-06",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "UAE-based CNTXT AI acquires Actualize to strengthen Arabic Voice AI for Enterprise and Government across the GCC - Fintech News UAE",
+      "url": "https://fintechnews.media/2026/06/05/uae-based-cntxt-ai-acquires-actualize-to-strengthen-arabic-voice-ai-for-enterprise-and-government-across-the-gcc/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Supabase Raises $500M Series F at $10.5B Valuation as AI Coding Reshapes the Backend Stack – Unite.AI",
+      "url": "https://www.unite.ai/supabase-raises-500m-series-f-at-10-5b-valuation-as-ai-coding-reshapes-the-backend-stack/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

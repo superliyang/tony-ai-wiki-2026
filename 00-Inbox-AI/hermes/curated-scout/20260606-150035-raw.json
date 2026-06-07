@@ -1,0 +1,123 @@
+{
+  "timestamp": "20260606-150035",
+  "rss_count": 4,
+  "exa_count": 12,
+  "articles": [
+    {
+      "id": "612",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "published": "2026-06-06",
+      "categories": "AI, Security, OpenAI"
+    },
+    {
+      "id": "613",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "published": "2026-06-06",
+      "categories": "AI, Apps, Hardware, Apple, Apple Intelligence, siri, wwdc, WWDC 2026"
+    },
+    {
+      "id": "614",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "published": "2026-06-06",
+      "categories": "AI, Government & Policy, Donald Trump, Sriram Krishnan"
+    },
+    {
+      "id": "615",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "published": "2026-06-06",
+      "categories": "AI, Government & Policy, Donald Trump, OpenAI, sam altman"
+    },
+    {
+      "title": "Long-Term Memory for LLM Agents That Works - DEV Community",
+      "url": "https://dev.to/lrdeoliveira/long-term-memory-for-llm-agents-that-works-4kip",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Systems: A 2026 Engineering Guide (Letta, LangMem, Mem0, Zep)",
+      "url": "https://jobsbyculture.com/blog/ai-agent-memory-systems-guide-2026",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Agent Memory Design: State, Vectors, Summaries [2026]",
+      "url": "https://techbytes.app/posts/agent-memory-design-state-vectors-summaries-2026/",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Nemotron 3 Ultra Review: Great for Agents and Complex Tasks",
+      "url": "https://www.theneuron.ai/explainer-articles/nemotron-3-ultra-is-fast-open-and-surprisingly-good-at-weird-instructions/",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Building a Week-Long Running Agentic System | by Fareed Khan | Jun, 2026 | Level Up Coding",
+      "url": "https://levelup.gitconnected.com/building-a-week-long-running-agentic-system-2ad79f8190bb",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "The 2026-07-28 MCP Specification Release Candidate | Model Context Protocol Blog",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "published": "2026-05-21",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "What Is WebMCP? The Complete Guide to Web Model Context Protocol (2026) | Qwestyon",
+      "url": "https://www.qwestyon.com/blog/what-is-webmcp",
+      "published": "2026-06-05",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Server: The Complete Guide for Developers (2026) - DEV Community",
+      "url": "https://dev.to/tonyspiro/mcp-server-the-complete-guide-for-developers-2026-3p07",
+      "published": "2026-06-05",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Factorial Secures $150M Series D, Reaches $2.5B Valuation to Become One of the Most Valuable AI Scale-Ups in Europe",
+      "url": "https://theaiinsider.tech/2026/06/05/factorial-secures-150m-series-d-reaches-2-5b-valuation-to-become-one-of-the-most-valuable-ai-scale-ups-in-europe/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Bezos commits close to $100M to the startup reverse-engineering the human brain to solve AI's power crisis — TFN",
+      "url": "https://techfundingnews.com/bezos-flourish-500m-brain-inspired-ai-power-crisis/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Cloudflare acquires Vite creator VoidZero to accelerate AI-coded app development - SDxCentral",
+      "url": "https://www.sdxcentral.com/news/cloudflare-acquires-vite-creator-voidzero-to-accelerate-ai-coded-app-development/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
