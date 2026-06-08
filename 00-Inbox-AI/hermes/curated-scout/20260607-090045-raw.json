@@ -1,0 +1,160 @@
+{
+  "timestamp": "20260607-090045",
+  "rss_count": 6,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "617",
+      "title": "Sigma BF Review (2026): Eccentric but Strangely Lovable",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/review/sigma-bf-camera/",
+      "published": "2026-06-07",
+      "categories": "Gear, Gear / Reviews, Gear / Products / Cameras, Product Review"
+    },
+    {
+      "id": "618",
+      "title": "You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/",
+      "published": "2026-06-07",
+      "categories": "Gear, Gear / How To and Advice, Smart Kitchen"
+    },
+    {
+      "id": "619",
+      "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/",
+      "published": "2026-06-07",
+      "categories": "Gear, Gear / Reviews, Gear / Products / Outdoor, Product Review"
+    },
+    {
+      "id": "620",
+      "title": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "published": "2026-06-07",
+      "categories": "Gear, Gear / Buying Guides, Gear / Products / Beauty, Laser Focused"
+    },
+    {
+      "id": "621",
+      "title": "How to Watch Apple’s WWDC 2026 Keynote—and What to Expect",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
+      "published": "2026-06-07",
+      "categories": "Gear, Gear / Gear News and Events, Gear / How To and Advice, WWDC 2026"
+    },
+    {
+      "id": "616",
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "published": "2026-06-07",
+      "categories": "AI, Social Media, Tech"
+    },
+    {
+      "title": "Long-Term Memory for LLM Agents That Works - DEV Community",
+      "url": "https://dev.to/lrdeoliveira/long-term-memory-for-llm-agents-that-works-4kip",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Systems: A 2026 Engineering Guide (Letta, LangMem, Mem0, Zep)",
+      "url": "https://jobsbyculture.com/blog/ai-agent-memory-systems-guide-2026",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Agent Series (15): Advanced Agent Memory — Short-term, Long-term, Compression - DEV Community",
+      "url": "https://dev.to/wonderlab/agent-series-15-advanced-agent-memory-short-term-long-term-compression-o1f",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Beyond Correlation: Aether AI's Prof. Biwei Huang Introduces Causal World Models at CVPR 2026",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/beyond-correlation-aether-ais-prof.-biwei-huang-introduces-causa-1173787",
+      "published": "2026-06-06",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AI Forge: Critical AI Challenges for National Security",
+      "url": "https://www.darpa.mil/sites/default/files/attachment/2026-06/ai-forge-report.pdf",
+      "published": "2026-06-05",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Ships Nemotron 3 Ultra - 550B Open-Weight MoE | Awesome Agents",
+      "url": "https://awesomeagents.ai/news/nvidia-nemotron-3-ultra-550b/",
+      "published": "2026-06-06",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: The 2026 Release Candidate Explained | byteiota",
+      "url": "https://byteiota.com/mcp-goes-stateless-2026-release-candidate/",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP 2026-07-28 RC: Stateless Transport - DEV Community",
+      "url": "https://dev.to/pueding/mcp-2026-07-28-rc-stateless-transport-4ma9",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Tooling — June 6, 2026 | Artificial Curiosity Labs",
+      "url": "https://artificialcuriositylabs.ai/daily/mcp-tooling/2026-06-06/",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Modular: Why LLM Inference Needs a New Kind of Router - Part 3",
+      "url": "https://www.modular.com/blog/why-llm-inference-needs-a-new-kind-of-router-part-3",
+      "published": "2026-06-05",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Prefix caching at scale: when it saves you 80% of prefill cost, and the eviction policies that quietly turn it into 5% - DEV Community",
+      "url": "https://dev.to/tech_nuggets/prefix-caching-at-scale-when-it-saves-you-80-of-prefill-cost-and-the-eviction-policies-that-5e8",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Seeking technical feedback on SHBF: sparse long-context LLM inference with Hamming-based candidate selection - TensorRT - NVIDIA Developer Forums",
+      "url": "https://forums.developer.nvidia.com/t/seeking-technical-feedback-on-shbf-sparse-long-context-llm-inference-with-hamming-based-candidate-selection/372506",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia's $400 Million Kumo AI Acquisition Targets Enterprise Predictions",
+      "url": "https://winbuzzer.com/2026/06/07/nvidia-kumo-ai-deal-targets-enterprise-predictions-xcxwbn/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "AI-Powered Health Startup Aster Has Been Acquired By Elation Health",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/ai-powered-health-startup-aster-162346403.html",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Supabase Raises $500M Series F at $10.5B Valuation as AI Coding Reshapes the Backend Stack – Unite.AI",
+      "url": "https://www.unite.ai/supabase-raises-500m-series-f-at-10-5b-valuation-as-ai-coding-reshapes-the-backend-stack/",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

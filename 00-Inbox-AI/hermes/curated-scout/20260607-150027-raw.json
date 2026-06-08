@@ -1,0 +1,136 @@
+{
+  "timestamp": "20260607-150027",
+  "rss_count": 3,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "622",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "published": "2026-06-07",
+      "categories": "AI, Anthropic, Equity podcast, Microsoft"
+    },
+    {
+      "id": "623",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "published": "2026-06-07",
+      "categories": "AI, Anthropic, Notion"
+    },
+    {
+      "id": "624",
+      "title": "OpenAI is still working on that ‘super app’",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "published": "2026-06-07",
+      "categories": "AI, ChatGPT, OpenAI"
+    },
+    {
+      "title": "Redis Agent Memory | Redis",
+      "url": "https://redis.io/agent-memory/",
+      "published": "2026-05-16",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Beyond Similarity: Trustworthy Memory Search for Personal AI Agents",
+      "url": "https://arxiv.org/html/2606.06054v1",
+      "published": "2026-06-04",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Agent Series (15): Advanced Agent Memory — Short-term, Long-term, Compression - DEV Community",
+      "url": "https://dev.to/wonderlab/agent-series-15-advanced-agent-memory-short-term-long-term-compression-o1f",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization · Signal IA",
+      "url": "https://signal-ia-rouge.vercel.app/en/article/leanmarathon-toward-reliable-ai-co-mathematicians-through-long-horizon-lean-auto-605090",
+      "published": "2026-06-06",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Beyond Correlation: Aether AI's Prof. Biwei Huang Introduces Causal World Models at CVPR 2026",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/beyond-correlation-aether-ais-prof.-biwei-huang-introduces-causa-1173787",
+      "published": "2026-06-06",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP 2026-07-28 RC: Stateless Transport - DEV Community",
+      "url": "https://dev.to/pueding/mcp-2026-07-28-rc-stateless-transport-4ma9",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Ultimate MCP Testing Resources for Developers in 2026",
+      "url": "https://mcpplaygroundonline.com/blog/mcp-testing-resources-developers-2026",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Build Interactive VS Code UIs with MCP Apps | StartupHub.ai",
+      "url": "https://www.startuphub.ai/ai-news/technology/2026/build-interactive-vs-code-uis-with-mcp-apps",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Prefix caching at scale: when it saves you 80% of prefill cost, and the eviction policies that quietly turn it into 5% - DEV Community",
+      "url": "https://dev.to/tech_nuggets/prefix-caching-at-scale-when-it-saves-you-80-of-prefill-cost-and-the-eviction-policies-that-5e8",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Why Self-Hosted Claude Code Was 15x Slower Than It Should Be - DEV Community",
+      "url": "https://dev.to/vinayiitkgp/why-self-hosted-claude-code-was-15-slower-than-it-should-be-3pb4",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "perf(gemma4-cuda): TC flash-attention prefill (#146/#147) + SoA Q8_0 weight layout (#149) — prefill 2853→4240 · Pull Request #148 · pekkah/SharpInference",
+      "url": "https://github.com/pekkah/SharpInference/pull/148",
+      "published": "2026-06-06",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia's $400 Million Kumo AI Acquisition Targets Enterprise Predictions",
+      "url": "https://winbuzzer.com/2026/06/07/nvidia-kumo-ai-deal-targets-enterprise-predictions-xcxwbn/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "FORT Robotics acquires Mapless AI for teleoperation technology ...",
+      "url": "https://www.eenewseurope.com/en/fort-robotics-acquires-mapless-ai-for-teleoperation-technology/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Aircall buys Piper AI to boost sales workflow automation",
+      "url": "https://itbrief.news/story/aircall-buys-piper-ai-to-boost-sales-workflow-automation",
+      "published": "2026-06-05",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

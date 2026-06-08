@@ -1,0 +1,120 @@
+{
+  "timestamp": "20260607-210000",
+  "rss_count": 1,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "625",
+      "title": "Your AI bill is out of control. Cloudflare can fix it now.",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/ai-gateway-spend-limits/",
+      "published": "2026-06-05",
+      "categories": "AI, AI Gateway, Cloudflare Access, Developers, Developer Platform"
+    },
+    {
+      "title": "Agent Series (15): Advanced Agent Memory — Short-term, Long-term, Compression - DEV Community",
+      "url": "https://dev.to/wonderlab/agent-series-15-advanced-agent-memory-short-term-long-term-compression-o1f",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI_Memory_Systems_Complete_Guide - DEV Community",
+      "url": "https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI Dreaming V3: ChatGPT Now Learns While You Sleep | WOWHOW",
+      "url": "https://wowhow.cloud/blogs/openai-dreaming-v3-memory-architecture-chatgpt-developer-guide-2026",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows | AP News",
+      "url": "https://uat.apnews.com/press-release/pr-newswire/press-release-8e58889ad5297d2d61dc81af9f4ab80e",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Beyond Correlation: Aether AI's Prof. Biwei Huang Introduces Causal World Models at CVPR 2026 | lifestyle.brownplanet.com",
+      "url": "https://lifestyle.brownplanet.com/story/702791/beyond-correlation-aether-ais-prof-biwei-huang-introduces-causal-world-models-at-cvpr-2026/",
+      "published": "2026-06-06",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP 2026-07-28 RC: Stateless Transport - DEV Community",
+      "url": "https://dev.to/pueding/mcp-2026-07-28-rc-stateless-transport-4ma9",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "fix: reject initialize protocol version conflicts · 95fe1b8 · modelcontextprotocol/python-sdk",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/commit/95fe1b8cbdbf516841c709efeff740fa313cdd4c",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Context Mode MCP Server Cuts Agent Context Use by 98% — agentry",
+      "url": "https://agentry.press/news/context-mode-mcp-server-cuts-agent-context-use-by-98/",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "lna-lab/gemma4-12b-vllm-sm120",
+      "url": "https://github.com/lna-lab/gemma4-12b-vllm-sm120",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Prefix caching at scale: when it saves you 80% of prefill cost, and the eviction policies that quietly turn it into 5% - DEV Community",
+      "url": "https://dev.to/tech_nuggets/prefix-caching-at-scale-when-it-saves-you-80-of-prefill-cost-and-the-eviction-policies-that-5e8",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Why Self-Hosted Claude Code Was 15x Slower Than It Should Be - DEV Community",
+      "url": "https://dev.to/vinayiitkgp/why-self-hosted-claude-code-was-15-slower-than-it-should-be-3pb4",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia's $400 Million Kumo AI Acquisition Targets Enterprise Predictions",
+      "url": "https://winbuzzer.com/2026/06/07/nvidia-kumo-ai-deal-targets-enterprise-predictions-xcxwbn/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Flourish Raises $500M for Brain-Inspired AI Research - Fundraise Insider",
+      "url": "https://fundraiseinsider.com/blog/flourish-raises-500m-for-brain-inspired-ai-research/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Cloudflare Buys VoidZero to Accelerate AI-Native Web Development – Business Review: The Latest News from the Middle East and Africa",
+      "url": "https://www.businessreviewmea.com/2026/06/07/cloudflare-buys-voidzero-to-accelerate-ai-native-web-development/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
