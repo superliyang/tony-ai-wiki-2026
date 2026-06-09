@@ -1,0 +1,223 @@
+{
+  "timestamp": "20260608-090010",
+  "rss_count": 14,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "632",
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "published": "2026-06-08",
+      "categories": "AI, Business, Decoder, Microsoft, Microsoft Build, OpenAI, Podcasts, Tech"
+    },
+    {
+      "id": "633",
+      "title": "WWDC 2026: How to watch and what to expect",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "published": "2026-06-08",
+      "categories": "AI, Apple, Apple Event, iOS, macOS, News, Tech"
+    },
+    {
+      "id": "634",
+      "title": "Watch Duty Is Adding Flood Alerts to Its Wildfire App",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/watch-duty-is-adding-flood-alerts-to-its-wildfire-app/",
+      "published": "2026-06-08",
+      "categories": "Gear, Gear / Gear News and Events, Gear / Products / Apps, Water World"
+    },
+    {
+      "id": "635",
+      "title": "Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/review/lenovo-ideapad-slim-5x/",
+      "published": "2026-06-08",
+      "categories": "Gear, Gear / Products, Gear / Reviews, Gear / Products / Computers, Product Review"
+    },
+    {
+      "id": "636",
+      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+      "published": "2026-06-08",
+      "categories": "Culture, Culture / Digital Culture, Mom Brain"
+    },
+    {
+      "id": "637",
+      "title": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/",
+      "published": "2026-06-08",
+      "categories": "Gear, Gear / Gear News and Events, WWDC 2026"
+    },
+    {
+      "id": "638",
+      "title": "Afroman Is Back—and He’s Bitcoin’s Latest Freedom Fighter",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/afroman-bitcoin-conference-free-speech/",
+      "published": "2026-06-08",
+      "categories": "The Big Story, Blaze It"
+    },
+    {
+      "id": "639",
+      "title": "All the Ways Europe Is Ditching American Technology",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
+      "published": "2026-06-08",
+      "categories": "Security, Security / National Security, Security / Security News, Business / Big Tech, Politics / Politics News, Changing Tides"
+    },
+    {
+      "id": "629",
+      "title": "Amazon now lets you design custom merch using AI",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "published": "2026-06-08",
+      "categories": "AI, Commerce, Alexa, Amazon, commerce, e-commerce"
+    },
+    {
+      "id": "630",
+      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Hardware, Apple, Apple Intelligence, siri, wwdc, WWDC 2026"
+    },
+    {
+      "id": "631",
+      "title": "Google Buys Compute From SpaceX, Broadcom’s Outlook, Apple’s AI Politics",
+      "blog": "Stratechery",
+      "url": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
+      "published": "2026-06-08",
+      "categories": "Daily Update"
+    },
+    {
+      "id": "628",
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+      "blog": "Jack Clark",
+      "url": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+      "published": "2026-06-08",
+      "categories": "Uncategorized"
+    },
+    {
+      "id": "626",
+      "title": "Introducing: You Bar",
+      "blog": "Discord Engineering",
+      "url": "https://discord.com/blog/you-bar",
+      "published": "2026-06-08"
+    },
+    {
+      "id": "627",
+      "title": "Turning Cloudflare’s threat indicators into real-time WAF rules",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
+      "published": "2026-06-08",
+      "categories": "Security, WAF, Threat Intelligence, Cloudforce One, Product News"
+    },
+    {
+      "title": "LLM Agent Memory: A Survey from a Unified Representation--Management Perspective | OpenReview",
+      "url": "https://openreview.net/forum?id=E6LJBlfoPL",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI_Memory_Systems_Complete_Guide - DEV Community",
+      "url": "https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Agent Series (15): Advanced Agent Memory — Short-term, Long-term, Compression - DEV Community",
+      "url": "https://dev.to/wonderlab/agent-series-15-advanced-agent-memory-short-term-long-term-compression-o1f",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Let the Agent Search: Autonomous Exploration Beats Rigid Workflows in Temporal Question Answering | OpenReview",
+      "url": "https://openreview.net/forum?id=wQXnFCDwwx",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+      "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793560.html",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "docs(mcp): advertise MCP 2026-07-28 RC (stateless, Tasks, MCP Apps, OAuth) · 4b5d7e3 · Atmosphere/atmosphere.github.io",
+      "url": "https://github.com/Atmosphere/atmosphere.github.io/commit/4b5d7e3705b565c2c12c8e62f1f518d32cceea3b",
+      "published": "2026-06-06",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: The 2026 Release Candidate Explained | byteiota",
+      "url": "https://byteiota.com/mcp-goes-stateless-2026-release-candidate/",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "GitHub MCP Server 1.2.0",
+      "url": "https://github.com/github/github-mcp-server/releases/tag/v1.2.0",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Why Self-Hosted Claude Code Was 15x Slower Than It Should Be - DEV Community",
+      "url": "https://dev.to/vinayiitkgp/why-self-hosted-claude-code-was-15-slower-than-it-should-be-3pb4",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "DeepSeek-V4-Flash Quant Restores MTP Head for 62% Throughput Gain — agentry",
+      "url": "https://agentry.press/news/deepseek-v4-flash-quant-restores-mtp-head-for-62-throughput-gain/",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Semantic Caching for LLMs: Beyond Prefix Caching",
+      "url": "https://www.truefoundry.com/blog/semantic-caching-ai-gateway",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "DeepSeek close to sealing $7 billion funding in historic AI deal - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/funding/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal/articleshow/131589537.cms",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia's $400 Million Kumo AI Acquisition Targets Enterprise Predictions",
+      "url": "https://winbuzzer.com/2026/06/07/nvidia-kumo-ai-deal-targets-enterprise-predictions-xcxwbn/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Kneat Enters into Definitive Agreement to be Acquired by Thoma Bravo in an All-Cash Transaction, Valuing Kneat at Approximately C$650 Million | MarketScreener",
+      "url": "https://www.marketscreener.com/news/kneat-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo-in-an-all-cash-transaction-val-ce7f5dd2d08df325",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

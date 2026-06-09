@@ -1,0 +1,296 @@
+{
+  "timestamp": "20260608-150027",
+  "rss_count": 23,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "641",
+      "title": "Following Anthropic, OpenAI files confidentially for IPO",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "published": "2026-06-08",
+      "categories": "AI"
+    },
+    {
+      "id": "642",
+      "title": "Apple plays catch-up at WWDC",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, TC"
+    },
+    {
+      "id": "643",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Apple, developers, wwdc"
+    },
+    {
+      "id": "644",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "published": "2026-06-08",
+      "categories": "AI, Apple, siri, wwdc"
+    },
+    {
+      "id": "645",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Apple, Apple Intelligence, wwdc, WWDC 2026"
+    },
+    {
+      "id": "646",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Apple, Shortcuts, wwdc, WWDC 2026"
+    },
+    {
+      "id": "647",
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Apple, image playground, wwdc, WWDC 2026"
+    },
+    {
+      "id": "648",
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Apple, wwdc, WWDC 2026"
+    },
+    {
+      "id": "649",
+      "title": "Apple gives Siri its own dedicated app",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "published": "2026-06-08",
+      "categories": "AI, Apple, siri, siri app, wwdc, WWDC 2026"
+    },
+    {
+      "id": "650",
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Gadgets, TC, Apple, siri, siri in camera, wwdc, WWDC 2026"
+    },
+    {
+      "id": "651",
+      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Apple, siri, siri ai, wwdc"
+    },
+    {
+      "id": "652",
+      "title": "OpenAI files for IPO, following Anthropic",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "published": "2026-06-08",
+      "categories": "AI, Anthropic, News, OpenAI"
+    },
+    {
+      "id": "653",
+      "title": "Amazon is launching AI-generated custom merch",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "published": "2026-06-08",
+      "categories": "AI, Amazon, Amazon Alexa, News, Online Shopping, Tech"
+    },
+    {
+      "id": "654",
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "published": "2026-06-08",
+      "categories": "AI, Apple, Apple Event, News, Tech"
+    },
+    {
+      "id": "655",
+      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Google, News, Tech"
+    },
+    {
+      "id": "656",
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "published": "2026-06-08",
+      "categories": "Business, Business / Artificial Intelligence, OAI Confidential"
+    },
+    {
+      "id": "657",
+      "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
+      "published": "2026-06-08",
+      "categories": "Business, Business / Social Media, Delete This"
+    },
+    {
+      "id": "658",
+      "title": "Everything Apple Announced at WWDC 2026",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
+      "published": "2026-06-08",
+      "categories": "Gear, Gear / Gear News and Events, WWDC"
+    },
+    {
+      "id": "659",
+      "title": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
+      "published": "2026-06-08",
+      "categories": "Gear, Gear / Gear News and Events, Gear / Products / Apps, Gear / Products / Phones, WWDC 2026"
+    },
+    {
+      "id": "660",
+      "title": "Apple’s New Siri AI Is Ready to Get Personal",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+      "published": "2026-06-08",
+      "categories": "Gear, Gear / Gear News and Events, Talk to Me"
+    },
+    {
+      "id": "661",
+      "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+      "published": "2026-06-08",
+      "categories": "Business, Business / Artificial Intelligence, Grow Your Own Way"
+    },
+    {
+      "id": "662",
+      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "published": "2026-06-08",
+      "categories": "Security, Security / Privacy, Security / Security News, Business / Big Tech, Business / Social Media, Losing Face"
+    },
+    {
+      "id": "640",
+      "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
+      "published": "2026-06-08",
+      "categories": "Agentic AI / Generative AI, Data Center / Cloud, Developer Tools & Techniques, NVFP4"
+    },
+    {
+      "title": "LLM Agent Memory: A Survey from a Unified Representation--Management Perspective | OpenReview",
+      "url": "https://openreview.net/forum?id=E6LJBlfoPL",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "GRAM: Empowering Agent with Actively Managed Graph-Structured Memory via Reinforcement Learning | OpenReview",
+      "url": "https://openreview.net/forum?id=rzGvGnwVC7",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI_Memory_Systems_Complete_Guide - DEV Community",
+      "url": "https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+      "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793573.html",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience | OpenReview",
+      "url": "https://openreview.net/forum?id=tVTcYtmHIt",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: The 2026 Release Candidate Explained | byteiota",
+      "url": "https://byteiota.com/mcp-goes-stateless-2026-release-candidate/",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP SEP-2106: Full JSON Schema 2020-12 in Tool I/O - DEV Community",
+      "url": "https://dev.to/pueding/mcp-sep-2106-full-json-schema-2020-12-in-tool-io-ee7",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "GitHub MCP Server 1.2.0",
+      "url": "https://github.com/github/github-mcp-server/releases/tag/v1.2.0",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Multi-Tenant LLM Serving on GPU Cloud: Per-Customer Isolation, Token Quotas, and Production SaaS Architecture Guide (2026) | Spheron Blog",
+      "url": "https://www.spheron.network/blog/multi-tenant-llm-serving-gpu-cloud/",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs - MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+      "published": "2026-06-08",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "DeepSeek-V4-Flash Quant Restores MTP Head for 62% Throughput Gain — agentry",
+      "url": "https://agentry.press/news/deepseek-v4-flash-quant-restores-mtp-head-for-62-throughput-gain/",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia's $400 Million Kumo AI Acquisition Targets Enterprise Predictions",
+      "url": "https://winbuzzer.com/2026/06/07/nvidia-kumo-ai-deal-targets-enterprise-predictions-xcxwbn/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "PhysicsX raises $300M at $2.4bn for AI physics simulation",
+      "url": "https://thenextweb.com/news/physicsx-temasek-300m-series-c-ai-simulation",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Cegid Closes Acquisition of Shine to Create Europe's First Complete AI-Driven Platform for SMBs and Accountants | Morningstar",
+      "url": "https://www.morningstar.com/news/business-wire/20260607209706/cegid-closes-acquisition-of-shine-to-create-europes-first-complete-ai-driven-platform-for-smbs-and-accountants",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

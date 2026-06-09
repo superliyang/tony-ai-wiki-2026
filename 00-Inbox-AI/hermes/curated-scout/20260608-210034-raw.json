@@ -1,0 +1,152 @@
+{
+  "timestamp": "20260608-210034",
+  "rss_count": 5,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "663",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "published": "2026-06-09",
+      "categories": "AI, Apple, iPhone, siri ai, WWDC 2026"
+    },
+    {
+      "id": "664",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "published": "2026-06-09",
+      "categories": "AI, Venture, Mercor, Sequoia Partners, Valuations"
+    },
+    {
+      "id": "665",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "published": "2026-06-08",
+      "categories": "AI, TC, In Brief, Layoffs, sam altman, tools for humanity"
+    },
+    {
+      "id": "666",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "published": "2026-06-08",
+      "categories": "AI, Apps, Gadgets, TC, apple intellignce, siri, wwdc, WWDC 2026"
+    },
+    {
+      "id": "667",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "published": "2026-06-08",
+      "categories": "AI, Apple, News, Tech, Web, WWDC 2026"
+    },
+    {
+      "title": "LLM Agent Memory: A Survey from a Unified Representation--Management Perspective | OpenReview",
+      "url": "https://openreview.net/forum?id=E6LJBlfoPL",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "GRAM: Empowering Agent with Actively Managed Graph-Structured Memory via Reinforcement Learning | OpenReview",
+      "url": "https://openreview.net/forum?id=rzGvGnwVC7",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Long-Running Agents – O’Reilly",
+      "url": "https://www.oreilly.com/radar/long-running-agents/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+      "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793560.html",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AibleClaw Now Powered by NVIDIA Nemotron 3 Ultra Delivers Frontier-Class Planning for Claws and Enables Stronger Post-Training of Smaller Models",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/aibleclaw-now-powered-by-nvidia-nemotron-3-ultra-delivers-frontie-1173309",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Claude Opus 4.8: System Card Deep Dive & Review (June 2026) - AIToolsReview",
+      "url": "https://aitoolsreview.co.uk/insights/claude-opus-4-8",
+      "published": "2026-06-07",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: The 2026 Release Candidate Explained | byteiota",
+      "url": "https://byteiota.com/mcp-goes-stateless-2026-release-candidate/",
+      "published": "2026-06-07",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP SEP-2106: Full JSON Schema 2020-12 in Tool I/O - DEV Community",
+      "url": "https://dev.to/pueding/mcp-sep-2106-full-json-schema-2020-12-in-tool-io-ee7",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "GitHub MCP Server 1.2.0",
+      "url": "https://github.com/github/github-mcp-server/releases/tag/v1.2.0",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Hands‑On LLM Local Deployment: vLLM Inference Optimiza… | BestHub",
+      "url": "https://www.besthub.dev/articles/hands-on-llm-local-deployment-vllm-inference-optimizations-explained-2d70fda5bcdd",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs - MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+      "published": "2026-06-08",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "DeepSeek-V4-Flash Quant Restores MTP Head for 62% Throughput Gain — agentry",
+      "url": "https://agentry.press/news/deepseek-v4-flash-quant-restores-mtp-head-for-62-throughput-gain/",
+      "published": "2026-06-07",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Nvidia's $400 Million Kumo AI Acquisition Targets Enterprise Predictions",
+      "url": "https://winbuzzer.com/2026/06/07/nvidia-kumo-ai-deal-targets-enterprise-predictions-xcxwbn/",
+      "published": "2026-06-07",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "PhysicsX raises $300M at $2.4BN valuation - Tech.eu",
+      "url": "https://tech.eu/2026/06/08/physicsx-raises-300m-at-24bn-valuation/",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Kneat Enters into Definitive Agreement to be Acquired by Thoma Bravo in an All-Cash Transaction, Valuing Kneat at Approximately C$650 Million | MarketScreener",
+      "url": "https://www.marketscreener.com/news/kneat-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo-in-an-all-cash-transaction-val-ce7f5dd2d08df325",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
