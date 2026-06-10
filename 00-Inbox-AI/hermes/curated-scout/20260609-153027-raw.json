@@ -1,0 +1,278 @@
+{
+  "timestamp": "20260609-153027",
+  "rss_count": 21,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "713",
+      "title": "Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
+      "published": "2026-06-09",
+      "categories": "Science, Science / Environment, DUH-DUM"
+    },
+    {
+      "id": "714",
+      "title": "GM Wants Your Electric Car to Power Your House—and Your Neighborhood",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/",
+      "published": "2026-06-09",
+      "categories": "Gear, Gear / Gear News and Events, Vehicle to Grid"
+    },
+    {
+      "id": "715",
+      "title": "MacOS 27 Golden Gate: Top New Features",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "published": "2026-06-09",
+      "categories": "Gear, Gear / Products, Gear / Gear News and Events, Gear / Products / Computers, Siri Strikes Back"
+    },
+    {
+      "id": "716",
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+      "published": "2026-06-09",
+      "categories": "Gear, Gear / Gear News and Events, Apple"
+    },
+    {
+      "id": "717",
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "published": "2026-06-09",
+      "categories": "Business, Business / Artificial Intelligence, Security, Security / Cyberattacks and Hacks, Security / Security News, Mythos Madness"
+    },
+    {
+      "id": "718",
+      "title": "State of the software engineering job market in 2026, part 2",
+      "blog": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+      "published": "2026-06-09"
+    },
+    {
+      "id": "700",
+      "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
+      "published": "2026-06-09",
+      "categories": "Agentic AI / Generative AI, Data Science, Developer Tools & Techniques, AI Agent, AI Enterprise, DGX Spark, LLMs"
+    },
+    {
+      "id": "701",
+      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+      "published": "2026-06-09",
+      "categories": "Agentic AI / Generative AI, Data Science, Edge Computing, Inference Performance"
+    },
+    {
+      "id": "702",
+      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
+      "published": "2026-06-09",
+      "categories": "Agentic AI / Generative AI, Data Science, Edge Computing, AI Agent, Federated Learning, research"
+    },
+    {
+      "id": "703",
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "published": "2026-06-09",
+      "categories": "AI, Apple, siri, WWDC 2026"
+    },
+    {
+      "id": "704",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "published": "2026-06-09",
+      "categories": "AI, Anthropic, Claude, Fable 5, Mythos"
+    },
+    {
+      "id": "705",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "published": "2026-06-09",
+      "categories": "AI, TC, ai models, Anthropic, Harvey, OpenAI"
+    },
+    {
+      "id": "706",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "published": "2026-06-09",
+      "categories": "AI, Apple, siri, wwdc, WWDC 2026"
+    },
+    {
+      "id": "707",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "published": "2026-06-09",
+      "categories": "AI, Anthropic, Claude, cybersecurity, Mythos"
+    },
+    {
+      "id": "708",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "published": "2026-06-09",
+      "categories": "AI, Startups, TC, big tech, FAANG, In Brief"
+    },
+    {
+      "id": "709",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "published": "2026-06-09",
+      "categories": "AI, Electric Cars, Energy, GM, News, Science, Transportation"
+    },
+    {
+      "id": "710",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "published": "2026-06-09",
+      "categories": "AI, Anthropic, Microsoft, News, Tech"
+    },
+    {
+      "id": "711",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "published": "2026-06-09",
+      "categories": "AI, Anthropic, News"
+    },
+    {
+      "id": "712",
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "published": "2026-06-09",
+      "categories": "AI, Apple, Apple Event, Tech"
+    },
+    {
+      "id": "699",
+      "title": "Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake",
+      "blog": "AWS Architecture Blog",
+      "url": "https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/",
+      "published": "2026-06-09",
+      "categories": "Amazon Bedrock, AWS HealthLake, Intermediate (200), Technical How-to"
+    },
+    {
+      "id": "698",
+      "title": "How We Moved Discord Voice to the Edge",
+      "blog": "Discord Engineering",
+      "url": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge",
+      "published": "2026-06-09"
+    },
+    {
+      "title": "The AI Agents Stack (2026 Edition) – O’Reilly",
+      "url": "https://www.oreilly.com/radar/the-ai-agents-stack-2026-edition/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Long-Running Agents – O’Reilly",
+      "url": "https://www.oreilly.com/radar/long-running-agents/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Architecture 2026: Router, Memory, Tools, Guardrails - TokenMix Blog",
+      "url": "https://tokenmix.ai/blog/ai-agent-architecture-2026-router-memory-tools",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+      "url": "https://www.prnewswire.com/news-releases/unisound-releases-u2-a-native-agentic-large-model-built-for-execution-capable-of-autonomously-decomposing-and-completing-100-steps-in-complex-real-world-workflows-302793560.html",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Ultra: 550B Open MoE Model for AI Agents 2026 | explainx.ai Blog | explainx.ai",
+      "url": "https://explainx.ai/blog/nvidia-nemotron-3-ultra-550b-moe-open-weight-ai-model-2026",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Cadence Unveils Industry’s First Fully Autonomous Virtual Engineer for Chip Design, powered by NVIDIA",
+      "url": "https://www.design-reuse.com/news/202530621-cadence-unveils-industry-s-first-fully-autonomous-virtual-engineer-for-chip-design-powered-by-nvidia/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "GitHub MCP Server 1.2.0",
+      "url": "https://github.com/github/github-mcp-server/releases/tag/v1.2.0",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP SEP-2106: Full JSON Schema 2020-12 in Tool I/O - DEV Community",
+      "url": "https://dev.to/pueding/mcp-sep-2106-full-json-schema-2020-12-in-tool-io-ee7",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Claude Adds Observability Tools for MCP Connectors in Beta - Blockchain.News",
+      "url": "https://blockchain.news/news/claude-observability-tools-mcp-connectors",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs - MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+      "published": "2026-06-08",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Prefill Once, Fan Out: KV Snapshot Sharing for Multi-Agent LLM Pipelines | Towards Data Science",
+      "url": "https://towardsdatascience.com/kv-cache-reuse-for-multi-agent-llm-inference-i-built-a-c-orchestrator-so-my-gpu-would-stop-reading-the-same-document-twice/",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "AI rollup company Beacon closes $225-million Series C round | BetaKit",
+      "url": "https://betakit.com/ai-rollup-company-beacon-closes-225-million-series-c-round/",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA (NVDA) Acquires AI Startup Kumo as Full-Stack Strategy Expands",
+      "url": "https://ca.finance.yahoo.com/news/nvidia-nvda-acquires-ai-startup-171204741.html",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Beacon raises $225M to acquire and optimize software companies - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/09/beacon-raises-225m-acquire-optimize-software-companies/",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

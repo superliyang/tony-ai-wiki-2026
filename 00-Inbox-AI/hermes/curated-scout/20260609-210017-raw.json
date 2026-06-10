@@ -1,0 +1,136 @@
+{
+  "timestamp": "20260609-210017",
+  "rss_count": 3,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "721",
+      "title": "I tried Siri AI, and so far it actually works",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "published": "2026-06-09",
+      "categories": "AI, Apple, Hands-on, Reviews, Tech, WWDC 2026"
+    },
+    {
+      "id": "719",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "published": "2026-06-10",
+      "categories": "AI, google ai, Google AI Plus"
+    },
+    {
+      "id": "720",
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "published": "2026-06-09",
+      "categories": "AI, Fundraising, Venture, anduril, Anthropic, playground global, SpaceX, SPV"
+    },
+    {
+      "title": "The AI Agents Stack (2026 Edition) – O’Reilly",
+      "url": "https://www.oreilly.com/radar/the-ai-agents-stack-2026-edition/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Long-Running Agents – O’Reilly",
+      "url": "https://www.oreilly.com/radar/long-running-agents/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "New AI Launch June 2026: Weaviate Launches Engram, A Powerful Memory Layer for AI Agents - TechBullion",
+      "url": "https://techbullion.com/new-ai-launch-june-2026-weaviate-launches-engram-a-powerful-memory-layer-for-ai-agents/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "The 4 Microsoft Build 2026 Announcements That Matter Most -- Redmondmag.com",
+      "url": "https://redmondmag.com/articles/2026/06/08/the-4-microsoft-build-2026-announcements-that-matter-most.aspx",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "I Built a Terminal-Native AI Agent That Plans Before Acting — Here's Why It Matters - DEV Community",
+      "url": "https://dev.to/massiron/i-built-a-terminal-native-ai-agent-that-plans-before-acting-heres-why-it-matters-3ief",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Cadence Unveils Industry’s First Fully Autonomous Virtual Engineer for Chip Design, powered by NVIDIA",
+      "url": "https://www.design-reuse.com/news/202530621-cadence-unveils-industry-s-first-fully-autonomous-virtual-engineer-for-chip-design-powered-by-nvidia/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "GitHub MCP Server 1.2.0",
+      "url": "https://github.com/github/github-mcp-server/releases/tag/v1.2.0",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP SEP-2106: Full JSON Schema 2020-12 in Tool I/O - DEV Community",
+      "url": "https://dev.to/pueding/mcp-sep-2106-full-json-schema-2020-12-in-tool-io-ee7",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Claude Adds Observability Tools for MCP Connectors in Beta - Blockchain.News",
+      "url": "https://blockchain.news/news/claude-observability-tools-mcp-connectors",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Tokens Per Second on Commodity GPUs - MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/",
+      "published": "2026-06-08",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA (NVDA) Acquires AI Startup Kumo as Full-Stack Strategy Expands",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-acquires-ai-startup-171204741.html",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "PhysicsX raises $300M at $2.4bn for AI physics simulation",
+      "url": "https://thenextweb.com/news/physicsx-temasek-300m-series-c-ai-simulation",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Kneat Enters into Definitive Agreement to be Acquired by Thoma Bravo in an All-Cash Transaction, Valuing Kneat at Approximately C$650 Million | MarketScreener",
+      "url": "https://www.marketscreener.com/news/kneat-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo-in-an-all-cash-transaction-val-ce7f5dd2d08df325",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
