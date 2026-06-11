@@ -1,0 +1,136 @@
+{
+  "timestamp": "20260610-210042",
+  "rss_count": 3,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "770",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "published": "2026-06-11",
+      "categories": "Business, Business / Artificial Intelligence, Course Correct"
+    },
+    {
+      "id": "768",
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "published": "2026-06-11",
+      "categories": "AI, Anthropic, dario amodei"
+    },
+    {
+      "id": "769",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "published": "2026-06-10",
+      "categories": "AI, ai safety, devin kim, Grok, SpaceX, xAI"
+    },
+    {
+      "title": "Memory Is Evidence, Not Instruction: NZFC-GRAM v1.2.4 and the Case for Governed AI Memory",
+      "url": "https://huggingface.co/blog/SingularityPrinciple/memory-is-evidence-not-instruction",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "The Memory Problem Hiding Inside Every \"Agentic AI\" Framework | The AI Journal",
+      "url": "https://aijourn.com/the-memory-problem-hiding-inside-every-agentic-ai-framework/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Build Long-Horizon AI Agents on Claude Fable 5 | Lushbinary",
+      "url": "https://lushbinary.com/blog/build-long-horizon-ai-agents-claude-fable-5-guide/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 Just Launched",
+      "url": "https://felloai.com/claude-fable-5/",
+      "published": "2026-06-10",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Build Long-Horizon AI Agents on Claude Fable 5 | Lushbinary",
+      "url": "https://lushbinary.com/blog/build-long-horizon-ai-agents-claude-fable-5-guide/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Planning and Reasoning in AI Agents – Billion Hopes",
+      "url": "https://billionhopes.ai/planning-and-reasoning-in-ai-agents/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Announcing MCP connectors 🔌",
+      "url": "https://blog.apify.com/announcing-mcp-connectors/",
+      "published": "2026-06-09",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "OAuth for Remote MCP Servers - DEV Community",
+      "url": "https://dev.to/tom_howland_571545aeee419/oauth-for-remote-mcp-servers-3n8i",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Model Context Protocol in TypeScript: build portable tools across Claude, GPT, and local models - DEV Community",
+      "url": "https://dev.to/jtorchia/mcp-model-context-protocol-in-typescript-build-portable-tools-across-claude-gpt-and-local-models-4ema",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "vLLM vs TensorRT-LLM: Which Inference Engine Should You Use in 2026? | Yotta Labs",
+      "url": "https://www.yottalabs.ai/post/vllm-vs-tensorrt-llm-which-inference-engine-should-you-use-in-2026",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "AI Serving Platform That Adapts to Your Model | Databricks Blog",
+      "url": "https://www.databricks.com/blog/ai-serving-platform-adapts-your-model",
+      "published": "2026-06-10",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Beacon raises $225M for its 'anti-PE' AI roll-up",
+      "url": "https://thenextweb.com/news/beacon-225m-series-c-ai-roll-up",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI Invests in Poetic to Automate Compliance, Underwriting With AI - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-backs-ai-startup-fielding-compliance-underwriting-tasks",
+      "published": "2026-06-10",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Beacon raises $225M to acquire and optimize software companies - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/09/beacon-raises-225m-acquire-optimize-software-companies/",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

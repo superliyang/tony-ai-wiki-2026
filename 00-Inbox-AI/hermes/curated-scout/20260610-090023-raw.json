@@ -1,0 +1,351 @@
+{
+  "timestamp": "20260610-090023",
+  "rss_count": 30,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "751",
+      "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories/",
+      "published": "2026-06-10",
+      "categories": "Data Center / Cloud, AI Factory, DSX, Energy, Vera Rubin"
+    },
+    {
+      "id": "731",
+      "title": "Fable 5, Anthropic Alignment, AI Tiers",
+      "blog": "Stratechery",
+      "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+      "published": "2026-06-10",
+      "categories": "Daily Update"
+    },
+    {
+      "id": "732",
+      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
+      "published": "2026-06-10",
+      "categories": "Security, Security / Privacy, Security / Security News, Face Palm"
+    },
+    {
+      "id": "733",
+      "title": "China Opens World’s First Wind-Powered Underwater Data Center",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+      "published": "2026-06-10",
+      "categories": "Science, The Deep"
+    },
+    {
+      "id": "734",
+      "title": "Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/affordable-digital-notebook-comparison-2026/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Reviews, Gear / Products / Tablets, Extra, Extra"
+    },
+    {
+      "id": "735",
+      "title": "What’s the Best Kindle of 2026? (So Far)",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Buying Guides, Gear / Products / Accessories, Book Smart"
+    },
+    {
+      "id": "736",
+      "title": "Best iPad Accessories (2026): Keyboards, Cases, Styli",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/gallery/best-ipad-accessories/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Buying Guides, Gear / Products / Tablets, Buying Guide"
+    },
+    {
+      "id": "737",
+      "title": "Best Laptops For College Students (2026): MacBooks and Beyond",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/best-college-laptops/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Products, Gear / Products / Computers, Gear / Buying Guides, Buying Guide"
+    },
+    {
+      "id": "738",
+      "title": "Soccer Fans, You’re Being Watched",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+      "published": "2026-06-10",
+      "categories": "Security, Security / Privacy, World Cup 2026"
+    },
+    {
+      "id": "739",
+      "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+      "published": "2026-06-10",
+      "categories": "Security, Security / Privacy, World Cup 2026"
+    },
+    {
+      "id": "740",
+      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+      "published": "2026-06-10",
+      "categories": "Business, World Cup 2026"
+    },
+    {
+      "id": "741",
+      "title": "This World Cup, You Can Watch the Game From a Ref’s Point of View",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/world-cup-referee-body-cameras-live/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Gear News and Events, World Cup 2026"
+    },
+    {
+      "id": "742",
+      "title": "The World Cup’s Trionda Ball Challenges Traditional Aerodynamics",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/the-world-cups-trionda-ball-challenges-traditional-aerodynamics/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Trends, World Cup 2026"
+    },
+    {
+      "id": "743",
+      "title": "The Other Major Soccer Event of 2026? The Shake-Up in the World of Video Games",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/2026-world-cup-soccer-video-games/",
+      "published": "2026-06-10",
+      "categories": "Culture, Culture / Video Games, World Cup 2026"
+    },
+    {
+      "id": "744",
+      "title": "Amnesty International Warns That World Cup Fans Face Potential Human Rights Violations",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/amnesty-international-world-cup-human-rights/",
+      "published": "2026-06-10",
+      "categories": "Security, Security / Privacy, World Cup 2026"
+    },
+    {
+      "id": "745",
+      "title": "How to Watch the 2026 World Cup",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/how-to-watch-the-2026-world-cup/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Gear News and Events, Gear / How To and Advice, World Cup 2026"
+    },
+    {
+      "id": "746",
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/naturepedic-promo-code/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Deals, Coupons"
+    },
+    {
+      "id": "747",
+      "title": "Corsair Discount Code: Up to 50% Off for June 2026",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/corsair-coupon/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Deals, Coupons"
+    },
+    {
+      "id": "748",
+      "title": "Best Buy Discount Codes: Up to 60% Off",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/best-buy-discount-code/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Deals, Coupons"
+    },
+    {
+      "id": "749",
+      "title": "Lenovo Coupon Codes and Deals in June 2026",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Deals, Coupons"
+    },
+    {
+      "id": "750",
+      "title": "Surfshark Promo Codes: 87% Off | June 2026",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "published": "2026-06-10",
+      "categories": "Gear, Coupons"
+    },
+    {
+      "id": "724",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "published": "2026-06-10",
+      "categories": "AI, Security, ai safety, Anthropic, cybersecurity, fable, Mythos"
+    },
+    {
+      "id": "725",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "published": "2026-06-10",
+      "categories": "AI, Fundraising, Startups, AI coding agents, ai coding assistant"
+    },
+    {
+      "id": "726",
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "published": "2026-06-10",
+      "categories": "AI, Space, IPO, orbital data centers, SpaceX"
+    },
+    {
+      "id": "727",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "published": "2026-06-10",
+      "categories": "AI, Media & Entertainment, Startups, AI startups, warner music"
+    },
+    {
+      "id": "728",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "published": "2026-06-10",
+      "categories": "AI, Enterprise, Fundraising, AI agents, context graphs, Jedify"
+    },
+    {
+      "id": "729",
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "published": "2026-06-10",
+      "categories": "AI, decart, Exclusive, oasis 3, world models"
+    },
+    {
+      "id": "730",
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "published": "2026-06-10",
+      "categories": "AI, Meta, reliance, reliance industries"
+    },
+    {
+      "id": "723",
+      "title": "Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework",
+      "blog": "AWS Architecture Blog",
+      "url": "https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework/",
+      "published": "2026-06-10",
+      "categories": "Announcements, AWS Well-Architected Tool, Foundational (100)"
+    },
+    {
+      "id": "722",
+      "title": "Game On: Discord Is Backing the Next Generation of Dutch Gaming Founders",
+      "blog": "Discord Engineering",
+      "url": "https://discord.com/blog/game-on-discord-is-backing-the-next-generation-of-dutch-gaming-founders",
+      "published": "2026-06-10"
+    },
+    {
+      "title": "infinigence/Infini-Memory",
+      "url": "https://github.com/infinigence/Infini-Memory",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Long-Running Agents – O’Reilly",
+      "url": "https://www.oreilly.com/radar/long-running-agents/",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Hindsight Is the Fastest-Growing Open-Source AI Memory Project Ever | Hindsight",
+      "url": "https://hindsight.vectorize.io/blog/2026/06/09/fastest-growing-oss-ai-memory",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Bridging intent and execution in agentic systems - Amazon Science",
+      "url": "https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Formal Verification for LLM Agents – Lean4Agent Analysis | AI Trend",
+      "url": "https://aitrendai.com/post/why-formal-verification-is-the-missing-piece-for-llm-agents",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MIT researchers build AI framework that rewrites its own scientific reasoning rules",
+      "url": "https://completeaitraining.com/news/mit-researchers-build-ai-framework-that-rewrites-its-own/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Dataverse MCP Server: Understanding the New Tool Shape - Microsoft Power Platform Blog",
+      "url": "https://www.microsoft.com/en-us/power-platform/blog/2026/06/08/dataverse-mcp-server-understanding-the-new-tool-shape/",
+      "published": "2026-06-08",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Prepare for 3.0.0-beta.17 release (#2844) · b2bea04 · microsoft/mcp",
+      "url": "https://github.com/microsoft/mcp/commit/b2bea04888804af0016b766b3b6a4f8b46e1a9d6",
+      "published": "2026-06-09",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Model Context Protocol in TypeScript: build portable tools across Claude, GPT, and local models - DEV Community",
+      "url": "https://dev.to/jtorchia/mcp-model-context-protocol-in-typescript-build-portable-tools-across-claude-gpt-and-local-models-4ema",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "LLM Inference Handbook: From Basics to Production 2026 | Towards AI",
+      "url": "https://pub.towardsai.net/llm-inference-handbook-2026-135c266b86e7",
+      "published": "2026-06-08",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "KV Cache Explained: Prefill, Decode, Context Windows & LLM Memory | MortalApps",
+      "url": "https://mortalapps.com/blog/kv-cache-explained/",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "AI rollup company Beacon closes $225-million USD Series C round | BetaKit",
+      "url": "https://betakit.com/ai-rollup-company-beacon-closes-225-million-series-c-round/",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Mistral Bought Austrian Emmi AI at €330M Valuation – Report",
+      "url": "https://www.trendingtopics.eu/mistral-emmi-ai-valuation/",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "May 2026 AI Financing Report – Stepmark Partners",
+      "url": "https://stepmark.ai/2026/06/08/may-2026-ai-financing-report/",
+      "published": "2026-06-08",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

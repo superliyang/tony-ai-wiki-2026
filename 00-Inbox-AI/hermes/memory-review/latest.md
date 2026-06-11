@@ -1,4 +1,4 @@
-# 🧠 Memory Review — 2026-06-09 08:00
+# 🧠 Memory Review — 2026-06-10
 
 > Tony AI Cognitive System | Capture → Recall → Judge → Crystallize → Reuse
 > Hermes = Recall / Scout | 向内看 · 记忆审查 · v1 reporter
@@ -7,46 +7,46 @@
 
 | 目录 | 数量 | 备注 |
 |---|---|---|
-| pending | 12 | 6 件 >72h ⚠️ |
+| pending | 13 | 7 件 >72h ⚠️ |
 | accepted | 0 | 最近: — |
 | discarded | 0 | （空） |
 | deferred | 0 | （空） |
 
-### ⚠️ 积压提醒（>72h）
-- `2026-06-06-memory-review.md` — Memory Review 2026-06-06 (72.0h)
-- `2026-06-05-memory-review.md` — Memory Review 2026-06-05 (96.0h)
-- `2026-06-05-mcp-protocol-evolution-review.md` — Tony Review: MCP 协议深度研究 (96.9h)
-- `2026-06-05-agent-memory-architecture-review.md` — Tony Review: Agent 记忆架构 (94.7h)
-- `2026-06-04-memory-review.md` — Memory Review 2026-06-04 (120.0h)
-- `2026-06-03-memory-review.md` — Memory Review 2026-06-03 (144.0h)
-
 ## 🔄 Agent Memory 变更
 
-> 📭 本次扫描无变化。
+> 📭 无变化。Canonical memory 自 6/3 起冻结 7 天。
 
 ### 📂 文件清单
-- ✅ **Agent Memory Profile** (`profile.md`) — 38 行
-- ✅ **Agent Memory Preferences** (`preferences.md`) — 51 行
-- ✅ **Agent Memory Learning Themes** (`learning-themes.md`) — 39 行
-- ✅ **Tony User Profile and AI Cognitive System** (`user-profile-and-ai-cognitive-system.md`) — 244 行
-- ✅ **Agent Memory Negative Signals** (`negative-signals.md`) — 30 行
+- ✅ **Agent Memory Profile** (`profile.md`) — 37 行 ⚠️ 缺职业画像 (F4)
+- ✅ **Agent Memory Preferences** (`preferences.md`) — 50 行
+- ⚠️ **Agent Memory Learning Themes** (`learning-themes.md`) — 38 行（缺广告投放 F2 + LLM推理优化 F5）
+- ✅ **Tony User Profile and AI Cognitive System** (`user-profile-and-ai-cognitive-system.md`) — 243 行
+- ✅ **Agent Memory Negative Signals** (`negative-signals.md`) — 29 行
 
-## 📡 00-Home/当前主线.md
+### 📌 Memory Candidates 状态 (5 pending)
 
-- 行数: 54 | 最近修改: 143.4h前 （无变化）
+| # | 候选 | 天数 | 严重度 |
+|---|---|---|---|
+| F1 | 重新生成 hermes-soul.md projection | 5d | 中 |
+| F2 | 添加「广告投放」→ learning-themes | 5d | 中 |
+| F3 | 对齐 Scout 命名 | 5d | 中 |
+| F4 | Tony 职业画像回流 canonical | 2d | 高 |
+| F5 | 添加「LLM推理优化」→ learning-themes | 1d | 中 |
 
 ## ⚠️ 系统健康检查
 
-### 决策停滞 — 7 天未做任何判断
-> pending 积压 12 件，但近期无 accepted/discarded。建议花 2 分钟扫一遍 review-queue。
+### Canonical ↔ Reality gap 扩大中
+> Canonical 冻结 7 天，但 Tony 已完成广告投放深钻 (~60K) 和 LLM 推理优化 Phase 1 (24KB)，Scout 也已恢复运行。投影和 canonical 都在滞后。
 
-### pending(12) 远大于 accepted(0)
-> 大量候选堆积未判断。建议批量 discard 低价值项或提高 Scout 信号门槛。
+### 决策停滞 — 8 天未做任何判断
+> 建议花 5 分钟批量 review 这 5 个 memory candidate。
 
-## 📌 建议关注
+## 📌 建议优先动作
 
-1. 处理积压 pending 候选（6 件 >72h）
-2. 花 2 分钟扫 review-queue/pending/，做批量判断
+1. 🔴 **F4 (Tony 职业画像回流)** — 影响所有 agent 推荐质量
+2. 🟡 **F1 (重新生成 hermes-soul.md + MEMORY.md)** — 消除 7 天 stale 状态
+3. 🟡 **F2 + F5 (learning-themes 补齐广告投放 + LLM推理优化)** — 反映实际学习行为
+4. 🔵 **F3 (Scout 命名对齐)** — 消除 3 套命名混乱
 
 ---
-*Memory Review Scout v1 | 每天 08:00 自动审查 | 回复指令操作*
+*Memory Review Scout v1 | 每天 08:00 自动审查 | 无新候选 | 详细报告: `memory-review/2026-06-10-memory-review.md`*

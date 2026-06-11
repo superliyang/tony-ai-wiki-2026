@@ -1,0 +1,240 @@
+{
+  "timestamp": "20260610-150058",
+  "rss_count": 16,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "763",
+      "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+      "published": "2026-06-10",
+      "categories": "Security, Security / Cyberattacks and Hacks, Security / National Security, Security / Security News, Move Fast, Fix Things"
+    },
+    {
+      "id": "764",
+      "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+      "published": "2026-06-10",
+      "categories": "Security, Security / National Security, Top People"
+    },
+    {
+      "id": "765",
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+      "published": "2026-06-10",
+      "categories": "Business, Business / Big Tech, Politics / Politics News, Politics, Detained"
+    },
+    {
+      "id": "766",
+      "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/gallery/best-usb-c-cables/",
+      "published": "2026-06-10",
+      "categories": "Gear, Gear / Buying Guides, Gear / Products / Accessories, Plugged In"
+    },
+    {
+      "id": "767",
+      "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+      "published": "2026-06-10",
+      "categories": "Politics, Politics / Politics News, Inner Loop"
+    },
+    {
+      "id": "753",
+      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+      "published": "2026-06-10",
+      "categories": "Agentic AI / Generative AI, Developer Tools & Techniques, Top Stories, DGX Spark, RTX GPU, Text Generation"
+    },
+    {
+      "id": "754",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "published": "2026-06-10",
+      "categories": "AI, Amazon, citigroup, In Brief"
+    },
+    {
+      "id": "755",
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "published": "2026-06-10",
+      "categories": "AI, ai tokens, Ramp, ramp ai index"
+    },
+    {
+      "id": "756",
+      "title": "How memory tools can make AI models worse",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "published": "2026-06-10",
+      "categories": "AI, ai models, writer"
+    },
+    {
+      "id": "757",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "published": "2026-06-10",
+      "categories": "AI, Anthropic, Report, Science"
+    },
+    {
+      "id": "758",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "published": "2026-06-10",
+      "categories": "AI, Culture, Entertainment, Internet Culture, Microsoft, News, Tech"
+    },
+    {
+      "id": "759",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "published": "2026-06-10",
+      "categories": "AI, Column, Policy, Politics, Regulator"
+    },
+    {
+      "id": "760",
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "published": "2026-06-10",
+      "categories": "AI, Creators, Entertainment, Google, Law, Music, Policy, Streaming, Tech, YouTube"
+    },
+    {
+      "id": "761",
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "published": "2026-06-10",
+      "categories": "AI, Anthropic, Exclusive, Microsoft, Report, Tech"
+    },
+    {
+      "id": "762",
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "published": "2026-06-10",
+      "categories": "AI, Google, News, Privacy, Tech"
+    },
+    {
+      "id": "752",
+      "title": "Route public traffic to private applications with Cloudflare",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/private-origins-dns-routing/",
+      "published": "2026-06-10",
+      "categories": "Application Services, Private Network, DNS, Pingora, Cloudflare One, Cloudflare Zero Trust, Zero Trust, Product News"
+    },
+    {
+      "title": "Memory Is Evidence, Not Instruction: Introducing NZFC-GRAM v1.2.2 for Gemma",
+      "url": "https://huggingface.co/blog/SingularityPrinciple/memory-is-evidence-not-instruction",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Loop Engineering for AI Agents: Memory-First Design",
+      "url": "https://mem0.ai/blog/loop-engineering-for-ai-agents-memory-first-design",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "The Memory Problem Hiding Inside Every \"Agentic AI\" Framework | The AI Journal",
+      "url": "https://aijourn.com/the-memory-problem-hiding-inside-every-agentic-ai-framework/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 Just Launched",
+      "url": "https://felloai.com/claude-fable-5/",
+      "published": "2026-06-10",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Formal Verification for LLM Agents – Lean4Agent Analysis | AI Trend",
+      "url": "https://aitrendai.com/post/why-formal-verification-is-the-missing-piece-for-llm-agents",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information | VentureBeat",
+      "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+      "published": "2026-06-08",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Announcing MCP connectors 🔌",
+      "url": "https://blog.apify.com/announcing-mcp-connectors/",
+      "published": "2026-06-09",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Claude Adds Observability Tools for MCP Connectors in Beta - Blockchain.News",
+      "url": "https://blockchain.news/news/claude-observability-tools-mcp-connectors",
+      "published": "2026-06-09",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "What Is WebMCP? Google's New Browser AI Standard",
+      "url": "https://witho2.com/ai/what-is-webmcp-google-browser-ai-standard",
+      "published": "2026-06-09",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Fast & Efficient LLM Inference with vLLM - DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "AI Serving Platform That Adapts to Your Model | Databricks Blog",
+      "url": "https://www.databricks.com/blog/ai-serving-platform-adapts-your-model",
+      "published": "2026-06-10",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Beacon raises $225M for its 'anti-PE' AI roll-up",
+      "url": "https://thenextweb.com/news/beacon-225m-series-c-ai-roll-up",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Mistral Bought Austrian Emmi AI at €330M Valuation – Report",
+      "url": "https://www.trendingtopics.eu/mistral-emmi-ai-valuation/",
+      "published": "2026-06-09",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA: Reported $400 Million Kumo AI Acquisition Strengthens Enterprise AI Capabilities",
+      "url": "https://pulse2.com/nvidia-reported-400-million-kumo-ai-acquisition-strengthens-enterprise-ai-capabilities/amp/",
+      "published": "2026-06-10",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
