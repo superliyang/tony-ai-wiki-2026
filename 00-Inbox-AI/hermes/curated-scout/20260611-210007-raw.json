@@ -1,0 +1,128 @@
+{
+  "timestamp": "20260611-210007",
+  "rss_count": 2,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "806",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "published": "2026-06-12",
+      "categories": "AI, Robotics, Startups, Automation, theker"
+    },
+    {
+      "id": "807",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "published": "2026-06-12",
+      "categories": "AI, Biotech & Health, Hardware, jeff bezos, physical ai, Prometheus"
+    },
+    {
+      "title": "Redis as agent memory | Docs",
+      "url": "https://redis.io/docs/latest/develop/use-cases/agent-memory/",
+      "published": "2026-06-10",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Design Guide - Working, Long-Term, and Procedural Memory with Forgetting and Staleness Management | hidekazu-konishi.com",
+      "url": "https://hidekazu-konishi.com/entry/ai_agent_memory_design_guide.html",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Context: What Goes Into the Window",
+      "url": "https://redis.io/blog/ai-agent-context/",
+      "published": "2026-06-10",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "GPT-5.5 Tops Agents’ Last Exam AI Benchmark — The AI Chronicle",
+      "url": "https://theaicronicle.com/en/news/research/gpt-5-5-beats-claude-fable-5-ale-benchmark",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "SagaMind: Formal Verification, Transactional Rollback, and Cognitive Memory for LLM Agents | by Harutyun Kesablyan | Jun, 2026 | Medium",
+      "url": "https://kesablyanharut.medium.com/sagamind-formal-verification-transactional-rollback-and-cognitive-memory-for-llm-agents-d5d186c5891f",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Hierarchical meta-reinforcement learning | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-57247-1",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Dev Summit 2026 Readout: The Protocol Grows Up",
+      "url": "https://www.digitalapplied.com/blog/mcp-dev-summit-2026-readout-protocol-roadmap-analysis",
+      "published": "2026-06-11",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: What the 2026-07-28 Spec Release Candidate Means for Your Servers | jsmanifest",
+      "url": "https://jsmanifest.com/mcp-stateless-spec-2026-07-28",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP security: what breaks when you go to production | FlowVerify",
+      "url": "https://www.flowverify.co/blog/mcp-production-security",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Intelligent inference scheduling with llm-d on Red Hat AI | Red Hat Developer",
+      "url": "https://developers.redhat.com/articles/2026/06/11/intelligent-inference-scheduling-llm-d-red-hat-ai",
+      "published": "2026-06-11",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "How to Optimise the KV Cache: A Guide to Faster, Cheaper LLM Inference",
+      "url": "https://www.hyperstack.cloud/technical-resources/tutorials/how-to-optimise-the-kv-cache-a-guide-to-faster-cheaper-llm-inference",
+      "published": "2026-06-10",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Deploy LMCache on GPU Cloud: Share KV Cache Across vLLM Nodes for 15x Higher Throughput (2026 Guide) | Spheron Blog",
+      "url": "https://www.spheron.network/blog/deploy-lmcache-vllm-kv-cache-sharing-gpu-cloud/",
+      "published": "2026-06-11",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "published": "2026-06-12",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI acquires AI agent orchestration startup Ona - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/11/openai-acquires-ai-agent-orchestration-startup-ona/",
+      "published": "2026-06-12",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Ona is joining OpenAI · Ona",
+      "url": "https://ona.com/stories/ona-joins-openai",
+      "published": "2026-06-11",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "timestamp": "20260611-150007",
+  "rss_count": 13,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "795",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "published": "2026-06-11",
+      "categories": "AI, Space, Elon Musk, SpaceX, spacex ipo"
+    },
+    {
+      "id": "796",
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "published": "2026-06-11",
+      "categories": "AI, Space, IPO, secondary shares, SpaceX, SPV"
+    },
+    {
+      "id": "797",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "published": "2026-06-11",
+      "categories": "AI, Apps, Media & Entertainment, ai music, Deezer, Generative AI"
+    },
+    {
+      "id": "798",
+      "title": "‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/palantir-protests-nhs-conference-uk/",
+      "published": "2026-06-11",
+      "categories": "Business, Business / Big Tech, Change of Heart"
+    },
+    {
+      "id": "799",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "published": "2026-06-11",
+      "categories": "Business, Business / Artificial Intelligence, Model Behavior"
+    },
+    {
+      "id": "800",
+      "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
+      "published": "2026-06-11",
+      "categories": "Politics, Looming Menace"
+    },
+    {
+      "id": "801",
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "published": "2026-06-11",
+      "categories": "Security, Security / Privacy, Security / Security News, Business / Artificial Intelligence, Business / Social Media, No Permission"
+    },
+    {
+      "id": "802",
+      "title": "Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
+      "published": "2026-06-11",
+      "categories": "Science, Science / Environment, Wild Weather"
+    },
+    {
+      "id": "803",
+      "title": "Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/",
+      "published": "2026-06-11",
+      "categories": "Security, Security / Security News, Leeches"
+    },
+    {
+      "id": "804",
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "published": "2026-06-11",
+      "categories": "AI, Amazon, News, Tech"
+    },
+    {
+      "id": "805",
+      "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
+      "blog": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
+      "published": "2026-06-11"
+    },
+    {
+      "id": "794",
+      "title": "One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
+      "published": "2026-06-11",
+      "categories": "Agentic AI / Generative AI, Networking / Communications, Trustworthy AI / Cybersecurity, InfiniBand, Quantum Computing, Unified Fabric Manager"
+    },
+    {
+      "id": "793",
+      "title": "Updated Requirements to How Apps Access Data in Servers",
+      "blog": "Discord Engineering",
+      "url": "https://discord.com/blog/updated-requirements-to-how-apps-access-data-in-servers",
+      "published": "2026-06-10"
+    },
+    {
+      "title": "AI Agent Memory Design Guide - Working, Long-Term, and Procedural Memory with Forgetting and Staleness Management | hidekazu-konishi.com",
+      "url": "https://hidekazu-konishi.com/entry/ai_agent_memory_design_guide.html",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory",
+      "url": "https://arxiv.org/html/2606.10677v1",
+      "published": "",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Redis as agent memory | Docs",
+      "url": "https://redis.io/docs/latest/develop/use-cases/agent-memory/",
+      "published": "2026-06-10",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "GPT-5.5 Tops Agents’ Last Exam AI Benchmark — The AI Chronicle",
+      "url": "https://theaicronicle.com/en/news/research/gpt-5-5-beats-claude-fable-5-ale-benchmark",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights | VentureBeat",
+      "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Build Long-Horizon AI Agents on Claude Fable 5 | Lushbinary",
+      "url": "https://lushbinary.com/blog/build-long-horizon-ai-agents-claude-fable-5-guide/",
+      "published": "2026-06-09",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: What the 2026-07-28 Spec Release Candidate Means for Your Servers | jsmanifest",
+      "url": "https://jsmanifest.com/mcp-stateless-spec-2026-07-28",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Azure API Management Turns MCP Servers Into Governed Products: What Platform Teams Need to Know | LavX News | LavX News",
+      "url": "https://news.lavx.hu/article/azure-api-management-turns-mcp-servers-into-governed-products-what-platform-teams-need-to-know",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "v1.0.3 - Auth & JWT Cleanup, Admin UI Fixes, FedRAMP/FIPS Hardening, and Bug Fixes",
+      "url": "https://github.com/IBM/mcp-context-forge/releases/tag/v1.0.3",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Intelligent inference scheduling with llm-d on Red Hat AI | Red Hat Developer",
+      "url": "https://developers.redhat.com/articles/2026/06/11/intelligent-inference-scheduling-llm-d-red-hat-ai",
+      "published": "2026-06-11",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "How to Optimise the KV Cache: A Guide to Faster, Cheaper LLM Inference",
+      "url": "https://www.hyperstack.cloud/technical-resources/tutorials/how-to-optimise-the-kv-cache-a-guide-to-faster-cheaper-llm-inference",
+      "published": "2026-06-10",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Deploy LMCache on GPU Cloud: Share KV Cache Across vLLM Nodes for 15x Higher Throughput (2026 Guide) | Spheron Blog",
+      "url": "https://www.spheron.network/blog/deploy-lmcache-vllm-kv-cache-sharing-gpu-cloud/",
+      "published": "2026-06-11",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
+      "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
+      "published": "2026-06-11",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "OVH Groupe enters into exclusive negotiations to acquire Gladia, expert in voice AI | MarketScreener",
+      "url": "https://www.marketscreener.com/news/ovh-groupe-enters-into-exclusive-negotiations-to-acquire-gladia-expert-in-voice-ai-ce7f5cd8da80f023",
+      "published": "2026-06-11",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Ona is joining OpenAI · Ona",
+      "url": "https://ona.com/stories/ona-joins-openai",
+      "published": "2026-06-11",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
