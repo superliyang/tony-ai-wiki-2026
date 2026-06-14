@@ -1,0 +1,224 @@
+{
+  "timestamp": "20260612-150025",
+  "rss_count": 14,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "831",
+      "title": "2026.24: Hey Siri, Tell Me a Fable",
+      "blog": "Stratechery",
+      "url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
+      "published": "2026-06-12",
+      "categories": "This Week in Stratechery"
+    },
+    {
+      "id": "832",
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "blog": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "published": "2026-06-12",
+      "categories": "Research Blog"
+    },
+    {
+      "id": "833",
+      "title": "Siri is good now??",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "published": "2026-06-12",
+      "categories": "AI, Apple, Apple Event, Podcasts, Tech, Vergecast"
+    },
+    {
+      "id": "834",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "published": "2026-06-12",
+      "categories": "AI, Business, News, Science, Space, SpaceX, xAI"
+    },
+    {
+      "id": "835",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "published": "2026-06-12",
+      "categories": "AI, Security, Android, cybercrime, cybersecurity, Google, In Brief, scams"
+    },
+    {
+      "id": "836",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "published": "2026-06-12",
+      "categories": "AI, Space, Transportation, Elon Musk, IPO, SpaceX, spacex ipo"
+    },
+    {
+      "id": "837",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "published": "2026-06-12",
+      "categories": "AI, Fundraising, In Brief, Mistral AI"
+    },
+    {
+      "id": "838",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "published": "2026-06-12",
+      "categories": "AI, Fundraising, ai infrastructure, Anthropic, Apple WWDC, ChatGPT, FAANG, Google, IPO, MANGOS, OpenAI, Sam Bankman-Fried, SBF, SpaceX, Waymo"
+    },
+    {
+      "id": "839",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "published": "2026-06-12",
+      "categories": "Business, Business / Artificial Intelligence, Social Meltdown"
+    },
+    {
+      "id": "840",
+      "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
+      "published": "2026-06-12",
+      "categories": "Culture, Culture / Digital Culture, Low Blows"
+    },
+    {
+      "id": "841",
+      "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
+      "published": "2026-06-12",
+      "categories": "Business, Made in China"
+    },
+    {
+      "id": "842",
+      "title": "Elon Musk Is the World’s First Trillionaire",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
+      "published": "2026-06-12",
+      "categories": "Business, Business / Tech Culture, Four-Comma Club"
+    },
+    {
+      "id": "843",
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "published": "2026-06-12",
+      "categories": "Politics, Politics / Disinformation, Astroturf Talk"
+    },
+    {
+      "id": "830",
+      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
+      "published": "2026-06-12",
+      "categories": "Agentic AI / Generative AI, Data Center / Cloud, Top Stories, AI Agent, AI Inference, Code / Software Generation, Inference Performance"
+    },
+    {
+      "title": "AI Agent Memory Design Guide - Working, Long-Term, and Procedural Memory with Forgetting and Staleness Management | hidekazu-konishi.com",
+      "url": "https://hidekazu-konishi.com/entry/ai_agent_memory_design_guide.html",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Designing Memory and State for Long-Running Enterprise AI Agents - DEV Community",
+      "url": "https://dev.to/alaikrm/designing-memory-and-state-for-long-running-enterprise-ai-agents-4m74",
+      "published": "2026-06-12",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Store: Stop Long-Running Agents From Forgetting the Job - DEV Community",
+      "url": "https://dev.to/jackm-singularity/ai-agent-memory-store-stop-long-running-agents-from-forgetting-the-job-3nl5",
+      "published": "2026-06-12",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "GPT-5.5 Tops Agents’ Last Exam AI Benchmark — The AI Chronicle",
+      "url": "https://theaicronicle.com/en/news/research/gpt-5-5-beats-claude-fable-5-ale-benchmark",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Google researchers introduce 'faithful uncertainty', allowing LLMs to offer best guesses instead of hallucinations | VentureBeat",
+      "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
+      "published": "2026-06-12",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Hierarchical meta-reinforcement learning | Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-57247-1",
+      "published": "2026-06-11",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Goes Stateless: What the 2026 Release Candidate Changes",
+      "url": "https://mcpplaygroundonline.com/blog/mcp-stateless-2026-release-candidate",
+      "published": "2026-06-12",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP Dev Summit 2026 Readout: The Protocol Grows Up",
+      "url": "https://www.digitalapplied.com/blog/mcp-dev-summit-2026-readout-protocol-roadmap-analysis",
+      "published": "2026-06-11",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP security: what breaks when you go to production | FlowVerify",
+      "url": "https://www.flowverify.co/blog/mcp-production-security",
+      "published": "2026-06-10",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+      "published": "2026-06-12",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Intelligent inference scheduling with llm-d on Red Hat AI | Red Hat Developer",
+      "url": "https://developers.redhat.com/articles/2026/06/11/intelligent-inference-scheduling-llm-d-red-hat-ai",
+      "published": "2026-06-11",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Optimization and Tuning - vLLM",
+      "url": "https://docs.vllm.ai/en/latest/configuration/optimization/",
+      "published": "2026-06-10",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "published": "2026-06-12",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
+      "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
+      "published": "2026-06-11",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI acquires AI agent orchestration startup Ona - SiliconANGLE",
+      "url": "https://siliconangle.com/2026/06/11/openai-acquires-ai-agent-orchestration-startup-ona/",
+      "published": "2026-06-12",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
