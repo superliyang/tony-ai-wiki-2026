@@ -6,9 +6,11 @@ defaults:
   max_new_tasks_per_run: 1
   canonical_write_allowed: false
   duplicate_check_paths:
+    - 00-Inbox-AI/task-intents/pending
     - 00-Inbox-AI/learning-tasks/pending
     - 00-Inbox-AI/learning-tasks/in-progress
     - 00-Inbox-AI/learning-tasks/accepted
+    - 00-Inbox-AI/codex-requests/pending
   startup_read:
     - AGENTS.md
     - 90-Agent-System/仓库地图.md
@@ -108,6 +110,23 @@ jobs:
       - 00-Inbox-AI/learning-tasks/pending
     track: deepdive
 
+  - id: hermes-task-intent-router
+    status: active
+    trigger: message-triggered
+    purpose: "Classify Tony's natural-language request before creating research, project, writing, learning, reflection, organize, or publish work."
+    prompt_ref: 90-Agent-System/prompts/hermes-task-intent-router.md
+    reads:
+      - 00-Home/Tony-Command-Center.md
+      - 00-Inbox-AI/task-intents/README.md
+      - 90-Agent-System/workflows/task-intent-routing.md
+      - 00-Inbox-AI/codex-requests/README.md
+    writes:
+      - 00-Inbox-AI/task-intents/pending
+      - 00-Inbox-AI/codex-requests/pending
+    output_cap:
+      task_intents: 1
+      codex_requests: 1
+
   - id: hermes-learning-task-generator
     status: active
     schedule: "0 19 * * *"
@@ -123,6 +142,23 @@ jobs:
     output_cap:
       learning_tasks: 3
 
+  - id: hermes-codex-request-generator
+    status: paused
+    schedule: "15 19 * * *"
+    purpose: "Convert accepted or high-signal queued work into one concrete Codex request."
+    prompt_ref: 90-Agent-System/prompts/hermes-codex-request-generator.md
+    reads:
+      - 00-Inbox-AI/signals
+      - 00-Inbox-AI/candidates
+      - 00-Inbox-AI/hermes
+      - 00-Inbox-AI/review-queue/accepted
+      - 00-Inbox-AI/project-companion
+      - 00-Inbox-AI/feishu-publishing/pending
+    writes:
+      - 00-Inbox-AI/codex-requests/pending
+    output_cap:
+      codex_requests: 1
+
   - id: hermes-follow-up-review
     status: active
     schedule: "30 19 * * *"
@@ -137,6 +173,23 @@ jobs:
     output_cap:
       reminders: 5
 
+  - id: hermes-project-companion-scout
+    status: paused
+    schedule: "30 18 * * 0"
+    purpose: "Detect project-continuity signals and write project companion candidates."
+    prompt_ref: 90-Agent-System/prompts/hermes-project-companion-scout.md
+    reads:
+      - 40-Projects
+      - 00-Inbox-AI/reports
+      - 00-Inbox-AI/review-queue/pending
+      - 00-Inbox-AI/learning-tasks
+      - 60-Agents/Personal-Agent-Capabilities.md
+      - 90-Agent-System/workflows/project-companion.md
+    writes:
+      - 00-Inbox-AI/project-companion
+    output_cap:
+      project_signals: 3
+
   - id: hermes-weekly-synthesis
     status: active
     schedule: "0 17 * * 0"
@@ -145,6 +198,7 @@ jobs:
     reads:
       - 00-Inbox-AI/hermes
       - 00-Inbox-AI/learning-tasks
+      - 00-Inbox-AI/codex-requests
       - 00-Inbox-AI/review-queue
     writes:
       - 00-Inbox-AI/reports

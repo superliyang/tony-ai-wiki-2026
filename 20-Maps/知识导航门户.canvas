@@ -1,0 +1,262 @@
+{
+  "nodes": [
+    {
+      "id": "a100000000000001",
+      "type": "group",
+      "x": -620,
+      "y": -320,
+      "width": 520,
+      "height": 520,
+      "label": "Daily Entrance",
+      "color": "5"
+    },
+    {
+      "id": "a100000000000002",
+      "type": "group",
+      "x": 0,
+      "y": -340,
+      "width": 620,
+      "height": 560,
+      "label": "Knowledge Portal",
+      "color": "4"
+    },
+    {
+      "id": "a100000000000003",
+      "type": "group",
+      "x": 760,
+      "y": -520,
+      "width": 680,
+      "height": 900,
+      "label": "Domain Entrances",
+      "color": "6"
+    },
+    {
+      "id": "a100000000000004",
+      "type": "group",
+      "x": 1580,
+      "y": -460,
+      "width": 700,
+      "height": 780,
+      "label": "Legacy High-Value Maps",
+      "color": "3"
+    },
+    {
+      "id": "a100000000000005",
+      "type": "file",
+      "x": -560,
+      "y": -220,
+      "width": 400,
+      "height": 260,
+      "file": "00-Home/今日入口.md"
+    },
+    {
+      "id": "a100000000000006",
+      "type": "file",
+      "x": 80,
+      "y": -220,
+      "width": 440,
+      "height": 260,
+      "file": "20-Maps/知识导航门户.md"
+    },
+    {
+      "id": "a100000000000007",
+      "type": "file",
+      "x": 80,
+      "y": 70,
+      "width": 440,
+      "height": 120,
+      "file": "20-Maps/旧库可读入口索引.md"
+    },
+    {
+      "id": "a100000000000008",
+      "type": "file",
+      "x": 820,
+      "y": -430,
+      "width": 520,
+      "height": 160,
+      "file": "10-Knowledge/AI/专题总览.md"
+    },
+    {
+      "id": "a100000000000009",
+      "type": "file",
+      "x": 820,
+      "y": -230,
+      "width": 520,
+      "height": 160,
+      "file": "10-Knowledge/AI-Engineering/专题总览.md"
+    },
+    {
+      "id": "a10000000000000a",
+      "type": "file",
+      "x": 820,
+      "y": -30,
+      "width": 520,
+      "height": 140,
+      "file": "10-Knowledge/AI-Open-Source/专题总览.md"
+    },
+    {
+      "id": "a10000000000000b",
+      "type": "file",
+      "x": 820,
+      "y": 150,
+      "width": 250,
+      "height": 140,
+      "file": "10-Knowledge/Advertising/专题总览.md"
+    },
+    {
+      "id": "a10000000000000c",
+      "type": "file",
+      "x": 1090,
+      "y": 150,
+      "width": 250,
+      "height": 140,
+      "file": "10-Knowledge/International-Payments/专题总览.md"
+    },
+    {
+      "id": "a10000000000000d",
+      "type": "file",
+      "x": 820,
+      "y": 320,
+      "width": 250,
+      "height": 140,
+      "file": "10-Knowledge/Security/专题总览.md"
+    },
+    {
+      "id": "a10000000000000e",
+      "type": "file",
+      "x": 1090,
+      "y": 320,
+      "width": 250,
+      "height": 140,
+      "file": "10-Knowledge/Personal-Knowledge-System/专题总览.md"
+    },
+    {
+      "id": "a10000000000000f",
+      "type": "file",
+      "x": 1640,
+      "y": -360,
+      "width": 540,
+      "height": 150,
+      "file": "10-Knowledge/_Imported/tony2026/01-Areas/AI 总控制塔.md"
+    },
+    {
+      "id": "a100000000000010",
+      "type": "file",
+      "x": 1640,
+      "y": -170,
+      "width": 540,
+      "height": 150,
+      "file": "10-Knowledge/_Imported/tony2026/01-Areas/AI 问题导航.md"
+    },
+    {
+      "id": "a100000000000011",
+      "type": "file",
+      "x": 1640,
+      "y": 20,
+      "width": 540,
+      "height": 150,
+      "file": "10-Knowledge/_Imported/tony2026/01-Areas/AI 决策导航.md"
+    },
+    {
+      "id": "a100000000000012",
+      "type": "file",
+      "x": 1640,
+      "y": 210,
+      "width": 540,
+      "height": 120,
+      "file": "20-Maps/已有知识图谱专家问题地图.md"
+    },
+    {
+      "id": "a100000000000013",
+      "type": "text",
+      "x": -560,
+      "y": 80,
+      "width": 400,
+      "height": 80,
+      "text": "不要从全局 graph 或 imported 文件树开始。先用人工设计的入口收敛问题。"
+    }
+  ],
+  "edges": [
+    {
+      "id": "b100000000000001",
+      "fromNode": "a100000000000005",
+      "fromSide": "right",
+      "toNode": "a100000000000006",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "进入知识"
+    },
+    {
+      "id": "b100000000000002",
+      "fromNode": "a100000000000006",
+      "fromSide": "bottom",
+      "toNode": "a100000000000007",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "旧库入口"
+    },
+    {
+      "id": "b100000000000003",
+      "fromNode": "a100000000000006",
+      "fromSide": "right",
+      "toNode": "a100000000000008",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "领域"
+    },
+    {
+      "id": "b100000000000004",
+      "fromNode": "a100000000000006",
+      "fromSide": "right",
+      "toNode": "a100000000000009",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "工程"
+    },
+    {
+      "id": "b100000000000005",
+      "fromNode": "a100000000000006",
+      "fromSide": "right",
+      "toNode": "a10000000000000b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "业务"
+    },
+    {
+      "id": "b100000000000006",
+      "fromNode": "a100000000000007",
+      "fromSide": "right",
+      "toNode": "a10000000000000f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "旧库强入口"
+    },
+    {
+      "id": "b100000000000007",
+      "fromNode": "a100000000000007",
+      "fromSide": "right",
+      "toNode": "a100000000000010",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "按问题"
+    },
+    {
+      "id": "b100000000000008",
+      "fromNode": "a100000000000007",
+      "fromSide": "right",
+      "toNode": "a100000000000011",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "按决策"
+    },
+    {
+      "id": "b100000000000009",
+      "fromNode": "a100000000000006",
+      "fromSide": "right",
+      "toNode": "a100000000000012",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "专家问题"
+    }
+  ]
+}

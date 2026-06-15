@@ -1,7 +1,7 @@
 ---
 title: "Memory Changelog"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-14
 status: active
 tags:
   - agent-memory
@@ -9,6 +9,12 @@ tags:
 ---
 
 # Memory Changelog
+
+## 2026-06-14 (access-layer split)
+
+- Recorded Tony's access-layer split: Obsidian is the personal knowledge production center; GitHub private repo is the long-term versioned fact source; `output-feishu/` is the publishable intermediate layer; Feishu knowledge base / docs provide anywhere access, mobile reading, sharing, and collaboration; Feishu CLI is the automated sync executor.
+- Added [[00-Home/今日入口]] as the preferred Obsidian opening page to reduce navigation friction.
+- Updated Feishu publishing language from `output-public/feishu` to `output-feishu/`.
 
 ## 2026-06-03 (Hermes write boundary)
 

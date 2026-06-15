@@ -1,7 +1,7 @@
 ---
 title: "Agent Memory Preferences"
 created: 2026-06-01
-updated: 2026-06-03
+updated: 2026-06-14
 status: active
 tags:
   - ai-first
@@ -24,6 +24,8 @@ tags:
 - Prefer shared Markdown memory for durable user preferences because Hermes, Codex, and other agents do not automatically share private conversation memory.
 - Prefer the `Tony AI Cognitive System: Capture -> Recall -> Judge -> Crystallize -> Reuse` role boundary.
 - Prefer OpenHuman and Hermes for broad capture, Hermes for recall/scout, Tony for direction judgment, Codex for final crystallization, Obsidian for reviewed reuse, GitHub for durable history, and ECC for repeatable capability.
+- Prefer the access-layer split: Obsidian = personal knowledge production center; GitHub private repo = long-term versioned fact source; `output-feishu/` = publishable intermediate layer; Feishu knowledge base / docs = anywhere access, mobile reading, sharing, and collaboration; Feishu CLI = automated sync executor.
+- Prefer a task-intent layer before research: Tony's requests should be routed as `research`, `project`, `organize`, `writing`, `learning`, `reflection`, or `publish` instead of defaulting every request to research.
 
 ## Output Preferences
 
@@ -35,6 +37,8 @@ tags:
 - Record durable decisions into the vault when they affect the system design.
 - When Tony says "记住这个", "以后按这个来", "这是我的偏好", or "这很重要", update `00-Inbox-AI/agent-memory/`.
 - When a decision changes architecture, automation, or source-of-truth boundaries, update `00-Home/当前主线.md` and `00-Inbox-AI/agent-memory/memory-changelog.md`.
+- When publishing to Feishu, use `output-feishu/` as the cleaned intermediate layer and keep Obsidian + GitHub as source of truth.
+- After a meaningful AI output, lightweight feedback such as `有用`, `太长`, `太浅`, `跑偏`, `继续放大`, `入库`, `发飞书`, or `暂停` should influence future Hermes routing and Codex output shape.
 
 ## Operating Rules
 

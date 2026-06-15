@@ -1,0 +1,111 @@
+version: 1
+exported_at: "2026-06-14"
+source: "/Users/tony/.codex/automations"
+vault: "/Users/tony/Vault/tony-ai-wiki-2026"
+note: "Portable automation intent for migration. Heartbeat target_thread_id is intentionally omitted because it is local conversation state."
+
+automations:
+  - id: daily-codex-promotion-gate
+    kind: heartbeat
+    name: "Daily Codex Learning Task Gate"
+    status: ACTIVE
+    schedule: "FREQ=DAILY;BYHOUR=9;BYMINUTE=15;BYSECOND=0"
+    portable: false
+    migration_note: "Recreate as a new heartbeat or convert to cron in a future Codex workspace."
+    prompt: >-
+      Run Tony's Hermes -> Codex learning task gate for the vault at `/Users/tony/Vault/tony-ai-wiki-2026`.
+      Start by reading `AGENTS.md`, `90-Agent-System/仓库地图.md`, `90-Agent-System/当前状态.md`,
+      `00-Inbox-AI/learning-tasks/README.md`, and `90-Agent-System/workflows/hermes-codex-learning-chain.md`.
+      Check `00-Inbox-AI/learning-tasks/pending/` and process at most one highest-priority task.
+      If no task exists, report that the queue is empty and suggest the next Hermes task type to run.
+      If a task exists, create or update a Codex learning package in `00-Inbox-AI/learning-tasks/in-progress/`
+      and a Tony review item in `00-Inbox-AI/review-queue/pending/`.
+      Do not promote canonical knowledge, commit, or push unless Tony explicitly approves.
+      Reply in this thread with the task processed, output paths, and blockers.
+
+  - id: codex-request-quality-gate
+    kind: cron
+    name: "Codex Request Quality Gate"
+    status: ACTIVE
+    schedule: "FREQ=DAILY;BYHOUR=9;BYMINUTE=25;BYSECOND=0"
+    model: gpt-5
+    reasoning_effort: medium
+    execution_environment: local
+    cwds:
+      - "/Users/tony/Vault/tony-ai-wiki-2026"
+    portable: true
+    prompt: >-
+      Run Tony's Codex Request Quality Gate. Start by reading `AGENTS.md`, `90-Agent-System/仓库地图.md`,
+      `90-Agent-System/当前状态.md`, `00-Inbox-AI/codex-requests/README.md`, and
+      `90-Agent-System/workflows/codex-request-quality-gate.md`.
+      Inspect `00-Inbox-AI/codex-requests/pending/`, compare against `in-progress/`, `done/`,
+      `00-Inbox-AI/learning-tasks/`, and `00-Inbox-AI/review-queue/` for duplicates or weak requests.
+      Do not process, move, publish, or promote requests.
+      Write one concise quality report under `00-Inbox-AI/codex-requests/quality-reports/`
+      with pass / needs-info / duplicate / blocked buckets and the next recommended action.
+      If there are no pending requests, write a short report saying the queue is empty and what Hermes should produce next.
+
+  - id: codex-request-consumer
+    kind: heartbeat
+    name: "Codex Request Consumer"
+    status: ACTIVE
+    schedule: "FREQ=DAILY;BYHOUR=9;BYMINUTE=35;BYSECOND=0"
+    portable: false
+    migration_note: "Recreate as a new heartbeat if thread-continuation is desired; otherwise convert to cron."
+    prompt: >-
+      Run Tony's Hermes -> Codex request consumer for the vault at `/Users/tony/Vault/tony-ai-wiki-2026`.
+      Start by reading `AGENTS.md`, `90-Agent-System/仓库地图.md`, `90-Agent-System/当前状态.md`,
+      `00-Inbox-AI/codex-requests/README.md`, and `90-Agent-System/workflows/hermes-codex-feishu-pipeline.md`.
+      Check `00-Inbox-AI/codex-requests/pending/` and process at most one highest-priority request.
+      Move the request to `in-progress/`, perform the requested bounded work, then move it to `done/`
+      with output links or `failed/` with blocker reasons.
+      Do not promote raw or unreviewed material into canonical knowledge unless the request explicitly says it is accepted
+      or Tony explicitly delegated it.
+      If `publish_to_feishu: true`, create a cleaned file under `output-feishu/` first,
+      then use Feishu CLI only after the content is clean and safe.
+      Reply in this thread with the request processed, output paths, Feishu URL if any, and blockers.
+
+  - id: review-queue-triage
+    kind: cron
+    name: "Review Queue Triage"
+    status: ACTIVE
+    schedule: "FREQ=DAILY;BYHOUR=9;BYMINUTE=50;BYSECOND=0"
+    model: gpt-5
+    reasoning_effort: medium
+    execution_environment: local
+    cwds:
+      - "/Users/tony/Vault/tony-ai-wiki-2026"
+    portable: true
+    prompt: >-
+      Run Tony's Review Queue Triage for the AI wiki vault. Read AGENTS.md,
+      90-Agent-System/仓库地图.md, 90-Agent-System/当前状态.md, and
+      90-Agent-System/workflows/review-queue-triage.md first.
+      Inspect 00-Inbox-AI/review-queue/pending/, accepted/, 00-Inbox-AI/learning-tasks/,
+      and 00-Inbox-AI/codex-requests/ only enough to understand current decision pressure.
+      Write one concise triage report under 00-Inbox-AI/review-queue/triage/ using today's date in the filename.
+      The report should identify the top 3 human decisions, suggested accept/defer/discard rationale,
+      and any missing context.
+      Do not move, accept, discard, publish, promote, or delete files.
+
+  - id: knowledge-gardener-weekly
+    kind: cron
+    name: "Knowledge Gardener Weekly"
+    status: ACTIVE
+    schedule: "FREQ=WEEKLY;BYDAY=SU;BYHOUR=10;BYMINUTE=30;BYSECOND=0"
+    model: gpt-5
+    reasoning_effort: medium
+    execution_environment: local
+    cwds:
+      - "/Users/tony/Vault/tony-ai-wiki-2026"
+    portable: true
+    prompt: >-
+      Run Tony's Knowledge Gardener Weekly for the AI wiki vault.
+      Read AGENTS.md, 90-Agent-System/仓库地图.md, 90-Agent-System/当前状态.md,
+      90-Agent-System/workflows/knowledge-gardener-weekly.md, 00-Home/今日入口.md,
+      and 20-Maps/领域平铺图谱.md first.
+      Inspect 00-Inbox-AI/, 10-Knowledge/, 20-Maps/, and 40-Projects/
+      only enough to find drift, stale entry points, duplicate navigation, and candidate crystallization batches.
+      Write one concise weekly report under 00-Inbox-AI/gardener/weekly/ using today's date in the filename.
+      Recommend one small cleanup batch and one small promotion batch.
+      Do not move, delete, publish, or promote files unless a future human-approved request explicitly asks for it.
+

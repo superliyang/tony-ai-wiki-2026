@@ -1,0 +1,112 @@
+{
+  "timestamp": "20260614-210005",
+  "rss_count": 0,
+  "exa_count": 15,
+  "articles": [
+    {
+      "title": "Long context is not AI memory: a builder playbook for reliable AI apps - DEV Community",
+      "url": "https://dev.to/jenueldev/long-context-is-not-ai-memory-a-builder-playbook-for-reliable-ai-apps-1of0",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Microsoft Work IQ API — Day-1 Hands-On Walkthrough",
+      "url": "https://www.aguidetocloud.com/blog/microsoft-work-iq-api-day-1-ga/",
+      "published": "2026-06-16",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "A Virtual Filesystem in PostgreSQL | Limerence",
+      "url": "https://limerence.sh/blog/a-virtual-filesystem-in-postgresql",
+      "published": "2026-06-16",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "What is Gemini 3.5 Flash and how does it compare to other models? - AI Model Release Tracker | NBot | nbot.ai",
+      "url": "https://nbot.ai/curator/hchfb6f5/highlights/hl_gemini3_20260616",
+      "published": "2026-06-16",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "China unveils AI 'world model' that understands physical world - CGTN",
+      "url": "https://news.cgtn.com/news/2026-06-14/China-unveils-AI-world-model-that-understands-physical-world-1NYmex0KQlG/p.html",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "ACE ROBOTICS' Kairos World Model Leads Multiple Global Embodied-Intelligence Benchmarks | Media OutReach Newswire APAC",
+      "url": "https://www.media-outreach.com/news/china/2026/06/15/470577/ace-robotics-kairos-world-model-leads-multiple-global-embodied-intelligence-benchmarks/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The numbers behind the ecosystem explosion - DEV Community",
+      "url": "https://dev.to/grahamduescn/mcp-in-2026-the-numbers-behind-the-ecosystem-explosion-45ai",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "The Model Context Protocol (MCP): what it is and how to build a server - DEV Community",
+      "url": "https://dev.to/tech_nuggets/the-model-context-protocol-mcp-what-it-is-and-how-to-build-a-server-4fbi",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The Protocol Making Enterprise AI Agents Actually Work | NDN Analytics",
+      "url": "https://www.ndnanalytics.com/blog/mcp-protocol-enterprise-ai-agents",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "KV Cache in LLMs: The Optimization That Makes Modern AI Models Feel Fast - DEV Community",
+      "url": "https://dev.to/shrsv/kv-cache-in-llms-the-optimization-that-makes-modern-ai-models-feel-fast-47po",
+      "published": "2026-06-13",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "7. Deploying Models for Inference at Scale - Vision Language Models [Book]",
+      "url": "https://www.oreilly.com/library/view/vision-language-models/9798341624030/ch07.html",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Netflix Headroom: How to Cut AI Agent Costs 10x in Production [2026] - DEV Community",
+      "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/netflix-headroom-how-to-cut-ai-agent-costs-10x-in-production-2026-l88",
+      "published": "2026-06-13",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "2X Acquires Knownwell To Create AI-Powered GTM Services Platform Valued At More Than $400 Million",
+      "url": "https://pulse2.com/2x-acquires-knownwell-to-create-ai-powered-gtm-services-platform-valued-at-more-than-400-million/",
+      "published": "2026-06-14",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "What is the largest seed round mentioned in this highlight? - Early Stage VC Pulse | NBot | nbot.ai",
+      "url": "https://nbot.ai/curator/ipjne5xz/highlights/HL-seq-exg-20260615",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "OpenAI Acquires Ona to Run Codex Coding Agents for Hours Without Your Computer On",
+      "url": "https://www.techtimes.com/articles/318338/20260613/openai-acquires-ona-run-codex-coding-agents-hours-without-your-computer.htm",
+      "published": "2026-06-13",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

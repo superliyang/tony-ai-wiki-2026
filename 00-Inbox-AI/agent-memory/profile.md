@@ -1,7 +1,7 @@
 ---
 title: "Agent Memory Profile"
 created: 2026-06-01
-updated: 2026-06-03
+updated: 2026-06-14
 status: active
 tags:
   - ai-first
@@ -22,6 +22,7 @@ This file stores durable, reviewable facts the agents may use to personalize rec
 - The system should help Tony discover important new technologies and research directions, then let Tony decide whether to trigger deeper domain learning.
 - Tony's preferred learning model expands from point to line, surface, and body depending on the topic scope.
 - The canonical knowledge source is the Obsidian Markdown vault at `/Users/tony/Vault/tony-ai-wiki-2026`.
+- Tony's access-layer split is: Obsidian = personal knowledge production center; GitHub private repo = long-term versioned fact source; `output-feishu/` = publishable intermediate layer; Feishu knowledge base / docs = anywhere access, mobile reading, sharing, and collaboration; Feishu CLI = automated sync executor.
 - The old vault `/Users/tony/Vault/tony-wiki-2026` has been replaced by this new vault; legacy mature vault at `/Users/tony/Vault/tony2026` is a valuable source of prior learning systems, not a disposable archive.
 - The legacy vault remains read-only unless Tony explicitly asks otherwise.
 - Hermes should act as the proactive runner and messaging assistant.

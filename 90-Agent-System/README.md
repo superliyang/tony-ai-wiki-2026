@@ -28,6 +28,7 @@ How should agents become more reliable over time?
 | `workflows/` | repeatable operating procedures |
 | `reviews/` | evaluations of agent outputs, automations, and rules |
 | `decisions/` | durable architecture and boundary decisions |
+| `automations/` | human-readable records of active and planned automations |
 | `skills/` | reviewed skill designs and skill notes |
 | `scripts/` | script notes and automation design records |
 | `integrations/` | Hermes, Feishu, Weixin, GitHub, Obsidian integration notes |
@@ -45,6 +46,9 @@ Root-level skills/ and scripts/ contain executable capability assets.
 - [[90-Agent-System/workflows/legacy-vault-migration]]
 - [[90-Agent-System/workflows/knowledge-evolution]]
 - [[90-Agent-System/workflows/hermes-codex-learning-chain]]
+- [[90-Agent-System/workflows/project-companion]]
+- [[90-Agent-System/workflows/feishu-publishing]]
+- [[90-Agent-System/automations/Codex-Automation-Matrix]]
 
 ## Fixed Agent Entrances
 
@@ -57,6 +61,7 @@ Root-level skills/ and scripts/ contain executable capability assets.
 
 - [[90-Agent-System/integrations/Hermes]]
 - [[90-Agent-System/integrations/Hermes-Codex]]
+- [[90-Agent-System/integrations/Feishu]]
 
 ## Imported Legacy Capability Assets
 

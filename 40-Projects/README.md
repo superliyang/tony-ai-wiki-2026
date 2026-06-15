@@ -16,6 +16,11 @@ tags:
 
 - [[AI-First-Cognitive-System/README]]
 
+## Companion Workflow
+
+- [[90-Agent-System/workflows/project-companion]]
+- [[00-Inbox-AI/project-companion/README]]
+
 ## Project Shape
 
 ```text

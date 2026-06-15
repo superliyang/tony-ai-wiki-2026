@@ -1,7 +1,7 @@
 ---
 title: "Hermes Codex Learning Chain"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-14
 status: active
 tags:
   - agent-system
@@ -14,6 +14,8 @@ tags:
 # Hermes Codex Learning Chain
 
 This workflow connects Hermes discovery and reminders with Codex research, Tony review, Obsidian/GitHub crystallization, and Hermes follow-up review.
+
+For the broader end-to-end chain that also covers Codex requests and Feishu publishing, see [[90-Agent-System/workflows/hermes-codex-feishu-pipeline]].
 
 ## Goal
 
@@ -33,6 +35,7 @@ Hermes discovers or reminds
 |---|---|---|
 | Discovery signal | Hermes | `00-Inbox-AI/signals/` |
 | Learning task | Hermes | `00-Inbox-AI/learning-tasks/pending/` |
+| Codex request | Hermes | `00-Inbox-AI/codex-requests/pending/` |
 | Codex work package | Codex | `00-Inbox-AI/learning-tasks/in-progress/` |
 | Tony review | Tony / Codex | `00-Inbox-AI/review-queue/pending/` |
 | Accepted package | Codex | `00-Inbox-AI/learning-tasks/accepted/` |

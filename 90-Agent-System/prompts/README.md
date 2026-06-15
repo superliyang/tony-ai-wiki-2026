@@ -4,7 +4,10 @@
 
 - [[90-Agent-System/prompts/hermes-growth-track]]
 - [[90-Agent-System/prompts/hermes-learning-task-generator]]
+- [[90-Agent-System/prompts/hermes-task-intent-router]]
+- [[90-Agent-System/prompts/hermes-codex-request-generator]]
 - [[90-Agent-System/prompts/hermes-follow-up-review]]
+- [[90-Agent-System/prompts/hermes-project-companion-scout]]
 
 Reusable prompts live here before they become stable workflows, rules, or skills.
 

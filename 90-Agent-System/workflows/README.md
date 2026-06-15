@@ -4,6 +4,16 @@ Workflows are repeatable procedures that can later become skills, scripts, or sc
 
 Start small and keep evidence visible.
 
-Initial workflow:
+Active workflows:
 
 - [[memory-sync]]
+- [[legacy-vault-migration]]
+- [[knowledge-evolution]]
+- [[hermes-codex-learning-chain]]
+- [[hermes-codex-feishu-pipeline]]
+- [[task-intent-routing]]
+- [[codex-request-quality-gate]]
+- [[review-queue-triage]]
+- [[knowledge-gardener-weekly]]
+- [[project-companion]]
+- [[feishu-publishing]]

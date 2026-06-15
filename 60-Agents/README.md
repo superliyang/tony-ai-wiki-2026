@@ -15,6 +15,7 @@ tags:
 
 ## Agents
 
+- [[Personal-Agent-Capabilities]]
 - [[Codex]]
 - [[ChatGPT-Desktop]]
 - [[Hermes]]

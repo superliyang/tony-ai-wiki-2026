@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Assets"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-14
 status: active
 tags:
   - knowledge
@@ -27,6 +27,8 @@ Content here should be reviewed, structured, and useful for future reading or re
 
 ## Imported Legacy Source
 
+- [[20-Maps/知识导航门户]]
+- [[20-Maps/旧库可读入口索引]]
 - [[10-Knowledge/_Imported/tony2026/README]]
 - [[20-Maps/旧库迁移地图]]
 - [[90-Agent-System/workflows/knowledge-evolution]]

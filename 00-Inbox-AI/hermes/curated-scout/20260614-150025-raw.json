@@ -1,0 +1,128 @@
+{
+  "timestamp": "20260614-150025",
+  "rss_count": 2,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "873",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "published": "2026-06-14",
+      "categories": "AI, Fundraising, Space, Startups, Anthropic, Elon Musk, Equity podcast, SpaceX"
+    },
+    {
+      "id": "874",
+      "title": "China may have accessed Mythos",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "published": "2026-06-14",
+      "categories": "AI, Anthropic, News, Policy, Politics"
+    },
+    {
+      "title": "Your AI coding agent forgets everything between sessions. Here's how to fix that. - DEV Community",
+      "url": "https://dev.to/massiron/your-ai-coding-agent-forgets-everything-between-sessions-heres-how-to-fix-that-2cja",
+      "published": "2026-06-13",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Long context is not AI memory: a builder playbook for reliable AI apps - DEV Community",
+      "url": "https://dev.to/jenueldev/long-context-is-not-ai-memory-a-builder-playbook-for-reliable-ai-apps-1of0",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Microsoft Work IQ API — Day-1 Hands-On Walkthrough",
+      "url": "https://www.aguidetocloud.com/blog/microsoft-work-iq-api-day-1-ga/",
+      "published": "2026-06-16",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "China unveils AI 'world model' that understands physical world - CGTN",
+      "url": "https://news.cgtn.com/news/2026-06-14/China-unveils-AI-world-model-that-understands-physical-world-1NYmex0KQlG/p.html",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents | Databricks Blog",
+      "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+      "published": "2026-06-13",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "World's first general-purpose world foundation model unveiled in Beijing",
+      "url": "https://www.bastillepost.com/global/article/5931591-worlds-first-general-purpose-world-foundation-model-unveiled-in-beijing",
+      "published": "2026-06-13",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The numbers behind the ecosystem explosion - DEV Community",
+      "url": "https://dev.to/grahamduescn/mcp-in-2026-the-numbers-behind-the-ecosystem-explosion-45ai",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The Protocol Making Enterprise AI Agents Actually Work | NDN Analytics",
+      "url": "https://www.ndnanalytics.com/blog/mcp-protocol-enterprise-ai-agents",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "WebMCP Standard Proposal for Agentic Web Actuation Now Available in Chrome (Origin Trials) - InfoQ",
+      "url": "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/?topicPageSponsorship=2cb8b98f-c67b-4950-9b47-01a623dd5843",
+      "published": "2026-06-13",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "7. Deploying Models for Inference at Scale - Vision Language Models [Book]",
+      "url": "https://www.oreilly.com/library/view/vision-language-models/9798341624030/ch07.html",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "KV Cache in LLMs: The Optimization That Makes Modern AI Models Feel Fast - DEV Community",
+      "url": "https://dev.to/shrsv/kv-cache-in-llms-the-optimization-that-makes-modern-ai-models-feel-fast-47po",
+      "published": "2026-06-13",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Netflix Headroom: How to Cut AI Agent Costs 10x in Production [2026] - DEV Community",
+      "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/netflix-headroom-how-to-cut-ai-agent-costs-10x-in-production-2026-l88",
+      "published": "2026-06-13",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "published": "2026-06-14",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "2X Acquires Knownwell To Create AI-Powered GTM Services Platform Valued At More Than $400 Million",
+      "url": "https://pulse2.com/2x-acquires-knownwell-to-create-ai-powered-gtm-services-platform-valued-at-more-than-400-million/",
+      "published": "2026-06-14",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "What is the largest seed round mentioned in this highlight? - Early Stage VC Pulse | NBot | nbot.ai",
+      "url": "https://nbot.ai/curator/ipjne5xz/highlights/HL-seq-exg-20260615",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
