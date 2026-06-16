@@ -8,6 +8,7 @@
 - [[90-Agent-System/prompts/hermes-codex-request-generator]]
 - [[90-Agent-System/prompts/hermes-follow-up-review]]
 - [[90-Agent-System/prompts/hermes-project-companion-scout]]
+- [[90-Agent-System/prompts/hermes-feishu-discussion-moderator]]
 
 Reusable prompts live here before they become stable workflows, rules, or skills.
 

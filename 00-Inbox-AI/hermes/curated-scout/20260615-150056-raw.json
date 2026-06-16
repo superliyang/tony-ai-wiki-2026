@@ -1,0 +1,208 @@
+{
+  "timestamp": "20260615-150056",
+  "rss_count": 12,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "903",
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "published": "2026-06-15",
+      "categories": "Business, Business / Big Tech, Snack Time"
+    },
+    {
+      "id": "904",
+      "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/the-best-fans-2026/",
+      "published": "2026-06-15",
+      "categories": "Gear, Gear / Buying Guides, Gear / Products / Home, Gear / Products / Smart Home, Blown Away"
+    },
+    {
+      "id": "905",
+      "title": "TCL A65K Soundbar Review: Small Size, Big Sound",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/review/tcl-a65k-soundbar/",
+      "published": "2026-06-15",
+      "categories": "Gear, Gear / Reviews, Gear / Products / Audio, Gear / Products, Product Review"
+    },
+    {
+      "id": "897",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "published": "2026-06-15",
+      "categories": "AI, Apps, Social, Facebook, Generative AI, Meta, Search"
+    },
+    {
+      "id": "898",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published": "2026-06-15",
+      "categories": "AI, Space, Transportation, Elon Musk, IPO, SpaceX, spacex ipo"
+    },
+    {
+      "id": "899",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "published": "2026-06-15",
+      "categories": "AI, Facebook, Meta, News, Social Media, Tech"
+    },
+    {
+      "id": "900",
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "published": "2026-06-15",
+      "categories": "AI, Anthropic, News, Policy, Politics, Security, Tech"
+    },
+    {
+      "id": "901",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "published": "2026-06-15",
+      "categories": "AI, Analysis, Anthropic, Policy, Report"
+    },
+    {
+      "id": "902",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "published": "2026-06-15",
+      "categories": "AI, Policy, Politics, Social Media, Tech"
+    },
+    {
+      "id": "895",
+      "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
+      "published": "2026-06-15",
+      "categories": "Data Center / Cloud, Data Science, Simulation / Modeling / Design, Drug Discovery, Megatron, Pre-Trained / Foundation Models, Training AI Models"
+    },
+    {
+      "id": "896",
+      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
+      "published": "2026-06-15",
+      "categories": "Agentic AI / Generative AI, Developer Tools & Techniques, CUTLASS, deep learning, Machine Learning & Artificial Intelligence, Mixture of Experts (MoE), Python"
+    },
+    {
+      "id": "894",
+      "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/",
+      "published": "2026-06-15",
+      "categories": "Workers AI, AI"
+    },
+    {
+      "title": "AI Agent Memory Design: Short-Term vs Long-Term",
+      "url": "https://inceptions.xyz/ai-agent-memory-design-short-term-long-term-and-retrieval-memory",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore | Artificial Intelligence",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Give Your TypeScript AI Agents Long-Term Memory with TencentDB-Agent-Memory - DEV Community",
+      "url": "https://dev.to/jackchenme/give-your-typescript-ai-agents-long-term-memory-with-tencentdb-agent-memory-elm",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Imbue raises $200M to build AI systems that can reason and code - Imbue",
+      "url": "https://imbue.com/blog/introducing-imbue",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy\nOptimization: Analysis, Review & Summary | Paperium",
+      "url": "https://paperium.net/article/en/19987/adasr-adaptive-streaming-reasoning-with-hierarchical-relative-policyoptimization",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "ReAct vs Plan-and-Execute: Picking an Agent Loop in 2026 - DEV Community",
+      "url": "https://dev.to/gabrielanhaia/react-vs-plan-and-execute-picking-an-agent-loop-in-2026-gnk",
+      "published": "2026-06-13",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "The Model Context Protocol (MCP): what it is and how to build a server - DEV Community",
+      "url": "https://dev.to/tech_nuggets/the-model-context-protocol-mcp-what-it-is-and-how-to-build-a-server-4fbi",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP solved tool calling. A2A solved coordination. What solves transport? | VentureBeat",
+      "url": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The Protocol Making Enterprise AI Agents Actually Work | NDN Analytics",
+      "url": "https://www.ndnanalytics.com/blog/mcp-protocol-enterprise-ai-agents",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "LLM Inference Guide: Temperature, KV Cache & Speed | by @pramodchandrayan | Predict | Jun, 2026 | Medium",
+      "url": "https://medium.com/predict/llm-inference-guide-temperature-kv-cache-speed-edfa464c52dd",
+      "published": "2026-06-14",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "ATOM: Unlocking Extreme AMD Instinct Inference with Software-Hardware Co-Optimization — ROCm Blogs",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/atom-inference-engine/README.html",
+      "published": "2026-06-15",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "ATOMesh: Unlocking AMD Hardware for Scalable LLM Serving",
+      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/atomesh-unlocking-amd-hardware-for-scalable-llm-serving.html",
+      "published": "2026-06-15",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Qualcomm in talks to acquire AI chip startup Tenstorrent for up to $10 billion, report - Tech Startups",
+      "url": "https://techstartups.com/2026/06/15/qualcomm-in-talks-to-acquire-ai-chip-startup-tenstorrent-for-up-to-10-billion-report/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Fin - Salesforce",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "SailPoint to Acquire Entro for AI Agent Security",
+      "url": "https://www.sailpoint.com/press-releases/sailpoint-announces-intent-to-acquire-entro-security",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

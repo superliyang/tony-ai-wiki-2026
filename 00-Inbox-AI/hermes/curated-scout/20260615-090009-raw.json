@@ -1,0 +1,112 @@
+{
+  "timestamp": "20260615-090009",
+  "rss_count": 0,
+  "exa_count": 15,
+  "articles": [
+    {
+      "title": "Agent Memory: How AI Systems Move Beyond Stateless Intelligence | by ML Point | Jun, 2026 | Medium",
+      "url": "https://medium.com/@ml-point/agent-memory-how-ai-systems-move-beyond-stateless-intelligence-03d459791a05",
+      "published": "2026-06-13",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory: 8 Tools That Fix Forgetting | TECHSY",
+      "url": "https://techsy.io/en/blog/best-ai-agent-memory-tools",
+      "published": "2026-03-18",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "published": "2026-01-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "What is Gemini 3.5 Flash and how does it compare to other models? - AI Model Release Tracker | NBot | nbot.ai",
+      "url": "https://nbot.ai/curator/hchfb6f5/highlights/hl_gemini3_20260616",
+      "published": "2026-06-16",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Sonnet 4.6 vs GPT-5.5: A Production Decision Guide | PADISO Blog",
+      "url": "https://www.padiso.co/blog/sonnet-4-6-vs-gpt-5-5-production-decision-guide/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Introducing the MDN MCP server",
+      "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "The Model Context Protocol (MCP): what it is and how to build a server - DEV Community",
+      "url": "https://dev.to/tech_nuggets/the-model-context-protocol-mcp-what-it-is-and-how-to-build-a-server-4fbi",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The Protocol Making Enterprise AI Agents Actually Work | NDN Analytics",
+      "url": "https://www.ndnanalytics.com/blog/mcp-protocol-enterprise-ai-agents",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "published": "2023-08-16",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "LLM Inference Optimization",
+      "url": "https://outcomeschool.com/blog/llm-inference-optimization",
+      "published": "2026-06-14",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "LLM Inference Guide: Temperature, KV Cache & Speed | by @pramodchandrayan | Predict | Jun, 2026 | Medium",
+      "url": "https://medium.com/predict/llm-inference-guide-temperature-kv-cache-speed-edfa464c52dd",
+      "published": "2026-06-14",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Salesforce will buy AI customer service platform Fin for $3.6 billion",
+      "url": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Fin - Salesforce",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

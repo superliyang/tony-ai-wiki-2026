@@ -1,0 +1,152 @@
+{
+  "timestamp": "20260615-210040",
+  "rss_count": 5,
+  "exa_count": 15,
+  "articles": [
+    {
+      "id": "906",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "published": "2026-06-15",
+      "categories": "AI, Google, ICE, Israel, Sundar Pichai"
+    },
+    {
+      "id": "907",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "published": "2026-06-15",
+      "categories": "AI, Government & Policy, Security, Anthropic, cybersecurity, fable, Mythos, Trump Administration, us government"
+    },
+    {
+      "id": "908",
+      "title": "Inside the fight over Claude Mythos 5",
+      "blog": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "published": "2026-06-16",
+      "categories": "AI, Anthropic, Policy, Report"
+    },
+    {
+      "id": "909",
+      "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+      "published": "2026-06-16",
+      "categories": "Science, Science / Environment, Politics, Tech Support"
+    },
+    {
+      "id": "910",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "published": "2026-06-16",
+      "categories": "Business, Business / Artificial Intelligence, Impasse"
+    },
+    {
+      "title": "Give Your TypeScript AI Agents Long-Term Memory with TencentDB-Agent-Memory - DEV Community",
+      "url": "https://dev.to/jackchenme/give-your-typescript-ai-agents-long-term-memory-with-tencentdb-agent-memory-elm",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "AI Agent Memory Design: Short-Term vs Long-Term",
+      "url": "https://inceptions.xyz/ai-agent-memory-design-short-term-long-term-and-retrieval-memory",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Memory in Agentic AI Systems Explained",
+      "url": "https://aimlinsights.com/memory-in-agentic-ai-systems/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "Tree of Thoughts as a Classical Heuristic Search Problem: Formal Foundations and Design Patterns - UBOS",
+      "url": "https://ubos.tech/tree-of-thoughts-as-a-classical-heuristic-search-problem-formal-foundations-and-design-patterns/",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours | VentureBeat",
+      "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Interleaved Thinking Unlocks Reliable MiniMax-M2 Agentic Capability - MiniMax News | MiniMax",
+      "url": "https://www.minimax.io/news/why-is-interleaved-thinking-important-for-m2",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP v2 Alpha: The July 28 Protocol Shift to Plan For | Context Studios Blog",
+      "url": "https://www.contextstudios.ai/blog/mcp-v2-alpha-the-july-28-protocol-shift-to-plan-for",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Model Context Protocol (MCP) Changelog & Updates [2026] (anthropic mcp changelog) | aitoolsatlas.ai",
+      "url": "https://aitoolsatlas.ai/tools/anthropic-mcp/changelog",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "Microsoft Copilot Studio: MCP-Compliant Tools in Agent Workflows (MC1391947)",
+      "url": "https://mwpro.co.uk/blog/2026/06/15/microsoft-copilot-studio-use-mcp-compliant-tools-in-agent-workflows-mc1391947/",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "A Guide to AI Inference Engineering - ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering",
+      "published": "2026-06-15",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "ATOM: Unlocking Extreme AMD Instinct Inference with Software-Hardware Co-Optimization — ROCm Blogs",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/atom-inference-engine/README.html",
+      "published": "2026-06-15",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "ATOMesh: Unlocking AMD Hardware for Scalable LLM Serving",
+      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/atomesh-unlocking-amd-hardware-for-scalable-llm-serving.html",
+      "published": "2026-06-15",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Qualcomm in talks to acquire AI chip startup Tenstorrent for up to $10 billion, report - Tech Startups",
+      "url": "https://techstartups.com/2026/06/15/qualcomm-in-talks-to-acquire-ai-chip-startup-tenstorrent-for-up-to-10-billion-report/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}

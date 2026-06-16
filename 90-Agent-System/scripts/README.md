@@ -11,3 +11,7 @@ Document:
 - required environment variables;
 - privacy and safety boundaries;
 - verification steps.
+
+Current runbooks:
+
+- [[90-Agent-System/scripts/hermes-single-bot-discussion]]

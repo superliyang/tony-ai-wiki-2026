@@ -1,0 +1,217 @@
+{
+  "timestamp": "20260615-061431",
+  "rss_count": 14,
+  "exa_count": 14,
+  "articles": [
+    {
+      "id": "878",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "published": "2026-06-15",
+      "categories": "Startups, Security, AI, AI agents, cyberstarts, NewCore"
+    },
+    {
+      "id": "879",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "published": "2026-06-15",
+      "categories": "Space, AI, Exclusive"
+    },
+    {
+      "id": "880",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "blog": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "published": "2026-06-15",
+      "categories": "AI, TC, layoff"
+    },
+    {
+      "id": "881",
+      "title": "Anthropic’s Safety Superpower",
+      "blog": "Stratechery",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "published": "2026-06-15",
+      "categories": "Articles"
+    },
+    {
+      "id": "882",
+      "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
+      "published": "2026-06-15",
+      "categories": "Culture, Culture / Digital Culture, High Stakes"
+    },
+    {
+      "id": "883",
+      "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
+      "published": "2026-06-15",
+      "categories": "Gear, Gear / Gear News and Events, Gear / Products / Phones, Critical Update"
+    },
+    {
+      "id": "884",
+      "title": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
+      "published": "2026-06-15",
+      "categories": "Science, Science / Environment, 2026 World Cup"
+    },
+    {
+      "id": "885",
+      "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+      "published": "2026-06-15",
+      "categories": "Culture, Culture / Digital Culture, Xxxtortion"
+    },
+    {
+      "id": "886",
+      "title": "The US Government Is Letting a Key Data Center Regulation Expire",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+      "published": "2026-06-15",
+      "categories": "Politics, Black Boxes"
+    },
+    {
+      "id": "887",
+      "title": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/uk-social-media-under-16-ban/",
+      "published": "2026-06-15",
+      "categories": "Business, Business / Regulation, Age Gate"
+    },
+    {
+      "id": "888",
+      "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+      "blog": "Wired AI",
+      "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+      "published": "2026-06-15",
+      "categories": "Security, Security / Privacy, Security / National Security, Security / Security News, Business / Big Tech, Business / Social Media, Business / Artificial Intelligence, Spec Ops"
+    },
+    {
+      "id": "877",
+      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
+      "blog": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "published": "2026-06-15",
+      "categories": "Agentic AI / Generative AI, Robotics, featured"
+    },
+    {
+      "id": "875",
+      "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
+      "blog": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/scaling-security-scans/",
+      "published": "2026-06-12",
+      "categories": "Application Security, Security Posture Management, Engineering, Postgres, Kafka"
+    },
+    {
+      "id": "876",
+      "title": "Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns",
+      "blog": "Jack Clark",
+      "url": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+      "published": "2026-06-15",
+      "categories": "Uncategorized"
+    },
+    {
+      "title": "AI Agent Memory: 8 Tools That Fix Forgetting | TECHSY",
+      "url": "https://techsy.io/en/blog/best-ai-agent-memory-tools",
+      "published": "2026-03-18",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "published": "2026-01-05",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "The AI Agent Runtime, Explained for PMs",
+      "url": "https://www.linkedin.com/pulse/ai-agent-runtime-explained-pms-mahip-kakan-cxrrc",
+      "published": "2026-06-14",
+      "blog": "Exa/Agent 记忆",
+      "snippet": ""
+    },
+    {
+      "title": "What is Gemini 3.5 Flash and how does it compare to other models? - AI Model Release Tracker | NBot | nbot.ai",
+      "url": "https://nbot.ai/curator/hchfb6f5/highlights/hl_gemini3_20260616",
+      "published": "2026-06-16",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Sonnet 4.6 vs GPT-5.5: A Production Decision Guide | PADISO Blog",
+      "url": "https://www.padiso.co/blog/sonnet-4-6-vs-gpt-5-5-production-decision-guide/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+      "published": "2026-06-15",
+      "blog": "Exa/Agent 规划",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The numbers behind the ecosystem explosion - DEV Community",
+      "url": "https://dev.to/grahamduescn/mcp-in-2026-the-numbers-behind-the-ecosystem-explosion-45ai",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "The Model Context Protocol (MCP): what it is and how to build a server - DEV Community",
+      "url": "https://dev.to/tech_nuggets/the-model-context-protocol-mcp-what-it-is-and-how-to-build-a-server-4fbi",
+      "published": "2026-06-15",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "MCP in 2026: The Protocol Making Enterprise AI Agents Actually Work | NDN Analytics",
+      "url": "https://www.ndnanalytics.com/blog/mcp-protocol-enterprise-ai-agents",
+      "published": "2026-06-14",
+      "blog": "Exa/MCP 协议",
+      "snippet": ""
+    },
+    {
+      "title": "KV Cache in LLMs: The Optimization That Makes Modern AI Models Feel Fast - DEV Community",
+      "url": "https://dev.to/shrsv/kv-cache-in-llms-the-optimization-that-makes-modern-ai-models-feel-fast-47po",
+      "published": "2026-06-13",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "Netflix Headroom: How to Cut AI Agent Costs 10x in Production [2026] - DEV Community",
+      "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/netflix-headroom-how-to-cut-ai-agent-costs-10x-in-production-2026-l88",
+      "published": "2026-06-13",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "7. Deploying Models for Inference at Scale - Vision Language Models [Book]",
+      "url": "https://www.oreilly.com/library/view/vision-language-models/9798341624030/ch07.html",
+      "published": "2026-06-09",
+      "blog": "Exa/LLM 推理",
+      "snippet": ""
+    },
+    {
+      "title": "What is the largest seed round mentioned in this highlight? - Early Stage VC Pulse | NBot | nbot.ai",
+      "url": "https://nbot.ai/curator/ipjne5xz/highlights/HL-seq-exg-20260615",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    },
+    {
+      "title": "Salesforce Signs Definitive Agreement to Acquire Fin - Salesforce",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/",
+      "published": "2026-06-15",
+      "blog": "Exa/AI 创投",
+      "snippet": ""
+    }
+  ]
+}
