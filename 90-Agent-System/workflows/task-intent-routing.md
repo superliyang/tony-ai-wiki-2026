@@ -1,7 +1,7 @@
 ---
 title: "Task Intent Routing"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - workflow
@@ -42,7 +42,7 @@ Hermes should:
 1. read Tony's message;
 2. classify the task intent;
 3. if confidence is low, ask one clarifying question;
-4. write a task intent into `00-Inbox-AI/task-intents/pending/`;
+4. write a task intent into the working vault `00-Hermes-Inbox/signals/`;
 5. create a Codex request only when the task is executable;
 6. preserve source refs and safety notes.
 
@@ -63,7 +63,7 @@ Codex should:
 After output, Tony feedback goes to:
 
 ```text
-00-Inbox-AI/feedback-log/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/feedback/
 ```
 
 Feedback should influence future routing:
@@ -74,4 +74,3 @@ Feedback should influence future routing:
 - `继续放大`: create follow-up Codex request;
 - `入库`: create promotion request;
 - `发飞书`: create Feishu publish request.
-

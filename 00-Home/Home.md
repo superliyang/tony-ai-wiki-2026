@@ -45,7 +45,7 @@ Markdown and Git keep both sides aligned.
 | Home | `00-Home/` | Daily orientation for Tony |
 | AI Inbox | `00-Inbox-AI/` | Staging, candidates, reports, shared memory |
 | Knowledge | `10-Knowledge/` | Long-term domain knowledge |
-| Imported Legacy | `10-Knowledge/_Imported/tony2026/` | Preserved old-vault source context |
+| Extracted Legacy | `10-Knowledge/*` formal domains | Old-vault knowledge moved into readable domain folders |
 | Maps | `20-Maps/` | Cross-domain navigation |
 | Playbooks | `30-Playbooks/` | Reusable human plus AI workflows |
 | Projects | `40-Projects/` | Active build and migration work |

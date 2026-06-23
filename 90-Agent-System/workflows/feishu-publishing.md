@@ -66,8 +66,8 @@ output-feishu/
 |---|---|---|
 | Source vault | `00-Home/`, `10-Knowledge/`, `20-Maps/`, `30-Playbooks/`, `40-Projects/`, `90-Agent-System/` | Obsidian 本地学习、查看、回顾主库 |
 | Feishu output | `output-feishu/` | 清洗、过滤后的飞书可发布 Markdown / assets |
-| Publishing records | `00-Inbox-AI/feishu-publishing/published/` | 飞书 URL、doc token、来源和发布状态 |
-| Pending / failed ops | `00-Inbox-AI/feishu-publishing/pending/`, `00-Inbox-AI/feishu-publishing/failed/` | 发布操作队列和失败记录 |
+| Publishing records | `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/feishu-publishing/` | 飞书 URL、doc token、来源和发布状态 |
+| Pending / failed ops | `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/` | 发布操作队列和失败记录 |
 | Workflow | `90-Agent-System/workflows/feishu-publishing.md` | 发布边界和操作流程 |
 
 ## Workflow
@@ -76,9 +76,20 @@ output-feishu/
 2. Create a publish-ready Markdown under `output-feishu/`.
 3. Strip or summarize sensitive local-only details.
 4. Convert Obsidian wikilinks into readable text or keep as source-path references.
-5. Publish with `lark-cli docs +create --api-version v2 --doc-format markdown`.
-6. Write a record under `00-Inbox-AI/feishu-publishing/published/`.
-7. Add the Feishu URL back to the source note only when the source note is stable and the URL should be durable.
+5. Delegate publishing execution to Hermes when the content is clean and approved.
+6. Hermes publishes with `lark-cli docs +create --api-version v2 --doc-format markdown`.
+7. Hermes writes a record under the working vault `40-Logs/feishu-publishing/`.
+8. Codex adds the Feishu URL back to the source note only when the source note is stable and the URL should be durable.
+
+## Hermes Delegation Rule
+
+Hermes may call Feishu CLI only for:
+
+- reviewed source notes;
+- Codex-prepared `output-feishu/` Markdown;
+- explicit Tony publish requests.
+
+Hermes must not publish raw staging, private inbox material, unfinished review candidates, or content containing secrets.
 
 ## Metadata Shape
 

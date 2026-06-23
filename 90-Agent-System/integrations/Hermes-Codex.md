@@ -1,7 +1,7 @@
 ---
 title: "Hermes Codex Integration"
 created: 2026-06-04
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - integrations
@@ -38,53 +38,58 @@ Before creating research work, Hermes should classify Tony's task intent:
 For end-to-end request handling and Feishu output, use:
 
 - [[90-Agent-System/workflows/hermes-codex-feishu-pipeline]]
-- [[00-Inbox-AI/codex-requests/README]]
+- [[90-Agent-System/decisions/2026-06-16-vault-boundary-split]]
+- [[90-Agent-System/plans/main-vault-cleanup-plan]]
 
 ## Hermes Writes
 
-- `00-Inbox-AI/signals/`
-- `00-Inbox-AI/candidates/`
-- `00-Inbox-AI/task-intents/pending/`
-- `00-Inbox-AI/learning-tasks/pending/`
-- `00-Inbox-AI/learning-tasks/follow-up/`
-- `00-Inbox-AI/project-companion/`
-- `00-Inbox-AI/codex-requests/pending/`
-- `00-Inbox-AI/feishu-publishing/`
-- `00-Inbox-AI/review-queue/pending/`
-- `00-Inbox-AI/reports/`
-- `00-Inbox-AI/hermes/`
-- `00-Inbox-AI/agent-memory/candidates/`
-- `00-Inbox-AI/agent-memory/projections/`
+Hermes writes only inside the working vault:
+
+```text
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/
+```
+
+Active write areas:
+
+- `00-Hermes-Inbox/signals/`
+- `10-Generated/digests/`
+- `10-Generated/learning-tasks/`
+- `10-Generated/research-candidates/`
+- `10-Generated/reports/`
+- `10-Generated/hermes/`
+- `20-Review-Queue/pending/`
+- `30-Memory/candidates/`
+- `30-Memory/projections/`
+- `40-Logs/`
+
+Hermes must not write active output into the main vault `00-Inbox-AI/` after 2026-06-16.
 
 ## Codex Writes
 
-- `00-Inbox-AI/learning-tasks/in-progress/`
-- `00-Inbox-AI/learning-tasks/accepted/`
-- `00-Inbox-AI/codex-requests/in-progress/`
-- `00-Inbox-AI/codex-requests/done/`
-- `00-Inbox-AI/codex-requests/failed/`
-- `00-Inbox-AI/review-queue/`
-- canonical knowledge areas after Tony review;
-- maps, playbooks, project pages, workflows, and Git checkpoints.
+Codex may write:
+
+- working vault review packages and logs while processing Hermes output;
+- canonical knowledge areas after Tony review or explicit delegation;
+- maps, playbooks, project pages, workflows, and Git checkpoints in coherent batches.
 
 ## Handoff File
 
 For learning tasks, the handoff file is Markdown with frontmatter, stored in:
 
 ```text
-00-Inbox-AI/learning-tasks/pending/YYYY-MM-DD-topic-slug.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/YYYY-MM-DD-topic-slug.md
 ```
 
 For broader Codex work, Hermes should use:
 
 ```text
-00-Inbox-AI/codex-requests/pending/YYYY-MM-DD-topic-slug.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/YYYY-MM-DD-topic-slug.md
 ```
 
 For natural-language Tony requests, Hermes should first write:
 
 ```text
-00-Inbox-AI/task-intents/pending/YYYY-MM-DD-intent-topic.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/00-Hermes-Inbox/signals/YYYY-MM-DD-intent-topic.md
 ```
 
 Then Hermes creates a Codex request only if the intent is executable and bounded.
@@ -111,7 +116,7 @@ When Codex processes the queue:
 6. Do not promote canonical knowledge until Tony accepts.
 7. Push coherent changes to GitHub.
 
-For Codex requests, Codex should process one file from `00-Inbox-AI/codex-requests/pending/`, move it to `in-progress/`, and finish in `done/` or `failed/` with output links.
+For Codex requests, Codex should process one file from the working vault review queue and finish with output links or a clear deferral note.
 
 ## Direct Hermes -> Codex Trigger
 
@@ -130,7 +135,7 @@ Hermes should not directly launch arbitrary `codex` CLI prompts until a narrow w
 After a package is accepted, Hermes reads follow-up proposals and writes reminder items into:
 
 ```text
-00-Inbox-AI/learning-tasks/follow-up/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/
 ```
 
 Hermes may notify Tony, but should not rewrite canonical knowledge.
@@ -140,7 +145,7 @@ Hermes may notify Tony, but should not rewrite canonical knowledge.
 Hermes may detect project-continuity signals and write candidates into:
 
 ```text
-00-Inbox-AI/project-companion/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/
 ```
 
 Hermes should not update `40-Projects/` directly. Codex promotes project candidates into project pages after Tony review or explicit delegation.
@@ -158,7 +163,7 @@ Hermes should not publish directly from canonical notes when a cleaned `output-f
 Publishing records live in:
 
 ```text
-00-Inbox-AI/feishu-publishing/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/
 ```
 
 Publish-ready bodies live in:
@@ -172,13 +177,13 @@ output-feishu/
 If Hermes has enough material to write a full draft, it should still stay in:
 
 ```text
-00-Inbox-AI/hermes/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/hermes/
 ```
 
 Then Hermes creates a matching task in:
 
 ```text
-00-Inbox-AI/learning-tasks/pending/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/
 ```
 
 Codex is responsible for deciding whether the draft becomes:
@@ -208,4 +213,5 @@ Hermes tasks are split by purpose:
 
 The task matrix lives at:
 
-- [[00-Inbox-AI/hermes/automations/hermes-cron-matrix]]
+- `~/.hermes/cron/jobs.json`
+- historical matrix: [[00-Inbox-AI/hermes/automations/hermes-cron-matrix]]

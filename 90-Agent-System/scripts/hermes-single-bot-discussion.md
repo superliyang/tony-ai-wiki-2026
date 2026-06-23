@@ -120,4 +120,4 @@ discussionmoderator chat -Q --source tool -q '...同上...' \
 
 - 目标群 `chat_id` 的确认；
 - 是否需要从群内消息自动触发；
-- 讨论后 summary 是否自动写入 `00-Inbox-AI/hermes/discussion-summaries/`。
+- 讨论后 summary 是否自动写入 working vault `10-Generated/hermes/discussion-summaries/`。

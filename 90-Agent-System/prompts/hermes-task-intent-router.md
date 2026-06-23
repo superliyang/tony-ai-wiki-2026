@@ -1,7 +1,7 @@
 ---
 title: "Hermes Task Intent Router"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - prompt
@@ -19,10 +19,9 @@ When Tony sends Hermes a natural-language request, classify the intent before cr
 ## Read First
 
 - [[00-Home/Tony-Command-Center]]
-- [[00-Inbox-AI/task-intents/README]]
 - [[90-Agent-System/workflows/task-intent-routing]]
-- [[00-Inbox-AI/codex-requests/README]]
 - [[90-Agent-System/integrations/Hermes-Codex]]
+- [[90-Agent-System/decisions/2026-06-16-vault-boundary-split]]
 
 ## Intent Labels
 
@@ -45,17 +44,13 @@ Optional secondary intents are allowed, but do not create multiple downstream ta
 Write one task intent file:
 
 ```text
-00-Inbox-AI/task-intents/pending/YYYY-MM-DD-intent-topic.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/00-Hermes-Inbox/signals/YYYY-MM-DD-intent-topic.md
 ```
-
-Use the template:
-
-- [[00-Inbox-AI/task-intents/templates/task-intent-template]]
 
 If the work is executable, also write one Codex request:
 
 ```text
-00-Inbox-AI/codex-requests/pending/YYYY-MM-DD-intent-topic.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/YYYY-MM-DD-intent-topic.md
 ```
 
 ## When To Ask Tony
@@ -73,4 +68,3 @@ Ask one clarifying question when:
 - Do not write canonical knowledge directly.
 - Do not publish to Feishu directly from raw inbox material.
 - Do not create more than one Codex request from one Tony message unless explicitly asked.
-

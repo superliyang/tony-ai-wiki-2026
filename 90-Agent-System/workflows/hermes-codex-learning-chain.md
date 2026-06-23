@@ -1,7 +1,7 @@
 ---
 title: "Hermes Codex Learning Chain"
 created: 2026-06-04
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - agent-system
@@ -33,23 +33,23 @@ Hermes discovers or reminds
 
 | Stage | Owner | Path |
 |---|---|---|
-| Discovery signal | Hermes | `00-Inbox-AI/signals/` |
-| Learning task | Hermes | `00-Inbox-AI/learning-tasks/pending/` |
-| Codex request | Hermes | `00-Inbox-AI/codex-requests/pending/` |
-| Codex work package | Codex | `00-Inbox-AI/learning-tasks/in-progress/` |
-| Tony review | Tony / Codex | `00-Inbox-AI/review-queue/pending/` |
-| Accepted package | Codex | `00-Inbox-AI/learning-tasks/accepted/` |
+| Discovery signal | Hermes | `../tony-ai-working-vault/00-Hermes-Inbox/signals/` |
+| Learning task | Hermes | `../tony-ai-working-vault/10-Generated/learning-tasks/` |
+| Codex request | Hermes | `../tony-ai-working-vault/20-Review-Queue/pending/` |
+| Codex work package | Codex | `../tony-ai-working-vault/20-Review-Queue/pending/` |
+| Tony review | Tony / Codex | `../tony-ai-working-vault/20-Review-Queue/pending/` |
+| Accepted package | Codex | `../tony-ai-working-vault/20-Review-Queue/accepted/` |
 | Canonical knowledge | Codex | `10-Knowledge/`, `20-Maps/`, `30-Playbooks/`, `40-Projects/`, `90-Agent-System/` |
-| Follow-up reminder | Hermes | `00-Inbox-AI/learning-tasks/follow-up/` |
-| Run artifacts | Hermes / Codex | `00-Inbox-AI/reports/` or `00-Inbox-AI/hermes/` |
+| Follow-up reminder | Hermes | `../tony-ai-working-vault/10-Generated/learning-tasks/` |
+| Run artifacts | Hermes / Codex | `../tony-ai-working-vault/40-Logs/` or `../tony-ai-working-vault/10-Generated/` |
 
 ## Task Lifecycle
 
-1. Hermes writes a task Markdown file into `00-Inbox-AI/learning-tasks/pending/`.
+1. Hermes writes a task Markdown file into `../tony-ai-working-vault/10-Generated/learning-tasks/`.
 2. Hermes may notify Tony with the task title, priority, and review link.
 3. Codex scans pending tasks on request or scheduled run.
 4. Codex moves one accepted task into `in-progress/` and creates a learning package.
-5. Codex writes a review item into `00-Inbox-AI/review-queue/pending/`.
+5. Codex writes a review item into `../tony-ai-working-vault/20-Review-Queue/pending/`.
 6. Tony marks the review decision: `study`, `watch`, `promote`, `build`, `defer`, or `discard`.
 7. Codex promotes approved material into canonical vault areas and updates maps.
 8. Codex commits and pushes meaningful changes to GitHub.
@@ -67,7 +67,7 @@ Hermes-created learning tasks must include:
 - desired output shape;
 - safety note if the task touches private, legal, financial, or security-sensitive material.
 
-Use [[00-Inbox-AI/learning-tasks/templates/hermes-learning-task-template]].
+Use the working-vault review package template in `../tony-ai-working-vault/90-System/workflows/hermes-to-main-vault-promotion.md`.
 
 ## Codex Package Requirements
 
@@ -82,7 +82,7 @@ Codex learning packages should include:
 - suggested canonical destination;
 - follow-up reminder proposal for Hermes.
 
-Use [[00-Inbox-AI/learning-tasks/templates/codex-learning-package-template]].
+Use the working-vault promotion workflow: `../tony-ai-working-vault/90-System/workflows/hermes-to-main-vault-promotion.md`.
 
 ## Automation Levels
 
@@ -94,7 +94,7 @@ This is the safest first version.
 
 ### Level 2: Scheduled Codex Consumer
 
-A Codex automation periodically checks `00-Inbox-AI/learning-tasks/pending/`, processes at most one high-priority task, writes a review package, and pushes to GitHub.
+A Codex automation periodically checks `../tony-ai-working-vault/10-Generated/learning-tasks/`, processes at most one high-priority task, writes a review package, and pushes to GitHub.
 
 Use only after Level 1 produces stable task quality.
 
@@ -114,16 +114,16 @@ This should stay review-driven: Hermes may remind, but should not promote canoni
 
 ## Minimum Viable Implementation
 
-1. Create a Hermes task in `00-Inbox-AI/learning-tasks/pending/`.
+1. Create a Hermes task in `../tony-ai-working-vault/10-Generated/learning-tasks/`.
 2. Codex creates the learning package and review item.
 3. Tony accepts or edits the review item.
 4. Codex promotes and pushes.
-5. Hermes creates one follow-up item in `00-Inbox-AI/learning-tasks/follow-up/`.
+5. Hermes creates one follow-up item in `../tony-ai-working-vault/10-Generated/learning-tasks/`.
 
 ## Split Cron Strategy
 
 Do not run this as one giant Hermes job. Use the split schedule in:
 
-- [[00-Inbox-AI/hermes/automations/hermes-cron-matrix]]
+- `../tony-ai-working-vault/30-Memory/Hermes-Working-Memory.md`
 
 The split exists so each job has a clear frequency, output cap, and review surface.

@@ -1,5 +1,10 @@
 # Workflows
 
+## Knowledge Intake
+
+- [[90-Agent-System/workflows/knowledge-intake-and-promotion]]
+- [[90-Agent-System/knowledge-domain-registry]]
+
 Workflows are repeatable procedures that can later become skills, scripts, or scheduled jobs.
 
 Start small and keep evidence visible.

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Project Companion Scout Prompt"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: draft
 tags:
   - hermes
@@ -16,7 +16,7 @@ Use this prompt for a low-frequency Hermes job that finds project continuity sig
 Hermes does not update canonical project pages. Hermes only writes project candidates, blockers, and reminders into:
 
 ```text
-00-Inbox-AI/project-companion/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/
 ```
 
 ## Prompt
@@ -31,16 +31,16 @@ Read:
 - `60-Agents/Personal-Agent-Capabilities.md`
 - `90-Agent-System/workflows/project-companion.md`
 - `40-Projects/README.md`
-- recent `00-Inbox-AI/reports/`
-- recent `00-Inbox-AI/review-queue/pending/`
-- recent `00-Inbox-AI/learning-tasks/accepted/` and `00-Inbox-AI/learning-tasks/in-progress/`
+- recent working vault `10-Generated/reports/`
+- recent working vault `20-Review-Queue/pending/` and `20-Review-Queue/accepted/`
+- recent working vault `10-Generated/learning-tasks/`
 
 Create at most three project companion notes when there is a real project-continuity signal.
 
 Each note should be written to:
 
 ```text
-00-Inbox-AI/project-companion/YYYY-MM-DD-project-signal-slug.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/YYYY-MM-DD-project-signal-slug.md
 ```
 
 ## Output Shape
@@ -86,4 +86,3 @@ The smallest decision Tony needs to make, if any.
 - Prefer no output over filler.
 - If a similar project companion note already exists, update nothing and mention the duplicate in the run summary.
 - Project signals are not canonical project commitments until Tony or Codex promotes them.
-

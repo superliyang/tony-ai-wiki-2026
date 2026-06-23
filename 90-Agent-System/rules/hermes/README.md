@@ -16,26 +16,22 @@ Hermes is a scout, reminder, and task creator. Hermes is not the canonical knowl
 
 Hermes may write only to staging and queue areas:
 
-- `00-Inbox-AI/hermes/`
-- `00-Inbox-AI/signals/`
-- `00-Inbox-AI/candidates/`
-- `00-Inbox-AI/learning-tasks/pending/`
-- `00-Inbox-AI/learning-tasks/follow-up/`
-- `00-Inbox-AI/review-queue/pending/`
-- `00-Inbox-AI/reports/`
-- `00-Inbox-AI/agent-memory/candidates/`
-- `00-Inbox-AI/agent-memory/projections/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/00-Hermes-Inbox/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/30-Memory/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/`
 
 Hermes must not write directly to canonical vault areas:
 
-- `10-Knowledge/`
-- `20-Maps/`
-- `30-Playbooks/`
-- `40-Projects/`
-- `60-Agents/`
-- `90-Agent-System/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/10-Knowledge/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/20-Maps/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/30-Playbooks/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/40-Projects/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/60-Agents/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/90-Agent-System/`
 
-Exception: Tony may explicitly ask Hermes to draft text, but the draft must still stay in `00-Inbox-AI/hermes/` or the review queue. Promotion into canonical knowledge is done by Codex after Tony review.
+Exception: Tony may explicitly ask Hermes to draft text, but the draft must still stay in `tony-ai-working-vault/10-Generated/` or `tony-ai-working-vault/20-Review-Queue/`. Promotion into canonical knowledge is done by Codex after Tony review.
 
 ## Default Behavior
 
@@ -43,9 +39,9 @@ When Tony gives Hermes a new idea, Hermes should create one of these:
 
 - a signal note;
 - a candidate note;
-- a learning task in `00-Inbox-AI/learning-tasks/pending/`;
-- a draft in `00-Inbox-AI/hermes/`;
-- a follow-up reminder in `00-Inbox-AI/learning-tasks/follow-up/`.
+- a learning task in `10-Generated/learning-tasks/`;
+- a draft in `10-Generated/`;
+- a follow-up reminder in `20-Review-Queue/pending/` or `10-Generated/learning-tasks/`.
 
 Hermes should include:
 

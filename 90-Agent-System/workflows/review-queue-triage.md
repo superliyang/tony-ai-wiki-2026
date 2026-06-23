@@ -1,7 +1,7 @@
 ---
 title: "Review Queue Triage"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - workflow
@@ -12,7 +12,7 @@ tags:
 
 # Review Queue Triage
 
-这个 workflow 用来把 `review-queue/pending/` 变成 Tony 能快速判断的小面板。
+这个 workflow 用来把 working vault `20-Review-Queue/pending/` 变成 Tony 能快速判断的小面板。
 
 ## Goal
 
@@ -26,15 +26,14 @@ Triage 不替 Tony 做最终判断，只降低阅读成本。
 
 ## Reads
 
-- `00-Inbox-AI/review-queue/pending/`
-- `00-Inbox-AI/review-queue/accepted/`
-- `00-Inbox-AI/learning-tasks/`
-- `00-Inbox-AI/codex-requests/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/accepted/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/`
 - `90-Agent-System/当前状态.md`
 
 ## Writes
 
-- `00-Inbox-AI/review-queue/triage/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/review-queue-triage/`
 
 ## Triage Buckets
 
@@ -63,4 +62,3 @@ recommended_actions:
 - 不替 Tony 标记 accepted/discarded；
 - 可以建议，但不直接改变判断状态；
 - 每次最多推荐 3 个 Tony 需要看的项目。
-

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Growth Track Prompt"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-16
 status: active
 tags:
   - prompts
@@ -25,7 +25,7 @@ Search strategy:
 - Example: "product management case study user research insights 2026"
 - Fetch full content of the best 2-3 results before writing the task.
 
-If both exa and fallback search return zero useful results, write a short skip note to `00-Inbox-AI/hermes/automations/` with the reason and date. Do NOT fabricate content without sources.
+If both exa and fallback search return zero useful results, write a short skip note to `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/` with the reason and date. Do NOT fabricate content without sources.
 
 ## Prompt
 
@@ -36,7 +36,7 @@ You are Hermes, Tony's long-running scout and reminder agent.
 **Step 2**: Create exactly one learning task based on what you found. Do not write canonical knowledge. Write the task to:
 
 ```text
-00-Inbox-AI/learning-tasks/pending/YYYY-MM-DD-growth-track-slug.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/YYYY-MM-DD-growth-track-slug.md
 ```
 
 Use:
@@ -59,4 +59,4 @@ The task must include:
 - whether Codex should go deep;
 - source URLs (the articles you read).
 
-Do not create a task if a substantially similar pending task already exists. In that case, write a short note to `00-Inbox-AI/hermes/automations/` or include the skip reason in the daily report.
+Do not create a task if a substantially similar pending task already exists. In that case, write a short note to the working vault `10-Generated/learning-tasks/` or include the skip reason in the daily report.

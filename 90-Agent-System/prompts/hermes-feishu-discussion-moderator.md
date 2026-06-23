@@ -1,7 +1,7 @@
 ---
 title: "Hermes Feishu Discussion Moderator"
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-16
 status: draft
 tags:
   - prompt
@@ -37,13 +37,8 @@ before deciding whether anything should enter the vault workflow.
 - `60-Agents/Personal-Agent-Capabilities.md`
 - `90-Agent-System/integrations/Hermes-Codex.md`
 - `90-Agent-System/workflows/task-intent-routing.md`
-- `00-Inbox-AI/task-intents/README.md`
-- `00-Inbox-AI/hermes/discussion-pilot/README.md`
-- `00-Inbox-AI/hermes/discussion-pilot/信号员-Hermes.md`
-- `00-Inbox-AI/hermes/discussion-pilot/工程师-Hermes.md`
-- `00-Inbox-AI/hermes/discussion-pilot/运营官-Hermes.md`
-- `00-Inbox-AI/hermes/discussion-pilot/策略官-Hermes.md`
-- `00-Inbox-AI/hermes/discussion-pilot/主持人-Hermes.md`
+- historical discussion pilot files under `00-Inbox-AI/hermes/discussion-pilot/` only if needed for context
+- working vault memory: `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/30-Memory/`
 
 ## When To Use
 
@@ -155,13 +150,13 @@ Always end with this short visible block:
 If Tony says `收口`, or if the discussion clearly converges, Hermes should write one discussion summary note under:
 
 ```text
-00-Inbox-AI/hermes/discussion-summaries/YYYY-MM-DD-topic-slug.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/hermes/discussion-summaries/YYYY-MM-DD-topic-slug.md
 ```
 
 If that folder does not yet exist, write under:
 
 ```text
-00-Inbox-AI/hermes/YYYY-MM-DD-topic-slug-discussion-summary.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/hermes/YYYY-MM-DD-topic-slug-discussion-summary.md
 ```
 
 Use this structure:

@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Assets"
 created: 2026-06-03
-updated: 2026-06-14
+updated: 2026-06-21
 status: active
 tags:
   - knowledge
@@ -12,30 +12,46 @@ tags:
 
 `10-Knowledge/` is the long-term human-readable knowledge layer.
 
-Content here should be reviewed, structured, and useful for future reading or reuse. AI-generated material should normally start in `00-Inbox-AI/` and enter this layer only after review or explicit instruction.
+Content here should be reviewed, structured, and useful for future reading or reuse.
+
+AI-generated material should normally start in the working vault and enter this layer only after review or explicit instruction:
+
+`/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/`
+
+Before promoting content, check [[90-Agent-System/knowledge-domain-registry]] and follow [[90-Agent-System/workflows/knowledge-intake-and-promotion]].
+
+For directory-level ownership and write rules, see [[90-Agent-System/directory-responsibilities]].
 
 ## Initial Domains
 
 - `AI/`
+- `AI-Foundations/`
+- `AI-Applications/`
+- `AI-Architecture/`
 - `AI-Engineering/`
 - `AI-Open-Source/`
 - `Advertising/`
 - `Security/`
 - `International-Payments/`
+- `Big-Data/`
+- `Cloud-Native/`
+- `Engineering-Management/`
+- `English-Learning/`
+- `Macro-Insight/`
+- `Skills-Gaming/`
 - `Personal-Knowledge-System/`
-- `_Imported/tony2026/`: old vault knowledge assets preserved as source context.
 
-## Imported Legacy Source
+## Extracted Legacy Source
 
 - [[20-Maps/知识导航门户]]
 - [[20-Maps/旧库可读入口索引]]
-- [[10-Knowledge/_Imported/tony2026/README]]
+- [[90-Agent-System/legacy-tony2026/README]]
 - [[20-Maps/旧库迁移地图]]
 - [[90-Agent-System/workflows/knowledge-evolution]]
 - [[30-Playbooks/领域专家感学习法]]
 - [[20-Maps/已有知识图谱专家问题地图]]
 
-Imported material should be treated as source context. Promote it gradually into the formal domains above when a topic becomes active or reviewed.
+The old `tony2026` knowledge assets have been extracted out of the import area and placed into formal domain folders. The old import folder has been removed after validation.
 
 ## Domain Shape
 

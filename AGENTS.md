@@ -8,15 +8,15 @@ This repository is Tony's AI First knowledge system. Agents should respect the t
 | Human navigation | `00-Home/`, `20-Maps/` | Keep entry points readable and current |
 | AI collaboration | `00-Inbox-AI/`, `60-Agents/`, `90-Agent-System/` | Follow protocols, state boundaries, keep review gates visible |
 
-## Legacy Vault
+## Extracted Legacy Vault
 
-Old `tony2026` material has been imported, not destroyed or flattened.
+Old `tony2026` knowledge material has been extracted into formal domain folders under `10-Knowledge/`.
 
-- Knowledge source: `10-Knowledge/_Imported/tony2026/`
+- Extraction report: `90-Agent-System/migration/legacy-vault-extraction/20260621-033555-extraction-report.json`
 - Migration map: `20-Maps/旧库迁移地图.md`
 - Agent workflow: `90-Agent-System/workflows/legacy-vault-migration.md`
 
-Before changing imported content, read the migration workflow. Prefer creating reviewed, crystallized notes in current formal domains and linking back to imported source notes.
+The old import folder has been deleted after extraction validation. Use the formal domain folders as the normal reading and working path.
 
 ## Fixed Entrances
 

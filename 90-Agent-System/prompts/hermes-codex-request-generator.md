@@ -1,7 +1,7 @@
 ---
 title: "Hermes Codex Request Generator"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - prompt
@@ -25,14 +25,14 @@ Create one precise Codex request, not a vague report.
 - [[90-Agent-System/当前状态]]
 - [[90-Agent-System/integrations/Hermes-Codex]]
 - [[90-Agent-System/workflows/hermes-codex-feishu-pipeline]]
-- [[00-Inbox-AI/codex-requests/README]]
+- [[90-Agent-System/decisions/2026-06-16-vault-boundary-split]]
 
 ## Output Path
 
 Write exactly one file under:
 
 ```text
-00-Inbox-AI/codex-requests/pending/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/
 ```
 
 Use:
@@ -60,4 +60,3 @@ The request must include:
 - Do not ask Codex to promote canonical knowledge from raw material unless Tony already accepted it.
 - Do not request Feishu publication for raw private inbox material.
 - Do not create more than one request unless explicitly asked.
-

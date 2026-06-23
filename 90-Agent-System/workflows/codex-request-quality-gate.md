@@ -1,7 +1,7 @@
 ---
 title: "Codex Request Quality Gate"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - workflow
@@ -27,15 +27,14 @@ Quality Gate 不处理 request 本身，只判断 request 是否适合进入 Cod
 
 ## Reads
 
-- `00-Inbox-AI/codex-requests/pending/`
-- `00-Inbox-AI/codex-requests/in-progress/`
-- `00-Inbox-AI/codex-requests/done/`
-- `00-Inbox-AI/learning-tasks/`
-- `00-Inbox-AI/review-queue/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/accepted/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/learning-tasks/`
+- historical `00-Inbox-AI/` only when doing cleanup
 
 ## Writes
 
-- `00-Inbox-AI/codex-requests/quality-reports/`
+- `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/quality-reports/`
 
 ## Checks
 
@@ -71,4 +70,3 @@ recommended_next_request:
 - 不直接发飞书；
 - 不删除 request；
 - 遇到不合格 request，写报告即可，必要时建议 Hermes 补充信息。
-

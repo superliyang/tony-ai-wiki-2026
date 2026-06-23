@@ -1,7 +1,7 @@
 ---
 title: "Hermes Integration Agreement"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-16
 status: active
 tags:
   - integration
@@ -16,30 +16,33 @@ This is the agreement Tony can give to Hermes after the AI First vault structure
 
 ## Short Message For Hermes
 
-Hermes, the main AI First working vault has changed to:
+Hermes, your active working vault has changed to:
 
 ```text
-/Users/tony/Vault/tony-ai-wiki-2026
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault
 ```
 
-Please treat this path as the current workspace root for Tony's AI First cognitive system.
+Please treat this path as your current workspace root for Tony's AI working system.
 
-Do not use `/Users/tony/Vault/tony-wiki-2026` as the active workspace unless Tony explicitly asks.
+Do not write directly to the main knowledge vault unless Tony or Codex explicitly asks.
+
+The main knowledge vault is now:
+
+```text
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026
+```
 
 ## New Directory Contract
 
-Use these paths:
+Use these working-vault paths:
 
 ```text
-00-Home/                         Human-facing navigation
-00-Inbox-AI/                     AI staging and shared memory
-00-Inbox-AI/agent-memory/        Canonical shared memory
-10-Knowledge/                    Reviewed long-term knowledge
-20-Maps/                         Cross-domain maps
-30-Playbooks/                    Human plus AI workflows
-40-Projects/                     Active system projects
-60-Agents/                       Agent role definitions
-90-Agent-System/                 AI capability assets
+00-Hermes-Inbox/                 Raw signals, source snapshots, temporary inputs
+10-Generated/                    Drafts, digests, research candidates, learning tasks
+20-Review-Queue/                 Review packages for Tony / Codex
+30-Memory/                       Hermes working memory and boundaries
+40-Logs/                         Automation logs and run records
+90-System/                       Working-vault rules, workflows, templates
 ```
 
 ## Hermes Role
@@ -50,7 +53,7 @@ Hermes should:
 
 - run scheduled scouting and review jobs;
 - send Weixin or Feishu notifications when configured;
-- write signals, candidates, reports, and review items into staging;
+- write signals, candidates, reports, and review items into the working vault;
 - read shared memory before generating recommendations;
 - sync canonical shared memory into its local `Soul.md` runtime projection.
 
@@ -66,30 +69,28 @@ Hermes should not:
 Hermes may write by default to:
 
 ```text
-00-Inbox-AI/signals/
-00-Inbox-AI/candidates/
-00-Inbox-AI/review-queue/pending/
-00-Inbox-AI/reports/
-00-Inbox-AI/hermes/
-00-Inbox-AI/agent-memory/candidates/
-00-Inbox-AI/agent-memory/projections/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/00-Hermes-Inbox/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/10-Generated/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/30-Memory/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/
 ```
 
 Hermes should only write to these after Tony explicitly asks or Codex has promoted reviewed material:
 
 ```text
-10-Knowledge/
-20-Maps/
-30-Playbooks/
-40-Projects/
-60-Agents/
-90-Agent-System/
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/10-Knowledge/
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/20-Maps/
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/30-Playbooks/
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/40-Projects/
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/60-Agents/
+/Users/tony/Vault/tony-wiki-space/tony-ai-wiki-2026/90-Agent-System/
 ```
 
 ## Memory Sync Rule
 
 ```text
-00-Inbox-AI/agent-memory/ is the canonical shared memory layer.
+tony-ai-working-vault/30-Memory/ is Hermes' working memory layer.
 Hermes Soul.md is a derived projection.
 Hermes observations become memory candidates.
 Tony/Codex review accepted candidates into canonical memory.
@@ -98,30 +99,29 @@ Tony/Codex review accepted candidates into canonical memory.
 The reviewable Hermes projection copy is:
 
 ```text
-00-Inbox-AI/agent-memory/projections/hermes-soul.md
+30-Memory/hermes-soul.md
 ```
 
 The detailed workflow is:
 
 ```text
-90-Agent-System/workflows/memory-sync.md
+90-System/workflows/hermes-to-main-vault-promotion.md
 ```
 
 ## Recommended Startup Read Order
 
 When Hermes starts work in this vault, read:
 
-1. `00-Home/Home.md`
-2. `00-Home/当前主线.md`
-3. `60-Agents/Hermes.md`
-4. `00-Inbox-AI/MEMORY-PROTOCOL.md`
-5. `90-Agent-System/workflows/memory-sync.md`
-6. `00-Inbox-AI/agent-memory/README.md`
+1. `AGENTS.md`
+2. `README.md`
+3. `30-Memory/Hermes-Boundary-Contract.md`
+4. `30-Memory/Hermes-Working-Memory.md`
+5. `90-System/workflows/hermes-to-main-vault-promotion.md`
 
 ## Migration Checklist
 
-- Update Hermes workspace root to `/Users/tony/Vault/tony-ai-wiki-2026`.
+- Update Hermes workspace root to `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault`.
 - Update scheduled job prompts to reference this path.
-- Update scripts to write staging output under this vault.
+- Update scripts to write staging output under the working vault.
 - Regenerate Hermes `Soul.md` from canonical shared memory.
 - Keep old workspace paths only as historical references.

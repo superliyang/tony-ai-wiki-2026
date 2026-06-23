@@ -1,7 +1,7 @@
 ---
 title: "Feishu Integration"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - integration
@@ -62,5 +62,8 @@ lark-cli skills read lark-doc
 ## Publishing Workflow
 
 - [[90-Agent-System/workflows/feishu-publishing]]
-- [[00-Inbox-AI/feishu-publishing/README]]
 - [[output-feishu/README]]
+
+Publishing records after 2026-06-16 should live in the working vault:
+
+`/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/40-Logs/feishu-publishing/`

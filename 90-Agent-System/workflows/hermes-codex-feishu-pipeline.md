@@ -1,7 +1,7 @@
 ---
 title: "Hermes Codex Feishu Pipeline"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - workflow
@@ -20,11 +20,11 @@ tags:
 ```text
 Hermes scout / recall / synthesis
   ↓
-00-Inbox-AI/codex-requests/pending/
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/
   ↓
 Codex research / structure / crystallization
   ↓
-00-Inbox-AI/review-queue/ or canonical vault
+working vault review queue or canonical vault
   ↓
 10-Knowledge / 20-Maps / 30-Playbooks / 40-Projects
   ↓
@@ -53,7 +53,7 @@ Yes, but in two levels.
 Hermes writes a Codex request:
 
 ```text
-00-Inbox-AI/codex-requests/pending/YYYY-MM-DD-topic.md
+/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/YYYY-MM-DD-topic.md
 ```
 
 Codex consumes it when Tony asks or during a Codex scheduled consumer run.
@@ -76,16 +76,16 @@ Until this wrapper is built and tested, Hermes should not directly launch arbitr
 
 ## Request Lifecycle
 
-1. Hermes creates request in `00-Inbox-AI/codex-requests/pending/`.
-2. Codex moves it to `in-progress/`.
+1. Hermes creates request in the working vault `20-Review-Queue/pending/`.
+2. Codex processes one bounded request at a time.
 3. Codex creates one or more outputs:
    - learning package;
    - review item;
    - canonical note / map / playbook / project update;
    - `output-feishu/` cleaned projection.
-4. If Tony approval is needed, Codex writes or updates `00-Inbox-AI/review-queue/pending/`.
-5. If publishing is approved, Codex runs Feishu CLI and writes record under `00-Inbox-AI/feishu-publishing/published/`.
-6. Codex moves request to `done/` with output links, or `failed/` with blocker reason.
+4. If Tony approval is needed, Codex writes or updates the working vault review queue.
+5. If publishing is approved, Codex runs Feishu CLI and writes record under the working vault `40-Logs/` or `output-feishu/`.
+6. Codex leaves output links or blocker reason in the review item.
 
 ## Promotion Rules
 
@@ -109,9 +109,7 @@ Every completed request should leave:
 
 ## Related
 
-- [[00-Inbox-AI/codex-requests/README]]
 - [[90-Agent-System/integrations/Hermes-Codex]]
 - [[90-Agent-System/workflows/hermes-codex-learning-chain]]
 - [[90-Agent-System/workflows/feishu-publishing]]
 - [[output-feishu/README]]
-

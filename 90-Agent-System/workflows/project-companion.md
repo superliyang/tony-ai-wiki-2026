@@ -1,7 +1,7 @@
 ---
 title: "Project Companion Workflow"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-16
 status: active
 tags:
   - agent-system
@@ -43,9 +43,9 @@ Project Companion 适合处理：
 
 | Stage | Owner | Path |
 |---|---|---|
-| Project inbox | Codex / Hermes / ChatGPT | `00-Inbox-AI/project-companion/` |
+| Project inbox | Codex / Hermes / ChatGPT | `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/` |
 | Active project state | Codex | `40-Projects/<project>/README.md` and optional project files |
-| Review decision | Tony / Codex | `00-Inbox-AI/review-queue/pending/` |
+| Review decision | Tony / Codex | `/Users/tony/Vault/tony-wiki-space/tony-ai-working-vault/20-Review-Queue/pending/` |
 | Durable system change | Codex | `90-Agent-System/`, `30-Playbooks/`, `10-Knowledge/`, `20-Maps/` |
 | Git checkpoint | Codex | Git commit after coherent batches |
 
@@ -77,14 +77,14 @@ Related workflows:
 2. Read nearby system state when the project touches agent workflows: [[90-Agent-System/当前状态]].
 3. Identify one of four project statuses: `active`, `paused`, `candidate`, `archived`.
 4. Update the project page with current status and next actions.
-5. If a decision is needed, create a review item in `00-Inbox-AI/review-queue/pending/`.
+5. If a decision is needed, create a review item in the working vault `20-Review-Queue/pending/`.
 6. If the work creates reusable method, link or promote it into `30-Playbooks/` or `90-Agent-System/workflows/`.
 7. Update maps or current-state pages only when the project surface materially changes.
 
 ## Noise Controls
 
 - 每次最多推进一个项目，除非 Tony 明确要求 batch review。
-- 不为每个想法创建项目；先放 `00-Inbox-AI/project-companion/`。
+- 不为每个想法创建项目；先放 working vault review queue。
 - 项目下一步必须是可执行动作，不写空泛口号。
 - 对长期未推进项目，优先提出 `pause / keep / archive / split` 决策，而不是继续追加任务。
 
@@ -93,4 +93,3 @@ Related workflows:
 当前第一目标是 [[40-Projects/AI-First-Cognitive-System/README]]。
 
 这个项目负责把 Codex、ChatGPT Desktop、Hermes、Obsidian 和 GitHub 组织成 Tony 的个人 AI First cognitive system。
-

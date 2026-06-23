@@ -1,7 +1,7 @@
 ---
 title: "Legacy Vault Migration Workflow"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-21
 status: active
 tags:
   - agent-system
@@ -11,19 +11,19 @@ tags:
 
 # Legacy Vault Migration Workflow
 
-This workflow tells Codex, ChatGPT, Hermes, and future agents how to work with imported `tony2026` material.
+This workflow tells Codex, ChatGPT, Hermes, and future agents how to work with extracted `tony2026` material.
 
 ## Boundary
 
-Imported material is source context, not disposable draft text.
+Extracted material now lives in formal domain folders. The old import copy has been deleted after validation.
 
-Agents may read and summarize it freely, but should not rewrite imported notes in bulk unless Tony explicitly asks for a migration batch. New synthesized notes should usually be created in the current formal layer and link back to imported sources.
+Agents should read from formal domain folders. Do not send users into the old import folder or recreate that structure.
 
 ## Current Import Layout
 
 | Layer | Path |
 |---|---|
-| Knowledge assets | `10-Knowledge/_Imported/tony2026/` |
+| Knowledge assets | `10-Knowledge/*` formal domain folders |
 | AI inbox history | `00-Inbox-AI/imported-tony2026/` |
 | Agent capability history | `90-Agent-System/imported-tony2026/` |
 | Imported project material | `40-Projects/imported-tony2026/` |
@@ -34,12 +34,12 @@ The old `.github/`, `.learnings/`, `copilot/`, `requirements.txt`, and `.gitigno
 
 ## Promotion Protocol
 
-When asked to migrate or refine part of the old vault:
+When asked to refine extracted legacy material:
 
-1. Read the imported area's `专题总览.md`, `学习进度.md`, and `恢复笔记.md` first.
+1. Read the formal domain's `专题总览.md`, `学习进度.md`, and `恢复笔记.md` first.
 2. Identify the target current layer: knowledge domain, map, playbook, project, inbox, or agent workflow.
 3. Preserve the old note when it carries narrative context; create a new crystallized note only for a clearly bounded topic.
-4. Add concrete source backlinks to the imported source note.
+4. Preserve provenance if a ` - 旧库` copy exists, then consolidate once Tony accepts it.
 5. Update the nearest human navigation page: domain overview, [[20-Maps/旧库迁移地图]], or [[20-Maps/总地图]].
 6. For meaningful changes, update `00-Home/当前主线.md` if the active focus changes.
 
